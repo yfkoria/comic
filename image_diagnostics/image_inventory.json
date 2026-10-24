@@ -1,0 +1,686 @@
+[
+  {
+    "path": "/tmp/codex-remote-attachments/01a16a1d-926b-76d0-837f-ec4684eae093/4728d73a-00a5-4f31-a26e-645d672233ae/1-8865.jpg",
+    "bytes": 134176,
+    "extension": ".jpg",
+    "scope": "uploaded_reference",
+    "format": "JPEG",
+    "width": 582,
+    "height": 1280,
+    "mode": "RGB",
+    "rgb_stddev": [
+      74.295,
+      73.348,
+      64.596
+    ],
+    "uniform_or_nearly_blank": false,
+    "sha256": "8ec0576d31814a4f0d54c067b4375b25f5510671823c4d41706cc33b55a346da",
+    "decode": "ok"
+  },
+  {
+    "path": "/tmp/codex-remote-attachments/01a16a1d-926b-76d0-837f-ec4684eae093/bd0e046c-55a3-44f0-874b-d65f1bfa29df/1-8879.jpg",
+    "bytes": 147839,
+    "extension": ".jpg",
+    "scope": "uploaded_reference",
+    "format": "JPEG",
+    "width": 929,
+    "height": 1280,
+    "mode": "RGB",
+    "rgb_stddev": [
+      85.415,
+      74.693,
+      59.986
+    ],
+    "uniform_or_nearly_blank": false,
+    "sha256": "1c14724f3bd1ab2f0bbef92ca17250015f810b00d6ed8c72d86e564c2b51c82e",
+    "decode": "ok"
+  },
+  {
+    "path": "/tmp/codex-remote-attachments/01a16a1d-926b-76d0-837f-ec4684eae093/bd0e046c-55a3-44f0-874b-d65f1bfa29df/2-8881.jpg",
+    "bytes": 123636,
+    "extension": ".jpg",
+    "scope": "uploaded_reference",
+    "format": "JPEG",
+    "width": 591,
+    "height": 1280,
+    "mode": "RGB",
+    "rgb_stddev": [
+      88.028,
+      68.914,
+      60.804
+    ],
+    "uniform_or_nearly_blank": false,
+    "sha256": "8222e86042d6637460243ee623098453319f1e679fa64605095ecf0b6d795313",
+    "decode": "ok"
+  },
+  {
+    "path": "/workspace/generated_images/exec-03bdd358-b958-4098-85b6-83d76a42c35a.png",
+    "bytes": 2841102,
+    "extension": ".png",
+    "scope": "workspace",
+    "format": "PNG",
+    "width": 1024,
+    "height": 1536,
+    "mode": "RGB",
+    "rgb_stddev": [
+      64.566,
+      76.124,
+      70.247
+    ],
+    "uniform_or_nearly_blank": false,
+    "sha256": "da7dc810bcd8c2ead261f81b87941de66340d9fda6e5d0f48a456fa368f0d302",
+    "decode": "ok"
+  },
+  {
+    "path": "/workspace/generated_images/exec-045081a7-8c40-4b43-ac0d-94d4078acaab.png",
+    "bytes": 2784632,
+    "extension": ".png",
+    "scope": "workspace",
+    "format": "PNG",
+    "width": 1024,
+    "height": 1536,
+    "mode": "RGB",
+    "rgb_stddev": [
+      65.132,
+      73.529,
+      66.409
+    ],
+    "uniform_or_nearly_blank": false,
+    "sha256": "d0f8bf266360e51ed518c69dd7e9addc3536dd40ad871d6cbb29af6e330b04aa",
+    "decode": "ok"
+  },
+  {
+    "path": "/workspace/generated_images/exec-0da016d0-d92e-4b3a-a6e1-871af4564caf.png",
+    "bytes": 2470622,
+    "extension": ".png",
+    "scope": "workspace",
+    "format": "PNG",
+    "width": 1536,
+    "height": 1024,
+    "mode": "RGB",
+    "rgb_stddev": [
+      63.801,
+      75.868,
+      68.659
+    ],
+    "uniform_or_nearly_blank": false,
+    "sha256": "ec5fc61315815a3ed01fa50b4e11a64064b5640893d971b79312e48ffc2ac33c",
+    "decode": "ok"
+  },
+  {
+    "path": "/workspace/generated_images/exec-342a0ef0-0b82-4523-adac-0d259994fef5.png",
+    "bytes": 2415597,
+    "extension": ".png",
+    "scope": "workspace",
+    "format": "PNG",
+    "width": 1024,
+    "height": 1536,
+    "mode": "RGB",
+    "rgb_stddev": [
+      83.559,
+      79.773,
+      75.922
+    ],
+    "uniform_or_nearly_blank": false,
+    "sha256": "e24e3b5623593d571eeb347f3ab484451e8ccbed4c6ccdf005d1b9a51d6e5820",
+    "decode": "ok"
+  },
+  {
+    "path": "/workspace/generated_images/exec-357490ec-68cd-411e-ba48-3536435efd01.png",
+    "bytes": 2848021,
+    "extension": ".png",
+    "scope": "workspace",
+    "format": "PNG",
+    "width": 1024,
+    "height": 1536,
+    "mode": "RGB",
+    "rgb_stddev": [
+      64.118,
+      72.859,
+      67.737
+    ],
+    "uniform_or_nearly_blank": false,
+    "sha256": "e834b8dc2c8e35439f385069d759b7919b858a790845d825dc994f81c02faa40",
+    "decode": "ok"
+  },
+  {
+    "path": "/workspace/generated_images/exec-36bcc7e8-db4f-4c24-a07e-cc707e4b0479.png",
+    "bytes": 2571265,
+    "extension": ".png",
+    "scope": "workspace",
+    "format": "PNG",
+    "width": 1536,
+    "height": 1024,
+    "mode": "RGB",
+    "rgb_stddev": [
+      60.649,
+      68.537,
+      63.217
+    ],
+    "uniform_or_nearly_blank": false,
+    "sha256": "841e30fb4dcfebc143cce29eda3e8f6bf2b0553298239128b2690d814940a4e3",
+    "decode": "ok"
+  },
+  {
+    "path": "/workspace/generated_images/exec-3d62ffe0-de12-4322-98e5-6accd0e3d032.png",
+    "bytes": 2702054,
+    "extension": ".png",
+    "scope": "workspace",
+    "format": "PNG",
+    "width": 1536,
+    "height": 1024,
+    "mode": "RGB",
+    "rgb_stddev": [
+      66.819,
+      61.4,
+      57.036
+    ],
+    "uniform_or_nearly_blank": false,
+    "sha256": "e3199298f546addb59d88bba5f624976fcdb70e8858f80327f1e4ab2f1d55f0d",
+    "decode": "ok"
+  },
+  {
+    "path": "/workspace/generated_images/exec-42451575-0d16-4b49-8ab9-3c506e0797fa.png",
+    "bytes": 3139501,
+    "extension": ".png",
+    "scope": "workspace",
+    "format": "PNG",
+    "width": 1024,
+    "height": 1536,
+    "mode": "RGB",
+    "rgb_stddev": [
+      64.315,
+      64.122,
+      64.456
+    ],
+    "uniform_or_nearly_blank": false,
+    "sha256": "b0543dc2604e82b8faf0977a903a5636df430f40a36d6d017bc57c14c56586e9",
+    "decode": "ok"
+  },
+  {
+    "path": "/workspace/generated_images/exec-4339e943-cbc0-4627-a211-82b4d9460645.png",
+    "bytes": 2692667,
+    "extension": ".png",
+    "scope": "workspace",
+    "format": "PNG",
+    "width": 1024,
+    "height": 1536,
+    "mode": "RGB",
+    "rgb_stddev": [
+      61.948,
+      66.77,
+      63.281
+    ],
+    "uniform_or_nearly_blank": false,
+    "sha256": "fd02e67880f610c4f85e18cd5c0cc6fc28e97cbcb124d87dc27ed3266585ed11",
+    "decode": "ok"
+  },
+  {
+    "path": "/workspace/generated_images/exec-44b4994a-4a9d-42b5-8199-1f48476e43ca.png",
+    "bytes": 2859912,
+    "extension": ".png",
+    "scope": "workspace",
+    "format": "PNG",
+    "width": 1024,
+    "height": 1536,
+    "mode": "RGB",
+    "rgb_stddev": [
+      64.949,
+      70.26,
+      67.339
+    ],
+    "uniform_or_nearly_blank": false,
+    "sha256": "7f4005f68df5839a203dfef795fd28890f3b5ee851ba9b7b72c8bbd94ee4b776",
+    "decode": "ok"
+  },
+  {
+    "path": "/workspace/generated_images/exec-5c681d3f-7164-4f5b-9633-c4f1a85a8d4e.png",
+    "bytes": 2841821,
+    "extension": ".png",
+    "scope": "workspace",
+    "format": "PNG",
+    "width": 1024,
+    "height": 1536,
+    "mode": "RGB",
+    "rgb_stddev": [
+      65.07,
+      68.168,
+      64.88
+    ],
+    "uniform_or_nearly_blank": false,
+    "sha256": "96c8d35a59573dcc614ecf70bf72d10a4f027d928ef1c7eef406638ed6652c77",
+    "decode": "ok"
+  },
+  {
+    "path": "/workspace/generated_images/exec-74d4d6ba-3935-4389-8b38-8c3167f0dc9b.png",
+    "bytes": 2828066,
+    "extension": ".png",
+    "scope": "workspace",
+    "format": "PNG",
+    "width": 1024,
+    "height": 1536,
+    "mode": "RGB",
+    "rgb_stddev": [
+      68.992,
+      73.595,
+      69.319
+    ],
+    "uniform_or_nearly_blank": false,
+    "sha256": "2e459def18e4625169033721b8f806ee37f43691d334142656b0f552645b85dd",
+    "decode": "ok"
+  },
+  {
+    "path": "/workspace/generated_images/exec-83839be6-61ae-43b6-8fcf-dac0167a6b69.png",
+    "bytes": 2701504,
+    "extension": ".png",
+    "scope": "workspace",
+    "format": "PNG",
+    "width": 1024,
+    "height": 1536,
+    "mode": "RGB",
+    "rgb_stddev": [
+      58.472,
+      71.537,
+      66.339
+    ],
+    "uniform_or_nearly_blank": false,
+    "sha256": "0d75bf461d09fe48b22dac2566c93c0611e84cfa61fa2f45ceec0d12b5b15ea0",
+    "decode": "ok"
+  },
+  {
+    "path": "/workspace/generated_images/exec-869a51a4-a9b0-4a83-bacb-79ce4494bcc8.png",
+    "bytes": 2827709,
+    "extension": ".png",
+    "scope": "workspace",
+    "format": "PNG",
+    "width": 1024,
+    "height": 1536,
+    "mode": "RGB",
+    "rgb_stddev": [
+      64.99,
+      68.178,
+      65.799
+    ],
+    "uniform_or_nearly_blank": false,
+    "sha256": "7f63b78ad2c243a6b2e88dae70361064b6f1b0a84085f31c47d486ac4c3d3016",
+    "decode": "ok"
+  },
+  {
+    "path": "/workspace/generated_images/exec-96c35115-39c1-42e4-b0bd-035c1fe25a37.png",
+    "bytes": 2597497,
+    "extension": ".png",
+    "scope": "workspace",
+    "format": "PNG",
+    "width": 1024,
+    "height": 1536,
+    "mode": "RGB",
+    "rgb_stddev": [
+      75.394,
+      73.645,
+      73.385
+    ],
+    "uniform_or_nearly_blank": false,
+    "sha256": "5d641421e61d5310240791e27f61741bb96e328e8b82350a0fd4269b6c420db6",
+    "decode": "ok"
+  },
+  {
+    "path": "/workspace/generated_images/exec-9bc51bcb-a0da-44f1-8dd1-e654a7a4a794.png",
+    "bytes": 2904988,
+    "extension": ".png",
+    "scope": "workspace",
+    "format": "PNG",
+    "width": 1024,
+    "height": 1536,
+    "mode": "RGB",
+    "rgb_stddev": [
+      65.831,
+      67.207,
+      68.565
+    ],
+    "uniform_or_nearly_blank": false,
+    "sha256": "888f93010c12d739da31ccb675c1429caf30ad5a5afa487935991d0636e3fa74",
+    "decode": "ok"
+  },
+  {
+    "path": "/workspace/generated_images/exec-9e28d696-2eef-4a4c-81f8-63a98d272e18.png",
+    "bytes": 2507274,
+    "extension": ".png",
+    "scope": "workspace",
+    "format": "PNG",
+    "width": 1536,
+    "height": 1024,
+    "mode": "RGB",
+    "rgb_stddev": [
+      60.698,
+      70.519,
+      65.012
+    ],
+    "uniform_or_nearly_blank": false,
+    "sha256": "f08c056b295af47c8d1ec298270b0653137473fc71a8828e7a9232990b601abd",
+    "decode": "ok"
+  },
+  {
+    "path": "/workspace/generated_images/exec-a3f8ffa5-bdd9-434b-ae76-fc84345f06a5.png",
+    "bytes": 2777873,
+    "extension": ".png",
+    "scope": "workspace",
+    "format": "PNG",
+    "width": 1024,
+    "height": 1536,
+    "mode": "RGB",
+    "rgb_stddev": [
+      62.867,
+      68.283,
+      64.216
+    ],
+    "uniform_or_nearly_blank": false,
+    "sha256": "3e6a5a02fb9aab1343df8328646f67faa09e9358f4ed9d1034a58b6a2510b19c",
+    "decode": "ok"
+  },
+  {
+    "path": "/workspace/generated_images/exec-bde21031-fb69-4a4c-b672-f26b6757165d.png",
+    "bytes": 3090018,
+    "extension": ".png",
+    "scope": "workspace",
+    "format": "PNG",
+    "width": 1024,
+    "height": 1536,
+    "mode": "RGB",
+    "rgb_stddev": [
+      69.216,
+      71.749,
+      70.12
+    ],
+    "uniform_or_nearly_blank": false,
+    "sha256": "66c8fded2949b0bccf6dff30180eb3af55fe2c0f433a907b3d4a1ef30eaec9b1",
+    "decode": "ok"
+  },
+  {
+    "path": "/workspace/generated_images/exec-c5dc8453-a1c8-47e3-914e-b59cafb57d40.png",
+    "bytes": 2473470,
+    "extension": ".png",
+    "scope": "workspace",
+    "format": "PNG",
+    "width": 1024,
+    "height": 1536,
+    "mode": "RGB",
+    "rgb_stddev": [
+      73.573,
+      75.373,
+      73.344
+    ],
+    "uniform_or_nearly_blank": false,
+    "sha256": "608179cf7dd165ed08548279e04acd0e180cbc0cd7e86903a1af75a69c1bed33",
+    "decode": "ok"
+  },
+  {
+    "path": "/workspace/generated_images/exec-d22dd6e1-09ec-4463-868c-1af1c5e736a6.png",
+    "bytes": 2498534,
+    "extension": ".png",
+    "scope": "workspace",
+    "format": "PNG",
+    "width": 1024,
+    "height": 1536,
+    "mode": "RGB",
+    "rgb_stddev": [
+      83.696,
+      80.011,
+      75.911
+    ],
+    "uniform_or_nearly_blank": false,
+    "sha256": "ca0439e201fa2d0538cb8fc78097a8e2a04cd7a93e541ad036d0ef4d35e2e4e0",
+    "decode": "ok"
+  },
+  {
+    "path": "/workspace/generated_images/exec-d7d84f98-2c9f-4cb0-b460-267c00bea339.png",
+    "bytes": 2750675,
+    "extension": ".png",
+    "scope": "workspace",
+    "format": "PNG",
+    "width": 1024,
+    "height": 1536,
+    "mode": "RGB",
+    "rgb_stddev": [
+      77.019,
+      74.814,
+      71.651
+    ],
+    "uniform_or_nearly_blank": false,
+    "sha256": "165a6650d8f69f159446e25400194f4093bc4e3a6d51b5029a6c69a9ccaf83ee",
+    "decode": "ok"
+  },
+  {
+    "path": "/workspace/generated_images/exec-dbb56754-4a9e-4d33-9efd-f409de1e8507.png",
+    "bytes": 2774558,
+    "extension": ".png",
+    "scope": "workspace",
+    "format": "PNG",
+    "width": 1024,
+    "height": 1536,
+    "mode": "RGB",
+    "rgb_stddev": [
+      66.641,
+      71.737,
+      66.565
+    ],
+    "uniform_or_nearly_blank": false,
+    "sha256": "7ff8f7e9298101ce0aded3400b5729813c893f18dda9b19c7e62280926eb4a95",
+    "decode": "ok"
+  },
+  {
+    "path": "/workspace/generated_images/exec-e1c160c6-2b0b-4f25-8195-07cb9cae72fc.png",
+    "bytes": 2250174,
+    "extension": ".png",
+    "scope": "workspace",
+    "format": "PNG",
+    "width": 1024,
+    "height": 1536,
+    "mode": "RGB",
+    "rgb_stddev": [
+      72.547,
+      74.096,
+      72.345
+    ],
+    "uniform_or_nearly_blank": false,
+    "sha256": "bb9ed330c1518a8b21c9b7de46855dce5a6aaf2463da98cb0bd896b6dc368fe7",
+    "decode": "ok"
+  },
+  {
+    "path": "/workspace/generated_images/exec-e1c6c76b-3a66-4c6c-9d4d-cd3e936887a3.png",
+    "bytes": 3223281,
+    "extension": ".png",
+    "scope": "workspace",
+    "format": "PNG",
+    "width": 1024,
+    "height": 1536,
+    "mode": "RGB",
+    "rgb_stddev": [
+      68.134,
+      67.007,
+      66.326
+    ],
+    "uniform_or_nearly_blank": false,
+    "sha256": "371de2382c2d63c6c8f6b5c0010e92ff9d9cb6952453f43592a6b9bf8abefe27",
+    "decode": "ok"
+  },
+  {
+    "path": "/workspace/绯色难测_第一话/page-01.png",
+    "bytes": 2904988,
+    "extension": ".png",
+    "scope": "workspace",
+    "format": "PNG",
+    "width": 1024,
+    "height": 1536,
+    "mode": "RGB",
+    "rgb_stddev": [
+      65.831,
+      67.207,
+      68.565
+    ],
+    "uniform_or_nearly_blank": false,
+    "sha256": "888f93010c12d739da31ccb675c1429caf30ad5a5afa487935991d0636e3fa74",
+    "decode": "ok"
+  },
+  {
+    "path": "/workspace/绯色难测_第一话/page-02.png",
+    "bytes": 2828066,
+    "extension": ".png",
+    "scope": "workspace",
+    "format": "PNG",
+    "width": 1024,
+    "height": 1536,
+    "mode": "RGB",
+    "rgb_stddev": [
+      68.992,
+      73.595,
+      69.319
+    ],
+    "uniform_or_nearly_blank": false,
+    "sha256": "2e459def18e4625169033721b8f806ee37f43691d334142656b0f552645b85dd",
+    "decode": "ok"
+  },
+  {
+    "path": "/workspace/绯色难测_第一话/page-03.png",
+    "bytes": 2827709,
+    "extension": ".png",
+    "scope": "workspace",
+    "format": "PNG",
+    "width": 1024,
+    "height": 1536,
+    "mode": "RGB",
+    "rgb_stddev": [
+      64.99,
+      68.178,
+      65.799
+    ],
+    "uniform_or_nearly_blank": false,
+    "sha256": "7f63b78ad2c243a6b2e88dae70361064b6f1b0a84085f31c47d486ac4c3d3016",
+    "decode": "ok"
+  },
+  {
+    "path": "/workspace/绯色难测_第一话/page-04.png",
+    "bytes": 2841102,
+    "extension": ".png",
+    "scope": "workspace",
+    "format": "PNG",
+    "width": 1024,
+    "height": 1536,
+    "mode": "RGB",
+    "rgb_stddev": [
+      64.566,
+      76.124,
+      70.247
+    ],
+    "uniform_or_nearly_blank": false,
+    "sha256": "da7dc810bcd8c2ead261f81b87941de66340d9fda6e5d0f48a456fa368f0d302",
+    "decode": "ok"
+  },
+  {
+    "path": "/workspace/绯色难测_第一话/page-05.png",
+    "bytes": 2848021,
+    "extension": ".png",
+    "scope": "workspace",
+    "format": "PNG",
+    "width": 1024,
+    "height": 1536,
+    "mode": "RGB",
+    "rgb_stddev": [
+      64.118,
+      72.859,
+      67.737
+    ],
+    "uniform_or_nearly_blank": false,
+    "sha256": "e834b8dc2c8e35439f385069d759b7919b858a790845d825dc994f81c02faa40",
+    "decode": "ok"
+  },
+  {
+    "path": "/workspace/绯色难测_第一话/page-06.png",
+    "bytes": 2692667,
+    "extension": ".png",
+    "scope": "workspace",
+    "format": "PNG",
+    "width": 1024,
+    "height": 1536,
+    "mode": "RGB",
+    "rgb_stddev": [
+      61.948,
+      66.77,
+      63.281
+    ],
+    "uniform_or_nearly_blank": false,
+    "sha256": "fd02e67880f610c4f85e18cd5c0cc6fc28e97cbcb124d87dc27ed3266585ed11",
+    "decode": "ok"
+  },
+  {
+    "path": "/workspace/绯色难测_第一话/page-07.png",
+    "bytes": 2841821,
+    "extension": ".png",
+    "scope": "workspace",
+    "format": "PNG",
+    "width": 1024,
+    "height": 1536,
+    "mode": "RGB",
+    "rgb_stddev": [
+      65.07,
+      68.168,
+      64.88
+    ],
+    "uniform_or_nearly_blank": false,
+    "sha256": "96c8d35a59573dcc614ecf70bf72d10a4f027d928ef1c7eef406638ed6652c77",
+    "decode": "ok"
+  },
+  {
+    "path": "/workspace/绯色难测_第一话/page-08.png",
+    "bytes": 2415597,
+    "extension": ".png",
+    "scope": "workspace",
+    "format": "PNG",
+    "width": 1024,
+    "height": 1536,
+    "mode": "RGB",
+    "rgb_stddev": [
+      83.559,
+      79.773,
+      75.922
+    ],
+    "uniform_or_nearly_blank": false,
+    "sha256": "e24e3b5623593d571eeb347f3ab484451e8ccbed4c6ccdf005d1b9a51d6e5820",
+    "decode": "ok"
+  },
+  {
+    "path": "/workspace/绯色难测_第一话/page-09.png",
+    "bytes": 2597497,
+    "extension": ".png",
+    "scope": "workspace",
+    "format": "PNG",
+    "width": 1024,
+    "height": 1536,
+    "mode": "RGB",
+    "rgb_stddev": [
+      75.394,
+      73.645,
+      73.385
+    ],
+    "uniform_or_nearly_blank": false,
+    "sha256": "5d641421e61d5310240791e27f61741bb96e328e8b82350a0fd4269b6c420db6",
+    "decode": "ok"
+  },
+  {
+    "path": "/workspace/绯色难测_第一话/page-10.png",
+    "bytes": 2250174,
+    "extension": ".png",
+    "scope": "workspace",
+    "format": "PNG",
+    "width": 1024,
+    "height": 1536,
+    "mode": "RGB",
+    "rgb_stddev": [
+      72.547,
+      74.096,
+      72.345
+    ],
+    "uniform_or_nearly_blank": false,
+    "sha256": "bb9ed330c1518a8b21c9b7de46855dce5a6aaf2463da98cb0bd896b6dc368fe7",
+    "decode": "ok"
+  }
+]

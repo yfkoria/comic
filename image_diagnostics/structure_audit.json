@@ -1,0 +1,602 @@
+{
+  "pdf": {
+    "file": "/workspace/绯色难测_第一话/绯色难测_第一话.pdf",
+    "bytes": 36873615,
+    "pages": 10,
+    "page_results": [
+      {
+        "page": 1,
+        "embedded_images": [
+          {
+            "xref": 3,
+            "width": 1024,
+            "height": 1536,
+            "decoded": true,
+            "pixels_equal_final_png": true,
+            "external_file_key": [
+              "null",
+              "null"
+            ]
+          }
+        ],
+        "render_size": [
+          256,
+          384
+        ],
+        "render_stddev": [
+          58.962,
+          59.746,
+          62.166
+        ],
+        "links": []
+      },
+      {
+        "page": 2,
+        "embedded_images": [
+          {
+            "xref": 5,
+            "width": 1024,
+            "height": 1536,
+            "decoded": true,
+            "pixels_equal_final_png": true,
+            "external_file_key": [
+              "null",
+              "null"
+            ]
+          }
+        ],
+        "render_size": [
+          256,
+          384
+        ],
+        "render_stddev": [
+          62.041,
+          66.922,
+          63.107
+        ],
+        "links": []
+      },
+      {
+        "page": 3,
+        "embedded_images": [
+          {
+            "xref": 7,
+            "width": 1024,
+            "height": 1536,
+            "decoded": true,
+            "pixels_equal_final_png": true,
+            "external_file_key": [
+              "null",
+              "null"
+            ]
+          }
+        ],
+        "render_size": [
+          256,
+          384
+        ],
+        "render_stddev": [
+          58.155,
+          61.375,
+          59.547
+        ],
+        "links": []
+      },
+      {
+        "page": 4,
+        "embedded_images": [
+          {
+            "xref": 9,
+            "width": 1024,
+            "height": 1536,
+            "decoded": true,
+            "pixels_equal_final_png": true,
+            "external_file_key": [
+              "null",
+              "null"
+            ]
+          }
+        ],
+        "render_size": [
+          256,
+          384
+        ],
+        "render_stddev": [
+          56.151,
+          68.255,
+          62.604
+        ],
+        "links": []
+      },
+      {
+        "page": 5,
+        "embedded_images": [
+          {
+            "xref": 11,
+            "width": 1024,
+            "height": 1536,
+            "decoded": true,
+            "pixels_equal_final_png": true,
+            "external_file_key": [
+              "null",
+              "null"
+            ]
+          }
+        ],
+        "render_size": [
+          256,
+          384
+        ],
+        "render_stddev": [
+          56.842,
+          66.061,
+          61.483
+        ],
+        "links": []
+      },
+      {
+        "page": 6,
+        "embedded_images": [
+          {
+            "xref": 13,
+            "width": 1024,
+            "height": 1536,
+            "decoded": true,
+            "pixels_equal_final_png": true,
+            "external_file_key": [
+              "null",
+              "null"
+            ]
+          }
+        ],
+        "render_size": [
+          256,
+          384
+        ],
+        "render_stddev": [
+          53.542,
+          58.53,
+          55.678
+        ],
+        "links": []
+      },
+      {
+        "page": 7,
+        "embedded_images": [
+          {
+            "xref": 15,
+            "width": 1024,
+            "height": 1536,
+            "decoded": true,
+            "pixels_equal_final_png": true,
+            "external_file_key": [
+              "null",
+              "null"
+            ]
+          }
+        ],
+        "render_size": [
+          256,
+          384
+        ],
+        "render_stddev": [
+          56.971,
+          60.36,
+          57.903
+        ],
+        "links": []
+      },
+      {
+        "page": 8,
+        "embedded_images": [
+          {
+            "xref": 17,
+            "width": 1024,
+            "height": 1536,
+            "decoded": true,
+            "pixels_equal_final_png": true,
+            "external_file_key": [
+              "null",
+              "null"
+            ]
+          }
+        ],
+        "render_size": [
+          256,
+          384
+        ],
+        "render_stddev": [
+          78.792,
+          75.069,
+          71.472
+        ],
+        "links": []
+      },
+      {
+        "page": 9,
+        "embedded_images": [
+          {
+            "xref": 19,
+            "width": 1024,
+            "height": 1536,
+            "decoded": true,
+            "pixels_equal_final_png": true,
+            "external_file_key": [
+              "null",
+              "null"
+            ]
+          }
+        ],
+        "render_size": [
+          256,
+          384
+        ],
+        "render_stddev": [
+          69.365,
+          67.503,
+          67.887
+        ],
+        "links": []
+      },
+      {
+        "page": 10,
+        "embedded_images": [
+          {
+            "xref": 21,
+            "width": 1024,
+            "height": 1536,
+            "decoded": true,
+            "pixels_equal_final_png": true,
+            "external_file_key": [
+              "null",
+              "null"
+            ]
+          }
+        ],
+        "render_size": [
+          256,
+          384
+        ],
+        "render_stddev": [
+          66.23,
+          68.099,
+          66.808
+        ],
+        "links": []
+      }
+    ]
+  },
+  "markdown": [
+    {
+      "file": "/workspace/绯色难测_漫画改编底稿.md",
+      "inline_images": 0,
+      "links": [
+        {
+          "target": "/workspace/绯色难测_第一话/第一话分镜.md",
+          "is_image": false,
+          "exists": true
+        },
+        {
+          "target": "/workspace/绯色难测_第一话/第一话分镜.md",
+          "is_image": false,
+          "exists": true
+        },
+        {
+          "target": "/tmp/codex-remote-attachments/01a16a1d-926b-76d0-837f-ec4684eae093/4728d73a-00a5-4f31-a26e-645d672233ae/1-8865.jpg",
+          "is_image": false,
+          "exists": true
+        },
+        {
+          "target": "/tmp/codex-remote-attachments/01a16a1d-926b-76d0-837f-ec4684eae093/bd0e046c-55a3-44f0-874b-d65f1bfa29df/1-8879.jpg",
+          "is_image": false,
+          "exists": true
+        },
+        {
+          "target": "/tmp/codex-remote-attachments/01a16a1d-926b-76d0-837f-ec4684eae093/bd0e046c-55a3-44f0-874b-d65f1bfa29df/2-8881.jpg",
+          "is_image": false,
+          "exists": true
+        }
+      ]
+    },
+    {
+      "file": "/workspace/绯色难测_第一话/第一话分镜.md",
+      "inline_images": 0,
+      "links": []
+    },
+    {
+      "file": "/workspace/绯色难测_第一话/README.md",
+      "inline_images": 0,
+      "links": [
+        {
+          "target": "/workspace/绯色难测_第一话/绯色难测_第一话.pdf",
+          "is_image": false,
+          "exists": true
+        },
+        {
+          "target": "/workspace/绯色难测_第一话/绯色难测_第一话_十页原图.zip",
+          "is_image": false,
+          "exists": true
+        },
+        {
+          "target": "/workspace/绯色难测_第一话/第一话分镜.md",
+          "is_image": false,
+          "exists": true
+        },
+        {
+          "target": "/workspace/绯色难测_漫画改编底稿.md",
+          "is_image": false,
+          "exists": true
+        }
+      ]
+    }
+  ],
+  "source_references": [
+    {
+      "file": "十页版制作提示.json",
+      "unique_absolute_references": [
+        {
+          "path": "/workspace/generated_images/exec-0da016d0-d92e-4b3a-a6e1-871af4564caf.png",
+          "exists": true,
+          "portable_outside_workspace": false
+        },
+        {
+          "path": "/workspace/generated_images/exec-3d62ffe0-de12-4322-98e5-6accd0e3d032.png",
+          "exists": true,
+          "portable_outside_workspace": false
+        }
+      ]
+    },
+    {
+      "file": "最终页序.json",
+      "unique_absolute_references": [
+        {
+          "path": "/workspace/generated_images/exec-9bc51bcb-a0da-44f1-8dd1-e654a7a4a794.png",
+          "exists": true,
+          "portable_outside_workspace": false
+        },
+        {
+          "path": "/workspace/generated_images/exec-74d4d6ba-3935-4389-8b38-8c3167f0dc9b.png",
+          "exists": true,
+          "portable_outside_workspace": false
+        },
+        {
+          "path": "/workspace/generated_images/exec-869a51a4-a9b0-4a83-bacb-79ce4494bcc8.png",
+          "exists": true,
+          "portable_outside_workspace": false
+        },
+        {
+          "path": "/workspace/generated_images/exec-03bdd358-b958-4098-85b6-83d76a42c35a.png",
+          "exists": true,
+          "portable_outside_workspace": false
+        },
+        {
+          "path": "/workspace/generated_images/exec-357490ec-68cd-411e-ba48-3536435efd01.png",
+          "exists": true,
+          "portable_outside_workspace": false
+        },
+        {
+          "path": "/workspace/generated_images/exec-4339e943-cbc0-4627-a211-82b4d9460645.png",
+          "exists": true,
+          "portable_outside_workspace": false
+        },
+        {
+          "path": "/workspace/generated_images/exec-5c681d3f-7164-4f5b-9633-c4f1a85a8d4e.png",
+          "exists": true,
+          "portable_outside_workspace": false
+        },
+        {
+          "path": "/workspace/generated_images/exec-342a0ef0-0b82-4523-adac-0d259994fef5.png",
+          "exists": true,
+          "portable_outside_workspace": false
+        },
+        {
+          "path": "/workspace/generated_images/exec-96c35115-39c1-42e4-b0bd-035c1fe25a37.png",
+          "exists": true,
+          "portable_outside_workspace": false
+        },
+        {
+          "path": "/workspace/generated_images/exec-e1c160c6-2b0b-4f25-8195-07cb9cae72fc.png",
+          "exists": true,
+          "portable_outside_workspace": false
+        }
+      ]
+    }
+  ],
+  "archive": {
+    "file": "/workspace/绯色难测_第一话_完整包.zip",
+    "crc_error": null,
+    "image_count": 15,
+    "images": [
+      {
+        "name": "原设参考/爻光原设_全身.jpg",
+        "bytes": 123636,
+        "size": [
+          591,
+          1280
+        ],
+        "decoded": true
+      },
+      {
+        "name": "原设参考/爻光原设_近景.jpg",
+        "bytes": 147839,
+        "size": [
+          929,
+          1280
+        ],
+        "decoded": true
+      },
+      {
+        "name": "原设参考/绯英原设.jpg",
+        "bytes": 134176,
+        "size": [
+          582,
+          1280
+        ],
+        "decoded": true
+      },
+      {
+        "name": "第一话/page-01.png",
+        "bytes": 2904988,
+        "size": [
+          1024,
+          1536
+        ],
+        "decoded": true,
+        "same_as_final_png": true
+      },
+      {
+        "name": "第一话/page-02.png",
+        "bytes": 2828066,
+        "size": [
+          1024,
+          1536
+        ],
+        "decoded": true,
+        "same_as_final_png": true
+      },
+      {
+        "name": "第一话/page-03.png",
+        "bytes": 2827709,
+        "size": [
+          1024,
+          1536
+        ],
+        "decoded": true,
+        "same_as_final_png": true
+      },
+      {
+        "name": "第一话/page-04.png",
+        "bytes": 2841102,
+        "size": [
+          1024,
+          1536
+        ],
+        "decoded": true,
+        "same_as_final_png": true
+      },
+      {
+        "name": "第一话/page-05.png",
+        "bytes": 2848021,
+        "size": [
+          1024,
+          1536
+        ],
+        "decoded": true,
+        "same_as_final_png": true
+      },
+      {
+        "name": "第一话/page-06.png",
+        "bytes": 2692667,
+        "size": [
+          1024,
+          1536
+        ],
+        "decoded": true,
+        "same_as_final_png": true
+      },
+      {
+        "name": "第一话/page-07.png",
+        "bytes": 2841821,
+        "size": [
+          1024,
+          1536
+        ],
+        "decoded": true,
+        "same_as_final_png": true
+      },
+      {
+        "name": "第一话/page-08.png",
+        "bytes": 2415597,
+        "size": [
+          1024,
+          1536
+        ],
+        "decoded": true,
+        "same_as_final_png": true
+      },
+      {
+        "name": "第一话/page-09.png",
+        "bytes": 2597497,
+        "size": [
+          1024,
+          1536
+        ],
+        "decoded": true,
+        "same_as_final_png": true
+      },
+      {
+        "name": "第一话/page-10.png",
+        "bytes": 2250174,
+        "size": [
+          1024,
+          1536
+        ],
+        "decoded": true,
+        "same_as_final_png": true
+      },
+      {
+        "name": "角色设定/爻光_校园版_已确认.png",
+        "bytes": 2702054,
+        "size": [
+          1536,
+          1024
+        ],
+        "decoded": true
+      },
+      {
+        "name": "角色设定/绯英_校园版_已确认.png",
+        "bytes": 2470622,
+        "size": [
+          1536,
+          1024
+        ],
+        "decoded": true
+      }
+    ],
+    "markdown_links": [
+      {
+        "file": "开始阅读.md",
+        "target": "第一话/绯色难测_第一话.pdf",
+        "portable": true,
+        "exists_in_archive": true
+      },
+      {
+        "file": "开始阅读.md",
+        "target": "绯色难测_漫画改编底稿.md",
+        "portable": true,
+        "exists_in_archive": true
+      },
+      {
+        "file": "绯色难测_漫画改编底稿.md",
+        "target": "第一话/第一话分镜.md",
+        "portable": true,
+        "exists_in_archive": true
+      },
+      {
+        "file": "绯色难测_漫画改编底稿.md",
+        "target": "第一话/第一话分镜.md",
+        "portable": true,
+        "exists_in_archive": true
+      },
+      {
+        "file": "绯色难测_漫画改编底稿.md",
+        "target": "/tmp/codex-remote-attachments/01a16a1d-926b-76d0-837f-ec4684eae093/4728d73a-00a5-4f31-a26e-645d672233ae/1-8865.jpg",
+        "portable": false,
+        "exists_in_archive": false
+      },
+      {
+        "file": "绯色难测_漫画改编底稿.md",
+        "target": "/tmp/codex-remote-attachments/01a16a1d-926b-76d0-837f-ec4684eae093/bd0e046c-55a3-44f0-874b-d65f1bfa29df/1-8879.jpg",
+        "portable": false,
+        "exists_in_archive": false
+      },
+      {
+        "file": "绯色难测_漫画改编底稿.md",
+        "target": "/tmp/codex-remote-attachments/01a16a1d-926b-76d0-837f-ec4684eae093/bd0e046c-55a3-44f0-874b-d65f1bfa29df/2-8881.jpg",
+        "portable": false,
+        "exists_in_archive": false
+      }
+    ],
+    "manifest_errors": []
+  }
+}

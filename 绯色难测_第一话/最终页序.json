@@ -1,0 +1,72 @@
+[
+  {
+    "page": 1,
+    "file": "page-01.png",
+    "source": "/workspace/generated_images/exec-9bc51bcb-a0da-44f1-8dd1-e654a7a4a794.png",
+    "sha256": "888f93010c12d739da31ccb675c1429caf30ad5a5afa487935991d0636e3fa74",
+    "corrected": false
+  },
+  {
+    "page": 2,
+    "file": "page-02.png",
+    "source": "/workspace/generated_images/exec-74d4d6ba-3935-4389-8b38-8c3167f0dc9b.png",
+    "sha256": "2e459def18e4625169033721b8f806ee37f43691d334142656b0f552645b85dd",
+    "corrected": false
+  },
+  {
+    "page": 3,
+    "file": "page-03.png",
+    "source": "/workspace/generated_images/exec-869a51a4-a9b0-4a83-bacb-79ce4494bcc8.png",
+    "sha256": "7f63b78ad2c243a6b2e88dae70361064b6f1b0a84085f31c47d486ac4c3d3016",
+    "corrected": true
+  },
+  {
+    "page": 4,
+    "file": "page-04.png",
+    "source": "/workspace/generated_images/exec-03bdd358-b958-4098-85b6-83d76a42c35a.png",
+    "sha256": "da7dc810bcd8c2ead261f81b87941de66340d9fda6e5d0f48a456fa368f0d302",
+    "corrected": false
+  },
+  {
+    "page": 5,
+    "file": "page-05.png",
+    "source": "/workspace/generated_images/exec-357490ec-68cd-411e-ba48-3536435efd01.png",
+    "sha256": "e834b8dc2c8e35439f385069d759b7919b858a790845d825dc994f81c02faa40",
+    "corrected": true
+  },
+  {
+    "page": 6,
+    "file": "page-06.png",
+    "source": "/workspace/generated_images/exec-4339e943-cbc0-4627-a211-82b4d9460645.png",
+    "sha256": "fd02e67880f610c4f85e18cd5c0cc6fc28e97cbcb124d87dc27ed3266585ed11",
+    "corrected": true
+  },
+  {
+    "page": 7,
+    "file": "page-07.png",
+    "source": "/workspace/generated_images/exec-5c681d3f-7164-4f5b-9633-c4f1a85a8d4e.png",
+    "sha256": "96c8d35a59573dcc614ecf70bf72d10a4f027d928ef1c7eef406638ed6652c77",
+    "corrected": false
+  },
+  {
+    "page": 8,
+    "file": "page-08.png",
+    "source": "/workspace/generated_images/exec-342a0ef0-0b82-4523-adac-0d259994fef5.png",
+    "sha256": "e24e3b5623593d571eeb347f3ab484451e8ccbed4c6ccdf005d1b9a51d6e5820",
+    "corrected": true
+  },
+  {
+    "page": 9,
+    "file": "page-09.png",
+    "source": "/workspace/generated_images/exec-96c35115-39c1-42e4-b0bd-035c1fe25a37.png",
+    "sha256": "5d641421e61d5310240791e27f61741bb96e328e8b82350a0fd4269b6c420db6",
+    "corrected": false
+  },
+  {
+    "page": 10,
+    "file": "page-10.png",
+    "source": "/workspace/generated_images/exec-e1c160c6-2b0b-4f25-8195-07cb9cae72fc.png",
+    "sha256": "bb9ed330c1518a8b21c9b7de46855dce5a6aaf2463da98cb0bd896b6dc368fe7",
+    "corrected": false
+  }
+]

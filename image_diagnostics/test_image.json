@@ -1,0 +1,16 @@
+{
+  "source": "/workspace/绯色难测_第一话/page-07.png",
+  "test_file": "/workspace/comic-test.png",
+  "bytes": 2841821,
+  "width": 1024,
+  "height": 1536,
+  "format": "PNG",
+  "mode": "RGB",
+  "sha256": "96c8d35a59573dcc614ecf70bf72d10a4f027d928ef1c7eef406638ed6652c77",
+  "same_bytes_as_source": true,
+  "rgb_stddev": [
+    65.07,
+    68.168,
+    64.88
+  ]
+}
