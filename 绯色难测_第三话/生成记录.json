@@ -1,0 +1,237 @@
+[
+  {
+    "page": 1,
+    "source": "/workspace/generated_images/exec-255690af-ebf2-4895-86ae-45e5af3e0ef9.png",
+    "sources": [
+      "/workspace/generated_images/exec-255690af-ebf2-4895-86ae-45e5af3e0ef9.png"
+    ],
+    "file": "page-01.png",
+    "bytes": 2666845,
+    "resolution": [
+      1024,
+      1536
+    ],
+    "sha256": "d59cf987c4b7d3cfec0c329aaaba1fd9bd90a5e3d6f9b2aaaa7f528a414bb531",
+    "decode": "ok",
+    "visual_review": "主代理已查看"
+  },
+  {
+    "page": 2,
+    "source": "/workspace/generated_images/exec-5caed634-0996-42ed-b9d7-e49b1faef25f.png",
+    "sources": [
+      "/workspace/generated_images/exec-a43005a9-0b5d-4c93-8ad5-1f7c6815f155.png",
+      "/workspace/generated_images/exec-5caed634-0996-42ed-b9d7-e49b1faef25f.png"
+    ],
+    "file": "page-02.png",
+    "bytes": 2512194,
+    "resolution": [
+      1024,
+      1536
+    ],
+    "sha256": "31a7f723e11a8c6d69e58960cc4f551f9ec8d4841e0e5d5c911bf30e8f6db971",
+    "decode": "ok",
+    "visual_review": "主代理已查看"
+  },
+  {
+    "page": 3,
+    "source": "/workspace/generated_images/exec-2e595c8f-1768-4217-85ae-3e5ea5ca5592.png",
+    "sources": [
+      "/workspace/generated_images/exec-3b099186-1d4c-4f8f-8de3-a746332f5009.png",
+      "/workspace/generated_images/exec-2e595c8f-1768-4217-85ae-3e5ea5ca5592.png"
+    ],
+    "file": "page-03.png",
+    "bytes": 2649781,
+    "resolution": [
+      1024,
+      1536
+    ],
+    "sha256": "e459747aec96c8aba535223b28883d2b9859da052718eb6216ef83440fb0b84f",
+    "decode": "ok",
+    "visual_review": "主代理已查看"
+  },
+  {
+    "page": 4,
+    "source": "/workspace/generated_images/exec-b8855ef9-2155-401e-941b-21e3e8903c3f.png",
+    "sources": [
+      "/workspace/generated_images/exec-f7cc064a-09a3-458a-9d14-1b1b29c1b015.png",
+      "/workspace/generated_images/exec-b8855ef9-2155-401e-941b-21e3e8903c3f.png"
+    ],
+    "file": "page-04.png",
+    "bytes": 2421360,
+    "resolution": [
+      1024,
+      1536
+    ],
+    "sha256": "7346ec22a5b12ec2e495feaa9241f358af90da8046aa513da2fd98e13a2e7e48",
+    "decode": "ok",
+    "visual_review": "主代理已查看"
+  },
+  {
+    "page": 5,
+    "source": "/workspace/generated_images/exec-d7d1172e-dbcd-4569-8b12-7a27b9272a5b.png",
+    "sources": [
+      "/workspace/generated_images/exec-86ca4a3c-6328-49fa-bffa-a0eddd48d097.png",
+      "/workspace/generated_images/exec-d7d1172e-dbcd-4569-8b12-7a27b9272a5b.png"
+    ],
+    "file": "page-05.png",
+    "bytes": 2525211,
+    "resolution": [
+      1024,
+      1536
+    ],
+    "sha256": "be301da4fe4e662484360a9f70c7dfc35ec33b10fbf14f9ab1e5c409d26dac76",
+    "decode": "ok",
+    "visual_review": "主代理已查看"
+  },
+  {
+    "page": 6,
+    "source": "/workspace/generated_images/exec-d58cc92a-c585-4d0e-b8f5-1e2cb3686f96.png",
+    "sources": [
+      "/workspace/generated_images/exec-cf84b0c2-9e15-4e21-a135-e2d70b2b603a.png",
+      "/workspace/generated_images/exec-5f5c3826-86c2-4a27-93ac-ba4d86caaaba.png",
+      "/workspace/generated_images/exec-705205c6-d5a1-4778-ad99-254bdf5ccb92.png",
+      "/workspace/generated_images/exec-d58cc92a-c585-4d0e-b8f5-1e2cb3686f96.png"
+    ],
+    "file": "page-06.png",
+    "bytes": 2438289,
+    "resolution": [
+      1024,
+      1536
+    ],
+    "sha256": "c09dbfe62b50ed5165799daaa8207f1baf053258177bf7ac11c4633377730f5e",
+    "decode": "ok",
+    "visual_review": "主代理已查看"
+  },
+  {
+    "page": 7,
+    "source": "/workspace/generated_images/exec-e624c8fe-384a-4097-8353-020c43caebd7.png",
+    "sources": [
+      "/workspace/generated_images/exec-f69ad25d-8812-4883-a004-ba918648ef38.png",
+      "/workspace/generated_images/exec-e624c8fe-384a-4097-8353-020c43caebd7.png"
+    ],
+    "file": "page-07.png",
+    "bytes": 2360227,
+    "resolution": [
+      1024,
+      1536
+    ],
+    "sha256": "5f38149518ac98ff3798ad0b0971254d39c8722ccc0a4709d10db28760cbcea3",
+    "decode": "ok",
+    "visual_review": "主代理已查看"
+  },
+  {
+    "page": 8,
+    "source": "/workspace/generated_images/exec-5d75eb4f-fd51-4d62-9512-b51abfef77a1.png",
+    "sources": [
+      "/workspace/generated_images/exec-5d75eb4f-fd51-4d62-9512-b51abfef77a1.png"
+    ],
+    "file": "page-08.png",
+    "bytes": 2452875,
+    "resolution": [
+      1024,
+      1536
+    ],
+    "sha256": "2fd5fc48ca9df08bbdcdcc769ab8f48ca62bcf7e04b402bee593e8e8ccc1e0bc",
+    "decode": "ok",
+    "visual_review": "主代理已查看"
+  },
+  {
+    "page": 9,
+    "source": "/workspace/generated_images/exec-2f2407a0-8d66-46d7-905b-1eab042ce39c.png",
+    "sources": [
+      "/workspace/generated_images/exec-2f2407a0-8d66-46d7-905b-1eab042ce39c.png"
+    ],
+    "file": "page-09.png",
+    "bytes": 2425746,
+    "resolution": [
+      1024,
+      1536
+    ],
+    "sha256": "5895611ab7a13fb7d91a84e4ebcd8dca73e5364cae25ce155060a7590e5a6066",
+    "decode": "ok",
+    "visual_review": "主代理已查看"
+  },
+  {
+    "page": 10,
+    "source": "/workspace/generated_images/episode3-page10-recovered.png",
+    "sources": [
+      "/workspace/generated_images/episode3-page10-recovered.png"
+    ],
+    "file": "page-10.png",
+    "bytes": 2496965,
+    "resolution": [
+      1024,
+      1536
+    ],
+    "sha256": "9ba7dc510d44760e42f5b0b0a676f1d51b126a0dd741a4355e19e2f853947d9c",
+    "decode": "ok",
+    "visual_review": "主代理已查看",
+    "recovery_note": "生成工具返回的PNG数据原字节保存；环境重连时未收到默认存盘路径，未重新绘制或改图。"
+  },
+  {
+    "page": 11,
+    "source": "/workspace/generated_images/exec-79379311-6d98-4e4a-b62f-f5ef7b5324ef.png",
+    "sources": [
+      "/workspace/generated_images/exec-79379311-6d98-4e4a-b62f-f5ef7b5324ef.png"
+    ],
+    "file": "page-11.png",
+    "bytes": 2397849,
+    "resolution": [
+      1024,
+      1536
+    ],
+    "sha256": "f05030a6de64b64c7a8dac50270fc88b38253cfa25331f36124f88b8e2fc4875",
+    "decode": "ok",
+    "visual_review": "主代理已查看"
+  },
+  {
+    "page": 12,
+    "source": "/workspace/generated_images/exec-884fa4d6-8d40-478e-b0bc-745aee626372.png",
+    "sources": [
+      "/workspace/generated_images/exec-3757b454-67c2-436a-a7b8-64b43a8ac64d.png",
+      "/workspace/generated_images/exec-884fa4d6-8d40-478e-b0bc-745aee626372.png"
+    ],
+    "file": "page-12.png",
+    "bytes": 2442843,
+    "resolution": [
+      1024,
+      1536
+    ],
+    "sha256": "d55d31344709d3fdc026f9f4cb6ac30b94ac1c2e7fa5cee35a3299c7c93129e4",
+    "decode": "ok",
+    "visual_review": "主代理已查看"
+  },
+  {
+    "page": 13,
+    "source": "/workspace/generated_images/exec-88430ad1-08cf-4a5f-b41e-7644cb878790.png",
+    "sources": [
+      "/workspace/generated_images/exec-7a90c120-c644-4519-af40-2c7d28a9ede9.png",
+      "/workspace/generated_images/exec-88430ad1-08cf-4a5f-b41e-7644cb878790.png"
+    ],
+    "file": "page-13.png",
+    "bytes": 2684097,
+    "resolution": [
+      1024,
+      1536
+    ],
+    "sha256": "148e44830fb1bc3a23252282a9700d0aaa9d72e68fecce9eacfe2a3872ade360",
+    "decode": "ok",
+    "visual_review": "主代理已查看"
+  },
+  {
+    "page": 14,
+    "source": "/workspace/generated_images/exec-b9ba22fc-a973-4f8f-b877-278c71efde8d.png",
+    "sources": [
+      "/workspace/generated_images/exec-b9ba22fc-a973-4f8f-b877-278c71efde8d.png"
+    ],
+    "file": "page-14.png",
+    "bytes": 2528130,
+    "resolution": [
+      1024,
+      1536
+    ],
+    "sha256": "2ba880aaaa50bd1310fdd6bc43d0bb7e9e7c9b9a3054983809e6fd35d548d6d8",
+    "decode": "ok",
+    "visual_review": "主代理已查看"
+  }
+]
