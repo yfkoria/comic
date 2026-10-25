@@ -1,0 +1,486 @@
+[
+  {
+    "page": 1,
+    "title": "少了一枚",
+    "layout": "5格：周一办公室；两枚特写；平静判断；下午补仿品；细线细节。",
+    "panels": [
+      [
+        "周一早晨，302办公室。爻光坐在整齐的文件桌前，查看木签筒，窗外秋光。她仍穿已批准的白色套装，左腕旧玉镯、右腕空净。",
+        "标题：第五话·不可测变量。字幕：周一早晨·302办公室。"
+      ],
+      [
+        "俯视小木签筒打开后的桌面，只有两枚旧铜钱，均为圆形方孔。画面内不要有第三枚铜钱图案、反光或装饰钱。",
+        "短内心：少了一枚。"
+      ],
+      [
+        "爻光近景，眼神冷静，未惊动别人；双手在画外。",
+        "无对白，不画愤怒、惊吓或恋爱表情。"
+      ],
+      [
+        "字幕切到当天下午。原来两枚旧铜钱加上新放的一枚做旧仿品，现在签筒旁总共三枚方孔钱；其中仿品边缘稍亮，右手裸手放下，左腕玉镯手在旁。",
+        "字幕：当天下午。小注：做旧的仿品。"
+      ],
+      [
+        "签筒底座一根极细线的放大细节，爻光用右手整理好；线只是普通追踪道具，没有发光魔法、机关武器或悬浮铜钱。",
+        "无对白，细线轻轻绷好。"
+      ]
+    ],
+    "source": "卷一第五章《乱卦》",
+    "prompt": "Create ONE finished full-colour Chinese manga PAGE for episode FIVE of 《绯色难测》, title 《不可测变量》. Exactly 1024×1536 portrait PNG, fine confident black linework, detailed warm Chinese school interiors and cool-blue evening windows, controlled rich soft cel shading. Match the approved references' exact faces, clothing and quality. This is sequential manga with ivory gutters, NOT a poster, character sheet or placeholder. Exact specified panel count, reading left-to-right within a row and top-to-bottom. Header “绯色难测 · 第五话”, footer correct two-digit page number. Only page01 has the episode title; only page14 ends “第五话 · 完”. Large accurate simplified Chinese lettering and clear speech tails.\n\nAPPROVED PEOPLE: Feiying 绯英 is an ADULT art teacher, early thirties with youthful appearance, fluffy layered pink short crown and long thin side locks, purple eyes, red bow and blossom clip. Berry-red cropped knit cardigan, ivory blouse, SEPARATE high-waisted slate-navy A-line midi skirt, thin taupe belt, charcoal tights, black loafers, small navy leather shoulder bag. NO pinafore/apron/suspenders/school uniform/animal ears/tail. Anatomical RIGHT hand WHITE FULL-FINGER glove; anatomical LEFT BLACK FINGERLESS glove exposing fingertips. Frontal view: white hand viewer LEFT, black hand viewer RIGHT. Show hands only when action needs them.\nYaoguang 爻光 is an ADULT grade director and maths teacher, silver-white long hair with pale blue/lilac shadows, curved bangs and outward side tufts, peacock-blue feather at anatomical RIGHT temple, iridescent violet/cyan/pale-gold eyes. Ivory blazer, white stand-collar below-knee dress, narrow teal belt, navy scarf at LEFT shoulder, gray low heels. BOTH HANDS BARE. Jade bangle on LEFT wrist ONLY. RIGHT wrist absolutely bare, no jade/watch/bracelet. Write, pick up and release coins using bare RIGHT hand; stabilize paper or hold coins with LEFT jade-wrist hand, never grow extra hands. Fan rests on table when doing coin/paper actions. Character name 爻 is Unicode U+723B, FOUR strokes, TWO stacked diagonal crosses 乂+乂, never the six-stroke traffic character 交.\nQingque 青雀 is a HIGH-SCHOOL GIRL, gray-green shoulder-length hair with straight fringe and two low side bunches, teal-green eyes, gray sleeping eye mask pushed to forehead after waking, white blouse, dark navy knit school vest, pale-teal bow, navy below-knee school skirt. Same girl as episode4's final-row eye-mask sleeper, not a child, not lilac-haired Bailu. Mathematics classroom high-two(1): partial views of rows, do not specify an exact class seat total; board in front; windows on LEFT overlooking big tree, front/back doors RIGHT; Qingque last row near windows. Fuxuan appears only as OFFSCREEN voice unless specified; no extra full teacher portrait.\n\nOBJECTS/COUNT CONTINUITY CRITICAL: square-holed round copper coins. Page01 first only TWO old coins; after fake replacement there are THREE. Page02 classroom under desk exactly THREE including one subtly brighter fake, NEVER four. Every divination scene shows exactly THREE visible coins total; no decorative extra coin patterns, reflections mistaken for coins, spare open coin box, or duplicates in the same panel. When coins are put in palm, remove them from desk. Clean plain shallow wooden tray is allowed, no coin-shaped carvings. In subjective thought inset only, an abstract ink-knot means unreadable; actual coins/tray/paper remain clean, no literal ink spill, magic glow, levitation, supernatural coin luck. Thin line is a quiet ordinary story clue, no magical tether. Phone has only a fictional loading screen, no real purchase, recharge, money or betting interface.\nSame small orange-line fox doodle with high upturned tail on ONE paper. Paper can cause recorded “乱/准/乱” sequence, but interpretation remains subjective; heroine never admits love and narration explicitly notes own feelings absent from variables. Concern is inability to calculate safety, not an instant romance. No hearts, romantic blush, confessions, touching, seduction, person transformed into fox or magical destiny effects.\n\nSPACE: offices 301 Feiying LEFT and302 Yaoguang RIGHT, one solid shared internal wall, one old reachable sliding ventilation window between rooms. No second vent on hallway front wall. Art classroom distinct large room, offices small. Night table uses desk lamp LEFT, folder/fan LEFT, phone RIGHT, central tray/log. Old divination log dark-blue; new research notebook light gray-blue cloth, distinguish them. Quiet work and pauses need meaningful expressions and props.\n\nTEXT: speaker prefixes “爻光：”“绯英：”“青雀：”“符玄画外：” are instructions ONLY; never print labels or actor names inside speech balloons, only actual spoken words. Similarly do not print instruction words like panel numbers, camera directions, 内心/旁白/字幕 labels. Correct tails must point to actual speaker, including offscreen speech. Handwritten records must be legible, accurate, not copied as random words. No English/watermark/signature or additional dialogue. Every person exactly TWO arms and TWO hands, natural fingers, no third hand.\n\nPAGE 01 — 少了一枚. EXACTLY 5 PANELS.\nLayout: 5格：周一办公室；两枚特写；平静判断；下午补仿品；细线细节。\nPanel 1 picture: 周一早晨，302办公室。爻光坐在整齐的文件桌前，查看木签筒，窗外秋光。她仍穿已批准的白色套装，左腕旧玉镯、右腕空净。\nPanel 1 intended text (role labels NOT printed): 标题：第五话·不可测变量。字幕：周一早晨·302办公室。\n\nPanel 2 picture: 俯视小木签筒打开后的桌面，只有两枚旧铜钱，均为圆形方孔。画面内不要有第三枚铜钱图案、反光或装饰钱。\nPanel 2 intended text (role labels NOT printed): 短内心：少了一枚。\n\nPanel 3 picture: 爻光近景，眼神冷静，未惊动别人；双手在画外。\nPanel 3 intended text (role labels NOT printed): 无对白，不画愤怒、惊吓或恋爱表情。\n\nPanel 4 picture: 字幕切到当天下午。原来两枚旧铜钱加上新放的一枚做旧仿品，现在签筒旁总共三枚方孔钱；其中仿品边缘稍亮，右手裸手放下，左腕玉镯手在旁。\nPanel 4 intended text (role labels NOT printed): 字幕：当天下午。小注：做旧的仿品。\n\nPanel 5 picture: 签筒底座一根极细线的放大细节，爻光用右手整理好；线只是普通追踪道具，没有发光魔法、机关武器或悬浮铜钱。\nPanel 5 intended text (role labels NOT printed): 无对白，细线轻轻绷好。\nFooter 01; exact 5 panels.",
+    "references": [
+      "参考/绯英校园版.png",
+      "参考/爻光校园版.png",
+      "参考/第三话办公室.png",
+      "参考/第一话夜桌.png"
+    ],
+    "status": "待生成"
+  },
+  {
+    "page": 2,
+    "title": "案发现场",
+    "layout": "5格：细线轻响；后门；倒数第一排；课桌底；双手合十。",
+    "panels": [
+      [
+        "次日课后，302桌边的细线轻轻一动，爻光抬眼。三枚铜钱已不在签筒旁，不再额外画桌面钱。",
+        "字幕：周二·下课后。小音效：嗒。"
+      ],
+      [
+        "爻光沿走廊到高二(1)班后门，透过门玻璃看进去，手放低，不做追捕姿态。教室窗在左、门在右。",
+        "门边：高二（1）班。"
+      ],
+      [
+        "最后一排靠窗，青雀已把灰色眼罩推到额前，偷偷弯身看课桌底。灰绿色齐肩发、两侧低束发束、青绿眼、白衬衣、深蓝针织背心、淡青领结、蓝色过膝校裙，高中生比例。",
+        "人物小标：青雀。"
+      ],
+      [
+        "课桌底清楚的俯视：恰好三枚方孔铜钱摆一圈，中间是手机，旁边一包辣条、半包薯片。三枚中有一枚边缘稍亮的仿品，不能多第四枚。手机仅为虚构加载画面。",
+        "屏幕：加载中。包装：辣条／薯片。"
+      ],
+      [
+        "青雀在自己的座位上双手合十，表情认真得有点好笑。桌下三钱不在此格重复特写，避免数量混乱。",
+        "青雀：欧皇附体，欧皇附体，十连必出金……"
+      ]
+    ],
+    "source": "卷一第五章《乱卦》",
+    "prompt": "Create ONE finished full-colour Chinese manga PAGE for episode FIVE of 《绯色难测》, title 《不可测变量》. Exactly 1024×1536 portrait PNG, fine confident black linework, detailed warm Chinese school interiors and cool-blue evening windows, controlled rich soft cel shading. Match the approved references' exact faces, clothing and quality. This is sequential manga with ivory gutters, NOT a poster, character sheet or placeholder. Exact specified panel count, reading left-to-right within a row and top-to-bottom. Header “绯色难测 · 第五话”, footer correct two-digit page number. Only page01 has the episode title; only page14 ends “第五话 · 完”. Large accurate simplified Chinese lettering and clear speech tails.\n\nAPPROVED PEOPLE: Feiying 绯英 is an ADULT art teacher, early thirties with youthful appearance, fluffy layered pink short crown and long thin side locks, purple eyes, red bow and blossom clip. Berry-red cropped knit cardigan, ivory blouse, SEPARATE high-waisted slate-navy A-line midi skirt, thin taupe belt, charcoal tights, black loafers, small navy leather shoulder bag. NO pinafore/apron/suspenders/school uniform/animal ears/tail. Anatomical RIGHT hand WHITE FULL-FINGER glove; anatomical LEFT BLACK FINGERLESS glove exposing fingertips. Frontal view: white hand viewer LEFT, black hand viewer RIGHT. Show hands only when action needs them.\nYaoguang 爻光 is an ADULT grade director and maths teacher, silver-white long hair with pale blue/lilac shadows, curved bangs and outward side tufts, peacock-blue feather at anatomical RIGHT temple, iridescent violet/cyan/pale-gold eyes. Ivory blazer, white stand-collar below-knee dress, narrow teal belt, navy scarf at LEFT shoulder, gray low heels. BOTH HANDS BARE. Jade bangle on LEFT wrist ONLY. RIGHT wrist absolutely bare, no jade/watch/bracelet. Write, pick up and release coins using bare RIGHT hand; stabilize paper or hold coins with LEFT jade-wrist hand, never grow extra hands. Fan rests on table when doing coin/paper actions. Character name 爻 is Unicode U+723B, FOUR strokes, TWO stacked diagonal crosses 乂+乂, never the six-stroke traffic character 交.\nQingque 青雀 is a HIGH-SCHOOL GIRL, gray-green shoulder-length hair with straight fringe and two low side bunches, teal-green eyes, gray sleeping eye mask pushed to forehead after waking, white blouse, dark navy knit school vest, pale-teal bow, navy below-knee school skirt. Same girl as episode4's final-row eye-mask sleeper, not a child, not lilac-haired Bailu. Mathematics classroom high-two(1): partial views of rows, do not specify an exact class seat total; board in front; windows on LEFT overlooking big tree, front/back doors RIGHT; Qingque last row near windows. Fuxuan appears only as OFFSCREEN voice unless specified; no extra full teacher portrait.\n\nOBJECTS/COUNT CONTINUITY CRITICAL: square-holed round copper coins. Page01 first only TWO old coins; after fake replacement there are THREE. Page02 classroom under desk exactly THREE including one subtly brighter fake, NEVER four. Every divination scene shows exactly THREE visible coins total; no decorative extra coin patterns, reflections mistaken for coins, spare open coin box, or duplicates in the same panel. When coins are put in palm, remove them from desk. Clean plain shallow wooden tray is allowed, no coin-shaped carvings. In subjective thought inset only, an abstract ink-knot means unreadable; actual coins/tray/paper remain clean, no literal ink spill, magic glow, levitation, supernatural coin luck. Thin line is a quiet ordinary story clue, no magical tether. Phone has only a fictional loading screen, no real purchase, recharge, money or betting interface.\nSame small orange-line fox doodle with high upturned tail on ONE paper. Paper can cause recorded “乱/准/乱” sequence, but interpretation remains subjective; heroine never admits love and narration explicitly notes own feelings absent from variables. Concern is inability to calculate safety, not an instant romance. No hearts, romantic blush, confessions, touching, seduction, person transformed into fox or magical destiny effects.\n\nSPACE: offices 301 Feiying LEFT and302 Yaoguang RIGHT, one solid shared internal wall, one old reachable sliding ventilation window between rooms. No second vent on hallway front wall. Art classroom distinct large room, offices small. Night table uses desk lamp LEFT, folder/fan LEFT, phone RIGHT, central tray/log. Old divination log dark-blue; new research notebook light gray-blue cloth, distinguish them. Quiet work and pauses need meaningful expressions and props.\n\nTEXT: speaker prefixes “爻光：”“绯英：”“青雀：”“符玄画外：” are instructions ONLY; never print labels or actor names inside speech balloons, only actual spoken words. Similarly do not print instruction words like panel numbers, camera directions, 内心/旁白/字幕 labels. Correct tails must point to actual speaker, including offscreen speech. Handwritten records must be legible, accurate, not copied as random words. No English/watermark/signature or additional dialogue. Every person exactly TWO arms and TWO hands, natural fingers, no third hand.\n\nPAGE 02 — 案发现场. EXACTLY 5 PANELS.\nLayout: 5格：细线轻响；后门；倒数第一排；课桌底；双手合十。\nPanel 1 picture: 次日课后，302桌边的细线轻轻一动，爻光抬眼。三枚铜钱已不在签筒旁，不再额外画桌面钱。\nPanel 1 intended text (role labels NOT printed): 字幕：周二·下课后。小音效：嗒。\n\nPanel 2 picture: 爻光沿走廊到高二(1)班后门，透过门玻璃看进去，手放低，不做追捕姿态。教室窗在左、门在右。\nPanel 2 intended text (role labels NOT printed): 门边：高二（1）班。\n\nPanel 3 picture: 最后一排靠窗，青雀已把灰色眼罩推到额前，偷偷弯身看课桌底。灰绿色齐肩发、两侧低束发束、青绿眼、白衬衣、深蓝针织背心、淡青领结、蓝色过膝校裙，高中生比例。\nPanel 3 intended text (role labels NOT printed): 人物小标：青雀。\n\nPanel 4 picture: 课桌底清楚的俯视：恰好三枚方孔铜钱摆一圈，中间是手机，旁边一包辣条、半包薯片。三枚中有一枚边缘稍亮的仿品，不能多第四枚。手机仅为虚构加载画面。\nPanel 4 intended text (role labels NOT printed): 屏幕：加载中。包装：辣条／薯片。\n\nPanel 5 picture: 青雀在自己的座位上双手合十，表情认真得有点好笑。桌下三钱不在此格重复特写，避免数量混乱。\nPanel 5 intended text (role labels NOT printed): 青雀：欧皇附体，欧皇附体，十连必出金……\nFooter 02; exact 5 panels.",
+    "references": [
+      "page-01.png",
+      "参考/青雀课堂同设.png"
+    ],
+    "status": "待生成",
+    "reference_notes": "青雀课堂同设仅用于复用第四话窗边灰绿发眼罩女生样貌；其他参考字形/数学板书/左右腕误差不作成稿依据。"
+  },
+  {
+    "page": 3,
+    "title": "物理实验",
+    "layout": "4格：推门；回头；叫名；挪手机辩解。",
+    "panels": [
+      [
+        "爻光推开后门进教室，学生们的读书动作停一下。后排空间与青雀座位一致，老师不是突然出现在学生桌下。",
+        "旁白：读书声戛然而止。"
+      ],
+      [
+        "青雀仍保持两手合十，慢慢回头看老师，灰眼罩在额前；不能多出第三只手。",
+        "无对白，给发现自己被抓的一拍。"
+      ],
+      [
+        "爻光站在桌侧，上半身近景，平静指出位置。双手不出镜。",
+        "爻光：青雀。课桌底下。"
+      ],
+      [
+        "青雀拿开手机，身体稍挡课桌底，试图一本正经解释；铜钱仍只有桌下那三枚，不在手里增加。",
+        "青雀：老、老师……我在做物理实验。"
+      ]
+    ],
+    "source": "卷一第五章《乱卦》",
+    "prompt": "Create ONE finished full-colour Chinese manga PAGE for episode FIVE of 《绯色难测》, title 《不可测变量》. Exactly 1024×1536 portrait PNG, fine confident black linework, detailed warm Chinese school interiors and cool-blue evening windows, controlled rich soft cel shading. Match the approved references' exact faces, clothing and quality. This is sequential manga with ivory gutters, NOT a poster, character sheet or placeholder. Exact specified panel count, reading left-to-right within a row and top-to-bottom. Header “绯色难测 · 第五话”, footer correct two-digit page number. Only page01 has the episode title; only page14 ends “第五话 · 完”. Large accurate simplified Chinese lettering and clear speech tails.\n\nAPPROVED PEOPLE: Feiying 绯英 is an ADULT art teacher, early thirties with youthful appearance, fluffy layered pink short crown and long thin side locks, purple eyes, red bow and blossom clip. Berry-red cropped knit cardigan, ivory blouse, SEPARATE high-waisted slate-navy A-line midi skirt, thin taupe belt, charcoal tights, black loafers, small navy leather shoulder bag. NO pinafore/apron/suspenders/school uniform/animal ears/tail. Anatomical RIGHT hand WHITE FULL-FINGER glove; anatomical LEFT BLACK FINGERLESS glove exposing fingertips. Frontal view: white hand viewer LEFT, black hand viewer RIGHT. Show hands only when action needs them.\nYaoguang 爻光 is an ADULT grade director and maths teacher, silver-white long hair with pale blue/lilac shadows, curved bangs and outward side tufts, peacock-blue feather at anatomical RIGHT temple, iridescent violet/cyan/pale-gold eyes. Ivory blazer, white stand-collar below-knee dress, narrow teal belt, navy scarf at LEFT shoulder, gray low heels. BOTH HANDS BARE. Jade bangle on LEFT wrist ONLY. RIGHT wrist absolutely bare, no jade/watch/bracelet. Write, pick up and release coins using bare RIGHT hand; stabilize paper or hold coins with LEFT jade-wrist hand, never grow extra hands. Fan rests on table when doing coin/paper actions. Character name 爻 is Unicode U+723B, FOUR strokes, TWO stacked diagonal crosses 乂+乂, never the six-stroke traffic character 交.\nQingque 青雀 is a HIGH-SCHOOL GIRL, gray-green shoulder-length hair with straight fringe and two low side bunches, teal-green eyes, gray sleeping eye mask pushed to forehead after waking, white blouse, dark navy knit school vest, pale-teal bow, navy below-knee school skirt. Same girl as episode4's final-row eye-mask sleeper, not a child, not lilac-haired Bailu. Mathematics classroom high-two(1): partial views of rows, do not specify an exact class seat total; board in front; windows on LEFT overlooking big tree, front/back doors RIGHT; Qingque last row near windows. Fuxuan appears only as OFFSCREEN voice unless specified; no extra full teacher portrait.\n\nOBJECTS/COUNT CONTINUITY CRITICAL: square-holed round copper coins. Page01 first only TWO old coins; after fake replacement there are THREE. Page02 classroom under desk exactly THREE including one subtly brighter fake, NEVER four. Every divination scene shows exactly THREE visible coins total; no decorative extra coin patterns, reflections mistaken for coins, spare open coin box, or duplicates in the same panel. When coins are put in palm, remove them from desk. Clean plain shallow wooden tray is allowed, no coin-shaped carvings. In subjective thought inset only, an abstract ink-knot means unreadable; actual coins/tray/paper remain clean, no literal ink spill, magic glow, levitation, supernatural coin luck. Thin line is a quiet ordinary story clue, no magical tether. Phone has only a fictional loading screen, no real purchase, recharge, money or betting interface.\nSame small orange-line fox doodle with high upturned tail on ONE paper. Paper can cause recorded “乱/准/乱” sequence, but interpretation remains subjective; heroine never admits love and narration explicitly notes own feelings absent from variables. Concern is inability to calculate safety, not an instant romance. No hearts, romantic blush, confessions, touching, seduction, person transformed into fox or magical destiny effects.\n\nSPACE: offices 301 Feiying LEFT and302 Yaoguang RIGHT, one solid shared internal wall, one old reachable sliding ventilation window between rooms. No second vent on hallway front wall. Art classroom distinct large room, offices small. Night table uses desk lamp LEFT, folder/fan LEFT, phone RIGHT, central tray/log. Old divination log dark-blue; new research notebook light gray-blue cloth, distinguish them. Quiet work and pauses need meaningful expressions and props.\n\nTEXT: speaker prefixes “爻光：”“绯英：”“青雀：”“符玄画外：” are instructions ONLY; never print labels or actor names inside speech balloons, only actual spoken words. Similarly do not print instruction words like panel numbers, camera directions, 内心/旁白/字幕 labels. Correct tails must point to actual speaker, including offscreen speech. Handwritten records must be legible, accurate, not copied as random words. No English/watermark/signature or additional dialogue. Every person exactly TWO arms and TWO hands, natural fingers, no third hand.\n\nPAGE 03 — 物理实验. EXACTLY 4 PANELS.\nLayout: 4格：推门；回头；叫名；挪手机辩解。\nPanel 1 picture: 爻光推开后门进教室，学生们的读书动作停一下。后排空间与青雀座位一致，老师不是突然出现在学生桌下。\nPanel 1 intended text (role labels NOT printed): 旁白：读书声戛然而止。\n\nPanel 2 picture: 青雀仍保持两手合十，慢慢回头看老师，灰眼罩在额前；不能多出第三只手。\nPanel 2 intended text (role labels NOT printed): 无对白，给发现自己被抓的一拍。\n\nPanel 3 picture: 爻光站在桌侧，上半身近景，平静指出位置。双手不出镜。\nPanel 3 intended text (role labels NOT printed): 爻光：青雀。课桌底下。\n\nPanel 4 picture: 青雀拿开手机，身体稍挡课桌底，试图一本正经解释；铜钱仍只有桌下那三枚，不在手里增加。\nPanel 4 intended text (role labels NOT printed): 青雀：老、老师……我在做物理实验。\nFooter 03; exact 4 panels.",
+    "references": [
+      "page-01.png",
+      "参考/青雀课堂同设.png"
+    ],
+    "status": "待生成",
+    "corrections": [
+      "青雀被抓的称呼采用老、老师……，保留结巴语气，防止绘图罕用爻字误写交；角色仍为爻光，不更改人物名。"
+    ],
+    "reference_notes": "青雀课堂同设仅用于复用第四话窗边灰绿发眼罩女生样貌；其他参考字形/数学板书/左右腕误差不作成稿依据。"
+  },
+  {
+    "page": 4,
+    "title": "贡品也是文物",
+    "layout": "5格：老师追问；学生改口；零食；停顿；坦白。",
+    "panels": [
+      [
+        "爻光微低头看课桌底，神情仍很稳定。",
+        "爻光：物理实验用乾隆通宝？"
+      ],
+      [
+        "青雀维持正经表情，想出第二个说法。",
+        "青雀：……历史文物研究。"
+      ],
+      [
+        "零食包装和老师视线同框，重点是辣条、薯片，手机已被移到桌面，铜钱只在桌下三枚。",
+        "爻光：贡品也是文物？"
+      ],
+      [
+        "青雀眼神停两秒，肩膀轻轻一塌，像终于决定说实话。",
+        "无对白，保留两秒钟的喜剧空拍。"
+      ],
+      [
+        "青雀坦白，双手放在桌边，不再继续遮挡；旁边同学忍笑但没有恶意羞辱。",
+        "青雀：贿赂。贿赂神明。"
+      ]
+    ],
+    "source": "卷一第五章《乱卦》",
+    "prompt": "Create ONE finished full-colour Chinese manga PAGE for episode FIVE of 《绯色难测》, title 《不可测变量》. Exactly 1024×1536 portrait PNG, fine confident black linework, detailed warm Chinese school interiors and cool-blue evening windows, controlled rich soft cel shading. Match the approved references' exact faces, clothing and quality. This is sequential manga with ivory gutters, NOT a poster, character sheet or placeholder. Exact specified panel count, reading left-to-right within a row and top-to-bottom. Header “绯色难测 · 第五话”, footer correct two-digit page number. Only page01 has the episode title; only page14 ends “第五话 · 完”. Large accurate simplified Chinese lettering and clear speech tails.\n\nAPPROVED PEOPLE: Feiying 绯英 is an ADULT art teacher, early thirties with youthful appearance, fluffy layered pink short crown and long thin side locks, purple eyes, red bow and blossom clip. Berry-red cropped knit cardigan, ivory blouse, SEPARATE high-waisted slate-navy A-line midi skirt, thin taupe belt, charcoal tights, black loafers, small navy leather shoulder bag. NO pinafore/apron/suspenders/school uniform/animal ears/tail. Anatomical RIGHT hand WHITE FULL-FINGER glove; anatomical LEFT BLACK FINGERLESS glove exposing fingertips. Frontal view: white hand viewer LEFT, black hand viewer RIGHT. Show hands only when action needs them.\nYaoguang 爻光 is an ADULT grade director and maths teacher, silver-white long hair with pale blue/lilac shadows, curved bangs and outward side tufts, peacock-blue feather at anatomical RIGHT temple, iridescent violet/cyan/pale-gold eyes. Ivory blazer, white stand-collar below-knee dress, narrow teal belt, navy scarf at LEFT shoulder, gray low heels. BOTH HANDS BARE. Jade bangle on LEFT wrist ONLY. RIGHT wrist absolutely bare, no jade/watch/bracelet. Write, pick up and release coins using bare RIGHT hand; stabilize paper or hold coins with LEFT jade-wrist hand, never grow extra hands. Fan rests on table when doing coin/paper actions. Character name 爻 is Unicode U+723B, FOUR strokes, TWO stacked diagonal crosses 乂+乂, never the six-stroke traffic character 交.\nQingque 青雀 is a HIGH-SCHOOL GIRL, gray-green shoulder-length hair with straight fringe and two low side bunches, teal-green eyes, gray sleeping eye mask pushed to forehead after waking, white blouse, dark navy knit school vest, pale-teal bow, navy below-knee school skirt. Same girl as episode4's final-row eye-mask sleeper, not a child, not lilac-haired Bailu. Mathematics classroom high-two(1): partial views of rows, do not specify an exact class seat total; board in front; windows on LEFT overlooking big tree, front/back doors RIGHT; Qingque last row near windows. Fuxuan appears only as OFFSCREEN voice unless specified; no extra full teacher portrait.\n\nOBJECTS/COUNT CONTINUITY CRITICAL: square-holed round copper coins. Page01 first only TWO old coins; after fake replacement there are THREE. Page02 classroom under desk exactly THREE including one subtly brighter fake, NEVER four. Every divination scene shows exactly THREE visible coins total; no decorative extra coin patterns, reflections mistaken for coins, spare open coin box, or duplicates in the same panel. When coins are put in palm, remove them from desk. Clean plain shallow wooden tray is allowed, no coin-shaped carvings. In subjective thought inset only, an abstract ink-knot means unreadable; actual coins/tray/paper remain clean, no literal ink spill, magic glow, levitation, supernatural coin luck. Thin line is a quiet ordinary story clue, no magical tether. Phone has only a fictional loading screen, no real purchase, recharge, money or betting interface.\nSame small orange-line fox doodle with high upturned tail on ONE paper. Paper can cause recorded “乱/准/乱” sequence, but interpretation remains subjective; heroine never admits love and narration explicitly notes own feelings absent from variables. Concern is inability to calculate safety, not an instant romance. No hearts, romantic blush, confessions, touching, seduction, person transformed into fox or magical destiny effects.\n\nSPACE: offices 301 Feiying LEFT and302 Yaoguang RIGHT, one solid shared internal wall, one old reachable sliding ventilation window between rooms. No second vent on hallway front wall. Art classroom distinct large room, offices small. Night table uses desk lamp LEFT, folder/fan LEFT, phone RIGHT, central tray/log. Old divination log dark-blue; new research notebook light gray-blue cloth, distinguish them. Quiet work and pauses need meaningful expressions and props.\n\nTEXT: speaker prefixes “爻光：”“绯英：”“青雀：”“符玄画外：” are instructions ONLY; never print labels or actor names inside speech balloons, only actual spoken words. Similarly do not print instruction words like panel numbers, camera directions, 内心/旁白/字幕 labels. Correct tails must point to actual speaker, including offscreen speech. Handwritten records must be legible, accurate, not copied as random words. No English/watermark/signature or additional dialogue. Every person exactly TWO arms and TWO hands, natural fingers, no third hand.\n\nPAGE 04 — 贡品也是文物. EXACTLY 5 PANELS.\nLayout: 5格：老师追问；学生改口；零食；停顿；坦白。\nPanel 1 picture: 爻光微低头看课桌底，神情仍很稳定。\nPanel 1 intended text (role labels NOT printed): 爻光：物理实验用乾隆通宝？\n\nPanel 2 picture: 青雀维持正经表情，想出第二个说法。\nPanel 2 intended text (role labels NOT printed): 青雀：……历史文物研究。\n\nPanel 3 picture: 零食包装和老师视线同框，重点是辣条、薯片，手机已被移到桌面，铜钱只在桌下三枚。\nPanel 3 intended text (role labels NOT printed): 爻光：贡品也是文物？\n\nPanel 4 picture: 青雀眼神停两秒，肩膀轻轻一塌，像终于决定说实话。\nPanel 4 intended text (role labels NOT printed): 无对白，保留两秒钟的喜剧空拍。\n\nPanel 5 picture: 青雀坦白，双手放在桌边，不再继续遮挡；旁边同学忍笑但没有恶意羞辱。\nPanel 5 intended text (role labels NOT printed): 青雀：贿赂。贿赂神明。\nFooter 04; exact 5 panels.",
+    "references": [
+      "page-01.png",
+      "参考/青雀课堂同设.png"
+    ],
+    "status": "待生成",
+    "corrections": [
+      "首格前景伸入桌下为右腕，必须空净；左手扶桌边腕保留唯一玉镯。"
+    ],
+    "reference_notes": "青雀课堂同设仅用于复用第四话窗边灰绿发眼罩女生样貌；其他参考字形/数学板书/左右腕误差不作成稿依据。"
+  },
+  {
+    "page": 5,
+    "title": "为什么这三枚",
+    "layout": "5格：站起；收回钱；问理由；直觉回答；老师判断。",
+    "panels": [
+      [
+        "爻光示意青雀站起来。青雀站在课桌旁，仍是高中生身材，灰眼罩未戴回眼上。",
+        "爻光：站起来。"
+      ],
+      [
+        "爻光已将桌下恰好三枚方孔钱全部收在张开的左掌，左腕玉镯可见；右手空腕刚收回。桌下不再留任何铜钱。",
+        "无对白，三枚必须能数清。"
+      ],
+      [
+        "爻光看青雀，认真问原因，语气不是审问威胁。",
+        "爻光：全校铜钱上千枚。为什么偏偏偷本座这三枚？"
+      ],
+      [
+        "青雀脱口而出，表情诚恳而带一点睡意。",
+        "青雀：因为您天天揣着啊。摸了十几年，运气都盘进去了。粉笔又不会赢。"
+      ],
+      [
+        "几位学生发出零星笑意，爻光没有跟着笑，眼神在旧铜钱上停一下；只画左掌三枚。",
+        "爻光内心：器物本身不带概率。小注：稳定性、惯用、高频接触。"
+      ]
+    ],
+    "source": "卷一第五章《乱卦》",
+    "prompt": "Create ONE finished full-colour Chinese manga PAGE for episode FIVE of 《绯色难测》, title 《不可测变量》. Exactly 1024×1536 portrait PNG, fine confident black linework, detailed warm Chinese school interiors and cool-blue evening windows, controlled rich soft cel shading. Match the approved references' exact faces, clothing and quality. This is sequential manga with ivory gutters, NOT a poster, character sheet or placeholder. Exact specified panel count, reading left-to-right within a row and top-to-bottom. Header “绯色难测 · 第五话”, footer correct two-digit page number. Only page01 has the episode title; only page14 ends “第五话 · 完”. Large accurate simplified Chinese lettering and clear speech tails.\n\nAPPROVED PEOPLE: Feiying 绯英 is an ADULT art teacher, early thirties with youthful appearance, fluffy layered pink short crown and long thin side locks, purple eyes, red bow and blossom clip. Berry-red cropped knit cardigan, ivory blouse, SEPARATE high-waisted slate-navy A-line midi skirt, thin taupe belt, charcoal tights, black loafers, small navy leather shoulder bag. NO pinafore/apron/suspenders/school uniform/animal ears/tail. Anatomical RIGHT hand WHITE FULL-FINGER glove; anatomical LEFT BLACK FINGERLESS glove exposing fingertips. Frontal view: white hand viewer LEFT, black hand viewer RIGHT. Show hands only when action needs them.\nYaoguang 爻光 is an ADULT grade director and maths teacher, silver-white long hair with pale blue/lilac shadows, curved bangs and outward side tufts, peacock-blue feather at anatomical RIGHT temple, iridescent violet/cyan/pale-gold eyes. Ivory blazer, white stand-collar below-knee dress, narrow teal belt, navy scarf at LEFT shoulder, gray low heels. BOTH HANDS BARE. Jade bangle on LEFT wrist ONLY. RIGHT wrist absolutely bare, no jade/watch/bracelet. Write, pick up and release coins using bare RIGHT hand; stabilize paper or hold coins with LEFT jade-wrist hand, never grow extra hands. Fan rests on table when doing coin/paper actions. Character name 爻 is Unicode U+723B, FOUR strokes, TWO stacked diagonal crosses 乂+乂, never the six-stroke traffic character 交.\nQingque 青雀 is a HIGH-SCHOOL GIRL, gray-green shoulder-length hair with straight fringe and two low side bunches, teal-green eyes, gray sleeping eye mask pushed to forehead after waking, white blouse, dark navy knit school vest, pale-teal bow, navy below-knee school skirt. Same girl as episode4's final-row eye-mask sleeper, not a child, not lilac-haired Bailu. Mathematics classroom high-two(1): partial views of rows, do not specify an exact class seat total; board in front; windows on LEFT overlooking big tree, front/back doors RIGHT; Qingque last row near windows. Fuxuan appears only as OFFSCREEN voice unless specified; no extra full teacher portrait.\n\nOBJECTS/COUNT CONTINUITY CRITICAL: square-holed round copper coins. Page01 first only TWO old coins; after fake replacement there are THREE. Page02 classroom under desk exactly THREE including one subtly brighter fake, NEVER four. Every divination scene shows exactly THREE visible coins total; no decorative extra coin patterns, reflections mistaken for coins, spare open coin box, or duplicates in the same panel. When coins are put in palm, remove them from desk. Clean plain shallow wooden tray is allowed, no coin-shaped carvings. In subjective thought inset only, an abstract ink-knot means unreadable; actual coins/tray/paper remain clean, no literal ink spill, magic glow, levitation, supernatural coin luck. Thin line is a quiet ordinary story clue, no magical tether. Phone has only a fictional loading screen, no real purchase, recharge, money or betting interface.\nSame small orange-line fox doodle with high upturned tail on ONE paper. Paper can cause recorded “乱/准/乱” sequence, but interpretation remains subjective; heroine never admits love and narration explicitly notes own feelings absent from variables. Concern is inability to calculate safety, not an instant romance. No hearts, romantic blush, confessions, touching, seduction, person transformed into fox or magical destiny effects.\n\nSPACE: offices 301 Feiying LEFT and302 Yaoguang RIGHT, one solid shared internal wall, one old reachable sliding ventilation window between rooms. No second vent on hallway front wall. Art classroom distinct large room, offices small. Night table uses desk lamp LEFT, folder/fan LEFT, phone RIGHT, central tray/log. Old divination log dark-blue; new research notebook light gray-blue cloth, distinguish them. Quiet work and pauses need meaningful expressions and props.\n\nTEXT: speaker prefixes “爻光：”“绯英：”“青雀：”“符玄画外：” are instructions ONLY; never print labels or actor names inside speech balloons, only actual spoken words. Similarly do not print instruction words like panel numbers, camera directions, 内心/旁白/字幕 labels. Correct tails must point to actual speaker, including offscreen speech. Handwritten records must be legible, accurate, not copied as random words. No English/watermark/signature or additional dialogue. Every person exactly TWO arms and TWO hands, natural fingers, no third hand.\n\nPAGE 05 — 为什么这三枚. EXACTLY 5 PANELS.\nLayout: 5格：站起；收回钱；问理由；直觉回答；老师判断。\nPanel 1 picture: 爻光示意青雀站起来。青雀站在课桌旁，仍是高中生身材，灰眼罩未戴回眼上。\nPanel 1 intended text (role labels NOT printed): 爻光：站起来。\n\nPanel 2 picture: 爻光已将桌下恰好三枚方孔钱全部收在张开的左掌，左腕玉镯可见；右手空腕刚收回。桌下不再留任何铜钱。\nPanel 2 intended text (role labels NOT printed): 无对白，三枚必须能数清。\n\nPanel 3 picture: 爻光看青雀，认真问原因，语气不是审问威胁。\nPanel 3 intended text (role labels NOT printed): 爻光：全校铜钱上千枚。为什么偏偏偷本座这三枚？\n\nPanel 4 picture: 青雀脱口而出，表情诚恳而带一点睡意。\nPanel 4 intended text (role labels NOT printed): 青雀：因为您天天揣着啊。摸了十几年，运气都盘进去了。粉笔又不会赢。\n\nPanel 5 picture: 几位学生发出零星笑意，爻光没有跟着笑，眼神在旧铜钱上停一下；只画左掌三枚。\nPanel 5 intended text (role labels NOT printed): 爻光内心：器物本身不带概率。小注：稳定性、惯用、高频接触。\nFooter 05; exact 5 panels.",
+    "references": [
+      "page-01.png",
+      "参考/青雀课堂同设.png"
+    ],
+    "status": "待生成",
+    "corrections": [
+      "青雀对白因为您天天揣着啊，校字误差已改；内心不打印小注标签。"
+    ],
+    "reference_notes": "青雀课堂同设仅用于复用第四话窗边灰绿发眼罩女生样貌；其他参考字形/数学板书/左右腕误差不作成稿依据。"
+  },
+  {
+    "page": 6,
+    "title": "新任课代表",
+    "layout": "5格：宣布；清醒；条件；补钱求饶；按章办理。",
+    "panels": [
+      [
+        "爻光将三枚钱全部收好，不再在此页展示多余钱币，面对青雀宣布安排。",
+        "爻光：从今天起，做本座的课代表。"
+      ],
+      [
+        "青雀瞬间清醒，眼睛睁大，身体仍站稳在桌边。",
+        "青雀：啊？？"
+      ],
+      [
+        "爻光用简洁工作语气逐项说清，板书只给三个短栏目。",
+        "爻光：每日一题，错题本一册，每周五与本座对弈一局。"
+      ],
+      [
+        "青雀急忙认错；老师已经转身走向后门，保持正常距离。",
+        "青雀：我补两枚！我补十枚！爻光：晚了。本座已经报备教务处。"
+      ],
+      [
+        "青雀望向门口，走廊只有文件一角或符玄的小剪影，画外声音平静；不新画陌生老师全身。",
+        "青雀：符主任批的？！符玄画外：按章办理。"
+      ]
+    ],
+    "source": "卷一第五章《乱卦》",
+    "prompt": "Create ONE finished full-colour Chinese manga PAGE for episode FIVE of 《绯色难测》, title 《不可测变量》. Exactly 1024×1536 portrait PNG, fine confident black linework, detailed warm Chinese school interiors and cool-blue evening windows, controlled rich soft cel shading. Match the approved references' exact faces, clothing and quality. This is sequential manga with ivory gutters, NOT a poster, character sheet or placeholder. Exact specified panel count, reading left-to-right within a row and top-to-bottom. Header “绯色难测 · 第五话”, footer correct two-digit page number. Only page01 has the episode title; only page14 ends “第五话 · 完”. Large accurate simplified Chinese lettering and clear speech tails.\n\nAPPROVED PEOPLE: Feiying 绯英 is an ADULT art teacher, early thirties with youthful appearance, fluffy layered pink short crown and long thin side locks, purple eyes, red bow and blossom clip. Berry-red cropped knit cardigan, ivory blouse, SEPARATE high-waisted slate-navy A-line midi skirt, thin taupe belt, charcoal tights, black loafers, small navy leather shoulder bag. NO pinafore/apron/suspenders/school uniform/animal ears/tail. Anatomical RIGHT hand WHITE FULL-FINGER glove; anatomical LEFT BLACK FINGERLESS glove exposing fingertips. Frontal view: white hand viewer LEFT, black hand viewer RIGHT. Show hands only when action needs them.\nYaoguang 爻光 is an ADULT grade director and maths teacher, silver-white long hair with pale blue/lilac shadows, curved bangs and outward side tufts, peacock-blue feather at anatomical RIGHT temple, iridescent violet/cyan/pale-gold eyes. Ivory blazer, white stand-collar below-knee dress, narrow teal belt, navy scarf at LEFT shoulder, gray low heels. BOTH HANDS BARE. Jade bangle on LEFT wrist ONLY. RIGHT wrist absolutely bare, no jade/watch/bracelet. Write, pick up and release coins using bare RIGHT hand; stabilize paper or hold coins with LEFT jade-wrist hand, never grow extra hands. Fan rests on table when doing coin/paper actions. Character name 爻 is Unicode U+723B, FOUR strokes, TWO stacked diagonal crosses 乂+乂, never the six-stroke traffic character 交.\nQingque 青雀 is a HIGH-SCHOOL GIRL, gray-green shoulder-length hair with straight fringe and two low side bunches, teal-green eyes, gray sleeping eye mask pushed to forehead after waking, white blouse, dark navy knit school vest, pale-teal bow, navy below-knee school skirt. Same girl as episode4's final-row eye-mask sleeper, not a child, not lilac-haired Bailu. Mathematics classroom high-two(1): partial views of rows, do not specify an exact class seat total; board in front; windows on LEFT overlooking big tree, front/back doors RIGHT; Qingque last row near windows. Fuxuan appears only as OFFSCREEN voice unless specified; no extra full teacher portrait.\n\nOBJECTS/COUNT CONTINUITY CRITICAL: square-holed round copper coins. Page01 first only TWO old coins; after fake replacement there are THREE. Page02 classroom under desk exactly THREE including one subtly brighter fake, NEVER four. Every divination scene shows exactly THREE visible coins total; no decorative extra coin patterns, reflections mistaken for coins, spare open coin box, or duplicates in the same panel. When coins are put in palm, remove them from desk. Clean plain shallow wooden tray is allowed, no coin-shaped carvings. In subjective thought inset only, an abstract ink-knot means unreadable; actual coins/tray/paper remain clean, no literal ink spill, magic glow, levitation, supernatural coin luck. Thin line is a quiet ordinary story clue, no magical tether. Phone has only a fictional loading screen, no real purchase, recharge, money or betting interface.\nSame small orange-line fox doodle with high upturned tail on ONE paper. Paper can cause recorded “乱/准/乱” sequence, but interpretation remains subjective; heroine never admits love and narration explicitly notes own feelings absent from variables. Concern is inability to calculate safety, not an instant romance. No hearts, romantic blush, confessions, touching, seduction, person transformed into fox or magical destiny effects.\n\nSPACE: offices 301 Feiying LEFT and302 Yaoguang RIGHT, one solid shared internal wall, one old reachable sliding ventilation window between rooms. No second vent on hallway front wall. Art classroom distinct large room, offices small. Night table uses desk lamp LEFT, folder/fan LEFT, phone RIGHT, central tray/log. Old divination log dark-blue; new research notebook light gray-blue cloth, distinguish them. Quiet work and pauses need meaningful expressions and props.\n\nTEXT: speaker prefixes “爻光：”“绯英：”“青雀：”“符玄画外：” are instructions ONLY; never print labels or actor names inside speech balloons, only actual spoken words. Similarly do not print instruction words like panel numbers, camera directions, 内心/旁白/字幕 labels. Correct tails must point to actual speaker, including offscreen speech. Handwritten records must be legible, accurate, not copied as random words. No English/watermark/signature or additional dialogue. Every person exactly TWO arms and TWO hands, natural fingers, no third hand.\n\nPAGE 06 — 新任课代表. EXACTLY 5 PANELS.\nLayout: 5格：宣布；清醒；条件；补钱求饶；按章办理。\nPanel 1 picture: 爻光将三枚钱全部收好，不再在此页展示多余钱币，面对青雀宣布安排。\nPanel 1 intended text (role labels NOT printed): 爻光：从今天起，做本座的课代表。\n\nPanel 2 picture: 青雀瞬间清醒，眼睛睁大，身体仍站稳在桌边。\nPanel 2 intended text (role labels NOT printed): 青雀：啊？？\n\nPanel 3 picture: 爻光用简洁工作语气逐项说清，板书只给三个短栏目。\nPanel 3 intended text (role labels NOT printed): 爻光：每日一题，错题本一册，每周五与本座对弈一局。\n\nPanel 4 picture: 青雀急忙认错；老师已经转身走向后门，保持正常距离。\nPanel 4 intended text (role labels NOT printed): 青雀：我补两枚！我补十枚！爻光：晚了。本座已经报备教务处。\n\nPanel 5 picture: 青雀望向门口，走廊只有文件一角或符玄的小剪影，画外声音平静；不新画陌生老师全身。\nPanel 5 intended text (role labels NOT printed): 青雀：符主任批的？！符玄画外：按章办理。\nFooter 06; exact 5 panels.",
+    "references": [
+      "page-01.png",
+      "参考/青雀课堂同设.png"
+    ],
+    "status": "待生成",
+    "corrections": [
+      "第三格右手执粉笔腕不戴玉镯，第一格左腕镯保留。"
+    ],
+    "reference_notes": "青雀课堂同设仅用于复用第四话窗边灰绿发眼罩女生样貌；其他参考字形/数学板书/左右腕误差不作成稿依据。"
+  },
+  {
+    "page": 7,
+    "title": "正确，但作业不算",
+    "layout": "4格：稍后的题目；结论；批语；周二夜间。",
+    "panels": [
+      [
+        "稍后，青雀在后排认真写第一份每日一题，桌上是数学本，手机收起，灰眼罩推到额前。",
+        "字幕：稍后。题目页：十连出金的期望成本。"
+      ],
+      [
+        "作业本近景，计算用简洁不强调具体花费的草稿，末行大字清楚。",
+        "结论：从概率上讲，不抽，就是最大的赢。"
+      ],
+      [
+        "爻光在作业上留下整齐批语，右手执笔、右腕空净，左手可在画外；不新增铜钱。",
+        "红色批语：正确。但作业不算。青雀画外：啊——"
+      ],
+      [
+        "夜色切换到302办公室，爻光坐在台灯下打开旧深蓝卦簿，三枚铜钱在桌边。",
+        "字幕：周二当晚。"
+      ]
+    ],
+    "source": "卷一第五章《乱卦》",
+    "prompt": "Create ONE finished full-colour Chinese manga PAGE for episode FIVE of 《绯色难测》, title 《不可测变量》. Exactly 1024×1536 portrait PNG, fine confident black linework, detailed warm Chinese school interiors and cool-blue evening windows, controlled rich soft cel shading. Match the approved references' exact faces, clothing and quality. This is sequential manga with ivory gutters, NOT a poster, character sheet or placeholder. Exact specified panel count, reading left-to-right within a row and top-to-bottom. Header “绯色难测 · 第五话”, footer correct two-digit page number. Only page01 has the episode title; only page14 ends “第五话 · 完”. Large accurate simplified Chinese lettering and clear speech tails.\n\nAPPROVED PEOPLE: Feiying 绯英 is an ADULT art teacher, early thirties with youthful appearance, fluffy layered pink short crown and long thin side locks, purple eyes, red bow and blossom clip. Berry-red cropped knit cardigan, ivory blouse, SEPARATE high-waisted slate-navy A-line midi skirt, thin taupe belt, charcoal tights, black loafers, small navy leather shoulder bag. NO pinafore/apron/suspenders/school uniform/animal ears/tail. Anatomical RIGHT hand WHITE FULL-FINGER glove; anatomical LEFT BLACK FINGERLESS glove exposing fingertips. Frontal view: white hand viewer LEFT, black hand viewer RIGHT. Show hands only when action needs them.\nYaoguang 爻光 is an ADULT grade director and maths teacher, silver-white long hair with pale blue/lilac shadows, curved bangs and outward side tufts, peacock-blue feather at anatomical RIGHT temple, iridescent violet/cyan/pale-gold eyes. Ivory blazer, white stand-collar below-knee dress, narrow teal belt, navy scarf at LEFT shoulder, gray low heels. BOTH HANDS BARE. Jade bangle on LEFT wrist ONLY. RIGHT wrist absolutely bare, no jade/watch/bracelet. Write, pick up and release coins using bare RIGHT hand; stabilize paper or hold coins with LEFT jade-wrist hand, never grow extra hands. Fan rests on table when doing coin/paper actions. Character name 爻 is Unicode U+723B, FOUR strokes, TWO stacked diagonal crosses 乂+乂, never the six-stroke traffic character 交.\nQingque 青雀 is a HIGH-SCHOOL GIRL, gray-green shoulder-length hair with straight fringe and two low side bunches, teal-green eyes, gray sleeping eye mask pushed to forehead after waking, white blouse, dark navy knit school vest, pale-teal bow, navy below-knee school skirt. Same girl as episode4's final-row eye-mask sleeper, not a child, not lilac-haired Bailu. Mathematics classroom high-two(1): partial views of rows, do not specify an exact class seat total; board in front; windows on LEFT overlooking big tree, front/back doors RIGHT; Qingque last row near windows. Fuxuan appears only as OFFSCREEN voice unless specified; no extra full teacher portrait.\n\nOBJECTS/COUNT CONTINUITY CRITICAL: square-holed round copper coins. Page01 first only TWO old coins; after fake replacement there are THREE. Page02 classroom under desk exactly THREE including one subtly brighter fake, NEVER four. Every divination scene shows exactly THREE visible coins total; no decorative extra coin patterns, reflections mistaken for coins, spare open coin box, or duplicates in the same panel. When coins are put in palm, remove them from desk. Clean plain shallow wooden tray is allowed, no coin-shaped carvings. In subjective thought inset only, an abstract ink-knot means unreadable; actual coins/tray/paper remain clean, no literal ink spill, magic glow, levitation, supernatural coin luck. Thin line is a quiet ordinary story clue, no magical tether. Phone has only a fictional loading screen, no real purchase, recharge, money or betting interface.\nSame small orange-line fox doodle with high upturned tail on ONE paper. Paper can cause recorded “乱/准/乱” sequence, but interpretation remains subjective; heroine never admits love and narration explicitly notes own feelings absent from variables. Concern is inability to calculate safety, not an instant romance. No hearts, romantic blush, confessions, touching, seduction, person transformed into fox or magical destiny effects.\n\nSPACE: offices 301 Feiying LEFT and302 Yaoguang RIGHT, one solid shared internal wall, one old reachable sliding ventilation window between rooms. No second vent on hallway front wall. Art classroom distinct large room, offices small. Night table uses desk lamp LEFT, folder/fan LEFT, phone RIGHT, central tray/log. Old divination log dark-blue; new research notebook light gray-blue cloth, distinguish them. Quiet work and pauses need meaningful expressions and props.\n\nTEXT: speaker prefixes “爻光：”“绯英：”“青雀：”“符玄画外：” are instructions ONLY; never print labels or actor names inside speech balloons, only actual spoken words. Similarly do not print instruction words like panel numbers, camera directions, 内心/旁白/字幕 labels. Correct tails must point to actual speaker, including offscreen speech. Handwritten records must be legible, accurate, not copied as random words. No English/watermark/signature or additional dialogue. Every person exactly TWO arms and TWO hands, natural fingers, no third hand.\n\nPAGE 07 — 正确，但作业不算. EXACTLY 4 PANELS.\nLayout: 4格：稍后的题目；结论；批语；周二夜间。\nPanel 1 picture: 稍后，青雀在后排认真写第一份每日一题，桌上是数学本，手机收起，灰眼罩推到额前。\nPanel 1 intended text (role labels NOT printed): 字幕：稍后。题目页：十连出金的期望成本。\n\nPanel 2 picture: 作业本近景，计算用简洁不强调具体花费的草稿，末行大字清楚。\nPanel 2 intended text (role labels NOT printed): 结论：从概率上讲，不抽，就是最大的赢。\n\nPanel 3 picture: 爻光在作业上留下整齐批语，右手执笔、右腕空净，左手可在画外；不新增铜钱。\nPanel 3 intended text (role labels NOT printed): 红色批语：正确。但作业不算。青雀画外：啊——\n\nPanel 4 picture: 夜色切换到302办公室，爻光坐在台灯下打开旧深蓝卦簿，三枚铜钱在桌边。\nPanel 4 intended text (role labels NOT printed): 字幕：周二当晚。\nFooter 07; exact 4 panels.",
+    "references": [
+      "page-01.png",
+      "参考/青雀课堂同设.png"
+    ],
+    "status": "待生成",
+    "corrections": [
+      "草稿仅使用 P = 1−(1−p)^10，p为单次出金概率；不写错将十连批次作抽数的期望公式。"
+    ],
+    "reference_notes": "青雀课堂同设仅用于复用第四话窗边灰绿发眼罩女生样貌；其他参考字形/数学板书/左右腕误差不作成稿依据。"
+  },
+  {
+    "page": 8,
+    "title": "重合率百分之百",
+    "layout": "4格：卦簿事件；并排日志；100%；看向隔壁。",
+    "panels": [
+      [
+        "卦簿俯视，爻光右手圈出几行异常记录。用事件标签替代具体年月日，避免前几话改编时间冲突。",
+        "记录标签：开学日／美术组笔会／走廊三遇／饼干。"
+      ],
+      [
+        "卦簿与行程日志并排，四个事件在两本中一一对应，正常纸面，无神秘红线或命定爱心。",
+        "行程日志同列：开学日／笔会／走廊三遇／饼干。"
+      ],
+      [
+        "纸上比对结论特写，爻光在旁轻轻停笔。",
+        "大字：重合率 100%。"
+      ],
+      [
+        "爻光在302抬头，视线落向共享内墙的通气窗。绯英不作为幻影出现在她身边。",
+        "旁白：每一次卦乱，绯英都在场，或近在隔壁。"
+      ]
+    ],
+    "source": "卷一第五章《乱卦》",
+    "prompt": "Create ONE finished full-colour Chinese manga PAGE for episode FIVE of 《绯色难测》, title 《不可测变量》. Exactly 1024×1536 portrait PNG, fine confident black linework, detailed warm Chinese school interiors and cool-blue evening windows, controlled rich soft cel shading. Match the approved references' exact faces, clothing and quality. This is sequential manga with ivory gutters, NOT a poster, character sheet or placeholder. Exact specified panel count, reading left-to-right within a row and top-to-bottom. Header “绯色难测 · 第五话”, footer correct two-digit page number. Only page01 has the episode title; only page14 ends “第五话 · 完”. Large accurate simplified Chinese lettering and clear speech tails.\n\nAPPROVED PEOPLE: Feiying 绯英 is an ADULT art teacher, early thirties with youthful appearance, fluffy layered pink short crown and long thin side locks, purple eyes, red bow and blossom clip. Berry-red cropped knit cardigan, ivory blouse, SEPARATE high-waisted slate-navy A-line midi skirt, thin taupe belt, charcoal tights, black loafers, small navy leather shoulder bag. NO pinafore/apron/suspenders/school uniform/animal ears/tail. Anatomical RIGHT hand WHITE FULL-FINGER glove; anatomical LEFT BLACK FINGERLESS glove exposing fingertips. Frontal view: white hand viewer LEFT, black hand viewer RIGHT. Show hands only when action needs them.\nYaoguang 爻光 is an ADULT grade director and maths teacher, silver-white long hair with pale blue/lilac shadows, curved bangs and outward side tufts, peacock-blue feather at anatomical RIGHT temple, iridescent violet/cyan/pale-gold eyes. Ivory blazer, white stand-collar below-knee dress, narrow teal belt, navy scarf at LEFT shoulder, gray low heels. BOTH HANDS BARE. Jade bangle on LEFT wrist ONLY. RIGHT wrist absolutely bare, no jade/watch/bracelet. Write, pick up and release coins using bare RIGHT hand; stabilize paper or hold coins with LEFT jade-wrist hand, never grow extra hands. Fan rests on table when doing coin/paper actions. Character name 爻 is Unicode U+723B, FOUR strokes, TWO stacked diagonal crosses 乂+乂, never the six-stroke traffic character 交.\nQingque 青雀 is a HIGH-SCHOOL GIRL, gray-green shoulder-length hair with straight fringe and two low side bunches, teal-green eyes, gray sleeping eye mask pushed to forehead after waking, white blouse, dark navy knit school vest, pale-teal bow, navy below-knee school skirt. Same girl as episode4's final-row eye-mask sleeper, not a child, not lilac-haired Bailu. Mathematics classroom high-two(1): partial views of rows, do not specify an exact class seat total; board in front; windows on LEFT overlooking big tree, front/back doors RIGHT; Qingque last row near windows. Fuxuan appears only as OFFSCREEN voice unless specified; no extra full teacher portrait.\n\nOBJECTS/COUNT CONTINUITY CRITICAL: square-holed round copper coins. Page01 first only TWO old coins; after fake replacement there are THREE. Page02 classroom under desk exactly THREE including one subtly brighter fake, NEVER four. Every divination scene shows exactly THREE visible coins total; no decorative extra coin patterns, reflections mistaken for coins, spare open coin box, or duplicates in the same panel. When coins are put in palm, remove them from desk. Clean plain shallow wooden tray is allowed, no coin-shaped carvings. In subjective thought inset only, an abstract ink-knot means unreadable; actual coins/tray/paper remain clean, no literal ink spill, magic glow, levitation, supernatural coin luck. Thin line is a quiet ordinary story clue, no magical tether. Phone has only a fictional loading screen, no real purchase, recharge, money or betting interface.\nSame small orange-line fox doodle with high upturned tail on ONE paper. Paper can cause recorded “乱/准/乱” sequence, but interpretation remains subjective; heroine never admits love and narration explicitly notes own feelings absent from variables. Concern is inability to calculate safety, not an instant romance. No hearts, romantic blush, confessions, touching, seduction, person transformed into fox or magical destiny effects.\n\nSPACE: offices 301 Feiying LEFT and302 Yaoguang RIGHT, one solid shared internal wall, one old reachable sliding ventilation window between rooms. No second vent on hallway front wall. Art classroom distinct large room, offices small. Night table uses desk lamp LEFT, folder/fan LEFT, phone RIGHT, central tray/log. Old divination log dark-blue; new research notebook light gray-blue cloth, distinguish them. Quiet work and pauses need meaningful expressions and props.\n\nTEXT: speaker prefixes “爻光：”“绯英：”“青雀：”“符玄画外：” are instructions ONLY; never print labels or actor names inside speech balloons, only actual spoken words. Similarly do not print instruction words like panel numbers, camera directions, 内心/旁白/字幕 labels. Correct tails must point to actual speaker, including offscreen speech. Handwritten records must be legible, accurate, not copied as random words. No English/watermark/signature or additional dialogue. Every person exactly TWO arms and TWO hands, natural fingers, no third hand.\n\nPAGE 08 — 重合率百分之百. EXACTLY 4 PANELS.\nLayout: 4格：卦簿事件；并排日志；100%；看向隔壁。\nPanel 1 picture: 卦簿俯视，爻光右手圈出几行异常记录。用事件标签替代具体年月日，避免前几话改编时间冲突。\nPanel 1 intended text (role labels NOT printed): 记录标签：开学日／美术组笔会／走廊三遇／饼干。\n\nPanel 2 picture: 卦簿与行程日志并排，四个事件在两本中一一对应，正常纸面，无神秘红线或命定爱心。\nPanel 2 intended text (role labels NOT printed): 行程日志同列：开学日／笔会／走廊三遇／饼干。\n\nPanel 3 picture: 纸上比对结论特写，爻光在旁轻轻停笔。\nPanel 3 intended text (role labels NOT printed): 大字：重合率 100%。\n\nPanel 4 picture: 爻光在302抬头，视线落向共享内墙的通气窗。绯英不作为幻影出现在她身边。\nPanel 4 intended text (role labels NOT printed): 旁白：每一次卦乱，绯英都在场，或近在隔壁。\nFooter 08; exact 4 panels.",
+    "references": [
+      "参考/绯英校园版.png",
+      "参考/爻光校园版.png",
+      "参考/第三话办公室.png",
+      "参考/第一话夜桌.png"
+    ],
+    "status": "待生成",
+    "corrections": [
+      "笔会项在两份卦簿均改为乱，使四次异常与100%结论一致；移除第三格写字右腕玉镯；备注改为记录异常，移除心扰动。"
+    ]
+  },
+  {
+    "page": 9,
+    "title": "逐一排除",
+    "layout": "5格：换钱；空教室；三米四米分栏；安静工作；记下结果。",
+    "panels": [
+      [
+        "爻光将旧钱收进不透明小盒，盒已关上；木盘上另用三枚方孔钱测试。全画面只可见这三枚，不能同时展示两组钱。",
+        "字幕：随后，逐一排除。记录：磁场——换币，仍乱。"
+      ],
+      [
+        "傍晚空教室，爻光独自在一张桌前做记录，木盘上三钱，教室里无学生。",
+        "记录：人数——空教室。"
+      ],
+      [
+        "简洁两栏平面示意而非真实贴身场景：粉色小圆点标正常工作的绯英位置，蓝色小圆点标爻光测试位置，隔着正常空间。三米与四米各一栏；不画绯英知情配合。",
+        "栏标题：试验示意。左：距绯英3米，乱。右：距绯英4米，稳。"
+      ],
+      [
+        "301里绯英安静画画，右白全指执笔、左黑露指压纸，普通工作状态，不看测试者也不作暧昧表情。",
+        "记录：噪音——她也能安静。排除。"
+      ],
+      [
+        "爻光在记录本落笔，面前仍恰好三枚测试铜钱，视线理性而困惑。",
+        "记录：变量收敛。"
+      ]
+    ],
+    "source": "卷一第五章《乱卦》",
+    "prompt": "Create ONE finished full-colour Chinese manga PAGE for episode FIVE of 《绯色难测》, title 《不可测变量》. Exactly 1024×1536 portrait PNG, fine confident black linework, detailed warm Chinese school interiors and cool-blue evening windows, controlled rich soft cel shading. Match the approved references' exact faces, clothing and quality. This is sequential manga with ivory gutters, NOT a poster, character sheet or placeholder. Exact specified panel count, reading left-to-right within a row and top-to-bottom. Header “绯色难测 · 第五话”, footer correct two-digit page number. Only page01 has the episode title; only page14 ends “第五话 · 完”. Large accurate simplified Chinese lettering and clear speech tails.\n\nAPPROVED PEOPLE: Feiying 绯英 is an ADULT art teacher, early thirties with youthful appearance, fluffy layered pink short crown and long thin side locks, purple eyes, red bow and blossom clip. Berry-red cropped knit cardigan, ivory blouse, SEPARATE high-waisted slate-navy A-line midi skirt, thin taupe belt, charcoal tights, black loafers, small navy leather shoulder bag. NO pinafore/apron/suspenders/school uniform/animal ears/tail. Anatomical RIGHT hand WHITE FULL-FINGER glove; anatomical LEFT BLACK FINGERLESS glove exposing fingertips. Frontal view: white hand viewer LEFT, black hand viewer RIGHT. Show hands only when action needs them.\nYaoguang 爻光 is an ADULT grade director and maths teacher, silver-white long hair with pale blue/lilac shadows, curved bangs and outward side tufts, peacock-blue feather at anatomical RIGHT temple, iridescent violet/cyan/pale-gold eyes. Ivory blazer, white stand-collar below-knee dress, narrow teal belt, navy scarf at LEFT shoulder, gray low heels. BOTH HANDS BARE. Jade bangle on LEFT wrist ONLY. RIGHT wrist absolutely bare, no jade/watch/bracelet. Write, pick up and release coins using bare RIGHT hand; stabilize paper or hold coins with LEFT jade-wrist hand, never grow extra hands. Fan rests on table when doing coin/paper actions. Character name 爻 is Unicode U+723B, FOUR strokes, TWO stacked diagonal crosses 乂+乂, never the six-stroke traffic character 交.\nQingque 青雀 is a HIGH-SCHOOL GIRL, gray-green shoulder-length hair with straight fringe and two low side bunches, teal-green eyes, gray sleeping eye mask pushed to forehead after waking, white blouse, dark navy knit school vest, pale-teal bow, navy below-knee school skirt. Same girl as episode4's final-row eye-mask sleeper, not a child, not lilac-haired Bailu. Mathematics classroom high-two(1): partial views of rows, do not specify an exact class seat total; board in front; windows on LEFT overlooking big tree, front/back doors RIGHT; Qingque last row near windows. Fuxuan appears only as OFFSCREEN voice unless specified; no extra full teacher portrait.\n\nOBJECTS/COUNT CONTINUITY CRITICAL: square-holed round copper coins. Page01 first only TWO old coins; after fake replacement there are THREE. Page02 classroom under desk exactly THREE including one subtly brighter fake, NEVER four. Every divination scene shows exactly THREE visible coins total; no decorative extra coin patterns, reflections mistaken for coins, spare open coin box, or duplicates in the same panel. When coins are put in palm, remove them from desk. Clean plain shallow wooden tray is allowed, no coin-shaped carvings. In subjective thought inset only, an abstract ink-knot means unreadable; actual coins/tray/paper remain clean, no literal ink spill, magic glow, levitation, supernatural coin luck. Thin line is a quiet ordinary story clue, no magical tether. Phone has only a fictional loading screen, no real purchase, recharge, money or betting interface.\nSame small orange-line fox doodle with high upturned tail on ONE paper. Paper can cause recorded “乱/准/乱” sequence, but interpretation remains subjective; heroine never admits love and narration explicitly notes own feelings absent from variables. Concern is inability to calculate safety, not an instant romance. No hearts, romantic blush, confessions, touching, seduction, person transformed into fox or magical destiny effects.\n\nSPACE: offices 301 Feiying LEFT and302 Yaoguang RIGHT, one solid shared internal wall, one old reachable sliding ventilation window between rooms. No second vent on hallway front wall. Art classroom distinct large room, offices small. Night table uses desk lamp LEFT, folder/fan LEFT, phone RIGHT, central tray/log. Old divination log dark-blue; new research notebook light gray-blue cloth, distinguish them. Quiet work and pauses need meaningful expressions and props.\n\nTEXT: speaker prefixes “爻光：”“绯英：”“青雀：”“符玄画外：” are instructions ONLY; never print labels or actor names inside speech balloons, only actual spoken words. Similarly do not print instruction words like panel numbers, camera directions, 内心/旁白/字幕 labels. Correct tails must point to actual speaker, including offscreen speech. Handwritten records must be legible, accurate, not copied as random words. No English/watermark/signature or additional dialogue. Every person exactly TWO arms and TWO hands, natural fingers, no third hand.\n\nPAGE 09 — 逐一排除. EXACTLY 5 PANELS.\nLayout: 5格：换钱；空教室；三米四米分栏；安静工作；记下结果。\nPanel 1 picture: 爻光将旧钱收进不透明小盒，盒已关上；木盘上另用三枚方孔钱测试。全画面只可见这三枚，不能同时展示两组钱。\nPanel 1 intended text (role labels NOT printed): 字幕：随后，逐一排除。记录：磁场——换币，仍乱。\n\nPanel 2 picture: 傍晚空教室，爻光独自在一张桌前做记录，木盘上三钱，教室里无学生。\nPanel 2 intended text (role labels NOT printed): 记录：人数——空教室。\n\nPanel 3 picture: 简洁两栏平面示意而非真实贴身场景：粉色小圆点标正常工作的绯英位置，蓝色小圆点标爻光测试位置，隔着正常空间。三米与四米各一栏；不画绯英知情配合。\nPanel 3 intended text (role labels NOT printed): 栏标题：试验示意。左：距绯英3米，乱。右：距绯英4米，稳。\n\nPanel 4 picture: 301里绯英安静画画，右白全指执笔、左黑露指压纸，普通工作状态，不看测试者也不作暧昧表情。\nPanel 4 intended text (role labels NOT printed): 记录：噪音——她也能安静。排除。\n\nPanel 5 picture: 爻光在记录本落笔，面前仍恰好三枚测试铜钱，视线理性而困惑。\nPanel 5 intended text (role labels NOT printed): 记录：变量收敛。\nFooter 09; exact 5 panels.",
+    "references": [
+      "page-14.png",
+      "参考/绯英校园版.png"
+    ],
+    "status": "待生成"
+  },
+  {
+    "page": 10,
+    "title": "吉凶如何",
+    "layout": "4格：夜间准备；问；三钱落定；安静看。",
+    "panels": [
+      [
+        "试验之后的夜里，302台灯下，爻光把三枚方孔钱拢在裸手中。双手只有两只，左腕玉镯、右腕空净。",
+        "字幕：试验之后·夜间。"
+      ],
+      [
+        "爻光中近景，起卦很慢，是为别人安全担心的认真，不是恋爱许愿。",
+        "爻光内心：绯英其人，吉凶如何。"
+      ],
+      [
+        "三枚方孔钱在木盘上落定，旁边独立小思绪框只是一团抽象墨结；木盘和钱币不沾真实墨水。",
+        "无对白，三枚必须清楚可数。"
+      ],
+      [
+        "爻光静静盯着结果，窗外夜色，桌面仍三枚钱。双手放下，不再追加一掷。",
+        "无对白，长停顿。"
+      ]
+    ],
+    "source": "卷一第五章《乱卦》",
+    "prompt": "Create ONE finished full-colour Chinese manga PAGE for episode FIVE of 《绯色难测》, title 《不可测变量》. Exactly 1024×1536 portrait PNG, fine confident black linework, detailed warm Chinese school interiors and cool-blue evening windows, controlled rich soft cel shading. Match the approved references' exact faces, clothing and quality. This is sequential manga with ivory gutters, NOT a poster, character sheet or placeholder. Exact specified panel count, reading left-to-right within a row and top-to-bottom. Header “绯色难测 · 第五话”, footer correct two-digit page number. Only page01 has the episode title; only page14 ends “第五话 · 完”. Large accurate simplified Chinese lettering and clear speech tails.\n\nAPPROVED PEOPLE: Feiying 绯英 is an ADULT art teacher, early thirties with youthful appearance, fluffy layered pink short crown and long thin side locks, purple eyes, red bow and blossom clip. Berry-red cropped knit cardigan, ivory blouse, SEPARATE high-waisted slate-navy A-line midi skirt, thin taupe belt, charcoal tights, black loafers, small navy leather shoulder bag. NO pinafore/apron/suspenders/school uniform/animal ears/tail. Anatomical RIGHT hand WHITE FULL-FINGER glove; anatomical LEFT BLACK FINGERLESS glove exposing fingertips. Frontal view: white hand viewer LEFT, black hand viewer RIGHT. Show hands only when action needs them.\nYaoguang 爻光 is an ADULT grade director and maths teacher, silver-white long hair with pale blue/lilac shadows, curved bangs and outward side tufts, peacock-blue feather at anatomical RIGHT temple, iridescent violet/cyan/pale-gold eyes. Ivory blazer, white stand-collar below-knee dress, narrow teal belt, navy scarf at LEFT shoulder, gray low heels. BOTH HANDS BARE. Jade bangle on LEFT wrist ONLY. RIGHT wrist absolutely bare, no jade/watch/bracelet. Write, pick up and release coins using bare RIGHT hand; stabilize paper or hold coins with LEFT jade-wrist hand, never grow extra hands. Fan rests on table when doing coin/paper actions. Character name 爻 is Unicode U+723B, FOUR strokes, TWO stacked diagonal crosses 乂+乂, never the six-stroke traffic character 交.\nQingque 青雀 is a HIGH-SCHOOL GIRL, gray-green shoulder-length hair with straight fringe and two low side bunches, teal-green eyes, gray sleeping eye mask pushed to forehead after waking, white blouse, dark navy knit school vest, pale-teal bow, navy below-knee school skirt. Same girl as episode4's final-row eye-mask sleeper, not a child, not lilac-haired Bailu. Mathematics classroom high-two(1): partial views of rows, do not specify an exact class seat total; board in front; windows on LEFT overlooking big tree, front/back doors RIGHT; Qingque last row near windows. Fuxuan appears only as OFFSCREEN voice unless specified; no extra full teacher portrait.\n\nOBJECTS/COUNT CONTINUITY CRITICAL: square-holed round copper coins. Page01 first only TWO old coins; after fake replacement there are THREE. Page02 classroom under desk exactly THREE including one subtly brighter fake, NEVER four. Every divination scene shows exactly THREE visible coins total; no decorative extra coin patterns, reflections mistaken for coins, spare open coin box, or duplicates in the same panel. When coins are put in palm, remove them from desk. Clean plain shallow wooden tray is allowed, no coin-shaped carvings. In subjective thought inset only, an abstract ink-knot means unreadable; actual coins/tray/paper remain clean, no literal ink spill, magic glow, levitation, supernatural coin luck. Thin line is a quiet ordinary story clue, no magical tether. Phone has only a fictional loading screen, no real purchase, recharge, money or betting interface.\nSame small orange-line fox doodle with high upturned tail on ONE paper. Paper can cause recorded “乱/准/乱” sequence, but interpretation remains subjective; heroine never admits love and narration explicitly notes own feelings absent from variables. Concern is inability to calculate safety, not an instant romance. No hearts, romantic blush, confessions, touching, seduction, person transformed into fox or magical destiny effects.\n\nSPACE: offices 301 Feiying LEFT and302 Yaoguang RIGHT, one solid shared internal wall, one old reachable sliding ventilation window between rooms. No second vent on hallway front wall. Art classroom distinct large room, offices small. Night table uses desk lamp LEFT, folder/fan LEFT, phone RIGHT, central tray/log. Old divination log dark-blue; new research notebook light gray-blue cloth, distinguish them. Quiet work and pauses need meaningful expressions and props.\n\nTEXT: speaker prefixes “爻光：”“绯英：”“青雀：”“符玄画外：” are instructions ONLY; never print labels or actor names inside speech balloons, only actual spoken words. Similarly do not print instruction words like panel numbers, camera directions, 内心/旁白/字幕 labels. Correct tails must point to actual speaker, including offscreen speech. Handwritten records must be legible, accurate, not copied as random words. No English/watermark/signature or additional dialogue. Every person exactly TWO arms and TWO hands, natural fingers, no third hand.\n\nPAGE 10 — 吉凶如何. EXACTLY 4 PANELS.\nLayout: 4格：夜间准备；问；三钱落定；安静看。\nPanel 1 picture: 试验之后的夜里，302台灯下，爻光把三枚方孔钱拢在裸手中。双手只有两只，左腕玉镯、右腕空净。\nPanel 1 intended text (role labels NOT printed): 字幕：试验之后·夜间。\n\nPanel 2 picture: 爻光中近景，起卦很慢，是为别人安全担心的认真，不是恋爱许愿。\nPanel 2 intended text (role labels NOT printed): 爻光内心：绯英其人，吉凶如何。\n\nPanel 3 picture: 三枚方孔钱在木盘上落定，旁边独立小思绪框只是一团抽象墨结；木盘和钱币不沾真实墨水。\nPanel 3 intended text (role labels NOT printed): 无对白，三枚必须清楚可数。\n\nPanel 4 picture: 爻光静静盯着结果，窗外夜色，桌面仍三枚钱。双手放下，不再追加一掷。\nPanel 4 intended text (role labels NOT printed): 无对白，长停顿。\nFooter 10; exact 4 panels.",
+    "references": [
+      "page-14.png"
+    ],
+    "status": "待生成"
+  },
+  {
+    "page": 11,
+    "title": "没有刻度的云",
+    "layout": "4格：学生风险；同事去意；暴雨改期；夜桌困惑。",
+    "panels": [
+      [
+        "小型主观回想，非新事件：普通学生低头坐在课桌边，背景是爻光工作日志的剪影。不要引入新命名角色或救人事故。",
+        "旁白：哪个学生临近崩沿。"
+      ],
+      [
+        "另一幅简洁工作回想：普通成年老师拿着文件停在门边，爻光的工作表上留一个待确认栏目。",
+        "旁白：哪位老师暗藏去意。"
+      ],
+      [
+        "学校窗外暴雨，与一页行程上被提前调整的时段并置。不是此夜真的发生灾害。",
+        "旁白：哪场暴雨该提前改期。"
+      ],
+      [
+        "回到302夜桌，爻光看着三枚钱，眼神第一次没有把握；窗外自然云影，不让云真的飘进办公室。",
+        "旁白：唯独对这一个，连会不会出事都问不出来。小句：像一片没有刻度的云。"
+      ]
+    ],
+    "source": "卷一第五章《乱卦》",
+    "prompt": "Create ONE finished full-colour Chinese manga PAGE for episode FIVE of 《绯色难测》, title 《不可测变量》. Exactly 1024×1536 portrait PNG, fine confident black linework, detailed warm Chinese school interiors and cool-blue evening windows, controlled rich soft cel shading. Match the approved references' exact faces, clothing and quality. This is sequential manga with ivory gutters, NOT a poster, character sheet or placeholder. Exact specified panel count, reading left-to-right within a row and top-to-bottom. Header “绯色难测 · 第五话”, footer correct two-digit page number. Only page01 has the episode title; only page14 ends “第五话 · 完”. Large accurate simplified Chinese lettering and clear speech tails.\n\nAPPROVED PEOPLE: Feiying 绯英 is an ADULT art teacher, early thirties with youthful appearance, fluffy layered pink short crown and long thin side locks, purple eyes, red bow and blossom clip. Berry-red cropped knit cardigan, ivory blouse, SEPARATE high-waisted slate-navy A-line midi skirt, thin taupe belt, charcoal tights, black loafers, small navy leather shoulder bag. NO pinafore/apron/suspenders/school uniform/animal ears/tail. Anatomical RIGHT hand WHITE FULL-FINGER glove; anatomical LEFT BLACK FINGERLESS glove exposing fingertips. Frontal view: white hand viewer LEFT, black hand viewer RIGHT. Show hands only when action needs them.\nYaoguang 爻光 is an ADULT grade director and maths teacher, silver-white long hair with pale blue/lilac shadows, curved bangs and outward side tufts, peacock-blue feather at anatomical RIGHT temple, iridescent violet/cyan/pale-gold eyes. Ivory blazer, white stand-collar below-knee dress, narrow teal belt, navy scarf at LEFT shoulder, gray low heels. BOTH HANDS BARE. Jade bangle on LEFT wrist ONLY. RIGHT wrist absolutely bare, no jade/watch/bracelet. Write, pick up and release coins using bare RIGHT hand; stabilize paper or hold coins with LEFT jade-wrist hand, never grow extra hands. Fan rests on table when doing coin/paper actions. Character name 爻 is Unicode U+723B, FOUR strokes, TWO stacked diagonal crosses 乂+乂, never the six-stroke traffic character 交.\nQingque 青雀 is a HIGH-SCHOOL GIRL, gray-green shoulder-length hair with straight fringe and two low side bunches, teal-green eyes, gray sleeping eye mask pushed to forehead after waking, white blouse, dark navy knit school vest, pale-teal bow, navy below-knee school skirt. Same girl as episode4's final-row eye-mask sleeper, not a child, not lilac-haired Bailu. Mathematics classroom high-two(1): partial views of rows, do not specify an exact class seat total; board in front; windows on LEFT overlooking big tree, front/back doors RIGHT; Qingque last row near windows. Fuxuan appears only as OFFSCREEN voice unless specified; no extra full teacher portrait.\n\nOBJECTS/COUNT CONTINUITY CRITICAL: square-holed round copper coins. Page01 first only TWO old coins; after fake replacement there are THREE. Page02 classroom under desk exactly THREE including one subtly brighter fake, NEVER four. Every divination scene shows exactly THREE visible coins total; no decorative extra coin patterns, reflections mistaken for coins, spare open coin box, or duplicates in the same panel. When coins are put in palm, remove them from desk. Clean plain shallow wooden tray is allowed, no coin-shaped carvings. In subjective thought inset only, an abstract ink-knot means unreadable; actual coins/tray/paper remain clean, no literal ink spill, magic glow, levitation, supernatural coin luck. Thin line is a quiet ordinary story clue, no magical tether. Phone has only a fictional loading screen, no real purchase, recharge, money or betting interface.\nSame small orange-line fox doodle with high upturned tail on ONE paper. Paper can cause recorded “乱/准/乱” sequence, but interpretation remains subjective; heroine never admits love and narration explicitly notes own feelings absent from variables. Concern is inability to calculate safety, not an instant romance. No hearts, romantic blush, confessions, touching, seduction, person transformed into fox or magical destiny effects.\n\nSPACE: offices 301 Feiying LEFT and302 Yaoguang RIGHT, one solid shared internal wall, one old reachable sliding ventilation window between rooms. No second vent on hallway front wall. Art classroom distinct large room, offices small. Night table uses desk lamp LEFT, folder/fan LEFT, phone RIGHT, central tray/log. Old divination log dark-blue; new research notebook light gray-blue cloth, distinguish them. Quiet work and pauses need meaningful expressions and props.\n\nTEXT: speaker prefixes “爻光：”“绯英：”“青雀：”“符玄画外：” are instructions ONLY; never print labels or actor names inside speech balloons, only actual spoken words. Similarly do not print instruction words like panel numbers, camera directions, 内心/旁白/字幕 labels. Correct tails must point to actual speaker, including offscreen speech. Handwritten records must be legible, accurate, not copied as random words. No English/watermark/signature or additional dialogue. Every person exactly TWO arms and TWO hands, natural fingers, no third hand.\n\nPAGE 11 — 没有刻度的云. EXACTLY 4 PANELS.\nLayout: 4格：学生风险；同事去意；暴雨改期；夜桌困惑。\nPanel 1 picture: 小型主观回想，非新事件：普通学生低头坐在课桌边，背景是爻光工作日志的剪影。不要引入新命名角色或救人事故。\nPanel 1 intended text (role labels NOT printed): 旁白：哪个学生临近崩沿。\n\nPanel 2 picture: 另一幅简洁工作回想：普通成年老师拿着文件停在门边，爻光的工作表上留一个待确认栏目。\nPanel 2 intended text (role labels NOT printed): 旁白：哪位老师暗藏去意。\n\nPanel 3 picture: 学校窗外暴雨，与一页行程上被提前调整的时段并置。不是此夜真的发生灾害。\nPanel 3 intended text (role labels NOT printed): 旁白：哪场暴雨该提前改期。\n\nPanel 4 picture: 回到302夜桌，爻光看着三枚钱，眼神第一次没有把握；窗外自然云影，不让云真的飘进办公室。\nPanel 4 intended text (role labels NOT printed): 旁白：唯独对这一个，连会不会出事都问不出来。小句：像一片没有刻度的云。\nFooter 11; exact 4 panels.",
+    "references": [
+      "page-14.png"
+    ],
+    "status": "待生成",
+    "corrections": [
+      "首格匿名学生为短黑发男生，避免错认青雀；狐狸纸在本页仍在抽屉，末格不提前出现。"
+    ]
+  },
+  {
+    "page": 12,
+    "title": "放上，撤掉",
+    "layout": "5格：取狐狸纸；放盘中央；乱；撤准；再放乱。",
+    "panels": [
+      [
+        "爻光从抽屉取出一张通气窗纸条，上面是潦草线条画的单只小狐狸，尾巴翘得高。只是纸上涂鸦，不是人物变身或真人照片。",
+        "无对白。"
+      ],
+      [
+        "小狐狸纸条放木盘中央，三枚方孔钱围在旁边，钱和纸都清晰；只画一只手调整纸。",
+        "小字：放上。"
+      ],
+      [
+        "纸条在盘中，恰好三钱落定；乱卦只在独立主观小框以墨结表示。",
+        "结果：乱。"
+      ],
+      [
+        "纸条移出盘外，三钱再次落定，墨结小框消失，木盘仍干净。",
+        "小字：撤掉。结果：准。"
+      ],
+      [
+        "同一张狐狸纸重新放回，三钱摆在旁边，主观墨结重新出现。不要增加第二张狐狸纸或第四枚钱。",
+        "小字：再放上。结果：乱。"
+      ]
+    ],
+    "source": "卷一第五章《乱卦》",
+    "prompt": "Create ONE finished full-colour Chinese manga PAGE for episode FIVE of 《绯色难测》, title 《不可测变量》. Exactly 1024×1536 portrait PNG, fine confident black linework, detailed warm Chinese school interiors and cool-blue evening windows, controlled rich soft cel shading. Match the approved references' exact faces, clothing and quality. This is sequential manga with ivory gutters, NOT a poster, character sheet or placeholder. Exact specified panel count, reading left-to-right within a row and top-to-bottom. Header “绯色难测 · 第五话”, footer correct two-digit page number. Only page01 has the episode title; only page14 ends “第五话 · 完”. Large accurate simplified Chinese lettering and clear speech tails.\n\nAPPROVED PEOPLE: Feiying 绯英 is an ADULT art teacher, early thirties with youthful appearance, fluffy layered pink short crown and long thin side locks, purple eyes, red bow and blossom clip. Berry-red cropped knit cardigan, ivory blouse, SEPARATE high-waisted slate-navy A-line midi skirt, thin taupe belt, charcoal tights, black loafers, small navy leather shoulder bag. NO pinafore/apron/suspenders/school uniform/animal ears/tail. Anatomical RIGHT hand WHITE FULL-FINGER glove; anatomical LEFT BLACK FINGERLESS glove exposing fingertips. Frontal view: white hand viewer LEFT, black hand viewer RIGHT. Show hands only when action needs them.\nYaoguang 爻光 is an ADULT grade director and maths teacher, silver-white long hair with pale blue/lilac shadows, curved bangs and outward side tufts, peacock-blue feather at anatomical RIGHT temple, iridescent violet/cyan/pale-gold eyes. Ivory blazer, white stand-collar below-knee dress, narrow teal belt, navy scarf at LEFT shoulder, gray low heels. BOTH HANDS BARE. Jade bangle on LEFT wrist ONLY. RIGHT wrist absolutely bare, no jade/watch/bracelet. Write, pick up and release coins using bare RIGHT hand; stabilize paper or hold coins with LEFT jade-wrist hand, never grow extra hands. Fan rests on table when doing coin/paper actions. Character name 爻 is Unicode U+723B, FOUR strokes, TWO stacked diagonal crosses 乂+乂, never the six-stroke traffic character 交.\nQingque 青雀 is a HIGH-SCHOOL GIRL, gray-green shoulder-length hair with straight fringe and two low side bunches, teal-green eyes, gray sleeping eye mask pushed to forehead after waking, white blouse, dark navy knit school vest, pale-teal bow, navy below-knee school skirt. Same girl as episode4's final-row eye-mask sleeper, not a child, not lilac-haired Bailu. Mathematics classroom high-two(1): partial views of rows, do not specify an exact class seat total; board in front; windows on LEFT overlooking big tree, front/back doors RIGHT; Qingque last row near windows. Fuxuan appears only as OFFSCREEN voice unless specified; no extra full teacher portrait.\n\nOBJECTS/COUNT CONTINUITY CRITICAL: square-holed round copper coins. Page01 first only TWO old coins; after fake replacement there are THREE. Page02 classroom under desk exactly THREE including one subtly brighter fake, NEVER four. Every divination scene shows exactly THREE visible coins total; no decorative extra coin patterns, reflections mistaken for coins, spare open coin box, or duplicates in the same panel. When coins are put in palm, remove them from desk. Clean plain shallow wooden tray is allowed, no coin-shaped carvings. In subjective thought inset only, an abstract ink-knot means unreadable; actual coins/tray/paper remain clean, no literal ink spill, magic glow, levitation, supernatural coin luck. Thin line is a quiet ordinary story clue, no magical tether. Phone has only a fictional loading screen, no real purchase, recharge, money or betting interface.\nSame small orange-line fox doodle with high upturned tail on ONE paper. Paper can cause recorded “乱/准/乱” sequence, but interpretation remains subjective; heroine never admits love and narration explicitly notes own feelings absent from variables. Concern is inability to calculate safety, not an instant romance. No hearts, romantic blush, confessions, touching, seduction, person transformed into fox or magical destiny effects.\n\nSPACE: offices 301 Feiying LEFT and302 Yaoguang RIGHT, one solid shared internal wall, one old reachable sliding ventilation window between rooms. No second vent on hallway front wall. Art classroom distinct large room, offices small. Night table uses desk lamp LEFT, folder/fan LEFT, phone RIGHT, central tray/log. Old divination log dark-blue; new research notebook light gray-blue cloth, distinguish them. Quiet work and pauses need meaningful expressions and props.\n\nTEXT: speaker prefixes “爻光：”“绯英：”“青雀：”“符玄画外：” are instructions ONLY; never print labels or actor names inside speech balloons, only actual spoken words. Similarly do not print instruction words like panel numbers, camera directions, 内心/旁白/字幕 labels. Correct tails must point to actual speaker, including offscreen speech. Handwritten records must be legible, accurate, not copied as random words. No English/watermark/signature or additional dialogue. Every person exactly TWO arms and TWO hands, natural fingers, no third hand.\n\nPAGE 12 — 放上，撤掉. EXACTLY 5 PANELS.\nLayout: 5格：取狐狸纸；放盘中央；乱；撤准；再放乱。\nPanel 1 picture: 爻光从抽屉取出一张通气窗纸条，上面是潦草线条画的单只小狐狸，尾巴翘得高。只是纸上涂鸦，不是人物变身或真人照片。\nPanel 1 intended text (role labels NOT printed): 无对白。\n\nPanel 2 picture: 小狐狸纸条放木盘中央，三枚方孔钱围在旁边，钱和纸都清晰；只画一只手调整纸。\nPanel 2 intended text (role labels NOT printed): 小字：放上。\n\nPanel 3 picture: 纸条在盘中，恰好三钱落定；乱卦只在独立主观小框以墨结表示。\nPanel 3 intended text (role labels NOT printed): 结果：乱。\n\nPanel 4 picture: 纸条移出盘外，三钱再次落定，墨结小框消失，木盘仍干净。\nPanel 4 intended text (role labels NOT printed): 小字：撤掉。结果：准。\n\nPanel 5 picture: 同一张狐狸纸重新放回，三钱摆在旁边，主观墨结重新出现。不要增加第二张狐狸纸或第四枚钱。\nPanel 5 intended text (role labels NOT printed): 小字：再放上。结果：乱。\nFooter 12; exact 5 panels.",
+    "references": [
+      "page-14.png"
+    ],
+    "status": "待生成"
+  },
+  {
+    "page": 13,
+    "title": "未计入的变量",
+    "layout": "4格：三轮记录；变量唯一；未计入心情；狐狸纸。",
+    "panels": [
+      [
+        "记录本大特写，用三行概括完整的三轮重复，桌边只摆着一组恰好三钱。",
+        "第一轮：乱／准／乱。第二轮：乱／准／乱。第三轮：乱／准／乱。"
+      ],
+      [
+        "爻光右手写下新的判断，左腕玉镯手轻压纸边，右腕不戴任何饰物。",
+        "大字：变量唯一。"
+      ],
+      [
+        "她把笔停住，看向案上的小狐狸纸条，表情仍是推理受阻的困惑与关注，没有脸红爱心。",
+        "旁白：却没有把自己的心情列进变量里。"
+      ],
+      [
+        "小狐狸纸角轻翘，旁边三枚方孔钱，台灯照出纸纹。",
+        "旁白：成千上万个变量，没有一个是会画小狐狸的。"
+      ]
+    ],
+    "source": "卷一第五章《乱卦》",
+    "prompt": "Create ONE finished full-colour Chinese manga PAGE for episode FIVE of 《绯色难测》, title 《不可测变量》. Exactly 1024×1536 portrait PNG, fine confident black linework, detailed warm Chinese school interiors and cool-blue evening windows, controlled rich soft cel shading. Match the approved references' exact faces, clothing and quality. This is sequential manga with ivory gutters, NOT a poster, character sheet or placeholder. Exact specified panel count, reading left-to-right within a row and top-to-bottom. Header “绯色难测 · 第五话”, footer correct two-digit page number. Only page01 has the episode title; only page14 ends “第五话 · 完”. Large accurate simplified Chinese lettering and clear speech tails.\n\nAPPROVED PEOPLE: Feiying 绯英 is an ADULT art teacher, early thirties with youthful appearance, fluffy layered pink short crown and long thin side locks, purple eyes, red bow and blossom clip. Berry-red cropped knit cardigan, ivory blouse, SEPARATE high-waisted slate-navy A-line midi skirt, thin taupe belt, charcoal tights, black loafers, small navy leather shoulder bag. NO pinafore/apron/suspenders/school uniform/animal ears/tail. Anatomical RIGHT hand WHITE FULL-FINGER glove; anatomical LEFT BLACK FINGERLESS glove exposing fingertips. Frontal view: white hand viewer LEFT, black hand viewer RIGHT. Show hands only when action needs them.\nYaoguang 爻光 is an ADULT grade director and maths teacher, silver-white long hair with pale blue/lilac shadows, curved bangs and outward side tufts, peacock-blue feather at anatomical RIGHT temple, iridescent violet/cyan/pale-gold eyes. Ivory blazer, white stand-collar below-knee dress, narrow teal belt, navy scarf at LEFT shoulder, gray low heels. BOTH HANDS BARE. Jade bangle on LEFT wrist ONLY. RIGHT wrist absolutely bare, no jade/watch/bracelet. Write, pick up and release coins using bare RIGHT hand; stabilize paper or hold coins with LEFT jade-wrist hand, never grow extra hands. Fan rests on table when doing coin/paper actions. Character name 爻 is Unicode U+723B, FOUR strokes, TWO stacked diagonal crosses 乂+乂, never the six-stroke traffic character 交.\nQingque 青雀 is a HIGH-SCHOOL GIRL, gray-green shoulder-length hair with straight fringe and two low side bunches, teal-green eyes, gray sleeping eye mask pushed to forehead after waking, white blouse, dark navy knit school vest, pale-teal bow, navy below-knee school skirt. Same girl as episode4's final-row eye-mask sleeper, not a child, not lilac-haired Bailu. Mathematics classroom high-two(1): partial views of rows, do not specify an exact class seat total; board in front; windows on LEFT overlooking big tree, front/back doors RIGHT; Qingque last row near windows. Fuxuan appears only as OFFSCREEN voice unless specified; no extra full teacher portrait.\n\nOBJECTS/COUNT CONTINUITY CRITICAL: square-holed round copper coins. Page01 first only TWO old coins; after fake replacement there are THREE. Page02 classroom under desk exactly THREE including one subtly brighter fake, NEVER four. Every divination scene shows exactly THREE visible coins total; no decorative extra coin patterns, reflections mistaken for coins, spare open coin box, or duplicates in the same panel. When coins are put in palm, remove them from desk. Clean plain shallow wooden tray is allowed, no coin-shaped carvings. In subjective thought inset only, an abstract ink-knot means unreadable; actual coins/tray/paper remain clean, no literal ink spill, magic glow, levitation, supernatural coin luck. Thin line is a quiet ordinary story clue, no magical tether. Phone has only a fictional loading screen, no real purchase, recharge, money or betting interface.\nSame small orange-line fox doodle with high upturned tail on ONE paper. Paper can cause recorded “乱/准/乱” sequence, but interpretation remains subjective; heroine never admits love and narration explicitly notes own feelings absent from variables. Concern is inability to calculate safety, not an instant romance. No hearts, romantic blush, confessions, touching, seduction, person transformed into fox or magical destiny effects.\n\nSPACE: offices 301 Feiying LEFT and302 Yaoguang RIGHT, one solid shared internal wall, one old reachable sliding ventilation window between rooms. No second vent on hallway front wall. Art classroom distinct large room, offices small. Night table uses desk lamp LEFT, folder/fan LEFT, phone RIGHT, central tray/log. Old divination log dark-blue; new research notebook light gray-blue cloth, distinguish them. Quiet work and pauses need meaningful expressions and props.\n\nTEXT: speaker prefixes “爻光：”“绯英：”“青雀：”“符玄画外：” are instructions ONLY; never print labels or actor names inside speech balloons, only actual spoken words. Similarly do not print instruction words like panel numbers, camera directions, 内心/旁白/字幕 labels. Correct tails must point to actual speaker, including offscreen speech. Handwritten records must be legible, accurate, not copied as random words. No English/watermark/signature or additional dialogue. Every person exactly TWO arms and TWO hands, natural fingers, no third hand.\n\nPAGE 13 — 未计入的变量. EXACTLY 4 PANELS.\nLayout: 4格：三轮记录；变量唯一；未计入心情；狐狸纸。\nPanel 1 picture: 记录本大特写，用三行概括完整的三轮重复，桌边只摆着一组恰好三钱。\nPanel 1 intended text (role labels NOT printed): 第一轮：乱／准／乱。第二轮：乱／准／乱。第三轮：乱／准／乱。\n\nPanel 2 picture: 爻光右手写下新的判断，左腕玉镯手轻压纸边，右腕不戴任何饰物。\nPanel 2 intended text (role labels NOT printed): 大字：变量唯一。\n\nPanel 3 picture: 她把笔停住，看向案上的小狐狸纸条，表情仍是推理受阻的困惑与关注，没有脸红爱心。\nPanel 3 intended text (role labels NOT printed): 旁白：却没有把自己的心情列进变量里。\n\nPanel 4 picture: 小狐狸纸角轻翘，旁边三枚方孔钱，台灯照出纸纹。\nPanel 4 intended text (role labels NOT printed): 旁白：成千上万个变量，没有一个是会画小狐狸的。\nFooter 13; exact 4 panels.",
+    "references": [
+      "page-14.png"
+    ],
+    "status": "待生成",
+    "corrections": [
+      "第三格支颌右腕不戴玉镯；末格狐狸纸直接在木桌面，不提前出现第14页才取出的浅灰蓝新本。"
+    ]
+  },
+  {
+    "page": 14,
+    "title": "持续观测",
+    "layout": "5格：新本；扉页四行；夹纸；压角；合本。",
+    "panels": [
+      [
+        "爻光取出一本崭新的浅灰蓝布面本，与旧深蓝卦簿区分。木盘三钱放到桌侧，其他东西各归其位。",
+        "无对白。"
+      ],
+      [
+        "扉页大特写，字大清楚，右裸手执笔、右腕空净；不要把四行拆乱或加对白。",
+        "课题：论不可测变量。／样本：绯英。／性质：不可测。／处理办法：持续观测。"
+      ],
+      [
+        "她将同一张翘尾小狐狸纸，仔细夹到新课题本的第一页。只有一张狐狸纸，三钱仍在桌边，不放进本中。",
+        "无对白。"
+      ],
+      [
+        "纸角还翘着，左手玉镯腕轻轻把纸角压平，另一手扶封面。恰好两只手，没有多一只执笔手。",
+        "无对白，动作克制。"
+      ],
+      [
+        "浅灰蓝课题本合上，旁边一组恰好三枚方孔钱，台灯暖光与蓝色夜窗。没有恋爱特效或新人物。",
+        "页脚：第五话·完。"
+      ]
+    ],
+    "source": "卷一第五章《乱卦》",
+    "prompt": "Create ONE finished full-colour Chinese manga PAGE for episode FIVE of 《绯色难测》, title 《不可测变量》. Exactly 1024×1536 portrait PNG, fine confident black linework, detailed warm Chinese school interiors and cool-blue evening windows, controlled rich soft cel shading. Match the approved references' exact faces, clothing and quality. This is sequential manga with ivory gutters, NOT a poster, character sheet or placeholder. Exact specified panel count, reading left-to-right within a row and top-to-bottom. Header “绯色难测 · 第五话”, footer correct two-digit page number. Only page01 has the episode title; only page14 ends “第五话 · 完”. Large accurate simplified Chinese lettering and clear speech tails.\n\nAPPROVED PEOPLE: Feiying 绯英 is an ADULT art teacher, early thirties with youthful appearance, fluffy layered pink short crown and long thin side locks, purple eyes, red bow and blossom clip. Berry-red cropped knit cardigan, ivory blouse, SEPARATE high-waisted slate-navy A-line midi skirt, thin taupe belt, charcoal tights, black loafers, small navy leather shoulder bag. NO pinafore/apron/suspenders/school uniform/animal ears/tail. Anatomical RIGHT hand WHITE FULL-FINGER glove; anatomical LEFT BLACK FINGERLESS glove exposing fingertips. Frontal view: white hand viewer LEFT, black hand viewer RIGHT. Show hands only when action needs them.\nYaoguang 爻光 is an ADULT grade director and maths teacher, silver-white long hair with pale blue/lilac shadows, curved bangs and outward side tufts, peacock-blue feather at anatomical RIGHT temple, iridescent violet/cyan/pale-gold eyes. Ivory blazer, white stand-collar below-knee dress, narrow teal belt, navy scarf at LEFT shoulder, gray low heels. BOTH HANDS BARE. Jade bangle on LEFT wrist ONLY. RIGHT wrist absolutely bare, no jade/watch/bracelet. Write, pick up and release coins using bare RIGHT hand; stabilize paper or hold coins with LEFT jade-wrist hand, never grow extra hands. Fan rests on table when doing coin/paper actions. Character name 爻 is Unicode U+723B, FOUR strokes, TWO stacked diagonal crosses 乂+乂, never the six-stroke traffic character 交.\nQingque 青雀 is a HIGH-SCHOOL GIRL, gray-green shoulder-length hair with straight fringe and two low side bunches, teal-green eyes, gray sleeping eye mask pushed to forehead after waking, white blouse, dark navy knit school vest, pale-teal bow, navy below-knee school skirt. Same girl as episode4's final-row eye-mask sleeper, not a child, not lilac-haired Bailu. Mathematics classroom high-two(1): partial views of rows, do not specify an exact class seat total; board in front; windows on LEFT overlooking big tree, front/back doors RIGHT; Qingque last row near windows. Fuxuan appears only as OFFSCREEN voice unless specified; no extra full teacher portrait.\n\nOBJECTS/COUNT CONTINUITY CRITICAL: square-holed round copper coins. Page01 first only TWO old coins; after fake replacement there are THREE. Page02 classroom under desk exactly THREE including one subtly brighter fake, NEVER four. Every divination scene shows exactly THREE visible coins total; no decorative extra coin patterns, reflections mistaken for coins, spare open coin box, or duplicates in the same panel. When coins are put in palm, remove them from desk. Clean plain shallow wooden tray is allowed, no coin-shaped carvings. In subjective thought inset only, an abstract ink-knot means unreadable; actual coins/tray/paper remain clean, no literal ink spill, magic glow, levitation, supernatural coin luck. Thin line is a quiet ordinary story clue, no magical tether. Phone has only a fictional loading screen, no real purchase, recharge, money or betting interface.\nSame small orange-line fox doodle with high upturned tail on ONE paper. Paper can cause recorded “乱/准/乱” sequence, but interpretation remains subjective; heroine never admits love and narration explicitly notes own feelings absent from variables. Concern is inability to calculate safety, not an instant romance. No hearts, romantic blush, confessions, touching, seduction, person transformed into fox or magical destiny effects.\n\nSPACE: offices 301 Feiying LEFT and302 Yaoguang RIGHT, one solid shared internal wall, one old reachable sliding ventilation window between rooms. No second vent on hallway front wall. Art classroom distinct large room, offices small. Night table uses desk lamp LEFT, folder/fan LEFT, phone RIGHT, central tray/log. Old divination log dark-blue; new research notebook light gray-blue cloth, distinguish them. Quiet work and pauses need meaningful expressions and props.\n\nTEXT: speaker prefixes “爻光：”“绯英：”“青雀：”“符玄画外：” are instructions ONLY; never print labels or actor names inside speech balloons, only actual spoken words. Similarly do not print instruction words like panel numbers, camera directions, 内心/旁白/字幕 labels. Correct tails must point to actual speaker, including offscreen speech. Handwritten records must be legible, accurate, not copied as random words. No English/watermark/signature or additional dialogue. Every person exactly TWO arms and TWO hands, natural fingers, no third hand.\n\nPAGE 14 — 持续观测. EXACTLY 5 PANELS.\nLayout: 5格：新本；扉页四行；夹纸；压角；合本。\nPanel 1 picture: 爻光取出一本崭新的浅灰蓝布面本，与旧深蓝卦簿区分。木盘三钱放到桌侧，其他东西各归其位。\nPanel 1 intended text (role labels NOT printed): 无对白。\n\nPanel 2 picture: 扉页大特写，字大清楚，右裸手执笔、右腕空净；不要把四行拆乱或加对白。\nPanel 2 intended text (role labels NOT printed): 课题：论不可测变量。／样本：绯英。／性质：不可测。／处理办法：持续观测。\n\nPanel 3 picture: 她将同一张翘尾小狐狸纸，仔细夹到新课题本的第一页。只有一张狐狸纸，三钱仍在桌边，不放进本中。\nPanel 3 intended text (role labels NOT printed): 无对白。\n\nPanel 4 picture: 纸角还翘着，左手玉镯腕轻轻把纸角压平，另一手扶封面。恰好两只手，没有多一只执笔手。\nPanel 4 intended text (role labels NOT printed): 无对白，动作克制。\n\nPanel 5 picture: 浅灰蓝课题本合上，旁边一组恰好三枚方孔钱，台灯暖光与蓝色夜窗。没有恋爱特效或新人物。\nPanel 5 intended text (role labels NOT printed): 页脚：第五话·完。\nFooter 14; exact 5 panels.",
+    "references": [
+      "参考/绯英校园版.png",
+      "参考/爻光校园版.png",
+      "参考/第三话办公室.png",
+      "参考/第一话夜桌.png"
+    ],
+    "status": "待生成"
+  }
+]

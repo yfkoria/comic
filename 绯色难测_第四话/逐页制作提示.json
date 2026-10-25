@@ -1,0 +1,504 @@
+[
+  {
+    "page": 1,
+    "title": "推门听课",
+    "layout": "4格：校园与制度；美术教室门牌；推门；后门入场。",
+    "panels": [
+      [
+        "绘世楼外墙常春藤、走廊学生作品，暖秋晨光。",
+        "话名：第四话·本座带伞。字幕：开学两周后。"
+      ],
+      [
+        "走廊公告近景，给老制度三个短条目，门口仍挂木牌，不能把美术大教室标成301。",
+        "公告：推门听课／如实记录／教研会公示。"
+      ],
+      [
+        "爻光从美术大教室后门进入，左手推门、左腕玉镯，右侧夹听课本；绯英在远处讲台。",
+        "字幕：周二·上午第三节／高二（2）班·写生课。"
+      ],
+      [
+        "她在后门停住，目光扫过教室，展开听课本，折扇先收在文件夹边。",
+        "旁白：制度的初衷，是交流。"
+      ]
+    ],
+    "prompt": "Create ONE finished full-colour Chinese sequential manga PAGE for 《绯色难测》第四话《本座带伞》. EXACT 1024×1536 portrait PNG. Match the supplied approved character sheets and previous comic page: detailed 2D anime/manga, fine confident linework, rich soft cel shading, warm September school light, ivory gutters, thin black frames. Reading top-to-bottom, within each row LEFT TO RIGHT. Respect exact panel count and order below. This is a comic page, not poster or design sheet. Chinese dialogue readable, generous bubbles and accurate tails, no extra text, signatures or watermarks. Running header “绯色难测 · 第四话”, bottom-right correct two-digit page. Page01 adds title“本座带伞”; only page14 has“第四话 · 完”.\n\nAPPROVED CHARACTERS: 绯英 is ADULT art teacher early thirties, pink fluffy layered hair with longer side strands, purple eyes, red bow and blossom clip; berry-red cropped knit cardigan, ivory blouse, SEPARATE high-waisted navy A-line midi skirt, brown belt, charcoal tights, black loafers, small navy shoulder bag. NEVER student uniform, pinafore, suspenders, animal ears/tail. Anatomical RIGHT glove WHITE and FULL-FINGER, LEFT glove BLACK and FINGERLESS. Frontal view: white hand viewer LEFT, black hand viewer RIGHT. Never make both hands white. She writes and draws with WHITE RIGHT hand; BLACK LEFT hand steadies paper. Show hands only when necessary, no invented extra gestures.\n爻光 is ADULT grade director/maths teacher, silver-white long hair shaded pale blue/lilac, curved long bangs and outward side tufts, peacock-blue feather clasp at RIGHT temple, iridescent violet/cyan/pale-gold eyes. Ivory blazer, white stand-collar below-knee dress, narrow teal belt, navy scarf at LEFT shoulder, gray low heels. Both hands BARE. Old pale jade bangle ONLY LEFT wrist; RIGHT wrist completely bare (no watch/bracelet). Bare RIGHT hand writes, holds chalk or uses ruler; set fan/folder down before writing. Exactly two arms/two hands for each person.\nRare surname/name: 爻光 uses 爻 U+723B, FOUR strokes, two stacked slant crosses 乂, not 交. The character-sheet heading itself contains a mistaken 交, so do NOT copy that lettering; use 爻 (U+723B), exactly two stacked 乂 crosses. In balloons print 爻老师/爻老板 accurately when specified.\nSecondary adults for meeting: 景元 male principal, long loosely tied silver-gray hair, gold eyes, charcoal blazer over pale gray Chinese stand-collar shirt. 符玄 female academic director, long pink-lilac hair with side braid, violet eyes, thin gold glasses, ivory blouse/lilac-gray blazer/navy skirt. Ordinary adult human ears.\nAll students are HIGH-SCHOOL teenagers in white shirts/navy school knitwear/navy below-knee skirts or long trousers, no infant proportions, no animal ears or tails. Only draw the students specified in THIS PAGE. The three sleeping students belong ONLY to page08 in the MATHS class. Never draw Qingque/gray sleep masks or any sleeping student in ART CLASS pages01-05. The universe-painting transfer boy is unnamed, black short choppy hair, slender, blue-white uniform; do not name him.\n\nLOCATIONS: art classroom is a LARGE room at third-floor corridor end, easels/student art/succulents/eleven conductor plushes; never label it301. Small offices are adjacent: corridor front view LEFT301 Feiying, RIGHT302 Yaoguang. One shared indoor wall with one reachable old sliding ventilation window, no vent on corridor front wall. Inside cutaway room301 LEFT art desk facing RIGHT,302 RIGHT tidy maths desk facing LEFT. Maths classroom: blackboard front, windows LEFT toward giant 建木 tree, front/back doors on RIGHT, only part of the rows visible; do NOT make visible desks the class total (each class has54 students). Last-row Qingque by LEFT window; keep positions when revisiting.\nPACING: third episode established friendly work neighbours. This episode shows BOTH genuine teaching ability and genuine problems, professional rivalry and funny notes. No romantic blush/hearts/longing gaze, no touching/confession/date framing. Stars on notebook are professional praise, not love effects. Classroom students may be lively but never sexualized. Scores concern teaching and work; do not show future exam/art results or hidden wishes.\nTEXT: role labels “绯英：/爻光：/符玄：/学生：/旁白：/字幕：/内心：/音效：” below identify who speaks/type; DO NOT print labels in balloons. Print only actual text after label, tail unambiguously to correct speaker. Handwriting/screen text must be big and accurate. No random extra English except specified maths symbols and21:00 clock.\n\nPAGE 01 推门听课, exactly 4 panels. Layout:4格：校园与制度；美术教室门牌；推门；后门入场。\nPanel1 picture:绘世楼外墙常春藤、走廊学生作品，暖秋晨光。\nIntended text (do not print speaker labels):话名：第四话·本座带伞。字幕：开学两周后。\n\nPanel2 picture:走廊公告近景，给老制度三个短条目，门口仍挂木牌，不能把美术大教室标成301。\nIntended text (do not print speaker labels):公告：推门听课／如实记录／教研会公示。\n\nPanel3 picture:爻光从美术大教室后门进入，左手推门、左腕玉镯，右侧夹听课本；绯英在远处讲台。\nIntended text (do not print speaker labels):字幕：周二·上午第三节／高二（2）班·写生课。\n\nPanel4 picture:她在后门停住，目光扫过教室，展开听课本，折扇先收在文件夹边。\nIntended text (do not print speaker labels):旁白：制度的初衷，是交流。\nFooter 01.",
+    "references": [
+      "参考/绯英校园版.png",
+      "参考/爻光校园版.png",
+      "参考/美术教室与画风.png"
+    ],
+    "status": "已生成并通过独立视觉复核",
+    "local_corrections": [
+      "移除误入美术课的青雀眼罩与趴睡男生，改为普通清醒画画学生",
+      "时间字幕改为开学两周后"
+    ]
+  },
+  {
+    "page": 2,
+    "title": "课堂像庙会",
+    "layout": "5格：窗边写生；讲台围聚；画架掩体；主任记；视线转讲台。",
+    "panels": [
+      [
+        "七八个高中生围在采光好的窗边画建木，画架与颜料杯，窗台多肉，学生穿蓝白校服。",
+        "无对白，画笔与谈笑的生活动势。"
+      ],
+      [
+        "绯英站在讲台，几个学生围着她听讲，笑声热闹；成年老师服装与学生明显不同。",
+        "学生轻笑：哈哈。"
+      ],
+      [
+        "后排两个高中生躲在画架后，拿着蘸了一点颜料的笔作战术预演，不真的向人泼，不造成受伤。",
+        "一人小声：掩护！"
+      ],
+      [
+        "爻光在后门用裸右手执笔，右腕无饰，左手玉镯稳听课本，记录观察。",
+        "本上：纪律涣散。喧哗。"
+      ],
+      [
+        "她的目光从热闹画室移向绯英手里的速写板，笔尖停一下。",
+        "无对白，给注意力变化留一拍。"
+      ]
+    ],
+    "prompt": "Create ONE finished full-colour Chinese sequential manga PAGE for 《绯色难测》第四话《本座带伞》. EXACT 1024×1536 portrait PNG. Match the supplied approved character sheets and previous comic page: detailed 2D anime/manga, fine confident linework, rich soft cel shading, warm September school light, ivory gutters, thin black frames. Reading top-to-bottom, within each row LEFT TO RIGHT. Respect exact panel count and order below. This is a comic page, not poster or design sheet. Chinese dialogue readable, generous bubbles and accurate tails, no extra text, signatures or watermarks. Running header “绯色难测 · 第四话”, bottom-right correct two-digit page. Page01 adds title“本座带伞”; only page14 has“第四话 · 完”.\n\nAPPROVED CHARACTERS: 绯英 is ADULT art teacher early thirties, pink fluffy layered hair with longer side strands, purple eyes, red bow and blossom clip; berry-red cropped knit cardigan, ivory blouse, SEPARATE high-waisted navy A-line midi skirt, brown belt, charcoal tights, black loafers, small navy shoulder bag. NEVER student uniform, pinafore, suspenders, animal ears/tail. Anatomical RIGHT glove WHITE and FULL-FINGER, LEFT glove BLACK and FINGERLESS. Frontal view: white hand viewer LEFT, black hand viewer RIGHT. Never make both hands white. She writes and draws with WHITE RIGHT hand; BLACK LEFT hand steadies paper. Show hands only when necessary, no invented extra gestures.\n爻光 is ADULT grade director/maths teacher, silver-white long hair shaded pale blue/lilac, curved long bangs and outward side tufts, peacock-blue feather clasp at RIGHT temple, iridescent violet/cyan/pale-gold eyes. Ivory blazer, white stand-collar below-knee dress, narrow teal belt, navy scarf at LEFT shoulder, gray low heels. Both hands BARE. Old pale jade bangle ONLY LEFT wrist; RIGHT wrist completely bare (no watch/bracelet). Bare RIGHT hand writes, holds chalk or uses ruler; set fan/folder down before writing. Exactly two arms/two hands for each person.\nRare surname/name: 爻光 uses 爻 U+723B, FOUR strokes, two stacked slant crosses 乂, not 交. The character-sheet heading itself contains a mistaken 交, so do NOT copy that lettering; use 爻 (U+723B), exactly two stacked 乂 crosses. In balloons print 爻老师/爻老板 accurately when specified.\nSecondary adults for meeting: 景元 male principal, long loosely tied silver-gray hair, gold eyes, charcoal blazer over pale gray Chinese stand-collar shirt. 符玄 female academic director, long pink-lilac hair with side braid, violet eyes, thin gold glasses, ivory blouse/lilac-gray blazer/navy skirt. Ordinary adult human ears.\nAll students are HIGH-SCHOOL teenagers in white shirts/navy school knitwear/navy below-knee skirts or long trousers, no infant proportions, no animal ears or tails. Only draw the students specified in THIS PAGE. The three sleeping students belong ONLY to page08 in the MATHS class. Never draw Qingque/gray sleep masks or any sleeping student in ART CLASS pages01-05. The universe-painting transfer boy is unnamed, black short choppy hair, slender, blue-white uniform; do not name him.\n\nLOCATIONS: art classroom is a LARGE room at third-floor corridor end, easels/student art/succulents/eleven conductor plushes; never label it301. Small offices are adjacent: corridor front view LEFT301 Feiying, RIGHT302 Yaoguang. One shared indoor wall with one reachable old sliding ventilation window, no vent on corridor front wall. Inside cutaway room301 LEFT art desk facing RIGHT,302 RIGHT tidy maths desk facing LEFT. Maths classroom: blackboard front, windows LEFT toward giant 建木 tree, front/back doors on RIGHT, only part of the rows visible; do NOT make visible desks the class total (each class has54 students). Last-row Qingque by LEFT window; keep positions when revisiting.\nPACING: third episode established friendly work neighbours. This episode shows BOTH genuine teaching ability and genuine problems, professional rivalry and funny notes. No romantic blush/hearts/longing gaze, no touching/confession/date framing. Stars on notebook are professional praise, not love effects. Classroom students may be lively but never sexualized. Scores concern teaching and work; do not show future exam/art results or hidden wishes.\nTEXT: role labels “绯英：/爻光：/符玄：/学生：/旁白：/字幕：/内心：/音效：” below identify who speaks/type; DO NOT print labels in balloons. Print only actual text after label, tail unambiguously to correct speaker. Handwriting/screen text must be big and accurate. No random extra English except specified maths symbols and21:00 clock.\n\nPAGE 02 课堂像庙会, exactly 5 panels. Layout:5格：窗边写生；讲台围聚；画架掩体；主任记；视线转讲台。\nPanel1 picture:七八个高中生围在采光好的窗边画建木，画架与颜料杯，窗台多肉，学生穿蓝白校服。\nIntended text (do not print speaker labels):无对白，画笔与谈笑的生活动势。\n\nPanel2 picture:绯英站在讲台，几个学生围着她听讲，笑声热闹；成年老师服装与学生明显不同。\nIntended text (do not print speaker labels):学生轻笑：哈哈。\n\nPanel3 picture:后排两个高中生躲在画架后，拿着蘸了一点颜料的笔作战术预演，不真的向人泼，不造成受伤。\nIntended text (do not print speaker labels):一人小声：掩护！\n\nPanel4 picture:爻光在后门用裸右手执笔，右腕无饰，左手玉镯稳听课本，记录观察。\nIntended text (do not print speaker labels):本上：纪律涣散。喧哗。\n\nPanel5 picture:她的目光从热闹画室移向绯英手里的速写板，笔尖停一下。\nIntended text (do not print speaker labels):无对白，给注意力变化留一拍。\nFooter 02.",
+    "references": [
+      "参考/绯英校园版.png",
+      "参考/爻光校园版.png",
+      "参考/美术教室与画风.png"
+    ],
+    "status": "已生成并通过独立视觉复核",
+    "local_corrections": [
+      "末格写字右腕去除误绘玉镯"
+    ]
+  },
+  {
+    "page": 3,
+    "title": "看树，也看分镜",
+    "layout": "5格：速写板远景；枝条压角；树下留白；老师说明；笔尖悬停。",
+    "panels": [
+      [
+        "绯英白色全指右手持木尺，指向速写板里的一棵建木；黑色露指左手稳板，学生认真围看。",
+        "绯英：树干在这一格，是远景。画小一点没关系。"
+      ],
+      [
+        "板面大特写，枝条压住画面右上角，树干与枝条构图明确，不画成教程海报。",
+        "绯英画外：枝条压住右上角，这叫压角，画面一下子就稳了。"
+      ],
+      [
+        "她用尺子点向树下那片空白，空白是真正保留的纸面，不能塞文字或人物。",
+        "绯英：而树底下这个空——"
+      ],
+      [
+        "绯英半身，神情专注可靠，板子在前景；学生不再哄笑，开始看画。",
+        "绯英：这不是没画完，这是留白。是让看画的人自己走进来的门。"
+      ],
+      [
+        "后门，爻光裸右手的笔尖悬在听课本上，没有落下；远处学生已安静。",
+        "字幕：第三划，悬而未落。"
+      ]
+    ],
+    "prompt": "Create ONE finished full-colour Chinese sequential manga PAGE for 《绯色难测》第四话《本座带伞》. EXACT 1024×1536 portrait PNG. Match the supplied approved character sheets and previous comic page: detailed 2D anime/manga, fine confident linework, rich soft cel shading, warm September school light, ivory gutters, thin black frames. Reading top-to-bottom, within each row LEFT TO RIGHT. Respect exact panel count and order below. This is a comic page, not poster or design sheet. Chinese dialogue readable, generous bubbles and accurate tails, no extra text, signatures or watermarks. Running header “绯色难测 · 第四话”, bottom-right correct two-digit page. Page01 adds title“本座带伞”; only page14 has“第四话 · 完”.\n\nAPPROVED CHARACTERS: 绯英 is ADULT art teacher early thirties, pink fluffy layered hair with longer side strands, purple eyes, red bow and blossom clip; berry-red cropped knit cardigan, ivory blouse, SEPARATE high-waisted navy A-line midi skirt, brown belt, charcoal tights, black loafers, small navy shoulder bag. NEVER student uniform, pinafore, suspenders, animal ears/tail. Anatomical RIGHT glove WHITE and FULL-FINGER, LEFT glove BLACK and FINGERLESS. Frontal view: white hand viewer LEFT, black hand viewer RIGHT. Never make both hands white. She writes and draws with WHITE RIGHT hand; BLACK LEFT hand steadies paper. Show hands only when necessary, no invented extra gestures.\n爻光 is ADULT grade director/maths teacher, silver-white long hair shaded pale blue/lilac, curved long bangs and outward side tufts, peacock-blue feather clasp at RIGHT temple, iridescent violet/cyan/pale-gold eyes. Ivory blazer, white stand-collar below-knee dress, narrow teal belt, navy scarf at LEFT shoulder, gray low heels. Both hands BARE. Old pale jade bangle ONLY LEFT wrist; RIGHT wrist completely bare (no watch/bracelet). Bare RIGHT hand writes, holds chalk or uses ruler; set fan/folder down before writing. Exactly two arms/two hands for each person.\nRare surname/name: 爻光 uses 爻 U+723B, FOUR strokes, two stacked slant crosses 乂, not 交. The character-sheet heading itself contains a mistaken 交, so do NOT copy that lettering; use 爻 (U+723B), exactly two stacked 乂 crosses. In balloons print 爻老师/爻老板 accurately when specified.\nSecondary adults for meeting: 景元 male principal, long loosely tied silver-gray hair, gold eyes, charcoal blazer over pale gray Chinese stand-collar shirt. 符玄 female academic director, long pink-lilac hair with side braid, violet eyes, thin gold glasses, ivory blouse/lilac-gray blazer/navy skirt. Ordinary adult human ears.\nAll students are HIGH-SCHOOL teenagers in white shirts/navy school knitwear/navy below-knee skirts or long trousers, no infant proportions, no animal ears or tails. Only draw the students specified in THIS PAGE. The three sleeping students belong ONLY to page08 in the MATHS class. Never draw Qingque/gray sleep masks or any sleeping student in ART CLASS pages01-05. The universe-painting transfer boy is unnamed, black short choppy hair, slender, blue-white uniform; do not name him.\n\nLOCATIONS: art classroom is a LARGE room at third-floor corridor end, easels/student art/succulents/eleven conductor plushes; never label it301. Small offices are adjacent: corridor front view LEFT301 Feiying, RIGHT302 Yaoguang. One shared indoor wall with one reachable old sliding ventilation window, no vent on corridor front wall. Inside cutaway room301 LEFT art desk facing RIGHT,302 RIGHT tidy maths desk facing LEFT. Maths classroom: blackboard front, windows LEFT toward giant 建木 tree, front/back doors on RIGHT, only part of the rows visible; do NOT make visible desks the class total (each class has54 students). Last-row Qingque by LEFT window; keep positions when revisiting.\nPACING: third episode established friendly work neighbours. This episode shows BOTH genuine teaching ability and genuine problems, professional rivalry and funny notes. No romantic blush/hearts/longing gaze, no touching/confession/date framing. Stars on notebook are professional praise, not love effects. Classroom students may be lively but never sexualized. Scores concern teaching and work; do not show future exam/art results or hidden wishes.\nTEXT: role labels “绯英：/爻光：/符玄：/学生：/旁白：/字幕：/内心：/音效：” below identify who speaks/type; DO NOT print labels in balloons. Print only actual text after label, tail unambiguously to correct speaker. Handwriting/screen text must be big and accurate. No random extra English except specified maths symbols and21:00 clock.\n\nPAGE 03 看树，也看分镜, exactly 5 panels. Layout:5格：速写板远景；枝条压角；树下留白；老师说明；笔尖悬停。\nPanel1 picture:绯英白色全指右手持木尺，指向速写板里的一棵建木；黑色露指左手稳板，学生认真围看。\nIntended text (do not print speaker labels):绯英：树干在这一格，是远景。画小一点没关系。\n\nPanel2 picture:板面大特写，枝条压住画面右上角，树干与枝条构图明确，不画成教程海报。\nIntended text (do not print speaker labels):绯英画外：枝条压住右上角，这叫压角，画面一下子就稳了。\n\nPanel3 picture:她用尺子点向树下那片空白，空白是真正保留的纸面，不能塞文字或人物。\nIntended text (do not print speaker labels):绯英：而树底下这个空——\n\nPanel4 picture:绯英半身，神情专注可靠，板子在前景；学生不再哄笑，开始看画。\nIntended text (do not print speaker labels):绯英：这不是没画完，这是留白。是让看画的人自己走进来的门。\n\nPanel5 picture:后门，爻光裸右手的笔尖悬在听课本上，没有落下；远处学生已安静。\nIntended text (do not print speaker labels):字幕：第三划，悬而未落。\nFooter 03.",
+    "references": [
+      "参考/绯英校园版.png",
+      "参考/爻光校园版.png",
+      "参考/美术教室与画风.png"
+    ],
+    "status": "已生成并通过独立视觉复核",
+    "local_corrections": [
+      "末格写字右腕去除误绘玉镯",
+      "第三刻误字改为第三划"
+    ]
+  },
+  {
+    "page": 4,
+    "title": "最后一排的宇宙",
+    "layout": "4格：安静教室；无名男生；宇宙画大格；主任看画。",
+    "panels": [
+      [
+        "几位学生把画笔放到纸边，望向窗外的建木；绯英退到旁边，让孩子们自己看。",
+        "无对白，保留上课真正发生变化。"
+      ],
+      [
+        "临近下课，最后一排靠墙，一个清瘦、黑色短碎发的高中男转学生独自作画，蓝白校服；不赋名字。",
+        "字幕：临近下课。"
+      ],
+      [
+        "画纸大特写：星轨、星尘、一颗一边碎裂一边愈合的行星，笔触细密，显出学生的能力。",
+        "无对白。"
+      ],
+      [
+        "爻光站到男生身后看画，保持普通教师距离；男生专注未察觉，桌面只画他两只手，一只执笔一只稳纸。",
+        "无对白，不标十分钟。"
+      ]
+    ],
+    "prompt": "Create ONE finished full-colour Chinese sequential manga PAGE for 《绯色难测》第四话《本座带伞》. EXACT 1024×1536 portrait PNG. Match the supplied approved character sheets and previous comic page: detailed 2D anime/manga, fine confident linework, rich soft cel shading, warm September school light, ivory gutters, thin black frames. Reading top-to-bottom, within each row LEFT TO RIGHT. Respect exact panel count and order below. This is a comic page, not poster or design sheet. Chinese dialogue readable, generous bubbles and accurate tails, no extra text, signatures or watermarks. Running header “绯色难测 · 第四话”, bottom-right correct two-digit page. Page01 adds title“本座带伞”; only page14 has“第四话 · 完”.\n\nAPPROVED CHARACTERS: 绯英 is ADULT art teacher early thirties, pink fluffy layered hair with longer side strands, purple eyes, red bow and blossom clip; berry-red cropped knit cardigan, ivory blouse, SEPARATE high-waisted navy A-line midi skirt, brown belt, charcoal tights, black loafers, small navy shoulder bag. NEVER student uniform, pinafore, suspenders, animal ears/tail. Anatomical RIGHT glove WHITE and FULL-FINGER, LEFT glove BLACK and FINGERLESS. Frontal view: white hand viewer LEFT, black hand viewer RIGHT. Never make both hands white. She writes and draws with WHITE RIGHT hand; BLACK LEFT hand steadies paper. Show hands only when necessary, no invented extra gestures.\n爻光 is ADULT grade director/maths teacher, silver-white long hair shaded pale blue/lilac, curved long bangs and outward side tufts, peacock-blue feather clasp at RIGHT temple, iridescent violet/cyan/pale-gold eyes. Ivory blazer, white stand-collar below-knee dress, narrow teal belt, navy scarf at LEFT shoulder, gray low heels. Both hands BARE. Old pale jade bangle ONLY LEFT wrist; RIGHT wrist completely bare (no watch/bracelet). Bare RIGHT hand writes, holds chalk or uses ruler; set fan/folder down before writing. Exactly two arms/two hands for each person.\nRare surname/name: 爻光 uses 爻 U+723B, FOUR strokes, two stacked slant crosses 乂, not 交. The character-sheet heading itself contains a mistaken 交, so do NOT copy that lettering; use 爻 (U+723B), exactly two stacked 乂 crosses. In balloons print 爻老师/爻老板 accurately when specified.\nSecondary adults for meeting: 景元 male principal, long loosely tied silver-gray hair, gold eyes, charcoal blazer over pale gray Chinese stand-collar shirt. 符玄 female academic director, long pink-lilac hair with side braid, violet eyes, thin gold glasses, ivory blouse/lilac-gray blazer/navy skirt. Ordinary adult human ears.\nAll students are HIGH-SCHOOL teenagers in white shirts/navy school knitwear/navy below-knee skirts or long trousers, no infant proportions, no animal ears or tails. Only draw the students specified in THIS PAGE. The three sleeping students belong ONLY to page08 in the MATHS class. Never draw Qingque/gray sleep masks or any sleeping student in ART CLASS pages01-05. The universe-painting transfer boy is unnamed, black short choppy hair, slender, blue-white uniform; do not name him.\n\nLOCATIONS: art classroom is a LARGE room at third-floor corridor end, easels/student art/succulents/eleven conductor plushes; never label it301. Small offices are adjacent: corridor front view LEFT301 Feiying, RIGHT302 Yaoguang. One shared indoor wall with one reachable old sliding ventilation window, no vent on corridor front wall. Inside cutaway room301 LEFT art desk facing RIGHT,302 RIGHT tidy maths desk facing LEFT. Maths classroom: blackboard front, windows LEFT toward giant 建木 tree, front/back doors on RIGHT, only part of the rows visible; do NOT make visible desks the class total (each class has54 students). Last-row Qingque by LEFT window; keep positions when revisiting.\nPACING: third episode established friendly work neighbours. This episode shows BOTH genuine teaching ability and genuine problems, professional rivalry and funny notes. No romantic blush/hearts/longing gaze, no touching/confession/date framing. Stars on notebook are professional praise, not love effects. Classroom students may be lively but never sexualized. Scores concern teaching and work; do not show future exam/art results or hidden wishes.\nTEXT: role labels “绯英：/爻光：/符玄：/学生：/旁白：/字幕：/内心：/音效：” below identify who speaks/type; DO NOT print labels in balloons. Print only actual text after label, tail unambiguously to correct speaker. Handwriting/screen text must be big and accurate. No random extra English except specified maths symbols and21:00 clock.\n\nPAGE 04 最后一排的宇宙, exactly 4 panels. Layout:4格：安静教室；无名男生；宇宙画大格；主任看画。\nPanel1 picture:几位学生把画笔放到纸边，望向窗外的建木；绯英退到旁边，让孩子们自己看。\nIntended text (do not print speaker labels):无对白，保留上课真正发生变化。\n\nPanel2 picture:临近下课，最后一排靠墙，一个清瘦、黑色短碎发的高中男转学生独自作画，蓝白校服；不赋名字。\nIntended text (do not print speaker labels):字幕：临近下课。\n\nPanel3 picture:画纸大特写：星轨、星尘、一颗一边碎裂一边愈合的行星，笔触细密，显出学生的能力。\nIntended text (do not print speaker labels):无对白。\n\nPanel4 picture:爻光站到男生身后看画，保持普通教师距离；男生专注未察觉，桌面只画他两只手，一只执笔一只稳纸。\nIntended text (do not print speaker labels):无对白，不标十分钟。\nFooter 04.",
+    "references": [
+      "参考/绯英校园版.png",
+      "参考/爻光校园版.png",
+      "参考/美术教室与画风.png"
+    ],
+    "status": "已生成并通过独立视觉复核",
+    "local_corrections": []
+  },
+  {
+    "page": 5,
+    "title": "散与实",
+    "layout": "5格：下课铃；落评语；停读；撕重誊；同一句留下。",
+    "panels": [
+      [
+        "下课铃响，学生收拾颜料与画板，爻光回到后门；绯英仍在与学生说画稿。",
+        "音效：铃——"
+      ],
+      [
+        "爻光听课本备注近景，右手写字，左玉镯手压纸。",
+        "备注：课堂组织：散。／学生状态：实。"
+      ],
+      [
+        "她看着这两行评语停住，神情是认真斟酌，并非生气或心动。",
+        "无对白。"
+      ],
+      [
+        "纸张从本子整齐撕下，她翻到新的一页重新誊写；动作自然，只有两手。",
+        "无对白，用动作表现不愿轻率改判。"
+      ],
+      [
+        "新纸页大特写，工整写下与刚才相同的两行，旧纸放在旁边不必重复全文。",
+        "课堂组织：散。／学生状态：实。"
+      ]
+    ],
+    "prompt": "Create ONE finished full-colour Chinese sequential manga PAGE for 《绯色难测》第四话《本座带伞》. EXACT 1024×1536 portrait PNG. Match the supplied approved character sheets and previous comic page: detailed 2D anime/manga, fine confident linework, rich soft cel shading, warm September school light, ivory gutters, thin black frames. Reading top-to-bottom, within each row LEFT TO RIGHT. Respect exact panel count and order below. This is a comic page, not poster or design sheet. Chinese dialogue readable, generous bubbles and accurate tails, no extra text, signatures or watermarks. Running header “绯色难测 · 第四话”, bottom-right correct two-digit page. Page01 adds title“本座带伞”; only page14 has“第四话 · 完”.\n\nAPPROVED CHARACTERS: 绯英 is ADULT art teacher early thirties, pink fluffy layered hair with longer side strands, purple eyes, red bow and blossom clip; berry-red cropped knit cardigan, ivory blouse, SEPARATE high-waisted navy A-line midi skirt, brown belt, charcoal tights, black loafers, small navy shoulder bag. NEVER student uniform, pinafore, suspenders, animal ears/tail. Anatomical RIGHT glove WHITE and FULL-FINGER, LEFT glove BLACK and FINGERLESS. Frontal view: white hand viewer LEFT, black hand viewer RIGHT. Never make both hands white. She writes and draws with WHITE RIGHT hand; BLACK LEFT hand steadies paper. Show hands only when necessary, no invented extra gestures.\n爻光 is ADULT grade director/maths teacher, silver-white long hair shaded pale blue/lilac, curved long bangs and outward side tufts, peacock-blue feather clasp at RIGHT temple, iridescent violet/cyan/pale-gold eyes. Ivory blazer, white stand-collar below-knee dress, narrow teal belt, navy scarf at LEFT shoulder, gray low heels. Both hands BARE. Old pale jade bangle ONLY LEFT wrist; RIGHT wrist completely bare (no watch/bracelet). Bare RIGHT hand writes, holds chalk or uses ruler; set fan/folder down before writing. Exactly two arms/two hands for each person.\nRare surname/name: 爻光 uses 爻 U+723B, FOUR strokes, two stacked slant crosses 乂, not 交. The character-sheet heading itself contains a mistaken 交, so do NOT copy that lettering; use 爻 (U+723B), exactly two stacked 乂 crosses. In balloons print 爻老师/爻老板 accurately when specified.\nSecondary adults for meeting: 景元 male principal, long loosely tied silver-gray hair, gold eyes, charcoal blazer over pale gray Chinese stand-collar shirt. 符玄 female academic director, long pink-lilac hair with side braid, violet eyes, thin gold glasses, ivory blouse/lilac-gray blazer/navy skirt. Ordinary adult human ears.\nAll students are HIGH-SCHOOL teenagers in white shirts/navy school knitwear/navy below-knee skirts or long trousers, no infant proportions, no animal ears or tails. Only draw the students specified in THIS PAGE. The three sleeping students belong ONLY to page08 in the MATHS class. Never draw Qingque/gray sleep masks or any sleeping student in ART CLASS pages01-05. The universe-painting transfer boy is unnamed, black short choppy hair, slender, blue-white uniform; do not name him.\n\nLOCATIONS: art classroom is a LARGE room at third-floor corridor end, easels/student art/succulents/eleven conductor plushes; never label it301. Small offices are adjacent: corridor front view LEFT301 Feiying, RIGHT302 Yaoguang. One shared indoor wall with one reachable old sliding ventilation window, no vent on corridor front wall. Inside cutaway room301 LEFT art desk facing RIGHT,302 RIGHT tidy maths desk facing LEFT. Maths classroom: blackboard front, windows LEFT toward giant 建木 tree, front/back doors on RIGHT, only part of the rows visible; do NOT make visible desks the class total (each class has54 students). Last-row Qingque by LEFT window; keep positions when revisiting.\nPACING: third episode established friendly work neighbours. This episode shows BOTH genuine teaching ability and genuine problems, professional rivalry and funny notes. No romantic blush/hearts/longing gaze, no touching/confession/date framing. Stars on notebook are professional praise, not love effects. Classroom students may be lively but never sexualized. Scores concern teaching and work; do not show future exam/art results or hidden wishes.\nTEXT: role labels “绯英：/爻光：/符玄：/学生：/旁白：/字幕：/内心：/音效：” below identify who speaks/type; DO NOT print labels in balloons. Print only actual text after label, tail unambiguously to correct speaker. Handwriting/screen text must be big and accurate. No random extra English except specified maths symbols and21:00 clock.\n\nPAGE 05 散与实, exactly 5 panels. Layout:5格：下课铃；落评语；停读；撕重誊；同一句留下。\nPanel1 picture:下课铃响，学生收拾颜料与画板，爻光回到后门；绯英仍在与学生说画稿。\nIntended text (do not print speaker labels):音效：铃——\n\nPanel2 picture:爻光听课本备注近景，右手写字，左玉镯手压纸。\nIntended text (do not print speaker labels):备注：课堂组织：散。／学生状态：实。\n\nPanel3 picture:她看着这两行评语停住，神情是认真斟酌，并非生气或心动。\nIntended text (do not print speaker labels):无对白。\n\nPanel4 picture:纸张从本子整齐撕下，她翻到新的一页重新誊写；动作自然，只有两手。\nIntended text (do not print speaker labels):无对白，用动作表现不愿轻率改判。\n\nPanel5 picture:新纸页大特写，工整写下与刚才相同的两行，旧纸放在旁边不必重复全文。\nIntended text (do not print speaker labels):课堂组织：散。／学生状态：实。\nFooter 05.",
+    "references": [
+      "参考/绯英校园版.png",
+      "参考/爻光校园版.png",
+      "参考/美术教室与画风.png"
+    ],
+    "status": "已生成并通过独立视觉复核",
+    "local_corrections": [
+      "第四格玉镯从右腕改为左腕"
+    ]
+  },
+  {
+    "page": 6,
+    "title": "两天后",
+    "layout": "4格：数学班前门；绯英挥手；主任继续讲；课堂全景。",
+    "panels": [
+      [
+        "高二（1）班前门，绯英抱听课本进来；她是成年教师，不穿学生制服。",
+        "字幕：两天后·周四下午第一节／高二（1）班·数学课。"
+      ],
+      [
+        "她朝讲台笑着挥一下白色全指右手，黑露指左手抱本，轻快但礼貌。",
+        "绯英：打扰啦。"
+      ],
+      [
+        "爻光扫她一眼，继续用裸右手拿粉笔讲课，右腕空，左腕玉镯手放讲台边。",
+        "黑板题目：排列与组合。"
+      ],
+      [
+        "从后排看数学教室可见的一部分：前方黑板讲台，左侧窗户朝建木，右侧前后门，成排课桌向画外延伸；可见人数不是全班总数。绯英在后排侧边落座，不挡学生。",
+        "无对白，课堂秩序整齐。"
+      ]
+    ],
+    "prompt": "Create ONE finished full-colour Chinese sequential manga PAGE for 《绯色难测》第四话《本座带伞》. EXACT 1024×1536 portrait PNG. Match the supplied approved character sheets and previous comic page: detailed 2D anime/manga, fine confident linework, rich soft cel shading, warm September school light, ivory gutters, thin black frames. Reading top-to-bottom, within each row LEFT TO RIGHT. Respect exact panel count and order below. This is a comic page, not poster or design sheet. Chinese dialogue readable, generous bubbles and accurate tails, no extra text, signatures or watermarks. Running header “绯色难测 · 第四话”, bottom-right correct two-digit page. Page01 adds title“本座带伞”; only page14 has“第四话 · 完”.\n\nAPPROVED CHARACTERS: 绯英 is ADULT art teacher early thirties, pink fluffy layered hair with longer side strands, purple eyes, red bow and blossom clip; berry-red cropped knit cardigan, ivory blouse, SEPARATE high-waisted navy A-line midi skirt, brown belt, charcoal tights, black loafers, small navy shoulder bag. NEVER student uniform, pinafore, suspenders, animal ears/tail. Anatomical RIGHT glove WHITE and FULL-FINGER, LEFT glove BLACK and FINGERLESS. Frontal view: white hand viewer LEFT, black hand viewer RIGHT. Never make both hands white. She writes and draws with WHITE RIGHT hand; BLACK LEFT hand steadies paper. Show hands only when necessary, no invented extra gestures.\n爻光 is ADULT grade director/maths teacher, silver-white long hair shaded pale blue/lilac, curved long bangs and outward side tufts, peacock-blue feather clasp at RIGHT temple, iridescent violet/cyan/pale-gold eyes. Ivory blazer, white stand-collar below-knee dress, narrow teal belt, navy scarf at LEFT shoulder, gray low heels. Both hands BARE. Old pale jade bangle ONLY LEFT wrist; RIGHT wrist completely bare (no watch/bracelet). Bare RIGHT hand writes, holds chalk or uses ruler; set fan/folder down before writing. Exactly two arms/two hands for each person.\nRare surname/name: 爻光 uses 爻 U+723B, FOUR strokes, two stacked slant crosses 乂, not 交. The character-sheet heading itself contains a mistaken 交, so do NOT copy that lettering; use 爻 (U+723B), exactly two stacked 乂 crosses. In balloons print 爻老师/爻老板 accurately when specified.\nSecondary adults for meeting: 景元 male principal, long loosely tied silver-gray hair, gold eyes, charcoal blazer over pale gray Chinese stand-collar shirt. 符玄 female academic director, long pink-lilac hair with side braid, violet eyes, thin gold glasses, ivory blouse/lilac-gray blazer/navy skirt. Ordinary adult human ears.\nAll students are HIGH-SCHOOL teenagers in white shirts/navy school knitwear/navy below-knee skirts or long trousers, no infant proportions, no animal ears or tails. Only draw the students specified in THIS PAGE. The three sleeping students belong ONLY to page08 in the MATHS class. Never draw Qingque/gray sleep masks or any sleeping student in ART CLASS pages01-05. The universe-painting transfer boy is unnamed, black short choppy hair, slender, blue-white uniform; do not name him.\n\nLOCATIONS: art classroom is a LARGE room at third-floor corridor end, easels/student art/succulents/eleven conductor plushes; never label it301. Small offices are adjacent: corridor front view LEFT301 Feiying, RIGHT302 Yaoguang. One shared indoor wall with one reachable old sliding ventilation window, no vent on corridor front wall. Inside cutaway room301 LEFT art desk facing RIGHT,302 RIGHT tidy maths desk facing LEFT. Maths classroom: blackboard front, windows LEFT toward giant 建木 tree, front/back doors on RIGHT, only part of the rows visible; do NOT make visible desks the class total (each class has54 students). Last-row Qingque by LEFT window; keep positions when revisiting.\nPACING: third episode established friendly work neighbours. This episode shows BOTH genuine teaching ability and genuine problems, professional rivalry and funny notes. No romantic blush/hearts/longing gaze, no touching/confession/date framing. Stars on notebook are professional praise, not love effects. Classroom students may be lively but never sexualized. Scores concern teaching and work; do not show future exam/art results or hidden wishes.\nTEXT: role labels “绯英：/爻光：/符玄：/学生：/旁白：/字幕：/内心：/音效：” below identify who speaks/type; DO NOT print labels in balloons. Print only actual text after label, tail unambiguously to correct speaker. Handwriting/screen text must be big and accurate. No random extra English except specified maths symbols and21:00 clock.\n\nPAGE 06 两天后, exactly 4 panels. Layout:4格：数学班前门；绯英挥手；主任继续讲；课堂全景。\nPanel1 picture:高二（1）班前门，绯英抱听课本进来；她是成年教师，不穿学生制服。\nIntended text (do not print speaker labels):字幕：两天后·周四下午第一节／高二（1）班·数学课。\n\nPanel2 picture:她朝讲台笑着挥一下白色全指右手，黑露指左手抱本，轻快但礼貌。\nIntended text (do not print speaker labels):绯英：打扰啦。\n\nPanel3 picture:爻光扫她一眼，继续用裸右手拿粉笔讲课，右腕空，左腕玉镯手放讲台边。\nIntended text (do not print speaker labels):黑板题目：排列与组合。\n\nPanel4 picture:从后排看数学教室可见的一部分：前方黑板讲台，左侧窗户朝建木，右侧前后门，成排课桌向画外延伸；可见人数不是全班总数。绯英在后排侧边落座，不挡学生。\nIntended text (do not print speaker labels):无对白，课堂秩序整齐。\nFooter 06.",
+    "references": [
+      "参考/绯英校园版.png",
+      "参考/爻光校园版.png",
+      "参考/美术教室与画风.png"
+    ],
+    "status": "已生成并通过独立视觉复核",
+    "local_corrections": [
+      "写粉笔右腕去除误绘玉镯",
+      "黑板简化为排列3×2=6、组合3种，修复原公式互换"
+    ]
+  },
+  {
+    "page": 7,
+    "title": "排出来的顺序",
+    "layout": "5格：简例；有序无序；学生提问；教师回答；五角星。",
+    "panels": [
+      [
+        "爻光讲一个简单例子，黑板清晰。教学节奏严密，学生跟着记录。",
+        "黑板：3人选2人排成一列：3×2＝6。"
+      ],
+      [
+        "她将排列和组合并列，右手粉笔、左手自然放下，不拿扇。",
+        "爻光：排成一列，次序不同就是不同排法。组成小组，就不计先后。黑板补行：3人选2人组成一组：3种。"
+      ],
+      [
+        "一位清醒的高中男生举手问，周围同学仍听课。",
+        "学生：老师，这些推导高考又不直接考，为什么还要会？"
+      ],
+      [
+        "爻光继续指向黑板，语气正常，眼神坚定。",
+        "爻光：高考考的不是推导。考的是：十个选项摆在面前，你敢不敢信自己排出的顺序。"
+      ],
+      [
+        "绯英低头，在自己的听课笔记旁认真画下一颗五角星。右白手套执笔、左黑露指稳本。",
+        "笔记：排列、组合。旁边一颗五角星。"
+      ]
+    ],
+    "prompt": "Create ONE finished full-colour Chinese sequential manga PAGE for 《绯色难测》第四话《本座带伞》. EXACT 1024×1536 portrait PNG. Match the supplied approved character sheets and previous comic page: detailed 2D anime/manga, fine confident linework, rich soft cel shading, warm September school light, ivory gutters, thin black frames. Reading top-to-bottom, within each row LEFT TO RIGHT. Respect exact panel count and order below. This is a comic page, not poster or design sheet. Chinese dialogue readable, generous bubbles and accurate tails, no extra text, signatures or watermarks. Running header “绯色难测 · 第四话”, bottom-right correct two-digit page. Page01 adds title“本座带伞”; only page14 has“第四话 · 完”.\n\nAPPROVED CHARACTERS: 绯英 is ADULT art teacher early thirties, pink fluffy layered hair with longer side strands, purple eyes, red bow and blossom clip; berry-red cropped knit cardigan, ivory blouse, SEPARATE high-waisted navy A-line midi skirt, brown belt, charcoal tights, black loafers, small navy shoulder bag. NEVER student uniform, pinafore, suspenders, animal ears/tail. Anatomical RIGHT glove WHITE and FULL-FINGER, LEFT glove BLACK and FINGERLESS. Frontal view: white hand viewer LEFT, black hand viewer RIGHT. Never make both hands white. She writes and draws with WHITE RIGHT hand; BLACK LEFT hand steadies paper. Show hands only when necessary, no invented extra gestures.\n爻光 is ADULT grade director/maths teacher, silver-white long hair shaded pale blue/lilac, curved long bangs and outward side tufts, peacock-blue feather clasp at RIGHT temple, iridescent violet/cyan/pale-gold eyes. Ivory blazer, white stand-collar below-knee dress, narrow teal belt, navy scarf at LEFT shoulder, gray low heels. Both hands BARE. Old pale jade bangle ONLY LEFT wrist; RIGHT wrist completely bare (no watch/bracelet). Bare RIGHT hand writes, holds chalk or uses ruler; set fan/folder down before writing. Exactly two arms/two hands for each person.\nRare surname/name: 爻光 uses 爻 U+723B, FOUR strokes, two stacked slant crosses 乂, not 交. The character-sheet heading itself contains a mistaken 交, so do NOT copy that lettering; use 爻 (U+723B), exactly two stacked 乂 crosses. In balloons print 爻老师/爻老板 accurately when specified.\nSecondary adults for meeting: 景元 male principal, long loosely tied silver-gray hair, gold eyes, charcoal blazer over pale gray Chinese stand-collar shirt. 符玄 female academic director, long pink-lilac hair with side braid, violet eyes, thin gold glasses, ivory blouse/lilac-gray blazer/navy skirt. Ordinary adult human ears.\nAll students are HIGH-SCHOOL teenagers in white shirts/navy school knitwear/navy below-knee skirts or long trousers, no infant proportions, no animal ears or tails. Only draw the students specified in THIS PAGE. The three sleeping students belong ONLY to page08 in the MATHS class. Never draw Qingque/gray sleep masks or any sleeping student in ART CLASS pages01-05. The universe-painting transfer boy is unnamed, black short choppy hair, slender, blue-white uniform; do not name him.\n\nLOCATIONS: art classroom is a LARGE room at third-floor corridor end, easels/student art/succulents/eleven conductor plushes; never label it301. Small offices are adjacent: corridor front view LEFT301 Feiying, RIGHT302 Yaoguang. One shared indoor wall with one reachable old sliding ventilation window, no vent on corridor front wall. Inside cutaway room301 LEFT art desk facing RIGHT,302 RIGHT tidy maths desk facing LEFT. Maths classroom: blackboard front, windows LEFT toward giant 建木 tree, front/back doors on RIGHT, only part of the rows visible; do NOT make visible desks the class total (each class has54 students). Last-row Qingque by LEFT window; keep positions when revisiting.\nPACING: third episode established friendly work neighbours. This episode shows BOTH genuine teaching ability and genuine problems, professional rivalry and funny notes. No romantic blush/hearts/longing gaze, no touching/confession/date framing. Stars on notebook are professional praise, not love effects. Classroom students may be lively but never sexualized. Scores concern teaching and work; do not show future exam/art results or hidden wishes.\nTEXT: role labels “绯英：/爻光：/符玄：/学生：/旁白：/字幕：/内心：/音效：” below identify who speaks/type; DO NOT print labels in balloons. Print only actual text after label, tail unambiguously to correct speaker. Handwriting/screen text must be big and accurate. No random extra English except specified maths symbols and21:00 clock.\n\nPAGE 07 排出来的顺序, exactly 5 panels. Layout:5格：简例；有序无序；学生提问；教师回答；五角星。\nPanel1 picture:爻光讲一个简单例子，黑板清晰。教学节奏严密，学生跟着记录。\nIntended text (do not print speaker labels):黑板：3人选2人排成一列：3×2＝6。\n\nPanel2 picture:她将排列和组合并列，右手粉笔、左手自然放下，不拿扇。\nIntended text (do not print speaker labels):爻光：排成一列，次序不同就是不同排法。组成小组，就不计先后。黑板补行：3人选2人组成一组：3种。\n\nPanel3 picture:一位清醒的高中男生举手问，周围同学仍听课。\nIntended text (do not print speaker labels):学生：老师，这些推导高考又不直接考，为什么还要会？\n\nPanel4 picture:爻光继续指向黑板，语气正常，眼神坚定。\nIntended text (do not print speaker labels):爻光：高考考的不是推导。考的是：十个选项摆在面前，你敢不敢信自己排出的顺序。\n\nPanel5 picture:绯英低头，在自己的听课笔记旁认真画下一颗五角星。右白手套执笔、左黑露指稳本。\nIntended text (do not print speaker labels):笔记：排列、组合。旁边一颗五角星。\nFooter 07.",
+    "references": [
+      "参考/绯英校园版.png",
+      "参考/爻光校园版.png",
+      "参考/美术教室与画风.png",
+      "page-06.png"
+    ],
+    "status": "已生成并通过独立视觉复核",
+    "local_corrections": [
+      "第1/2/4格粉笔腕去除误绘玉镯",
+      "单颗笔记星统一为金色"
+    ]
+  },
+  {
+    "page": 8,
+    "title": "三名睡觉学生",
+    "layout": "5格：观察；第三排男生；倒数第二排女生；最后排青雀；记三划与门口。",
+    "panels": [
+      [
+        "绯英在后排侧边抬眼，开始观察学生状态，本子上刚画的五角星仍在。",
+        "内心：然后，开始默数。"
+      ],
+      [
+        "第三排一位黑短发高中男生趴着睡，蓝白校服，桌上摊课本；只这一名睡觉男生。",
+        "字幕：第三排，一名男生。"
+      ],
+      [
+        "倒数第二排一位栗色长发高中女生安稳趴睡，深蓝校服；与男生及青雀是不同人。",
+        "字幕：倒数第二排，一名女生。"
+      ],
+      [
+        "最后一排靠左窗的青雀戴深灰眼罩睡。灰绿色齐肩发、齐刘海、两侧低束小发束，白衬衣、深蓝针织背心、淡青领结、深蓝过膝校裙，清楚为高中生。",
+        "字幕：最后一排，戴着眼罩。"
+      ],
+      [
+        "绯英白色右手执笔，黑色左手压本，记三个短笔划，纸上有睡觉记录。后门旁少数隔壁班课代表探头，不能新增睡生。",
+        "笔记：睡觉：三人。"
+      ]
+    ],
+    "prompt": "Create ONE finished full-colour Chinese sequential manga PAGE for 《绯色难测》第四话《本座带伞》. EXACT 1024×1536 portrait PNG. Match the supplied approved character sheets and previous comic page: detailed 2D anime/manga, fine confident linework, rich soft cel shading, warm September school light, ivory gutters, thin black frames. Reading top-to-bottom, within each row LEFT TO RIGHT. Respect exact panel count and order below. This is a comic page, not poster or design sheet. Chinese dialogue readable, generous bubbles and accurate tails, no extra text, signatures or watermarks. Running header “绯色难测 · 第四话”, bottom-right correct two-digit page. Page01 adds title“本座带伞”; only page14 has“第四话 · 完”.\n\nAPPROVED CHARACTERS: 绯英 is ADULT art teacher early thirties, pink fluffy layered hair with longer side strands, purple eyes, red bow and blossom clip; berry-red cropped knit cardigan, ivory blouse, SEPARATE high-waisted navy A-line midi skirt, brown belt, charcoal tights, black loafers, small navy shoulder bag. NEVER student uniform, pinafore, suspenders, animal ears/tail. Anatomical RIGHT glove WHITE and FULL-FINGER, LEFT glove BLACK and FINGERLESS. Frontal view: white hand viewer LEFT, black hand viewer RIGHT. Never make both hands white. She writes and draws with WHITE RIGHT hand; BLACK LEFT hand steadies paper. Show hands only when necessary, no invented extra gestures.\n爻光 is ADULT grade director/maths teacher, silver-white long hair shaded pale blue/lilac, curved long bangs and outward side tufts, peacock-blue feather clasp at RIGHT temple, iridescent violet/cyan/pale-gold eyes. Ivory blazer, white stand-collar below-knee dress, narrow teal belt, navy scarf at LEFT shoulder, gray low heels. Both hands BARE. Old pale jade bangle ONLY LEFT wrist; RIGHT wrist completely bare (no watch/bracelet). Bare RIGHT hand writes, holds chalk or uses ruler; set fan/folder down before writing. Exactly two arms/two hands for each person.\nRare surname/name: 爻光 uses 爻 U+723B, FOUR strokes, two stacked slant crosses 乂, not 交. The character-sheet heading itself contains a mistaken 交, so do NOT copy that lettering; use 爻 (U+723B), exactly two stacked 乂 crosses. In balloons print 爻老师/爻老板 accurately when specified.\nSecondary adults for meeting: 景元 male principal, long loosely tied silver-gray hair, gold eyes, charcoal blazer over pale gray Chinese stand-collar shirt. 符玄 female academic director, long pink-lilac hair with side braid, violet eyes, thin gold glasses, ivory blouse/lilac-gray blazer/navy skirt. Ordinary adult human ears.\nAll students are HIGH-SCHOOL teenagers in white shirts/navy school knitwear/navy below-knee skirts or long trousers, no infant proportions, no animal ears or tails. Sleeping students EXACTLY THREE: black short-haired boy in row3; chestnut LONG-haired girl in penultimate row; 青雀 in LAST row by LEFT window, GRAY-GREEN shoulder-length hair, straight fringe, two low side bunches, teal-green eyes (covered when sleeping), gray sleep mask, white shirt/navy knit vest/navy below-knee skirt/pale-teal neck bow. Keep this Qingque identical for next episode. The universe-painting transfer boy is unnamed, black short choppy hair, slender, blue-white uniform; do not name him.\n\nLOCATIONS: art classroom is a LARGE room at third-floor corridor end, easels/student art/succulents/eleven conductor plushes; never label it301. Small offices are adjacent: corridor front view LEFT301 Feiying, RIGHT302 Yaoguang. One shared indoor wall with one reachable old sliding ventilation window, no vent on corridor front wall. Inside cutaway room301 LEFT art desk facing RIGHT,302 RIGHT tidy maths desk facing LEFT. Maths classroom: blackboard front, windows LEFT toward giant 建木 tree, front/back doors on RIGHT, only part of the rows visible; do NOT make visible desks the class total (each class has54 students). Last-row Qingque by LEFT window; keep positions when revisiting.\nPACING: third episode established friendly work neighbours. This episode shows BOTH genuine teaching ability and genuine problems, professional rivalry and funny notes. No romantic blush/hearts/longing gaze, no touching/confession/date framing. Stars on notebook are professional praise, not love effects. Classroom students may be lively but never sexualized. Scores concern teaching and work; do not show future exam/art results or hidden wishes.\nTEXT: role labels “绯英：/爻光：/符玄：/学生：/旁白：/字幕：/内心：/音效：” below identify who speaks/type; DO NOT print labels in balloons. Print only actual text after label, tail unambiguously to correct speaker. Handwriting/screen text must be big and accurate. No random extra English except specified maths symbols and21:00 clock.\n\nPAGE 08 三名睡觉学生, exactly 5 panels. Layout:5格：观察；第三排男生；倒数第二排女生；最后排青雀；记三划与门口。\nPanel1 picture:绯英在后排侧边抬眼，开始观察学生状态，本子上刚画的五角星仍在。\nIntended text (do not print speaker labels):内心：然后，开始默数。\n\nPanel2 picture:第三排一位黑短发高中男生趴着睡，蓝白校服，桌上摊课本；只这一名睡觉男生。\nIntended text (do not print speaker labels):字幕：第三排，一名男生。\n\nPanel3 picture:倒数第二排一位栗色长发高中女生安稳趴睡，深蓝校服；与男生及青雀是不同人。\nIntended text (do not print speaker labels):字幕：倒数第二排，一名女生。\n\nPanel4 picture:最后一排靠左窗的青雀戴深灰眼罩睡。灰绿色齐肩发、齐刘海、两侧低束小发束，白衬衣、深蓝针织背心、淡青领结、深蓝过膝校裙，清楚为高中生。\nIntended text (do not print speaker labels):字幕：最后一排，戴着眼罩。\n\nPanel5 picture:绯英白色右手执笔，黑色左手压本，记三个短笔划，纸上有睡觉记录。后门旁少数隔壁班课代表探头，不能新增睡生。\nIntended text (do not print speaker labels):笔记：睡觉：三人。\nFooter 08.",
+    "references": [
+      "参考/绯英校园版.png",
+      "参考/爻光校园版.png",
+      "参考/美术教室与画风.png",
+      "page-06.png"
+    ],
+    "status": "已生成并通过独立视觉复核",
+    "local_corrections": [
+      "首格本子四颗星改为一颗金星，与前后页连续"
+    ]
+  },
+  {
+    "page": 9,
+    "title": "那颗星没涂掉",
+    "layout": "4格：散场翻笔记；三页内容；不服的发现；保留星。",
+    "panels": [
+      [
+        "数学课散场，学生离开，绯英仍坐在后排翻自己的听课本。",
+        "字幕：下课后。"
+      ],
+      [
+        "三页笔记铺开，有排列、组合、概率初步小标题，简单工整的算式与一颗五角星。",
+        "内心：一个美术老师，居然全程听懂了。"
+      ],
+      [
+        "绯英半身，略不服气地抿嘴，不是敌意；双手在画外，不做恋爱脸红。",
+        "内心：凭什么讲得这么好听。"
+      ],
+      [
+        "她拿笔靠近那颗五角星，最后绕开，在旁边添一条记录，没有涂掉它。",
+        "笔记：讲解清楚。五角星原样保留。"
+      ]
+    ],
+    "prompt": "Create ONE finished full-colour Chinese sequential manga PAGE for 《绯色难测》第四话《本座带伞》. EXACT 1024×1536 portrait PNG. Match the supplied approved character sheets and previous comic page: detailed 2D anime/manga, fine confident linework, rich soft cel shading, warm September school light, ivory gutters, thin black frames. Reading top-to-bottom, within each row LEFT TO RIGHT. Respect exact panel count and order below. This is a comic page, not poster or design sheet. Chinese dialogue readable, generous bubbles and accurate tails, no extra text, signatures or watermarks. Running header “绯色难测 · 第四话”, bottom-right correct two-digit page. Page01 adds title“本座带伞”; only page14 has“第四话 · 完”.\n\nAPPROVED CHARACTERS: 绯英 is ADULT art teacher early thirties, pink fluffy layered hair with longer side strands, purple eyes, red bow and blossom clip; berry-red cropped knit cardigan, ivory blouse, SEPARATE high-waisted navy A-line midi skirt, brown belt, charcoal tights, black loafers, small navy shoulder bag. NEVER student uniform, pinafore, suspenders, animal ears/tail. Anatomical RIGHT glove WHITE and FULL-FINGER, LEFT glove BLACK and FINGERLESS. Frontal view: white hand viewer LEFT, black hand viewer RIGHT. Never make both hands white. She writes and draws with WHITE RIGHT hand; BLACK LEFT hand steadies paper. Show hands only when necessary, no invented extra gestures.\n爻光 is ADULT grade director/maths teacher, silver-white long hair shaded pale blue/lilac, curved long bangs and outward side tufts, peacock-blue feather clasp at RIGHT temple, iridescent violet/cyan/pale-gold eyes. Ivory blazer, white stand-collar below-knee dress, narrow teal belt, navy scarf at LEFT shoulder, gray low heels. Both hands BARE. Old pale jade bangle ONLY LEFT wrist; RIGHT wrist completely bare (no watch/bracelet). Bare RIGHT hand writes, holds chalk or uses ruler; set fan/folder down before writing. Exactly two arms/two hands for each person.\nRare surname/name: 爻光 uses 爻 U+723B, FOUR strokes, two stacked slant crosses 乂, not 交. The character-sheet heading itself contains a mistaken 交, so do NOT copy that lettering; use 爻 (U+723B), exactly two stacked 乂 crosses. In balloons print 爻老师/爻老板 accurately when specified.\nSecondary adults for meeting: 景元 male principal, long loosely tied silver-gray hair, gold eyes, charcoal blazer over pale gray Chinese stand-collar shirt. 符玄 female academic director, long pink-lilac hair with side braid, violet eyes, thin gold glasses, ivory blouse/lilac-gray blazer/navy skirt. Ordinary adult human ears.\nAll students are HIGH-SCHOOL teenagers in white shirts/navy school knitwear/navy below-knee skirts or long trousers, no infant proportions, no animal ears or tails. Only draw the students specified in THIS PAGE. The three sleeping students belong ONLY to page08 in the MATHS class. Never draw Qingque/gray sleep masks or any sleeping student in ART CLASS pages01-05. The universe-painting transfer boy is unnamed, black short choppy hair, slender, blue-white uniform; do not name him.\n\nLOCATIONS: art classroom is a LARGE room at third-floor corridor end, easels/student art/succulents/eleven conductor plushes; never label it301. Small offices are adjacent: corridor front view LEFT301 Feiying, RIGHT302 Yaoguang. One shared indoor wall with one reachable old sliding ventilation window, no vent on corridor front wall. Inside cutaway room301 LEFT art desk facing RIGHT,302 RIGHT tidy maths desk facing LEFT. Maths classroom: blackboard front, windows LEFT toward giant 建木 tree, front/back doors on RIGHT, only part of the rows visible; do NOT make visible desks the class total (each class has54 students). Last-row Qingque by LEFT window; keep positions when revisiting.\nPACING: third episode established friendly work neighbours. This episode shows BOTH genuine teaching ability and genuine problems, professional rivalry and funny notes. No romantic blush/hearts/longing gaze, no touching/confession/date framing. Stars on notebook are professional praise, not love effects. Classroom students may be lively but never sexualized. Scores concern teaching and work; do not show future exam/art results or hidden wishes.\nTEXT: role labels “绯英：/爻光：/符玄：/学生：/旁白：/字幕：/内心：/音效：” below identify who speaks/type; DO NOT print labels in balloons. Print only actual text after label, tail unambiguously to correct speaker. Handwriting/screen text must be big and accurate. No random extra English except specified maths symbols and21:00 clock.\n\nPAGE 09 那颗星没涂掉, exactly 4 panels. Layout:4格：散场翻笔记；三页内容；不服的发现；保留星。\nPanel1 picture:数学课散场，学生离开，绯英仍坐在后排翻自己的听课本。\nIntended text (do not print speaker labels):字幕：下课后。\n\nPanel2 picture:三页笔记铺开，有排列、组合、概率初步小标题，简单工整的算式与一颗五角星。\nIntended text (do not print speaker labels):内心：一个美术老师，居然全程听懂了。\n\nPanel3 picture:绯英半身，略不服气地抿嘴，不是敌意；双手在画外，不做恋爱脸红。\nIntended text (do not print speaker labels):内心：凭什么讲得这么好听。\n\nPanel4 picture:她拿笔靠近那颗五角星，最后绕开，在旁边添一条记录，没有涂掉它。\nIntended text (do not print speaker labels):笔记：讲解清楚。五角星原样保留。\nFooter 09.",
+    "references": [
+      "参考/绯英校园版.png",
+      "参考/爻光校园版.png",
+      "参考/美术教室与画风.png",
+      "page-06.png"
+    ],
+    "status": "已生成并通过独立视觉复核",
+    "local_corrections": [
+      "笔记组合通式误绘简化为正确排列6/组合3例子"
+    ]
+  },
+  {
+    "page": 10,
+    "title": "评课照实",
+    "layout": "5格：教研会；主任点评；绯英点评；会场反应；校长茶评。",
+    "panels": [
+      [
+        "周五教研评课会，爻光与绯英在侧席各翻听课本；景元主位、符玄抱电脑记录，成年教师参会。",
+        "字幕：周五·下午／教研评课会。"
+      ],
+      [
+        "爻光平稳说出观察，态度专业不嘲弄。",
+        "爻光：绯老师的课堂，纪律问题，正字三划半。"
+      ],
+      [
+        "绯英站起来回应，笑容灿烂、手势正常，白色右手扶本，黑色左手在侧。",
+        "绯英：爻老师的课堂，睡觉问题，正字三划！另有半数学生笔记精美、眼神迷茫。抽样口述知识点正确率——百分之四十七！"
+      ],
+      [
+        "老教师们迅速低头，肩膀微抖，压着笑；不要恶意群嘲任何一位老师。",
+        "小音效：嘶——"
+      ],
+      [
+        "景元端茶，银灰长发、金瞳、深灰西装与浅灰中式衬衣，和前话一致。",
+        "景元：今天的评课会，比茶有意思。"
+      ]
+    ],
+    "prompt": "Create ONE finished full-colour Chinese sequential manga PAGE for 《绯色难测》第四话《本座带伞》. EXACT 1024×1536 portrait PNG. Match the supplied approved character sheets and previous comic page: detailed 2D anime/manga, fine confident linework, rich soft cel shading, warm September school light, ivory gutters, thin black frames. Reading top-to-bottom, within each row LEFT TO RIGHT. Respect exact panel count and order below. This is a comic page, not poster or design sheet. Chinese dialogue readable, generous bubbles and accurate tails, no extra text, signatures or watermarks. Running header “绯色难测 · 第四话”, bottom-right correct two-digit page. Page01 adds title“本座带伞”; only page14 has“第四话 · 完”.\n\nAPPROVED CHARACTERS: 绯英 is ADULT art teacher early thirties, pink fluffy layered hair with longer side strands, purple eyes, red bow and blossom clip; berry-red cropped knit cardigan, ivory blouse, SEPARATE high-waisted navy A-line midi skirt, brown belt, charcoal tights, black loafers, small navy shoulder bag. NEVER student uniform, pinafore, suspenders, animal ears/tail. Anatomical RIGHT glove WHITE and FULL-FINGER, LEFT glove BLACK and FINGERLESS. Frontal view: white hand viewer LEFT, black hand viewer RIGHT. Never make both hands white. She writes and draws with WHITE RIGHT hand; BLACK LEFT hand steadies paper. Show hands only when necessary, no invented extra gestures.\n爻光 is ADULT grade director/maths teacher, silver-white long hair shaded pale blue/lilac, curved long bangs and outward side tufts, peacock-blue feather clasp at RIGHT temple, iridescent violet/cyan/pale-gold eyes. Ivory blazer, white stand-collar below-knee dress, narrow teal belt, navy scarf at LEFT shoulder, gray low heels. Both hands BARE. Old pale jade bangle ONLY LEFT wrist; RIGHT wrist completely bare (no watch/bracelet). Bare RIGHT hand writes, holds chalk or uses ruler; set fan/folder down before writing. Exactly two arms/two hands for each person.\nRare surname/name: 爻光 uses 爻 U+723B, FOUR strokes, two stacked slant crosses 乂, not 交. The character-sheet heading itself contains a mistaken 交, so do NOT copy that lettering; use 爻 (U+723B), exactly two stacked 乂 crosses. In balloons print 爻老师/爻老板 accurately when specified.\nSecondary adults for meeting: 景元 male principal, long loosely tied silver-gray hair, gold eyes, charcoal blazer over pale gray Chinese stand-collar shirt. 符玄 female academic director, long pink-lilac hair with side braid, violet eyes, thin gold glasses, ivory blouse/lilac-gray blazer/navy skirt. Ordinary adult human ears.\nAll students are HIGH-SCHOOL teenagers in white shirts/navy school knitwear/navy below-knee skirts or long trousers, no infant proportions, no animal ears or tails. Only draw the students specified in THIS PAGE. The three sleeping students belong ONLY to page08 in the MATHS class. Never draw Qingque/gray sleep masks or any sleeping student in ART CLASS pages01-05. The universe-painting transfer boy is unnamed, black short choppy hair, slender, blue-white uniform; do not name him.\n\nLOCATIONS: art classroom is a LARGE room at third-floor corridor end, easels/student art/succulents/eleven conductor plushes; never label it301. Small offices are adjacent: corridor front view LEFT301 Feiying, RIGHT302 Yaoguang. One shared indoor wall with one reachable old sliding ventilation window, no vent on corridor front wall. Inside cutaway room301 LEFT art desk facing RIGHT,302 RIGHT tidy maths desk facing LEFT. Maths classroom: blackboard front, windows LEFT toward giant 建木 tree, front/back doors on RIGHT, only part of the rows visible; do NOT make visible desks the class total (each class has54 students). Last-row Qingque by LEFT window; keep positions when revisiting.\nPACING: third episode established friendly work neighbours. This episode shows BOTH genuine teaching ability and genuine problems, professional rivalry and funny notes. No romantic blush/hearts/longing gaze, no touching/confession/date framing. Stars on notebook are professional praise, not love effects. Classroom students may be lively but never sexualized. Scores concern teaching and work; do not show future exam/art results or hidden wishes.\nTEXT: role labels “绯英：/爻光：/符玄：/学生：/旁白：/字幕：/内心：/音效：” below identify who speaks/type; DO NOT print labels in balloons. Print only actual text after label, tail unambiguously to correct speaker. Handwriting/screen text must be big and accurate. No random extra English except specified maths symbols and21:00 clock.\n\nPAGE 10 评课照实, exactly 5 panels. Layout:5格：教研会；主任点评；绯英点评；会场反应；校长茶评。\nPanel1 picture:周五教研评课会，爻光与绯英在侧席各翻听课本；景元主位、符玄抱电脑记录，成年教师参会。\nIntended text (do not print speaker labels):字幕：周五·下午／教研评课会。\n\nPanel2 picture:爻光平稳说出观察，态度专业不嘲弄。\nIntended text (do not print speaker labels):爻光：绯老师的课堂，纪律问题，正字三划半。\n\nPanel3 picture:绯英站起来回应，笑容灿烂、手势正常，白色右手扶本，黑色左手在侧。\nIntended text (do not print speaker labels):绯英：爻老师的课堂，睡觉问题，正字三划！另有半数学生笔记精美、眼神迷茫。抽样口述知识点正确率——百分之四十七！\n\nPanel4 picture:老教师们迅速低头，肩膀微抖，压着笑；不要恶意群嘲任何一位老师。\nIntended text (do not print speaker labels):小音效：嘶——\n\nPanel5 picture:景元端茶，银灰长发、金瞳、深灰西装与浅灰中式衬衣，和前话一致。\nIntended text (do not print speaker labels):景元：今天的评课会，比茶有意思。\nFooter 10.",
+    "references": [
+      "参考/绯英校园版.png",
+      "参考/爻光校园版.png",
+      "参考/美术教室与画风.png",
+      "参考/教研会同事.png"
+    ],
+    "status": "已生成并通过独立视觉复核",
+    "local_corrections": []
+  },
+  {
+    "page": 11,
+    "title": "随机也得清醒",
+    "layout": "4格：质疑抽样；绯英反驳；清醒笑点；照实交后停步。",
+    "panels": [
+      [
+        "爻光看向绯英，合上资料一半，平静指出抽样影响。",
+        "爻光：抽样时你吵到了他们。"
+      ],
+      [
+        "绯英摊开一只黑色露指左手，白色右手仍拿听课本，认真辩一句。",
+        "绯英：抽检要随机嘛！"
+      ],
+      [
+        "双人侧面，同事间正常间距，气泡尾巴清楚：爻光在左、绯英在右。",
+        "爻光：随机也该挑人清醒的时候。绯英：挑人清醒的时候就不随机了，是作弊哦，主任！"
+      ],
+      [
+        "爻光按一下眉心，资料仍在桌上，只有一只裸手在额前。后半句让会议停住。",
+        "爻光：评课记录照实交。散会。——慢着，还有一件事。"
+      ]
+    ],
+    "prompt": "Create ONE finished full-colour Chinese sequential manga PAGE for 《绯色难测》第四话《本座带伞》. EXACT 1024×1536 portrait PNG. Match the supplied approved character sheets and previous comic page: detailed 2D anime/manga, fine confident linework, rich soft cel shading, warm September school light, ivory gutters, thin black frames. Reading top-to-bottom, within each row LEFT TO RIGHT. Respect exact panel count and order below. This is a comic page, not poster or design sheet. Chinese dialogue readable, generous bubbles and accurate tails, no extra text, signatures or watermarks. Running header “绯色难测 · 第四话”, bottom-right correct two-digit page. Page01 adds title“本座带伞”; only page14 has“第四话 · 完”.\n\nAPPROVED CHARACTERS: 绯英 is ADULT art teacher early thirties, pink fluffy layered hair with longer side strands, purple eyes, red bow and blossom clip; berry-red cropped knit cardigan, ivory blouse, SEPARATE high-waisted navy A-line midi skirt, brown belt, charcoal tights, black loafers, small navy shoulder bag. NEVER student uniform, pinafore, suspenders, animal ears/tail. Anatomical RIGHT glove WHITE and FULL-FINGER, LEFT glove BLACK and FINGERLESS. Frontal view: white hand viewer LEFT, black hand viewer RIGHT. Never make both hands white. She writes and draws with WHITE RIGHT hand; BLACK LEFT hand steadies paper. Show hands only when necessary, no invented extra gestures.\n爻光 is ADULT grade director/maths teacher, silver-white long hair shaded pale blue/lilac, curved long bangs and outward side tufts, peacock-blue feather clasp at RIGHT temple, iridescent violet/cyan/pale-gold eyes. Ivory blazer, white stand-collar below-knee dress, narrow teal belt, navy scarf at LEFT shoulder, gray low heels. Both hands BARE. Old pale jade bangle ONLY LEFT wrist; RIGHT wrist completely bare (no watch/bracelet). Bare RIGHT hand writes, holds chalk or uses ruler; set fan/folder down before writing. Exactly two arms/two hands for each person.\nRare surname/name: 爻光 uses 爻 U+723B, FOUR strokes, two stacked slant crosses 乂, not 交. The character-sheet heading itself contains a mistaken 交, so do NOT copy that lettering; use 爻 (U+723B), exactly two stacked 乂 crosses. In balloons print 爻老师/爻老板 accurately when specified.\nSecondary adults for meeting: 景元 male principal, long loosely tied silver-gray hair, gold eyes, charcoal blazer over pale gray Chinese stand-collar shirt. 符玄 female academic director, long pink-lilac hair with side braid, violet eyes, thin gold glasses, ivory blouse/lilac-gray blazer/navy skirt. Ordinary adult human ears.\nAll students are HIGH-SCHOOL teenagers in white shirts/navy school knitwear/navy below-knee skirts or long trousers, no infant proportions, no animal ears or tails. Only draw the students specified in THIS PAGE. The three sleeping students belong ONLY to page08 in the MATHS class. Never draw Qingque/gray sleep masks or any sleeping student in ART CLASS pages01-05. The universe-painting transfer boy is unnamed, black short choppy hair, slender, blue-white uniform; do not name him.\n\nLOCATIONS: art classroom is a LARGE room at third-floor corridor end, easels/student art/succulents/eleven conductor plushes; never label it301. Small offices are adjacent: corridor front view LEFT301 Feiying, RIGHT302 Yaoguang. One shared indoor wall with one reachable old sliding ventilation window, no vent on corridor front wall. Inside cutaway room301 LEFT art desk facing RIGHT,302 RIGHT tidy maths desk facing LEFT. Maths classroom: blackboard front, windows LEFT toward giant 建木 tree, front/back doors on RIGHT, only part of the rows visible; do NOT make visible desks the class total (each class has54 students). Last-row Qingque by LEFT window; keep positions when revisiting.\nPACING: third episode established friendly work neighbours. This episode shows BOTH genuine teaching ability and genuine problems, professional rivalry and funny notes. No romantic blush/hearts/longing gaze, no touching/confession/date framing. Stars on notebook are professional praise, not love effects. Classroom students may be lively but never sexualized. Scores concern teaching and work; do not show future exam/art results or hidden wishes.\nTEXT: role labels “绯英：/爻光：/符玄：/学生：/旁白：/字幕：/内心：/音效：” below identify who speaks/type; DO NOT print labels in balloons. Print only actual text after label, tail unambiguously to correct speaker. Handwriting/screen text must be big and accurate. No random extra English except specified maths symbols and21:00 clock.\n\nPAGE 11 随机也得清醒, exactly 4 panels. Layout:4格：质疑抽样；绯英反驳；清醒笑点；照实交后停步。\nPanel1 picture:爻光看向绯英，合上资料一半，平静指出抽样影响。\nIntended text (do not print speaker labels):爻光：抽样时你吵到了他们。\n\nPanel2 picture:绯英摊开一只黑色露指左手，白色右手仍拿听课本，认真辩一句。\nIntended text (do not print speaker labels):绯英：抽检要随机嘛！\n\nPanel3 picture:双人侧面，同事间正常间距，气泡尾巴清楚：爻光在左、绯英在右。\nIntended text (do not print speaker labels):爻光：随机也该挑人清醒的时候。绯英：挑人清醒的时候就不随机了，是作弊哦，主任！\n\nPanel4 picture:爻光按一下眉心，资料仍在桌上，只有一只裸手在额前。后半句让会议停住。\nIntended text (do not print speaker labels):爻光：评课记录照实交。散会。——慢着，还有一件事。\nFooter 11.",
+    "references": [
+      "参考/绯英校园版.png",
+      "参考/爻光校园版.png",
+      "参考/美术教室与画风.png",
+      "参考/教研会同事.png"
+    ],
+    "status": "已生成并通过独立视觉复核",
+    "local_corrections": [
+      "句尾称呼适配为主任，避免原爻字反复错绘，不改变斗嘴内容与身份"
+    ]
+  },
+  {
+    "page": 12,
+    "title": "两局两胜",
+    "layout": "5格：会场安静；两项指标；赌注；接下；正式备案。",
+    "panels": [
+      [
+        "会议室重新安静，爻光将听课本放好，神态认真，不作威胁。",
+        "爻光：空口无凭。期末，两班见真章。"
+      ],
+      [
+        "两份评比项目并排，在会议材料上呈现，数量清晰。",
+        "爻光：班级均分，一局；校庆画展评审，一局。"
+      ],
+      [
+        "爻光明确规则，给足简洁文字空间。",
+        "爻光：两局两胜。输的人，答应赢的人一件事。"
+      ],
+      [
+        "绯英眼睛亮起，接受挑战，普通胜负欲而非爱情告白。",
+        "绯英：一口价！谁怕谁！"
+      ],
+      [
+        "符玄敲键记录，粉紫长发、细金框眼镜、淡紫灰西装和前话一致，屏幕字大。",
+        "会议纪要：高二（1）（2）班／期末均分＋校庆画展／两局两胜／赌注：一件事。符玄：按章办理，备案。"
+      ]
+    ],
+    "prompt": "Create ONE finished full-colour Chinese sequential manga PAGE for 《绯色难测》第四话《本座带伞》. EXACT 1024×1536 portrait PNG. Match the supplied approved character sheets and previous comic page: detailed 2D anime/manga, fine confident linework, rich soft cel shading, warm September school light, ivory gutters, thin black frames. Reading top-to-bottom, within each row LEFT TO RIGHT. Respect exact panel count and order below. This is a comic page, not poster or design sheet. Chinese dialogue readable, generous bubbles and accurate tails, no extra text, signatures or watermarks. Running header “绯色难测 · 第四话”, bottom-right correct two-digit page. Page01 adds title“本座带伞”; only page14 has“第四话 · 完”.\n\nAPPROVED CHARACTERS: 绯英 is ADULT art teacher early thirties, pink fluffy layered hair with longer side strands, purple eyes, red bow and blossom clip; berry-red cropped knit cardigan, ivory blouse, SEPARATE high-waisted navy A-line midi skirt, brown belt, charcoal tights, black loafers, small navy shoulder bag. NEVER student uniform, pinafore, suspenders, animal ears/tail. Anatomical RIGHT glove WHITE and FULL-FINGER, LEFT glove BLACK and FINGERLESS. Frontal view: white hand viewer LEFT, black hand viewer RIGHT. Never make both hands white. She writes and draws with WHITE RIGHT hand; BLACK LEFT hand steadies paper. Show hands only when necessary, no invented extra gestures.\n爻光 is ADULT grade director/maths teacher, silver-white long hair shaded pale blue/lilac, curved long bangs and outward side tufts, peacock-blue feather clasp at RIGHT temple, iridescent violet/cyan/pale-gold eyes. Ivory blazer, white stand-collar below-knee dress, narrow teal belt, navy scarf at LEFT shoulder, gray low heels. Both hands BARE. Old pale jade bangle ONLY LEFT wrist; RIGHT wrist completely bare (no watch/bracelet). Bare RIGHT hand writes, holds chalk or uses ruler; set fan/folder down before writing. Exactly two arms/two hands for each person.\nRare surname/name: 爻光 uses 爻 U+723B, FOUR strokes, two stacked slant crosses 乂, not 交. The character-sheet heading itself contains a mistaken 交, so do NOT copy that lettering; use 爻 (U+723B), exactly two stacked 乂 crosses. In balloons print 爻老师/爻老板 accurately when specified.\nSecondary adults for meeting: 景元 male principal, long loosely tied silver-gray hair, gold eyes, charcoal blazer over pale gray Chinese stand-collar shirt. 符玄 female academic director, long pink-lilac hair with side braid, violet eyes, thin gold glasses, ivory blouse/lilac-gray blazer/navy skirt. Ordinary adult human ears.\nAll students are HIGH-SCHOOL teenagers in white shirts/navy school knitwear/navy below-knee skirts or long trousers, no infant proportions, no animal ears or tails. Only draw the students specified in THIS PAGE. The three sleeping students belong ONLY to page08 in the MATHS class. Never draw Qingque/gray sleep masks or any sleeping student in ART CLASS pages01-05. The universe-painting transfer boy is unnamed, black short choppy hair, slender, blue-white uniform; do not name him.\n\nLOCATIONS: art classroom is a LARGE room at third-floor corridor end, easels/student art/succulents/eleven conductor plushes; never label it301. Small offices are adjacent: corridor front view LEFT301 Feiying, RIGHT302 Yaoguang. One shared indoor wall with one reachable old sliding ventilation window, no vent on corridor front wall. Inside cutaway room301 LEFT art desk facing RIGHT,302 RIGHT tidy maths desk facing LEFT. Maths classroom: blackboard front, windows LEFT toward giant 建木 tree, front/back doors on RIGHT, only part of the rows visible; do NOT make visible desks the class total (each class has54 students). Last-row Qingque by LEFT window; keep positions when revisiting.\nPACING: third episode established friendly work neighbours. This episode shows BOTH genuine teaching ability and genuine problems, professional rivalry and funny notes. No romantic blush/hearts/longing gaze, no touching/confession/date framing. Stars on notebook are professional praise, not love effects. Classroom students may be lively but never sexualized. Scores concern teaching and work; do not show future exam/art results or hidden wishes.\nTEXT: role labels “绯英：/爻光：/符玄：/学生：/旁白：/字幕：/内心：/音效：” below identify who speaks/type; DO NOT print labels in balloons. Print only actual text after label, tail unambiguously to correct speaker. Handwriting/screen text must be big and accurate. No random extra English except specified maths symbols and21:00 clock.\n\nPAGE 12 两局两胜, exactly 5 panels. Layout:5格：会场安静；两项指标；赌注；接下；正式备案。\nPanel1 picture:会议室重新安静，爻光将听课本放好，神态认真，不作威胁。\nIntended text (do not print speaker labels):爻光：空口无凭。期末，两班见真章。\n\nPanel2 picture:两份评比项目并排，在会议材料上呈现，数量清晰。\nIntended text (do not print speaker labels):爻光：班级均分，一局；校庆画展评审，一局。\n\nPanel3 picture:爻光明确规则，给足简洁文字空间。\nIntended text (do not print speaker labels):爻光：两局两胜。输的人，答应赢的人一件事。\n\nPanel4 picture:绯英眼睛亮起，接受挑战，普通胜负欲而非爱情告白。\nIntended text (do not print speaker labels):绯英：一口价！谁怕谁！\n\nPanel5 picture:符玄敲键记录，粉紫长发、细金框眼镜、淡紫灰西装和前话一致，屏幕字大。\nIntended text (do not print speaker labels):会议纪要：高二（1）（2）班／期末均分＋校庆画展／两局两胜／赌注：一件事。符玄：按章办理，备案。\nFooter 12.",
+    "references": [
+      "参考/绯英校园版.png",
+      "参考/爻光校园版.png",
+      "参考/美术教室与画风.png",
+      "参考/教研会同事.png"
+    ],
+    "status": "已生成并通过独立视觉复核",
+    "local_corrections": []
+  },
+  {
+    "page": 13,
+    "title": "匿名盘口与夜灯",
+    "layout": "5格：办公室传闻；匿名界面；平局伏笔；21点；纸条入窗。",
+    "panels": [
+      [
+        "当天下午，几位成年教师看手机小声谈论，手机不是现实博彩平台、不出现网址二维码或付款。",
+        "字幕：当天下午，办公室悄悄开了盘口。"
+      ],
+      [
+        "手机是虚构游戏抽卡概率公示风格的小页面，数字是小说情节，界面不带真实品牌。",
+        "屏幕：支持主任胜：七成。／平局：少量。"
+      ],
+      [
+        "电脑贴纸与含糖学生背影只作为疑似操盘的轻喜剧提示，不给当场查实的画面，不展示入侵步骤。",
+        "旁白：买平局的人，身份成谜。"
+      ],
+      [
+        "绘世楼外景，夜窗暖灯，切入302桌面电子钟21:00。办公室仍左301绯英、右302爻光。",
+        "字幕：当晚九点·绘世楼302。时钟：21:00。"
+      ],
+      [
+        "302一侧通气窗响，方折纸条由301滑来，爻光用尺轻挑到桌面；左右房间不互换，右手用尺、右腕空。",
+        "音效：咔哒。"
+      ]
+    ],
+    "prompt": "Create ONE finished full-colour Chinese sequential manga PAGE for 《绯色难测》第四话《本座带伞》. EXACT 1024×1536 portrait PNG. Match the supplied approved character sheets and previous comic page: detailed 2D anime/manga, fine confident linework, rich soft cel shading, warm September school light, ivory gutters, thin black frames. Reading top-to-bottom, within each row LEFT TO RIGHT. Respect exact panel count and order below. This is a comic page, not poster or design sheet. Chinese dialogue readable, generous bubbles and accurate tails, no extra text, signatures or watermarks. Running header “绯色难测 · 第四话”, bottom-right correct two-digit page. Page01 adds title“本座带伞”; only page14 has“第四话 · 完”.\n\nAPPROVED CHARACTERS: 绯英 is ADULT art teacher early thirties, pink fluffy layered hair with longer side strands, purple eyes, red bow and blossom clip; berry-red cropped knit cardigan, ivory blouse, SEPARATE high-waisted navy A-line midi skirt, brown belt, charcoal tights, black loafers, small navy shoulder bag. NEVER student uniform, pinafore, suspenders, animal ears/tail. Anatomical RIGHT glove WHITE and FULL-FINGER, LEFT glove BLACK and FINGERLESS. Frontal view: white hand viewer LEFT, black hand viewer RIGHT. Never make both hands white. She writes and draws with WHITE RIGHT hand; BLACK LEFT hand steadies paper. Show hands only when necessary, no invented extra gestures.\n爻光 is ADULT grade director/maths teacher, silver-white long hair shaded pale blue/lilac, curved long bangs and outward side tufts, peacock-blue feather clasp at RIGHT temple, iridescent violet/cyan/pale-gold eyes. Ivory blazer, white stand-collar below-knee dress, narrow teal belt, navy scarf at LEFT shoulder, gray low heels. Both hands BARE. Old pale jade bangle ONLY LEFT wrist; RIGHT wrist completely bare (no watch/bracelet). Bare RIGHT hand writes, holds chalk or uses ruler; set fan/folder down before writing. Exactly two arms/two hands for each person.\nRare surname/name: 爻光 uses 爻 U+723B, FOUR strokes, two stacked slant crosses 乂, not 交. The character-sheet heading itself contains a mistaken 交, so do NOT copy that lettering; use 爻 (U+723B), exactly two stacked 乂 crosses. In balloons print 爻老师/爻老板 accurately when specified.\nSecondary adults for meeting: 景元 male principal, long loosely tied silver-gray hair, gold eyes, charcoal blazer over pale gray Chinese stand-collar shirt. 符玄 female academic director, long pink-lilac hair with side braid, violet eyes, thin gold glasses, ivory blouse/lilac-gray blazer/navy skirt. Ordinary adult human ears.\nAll students are HIGH-SCHOOL teenagers in white shirts/navy school knitwear/navy below-knee skirts or long trousers, no infant proportions, no animal ears or tails. Only draw the students specified in THIS PAGE. The three sleeping students belong ONLY to page08 in the MATHS class. Never draw Qingque/gray sleep masks or any sleeping student in ART CLASS pages01-05. The universe-painting transfer boy is unnamed, black short choppy hair, slender, blue-white uniform; do not name him.\n\nLOCATIONS: art classroom is a LARGE room at third-floor corridor end, easels/student art/succulents/eleven conductor plushes; never label it301. Small offices are adjacent: corridor front view LEFT301 Feiying, RIGHT302 Yaoguang. One shared indoor wall with one reachable old sliding ventilation window, no vent on corridor front wall. Inside cutaway room301 LEFT art desk facing RIGHT,302 RIGHT tidy maths desk facing LEFT. Maths classroom: blackboard front, windows LEFT toward giant 建木 tree, front/back doors on RIGHT, only part of the rows visible; do NOT make visible desks the class total (each class has54 students). Last-row Qingque by LEFT window; keep positions when revisiting.\nPACING: third episode established friendly work neighbours. This episode shows BOTH genuine teaching ability and genuine problems, professional rivalry and funny notes. No romantic blush/hearts/longing gaze, no touching/confession/date framing. Stars on notebook are professional praise, not love effects. Classroom students may be lively but never sexualized. Scores concern teaching and work; do not show future exam/art results or hidden wishes.\nTEXT: role labels “绯英：/爻光：/符玄：/学生：/旁白：/字幕：/内心：/音效：” below identify who speaks/type; DO NOT print labels in balloons. Print only actual text after label, tail unambiguously to correct speaker. Handwriting/screen text must be big and accurate. No random extra English except specified maths symbols and21:00 clock.\n\nPAGE 13 匿名盘口与夜灯, exactly 5 panels. Layout:5格：办公室传闻；匿名界面；平局伏笔；21点；纸条入窗。\nPanel1 picture:当天下午，几位成年教师看手机小声谈论，手机不是现实博彩平台、不出现网址二维码或付款。\nIntended text (do not print speaker labels):字幕：当天下午，办公室悄悄开了盘口。\n\nPanel2 picture:手机是虚构游戏抽卡概率公示风格的小页面，数字是小说情节，界面不带真实品牌。\nIntended text (do not print speaker labels):屏幕：支持主任胜：七成。／平局：少量。\n\nPanel3 picture:电脑贴纸与含糖学生背影只作为疑似操盘的轻喜剧提示，不给当场查实的画面，不展示入侵步骤。\nIntended text (do not print speaker labels):旁白：买平局的人，身份成谜。\n\nPanel4 picture:绘世楼外景，夜窗暖灯，切入302桌面电子钟21:00。办公室仍左301绯英、右302爻光。\nIntended text (do not print speaker labels):字幕：当晚九点·绘世楼302。时钟：21:00。\n\nPanel5 picture:302一侧通气窗响，方折纸条由301滑来，爻光用尺轻挑到桌面；左右房间不互换，右手用尺、右腕空。\nIntended text (do not print speaker labels):音效：咔哒。\nFooter 13.",
+    "references": [
+      "参考/绯英校园版.png",
+      "参考/爻光校园版.png",
+      "参考/美术教室与画风.png",
+      "参考/相邻办公室.png"
+    ],
+    "status": "已生成并通过独立视觉复核",
+    "local_corrections": []
+  },
+  {
+    "page": 14,
+    "title": "本座带伞",
+    "layout": "5格：展开长纸条；三秒；写回复；递回；隔墙笑。",
+    "panels": [
+      [
+        "爻光在302桌上展开绯英的方折纸条，字迹圆滚滚，画面留足纸面。",
+        "纸条：明天下午美术课别来哦，要泼颜料，整面墙都要泼的那种！！——绯"
+      ],
+      [
+        "爻光抬眼看了三秒，姿态平静，微妙的幽默而非脸红；双手不出镜。",
+        "字幕：三秒。"
+      ],
+      [
+        "她放下尺子，裸右手执笔、右腕无玉镯，左腕玉镯手稳便签，写简短回信。",
+        "便签大字：本座带伞。"
+      ],
+      [
+        "她从302向301递回便签，同一共享墙小通气窗。手是裸手，袖口白色，不能多一只手。",
+        "无对白。"
+      ],
+      [
+        "两室安静夜景：301里绯英读条忍不住捂嘴笑，右白/左黑手套保持，302里爻光继续整理本子。以工作斗嘴的笑声收尾，不画亲密行为。",
+        "绯英小音效：噗……。页脚：第四话·完。"
+      ]
+    ],
+    "prompt": "Create ONE finished full-colour Chinese sequential manga PAGE for 《绯色难测》第四话《本座带伞》. EXACT 1024×1536 portrait PNG. Match the supplied approved character sheets and previous comic page: detailed 2D anime/manga, fine confident linework, rich soft cel shading, warm September school light, ivory gutters, thin black frames. Reading top-to-bottom, within each row LEFT TO RIGHT. Respect exact panel count and order below. This is a comic page, not poster or design sheet. Chinese dialogue readable, generous bubbles and accurate tails, no extra text, signatures or watermarks. Running header “绯色难测 · 第四话”, bottom-right correct two-digit page. Page01 adds title“本座带伞”; only page14 has“第四话 · 完”.\n\nAPPROVED CHARACTERS: 绯英 is ADULT art teacher early thirties, pink fluffy layered hair with longer side strands, purple eyes, red bow and blossom clip; berry-red cropped knit cardigan, ivory blouse, SEPARATE high-waisted navy A-line midi skirt, brown belt, charcoal tights, black loafers, small navy shoulder bag. NEVER student uniform, pinafore, suspenders, animal ears/tail. Anatomical RIGHT glove WHITE and FULL-FINGER, LEFT glove BLACK and FINGERLESS. Frontal view: white hand viewer LEFT, black hand viewer RIGHT. Never make both hands white. She writes and draws with WHITE RIGHT hand; BLACK LEFT hand steadies paper. Show hands only when necessary, no invented extra gestures.\n爻光 is ADULT grade director/maths teacher, silver-white long hair shaded pale blue/lilac, curved long bangs and outward side tufts, peacock-blue feather clasp at RIGHT temple, iridescent violet/cyan/pale-gold eyes. Ivory blazer, white stand-collar below-knee dress, narrow teal belt, navy scarf at LEFT shoulder, gray low heels. Both hands BARE. Old pale jade bangle ONLY LEFT wrist; RIGHT wrist completely bare (no watch/bracelet). Bare RIGHT hand writes, holds chalk or uses ruler; set fan/folder down before writing. Exactly two arms/two hands for each person.\nRare surname/name: 爻光 uses 爻 U+723B, FOUR strokes, two stacked slant crosses 乂, not 交. The character-sheet heading itself contains a mistaken 交, so do NOT copy that lettering; use 爻 (U+723B), exactly two stacked 乂 crosses. In balloons print 爻老师/爻老板 accurately when specified.\nSecondary adults for meeting: 景元 male principal, long loosely tied silver-gray hair, gold eyes, charcoal blazer over pale gray Chinese stand-collar shirt. 符玄 female academic director, long pink-lilac hair with side braid, violet eyes, thin gold glasses, ivory blouse/lilac-gray blazer/navy skirt. Ordinary adult human ears.\nAll students are HIGH-SCHOOL teenagers in white shirts/navy school knitwear/navy below-knee skirts or long trousers, no infant proportions, no animal ears or tails. Only draw the students specified in THIS PAGE. The three sleeping students belong ONLY to page08 in the MATHS class. Never draw Qingque/gray sleep masks or any sleeping student in ART CLASS pages01-05. The universe-painting transfer boy is unnamed, black short choppy hair, slender, blue-white uniform; do not name him.\n\nLOCATIONS: art classroom is a LARGE room at third-floor corridor end, easels/student art/succulents/eleven conductor plushes; never label it301. Small offices are adjacent: corridor front view LEFT301 Feiying, RIGHT302 Yaoguang. One shared indoor wall with one reachable old sliding ventilation window, no vent on corridor front wall. Inside cutaway room301 LEFT art desk facing RIGHT,302 RIGHT tidy maths desk facing LEFT. Maths classroom: blackboard front, windows LEFT toward giant 建木 tree, front/back doors on RIGHT, only part of the rows visible; do NOT make visible desks the class total (each class has54 students). Last-row Qingque by LEFT window; keep positions when revisiting.\nPACING: third episode established friendly work neighbours. This episode shows BOTH genuine teaching ability and genuine problems, professional rivalry and funny notes. No romantic blush/hearts/longing gaze, no touching/confession/date framing. Stars on notebook are professional praise, not love effects. Classroom students may be lively but never sexualized. Scores concern teaching and work; do not show future exam/art results or hidden wishes.\nTEXT: role labels “绯英：/爻光：/符玄：/学生：/旁白：/字幕：/内心：/音效：” below identify who speaks/type; DO NOT print labels in balloons. Print only actual text after label, tail unambiguously to correct speaker. Handwriting/screen text must be big and accurate. No random extra English except specified maths symbols and21:00 clock.\n\nPAGE 14 本座带伞, exactly 5 panels. Layout:5格：展开长纸条；三秒；写回复；递回；隔墙笑。\nPanel1 picture:爻光在302桌上展开绯英的方折纸条，字迹圆滚滚，画面留足纸面。\nIntended text (do not print speaker labels):纸条：明天下午美术课别来哦，要泼颜料，整面墙都要泼的那种！！——绯\n\nPanel2 picture:爻光抬眼看了三秒，姿态平静，微妙的幽默而非脸红；双手不出镜。\nIntended text (do not print speaker labels):字幕：三秒。\n\nPanel3 picture:她放下尺子，裸右手执笔、右腕无玉镯，左腕玉镯手稳便签，写简短回信。\nIntended text (do not print speaker labels):便签大字：本座带伞。\n\nPanel4 picture:她从302向301递回便签，同一共享墙小通气窗。手是裸手，袖口白色，不能多一只手。\nIntended text (do not print speaker labels):无对白。\n\nPanel5 picture:两室安静夜景：301里绯英读条忍不住捂嘴笑，右白/左黑手套保持，302里爻光继续整理本子。以工作斗嘴的笑声收尾，不画亲密行为。\nIntended text (do not print speaker labels):绯英小音效：噗……。页脚：第四话·完。\nFooter 14.",
+    "references": [
+      "参考/绯英校园版.png",
+      "参考/爻光校园版.png",
+      "参考/美术教室与画风.png",
+      "参考/相邻办公室.png"
+    ],
+    "status": "已生成并通过独立视觉复核",
+    "local_corrections": [
+      "白昼窗景及斜阳改为21:00夜蓝窗景、暖台灯照明"
+    ]
+  }
+]
