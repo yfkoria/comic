@@ -1,0 +1,1173 @@
+{
+  "episode": 9,
+  "title": "面具",
+  "requested_focus": "继续原作卷二第九章；20页左右，沿第七话原设校正版和已批准校园装，保留两小时倾听与面具细节，以原文允许的羞赧推进但不确认关系。",
+  "status": "completed_and_frozen",
+  "scope": "仅第九话角色与面具身份规范、本人实际锚点复核、命名全页审阅者最终结论登记；不改旧话、原图、Git，不把提示词当完成图。",
+  "evidence": [
+    {
+      "id": "original_feiying",
+      "workspace_path": "/workspace/原设参考/绯英原设.jpg",
+      "sha256": "8ec0576d31814a4f0d54c067b4375b25f5510671823c4d41706cc33b55a346da",
+      "actual_view_completed": true,
+      "usage": "用户原设：短冠/脸周层/紫眼/红蝶樱夹",
+      "archive_execution_dependency": true,
+      "actual_view_note": "本代理已分批真实view完整图，非凭摘要或提示词。"
+    },
+    {
+      "id": "original_yaoguang_closeup",
+      "workspace_path": "/workspace/原设参考/爻光原设_近景.jpg",
+      "sha256": "1c14724f3bd1ab2f0bbef92ca17250015f810b00d6ed8c72d86e564c2b51c82e",
+      "actual_view_completed": true,
+      "usage": "用户原设：分束弯刘海/外翘/紫青虹彩",
+      "archive_execution_dependency": true,
+      "actual_view_note": "本代理已分批真实view完整图，非凭摘要或提示词。"
+    },
+    {
+      "id": "original_yaoguang_fullbody",
+      "workspace_path": "/workspace/原设参考/爻光原设_全身.jpg",
+      "sha256": "8222e86042d6637460243ee623098453319f1e679fa64605095ecf0b6d795313",
+      "actual_view_completed": true,
+      "usage": "用户原设：整体年龄比例/羽意象",
+      "archive_execution_dependency": true,
+      "actual_view_note": "本代理已分批真实view完整图，非凭摘要或提示词。"
+    },
+    {
+      "id": "episode7_01",
+      "workspace_path": "/workspace/绯色难测_第七话/page-01.png",
+      "sha256": "cbb6e19546ae63dceaa782b1214fa62a331db3af516a14f1ededb41a7f6651c4",
+      "actual_view_completed": true,
+      "usage": "校正身份/校园服装与手套",
+      "archive_execution_dependency": false,
+      "actual_view_note": "本代理已分批真实view完整图，非凭摘要或提示词。"
+    },
+    {
+      "id": "episode7_09",
+      "workspace_path": "/workspace/绯色难测_第七话/page-09.png",
+      "sha256": "b171ae7f7cdd3033e726739f6c8d94fb0f8a34259f40ec39be3e89290dce9eab",
+      "actual_view_completed": true,
+      "usage": "校正身份/双手与唯一左玉镯",
+      "archive_execution_dependency": false,
+      "actual_view_note": "本代理已分批真实view完整图，非凭摘要或提示词。"
+    },
+    {
+      "id": "episode7_16",
+      "workspace_path": "/workspace/绯色难测_第七话/page-16.png",
+      "sha256": "5a91d982723a118dc89fcf503b51acf98e2667e58812e1c83afbcd21fa872096",
+      "actual_view_completed": true,
+      "usage": "校正Y近景与301/302同墙邻室",
+      "archive_execution_dependency": false,
+      "actual_view_note": "本代理已分批真实view完整图，非凭摘要或提示词。"
+    },
+    {
+      "id": "episode8_09",
+      "workspace_path": "/workspace/绯色难测_第八话/page-09.png",
+      "sha256": "a7d85886362a3970302c39a4b7c725df22cfbe939f56153b2b99ad5414f54c9d",
+      "actual_view_completed": true,
+      "usage": "近期人物/办公室内窗/传物手势",
+      "archive_execution_dependency": false,
+      "actual_view_note": "本代理已分批真实view完整图，非凭摘要或提示词。"
+    },
+    {
+      "id": "episode8_15",
+      "workspace_path": "/workspace/绯色难测_第八话/page-15.png",
+      "sha256": "9622e3696a6ef017f3c7228f004b65ccff9e5aca65369962551e7467a81f993c",
+      "actual_view_completed": true,
+      "usage": "近期人物与门窗/冷静清醒眼型",
+      "archive_execution_dependency": false,
+      "actual_view_note": "本代理已分批真实view完整图，非凭摘要或提示词。"
+    },
+    {
+      "id": "episode4_13_silverwolf",
+      "workspace_path": "/workspace/绯色难测_第四话/page-13.png",
+      "sha256": "0411f3e275a1070acf7f54ad8d402cd45ee3fb96e9a0dedbbaec35435775e759",
+      "actual_view_completed": true,
+      "usage": "银狼灰银紫梢发/耳机/深背心白衬校服，侧背可见",
+      "archive_execution_dependency": false,
+      "actual_view_note": "本代理已分批真实view完整图，非凭摘要或提示词。"
+    }
+  ],
+  "overall_finding": {
+    "current_reference_verdict": "用户原设的脸发眼与饰物身份可适配已批准校园装；第七话校正版保留本话主要形象锚，第八话仅辅助服装与办公室场景。",
+    "episode9_png_verdict": "20页90格由ep9_visual_qa逐张实际打开最终PNG通过，所有局修重开；本代理亲看7锚，核20当前源/PNG/QA批准SHA一致，A/B全冻，无剩余必修。",
+    "execution_priorities": [
+      "原设身份及已批准校园服装",
+      "花火左白半面与成年团长身份",
+      "绘本画中画与现实分离",
+      "两只成品狐面具外观/归属/数量",
+      "有源情绪与缓慢关系发展",
+      "真实PNG和最终SHA审阅"
+    ]
+  },
+  "characters": {
+    "绯英": {
+      "original_identity": {
+        "hair": "浅樱粉基色；蓬松短碎发冠；围着脸颊与下颌外翻的尖发束；长鬓发/后侧长束与短头部轮廓分层",
+        "face": "短而利落的成年动漫鹅蛋/微尖下颌脸；清醒的略上挑上眼线；紫罗兰/紫水晶瞳，允许很小暖金高光",
+        "accessories": "红蝴蝶结与樱花形发夹；保留识别位置和形状，不用真兔耳替代发饰",
+        "demeanor": "有机灵和行动感，可笑、可认真、可短暂犹豫，不套固定温婉笑脸",
+        "build": "成年、纤细灵活的动漫比例；服装不把身材再次夸张放大"
+      },
+      "approved_campus_changes": [
+        "莓红短开衫、米白衬衫、独立高腰深蓝A字中长裙、深色裤袜、黑便鞋、小深蓝肩包",
+        "校园长后束与较现实服装细节保留",
+        "不恢复吊带裙、背带、原幻想披摆和真动物耳尾"
+      ],
+      "hard_constraints": [
+        "头顶短蓬层与脸周外翻轮廓在可见正面/三分之二头像中清楚",
+        "紫水晶瞳在有足够像素的睁眼近景中可辨，不改纯红/纯蓝/灰瞳",
+        "红蝴蝶结、樱花夹保持，不加真实兔耳或动物尾",
+        "解剖右手白色全指手套，解剖左手黑色露指手套；手背局部露肤须有合理露指开口/袖腕裁切",
+        "衣服保持已批分体开衫、衬衣和半裙，不复原吊带裙或学生制服",
+        "本章有源耳尖热、喝烫、雪做的后脸红透，按相应镜头允许；保持成年眼型和短层头发，不因脸红变幼儿/Q版。",
+        "没有新增表白、确认恋爱、接吻、牵手、拥抱或心形特效；原文羞赧不等于确认关系。"
+      ],
+      "prior_episode_drift_history": [
+        {
+          "evidence": [
+            "episode6_14",
+            "episode6_16"
+          ],
+          "observation": "长后束、细长垂发占比提高，脸周短碎外翻发束较原设/已批表情图弱；柔和微笑与半垂眼睑令原设的机灵感降低。",
+          "correction": "保留长后束，明确突出短发冠和至少两层脸周外翻发束；按情境画认真/笑意，默认眼型不要全部下垂。"
+        },
+        {
+          "evidence": [
+            "episode6_01",
+            "episode6_14"
+          ],
+          "observation": "暖光中发色比用户原设更艳，部分区域接近玫红；并非整张已变色，但不宜再向开衫的酒红色漂移。",
+          "correction": "把头发基色锁定浅樱粉，保留浅亮发面；暖反光只作为局部受光。"
+        }
+      ],
+      "prior_episode_drift_history_note": "第七话校正时记录的历史偏移，非本代理这轮亲看旧第六话，也不代表第九话已出现；第九话需真实PNG再判。"
+    },
+    "爻光": {
+      "original_identity": {
+        "hair": "银白基色、冷蓝紫阴影；额前弯曲分开的碎刘海；太阳穴至脸侧有明显向外翘的羽状分层发束；保留长后发",
+        "face": "利落的成年动漫脸，清醒杏眼；虹彩以紫/青为主并有少量暖金；表情克制，原设有一点从容会意，不是全程困倦或慈母式微笑",
+        "accessories": "解剖右太阳穴孔雀羽饰、少量金色垂饰；校园版左肩深蓝披巾",
+        "build": "成年修长比例，不因教师身份加重现实衰老或夸张胸腰"
+      },
+      "approved_campus_changes": [
+        "米白西装、白立领中长裙、青蓝细腰带、左肩深蓝披巾、灰低跟鞋",
+        "原幻想孔雀羽意象压为右侧发饰/披巾配色，不恢复巨大羽尾披摆",
+        "双手裸手，唯一旧玉镯在解剖左腕；右腕空净",
+        "原设长尖甲、层叠臂饰等可因校园工作简化，不要求恢复；身份主要靠头发、虹膜和羽饰识别"
+      ],
+      "hard_constraints": [
+        "可见近景保留独立弯碎刘海与外翘侧束，不画成通用顺滑银白大波浪",
+        "虹彩紫青眼在睁眼近景可辨，不变纯灰、纯红或完全同绯英的单紫瞳",
+        "虹彩是普通虹膜色与反光，不自发光、不画法术光芒或星空投射",
+        "羽饰在解剖右太阳穴，披巾在左肩；不镜像互换",
+        "双手裸手，解剖左腕唯一玉镯，解剖右腕无手镯/手表",
+        "姓名写爻光；旧校园sheet标题交光为错误，不是原设；正文自然叫主任可用，签名可合理裁切但不得写错姓名",
+        "倾听两小时折扇合起，回应雪做的解释后才展开遮下半脸；表情可有微小停顿与笑意，不加脸红透或恋爱宣告。"
+      ],
+      "prior_episode_drift_history": [
+        {
+          "evidence": [
+            "episode6_14",
+            "episode6_16"
+          ],
+          "observation": "暖光与柔和处理使虹彩层次更接近普通灰紫瞳；大多数表情趋向相同的温柔半垂眼。",
+          "correction": "在近景保留可辨紫青虹彩与少量暖金高光，清醒眼型与克制表情区分于绯英；允许真正低头或静默的情节表情。"
+        },
+        {
+          "evidence": [
+            "episode6_01",
+            "episode6_14",
+            "episode6_16"
+          ],
+          "observation": "弯碎刘海、外翘侧束仍存在，但体积和层次较原设近景及已批表情图更柔，长卷发更抢轮廓。",
+          "correction": "强化额前独立弯束与脸侧两三层外翘尖束，不能只靠银白长发和孔雀夹认人。"
+        }
+      ],
+      "prior_episode_drift_history_note": "第七话校正时记录的历史偏移，非本代理这轮亲看旧第六话，也不代表第九话已出现；第九话需真实PNG再判。"
+    },
+    "停云": {
+      "source_presence": "祭典前夜拿调度表做最后一遍全流程核对。",
+      "adaptation_plan": "沿第八话仅绿色袖口、持表的手或侧背，不新增完整正脸；绿色袖口是改编选择，不宣称小说明示。",
+      "original_reference_available": false,
+      "full_face_identity_locked": false
+    },
+    "银狼": {
+      "source_presence": "祭典前夜集章系统上线测试。",
+      "continuity_reference": "episode4_13_silverwolf",
+      "actual_reference_viewed": true,
+      "visual_lock": "灰银发带淡紫梢、耳机、白衬衫与深色校服背心的学生；可沿参考侧背处理，电脑测试画面。",
+      "avoid": "不改成年老师，不套游戏裸腹机车装，不凭此建立用户未给的正面原设。"
+    },
+    "花火": {
+      "original_reference_available": false,
+      "user_approved_original_design": false,
+      "authority": "小说第九章明确外观约束 + 本话为校园剧团团长制作的改编便服设计",
+      "source_constraints": {
+        "age_and_role": "成年、身材矮小的假面剧团团长，不幼儿化；本团一行9人。",
+        "hair": "发尾深红并弯卷；原文未明确发根颜色。",
+        "mask": "解剖左半脸覆素白半面，可有很细的浅刻纹；非全脸，解剖右半脸含知情笑。本章讨论摘下的时刻而不实际摘下。",
+        "face_and_demeanor": "露出的解剖右半脸含知情笑，像早知道对方要做什么；可弯腰平视F但比例仍成年。"
+      },
+      "episode_adaptation_design": {
+        "outfit": "深红短外套、米白内衫、黑色长裤、短靴，演出人便服。",
+        "accessories": "仅少量低调金配件，不加狐狸耳/尾，不套暴露和服；校园冷晴天气适合。",
+        "continuity": "校门和一周排练使用同一发型、左半面与同一套演员便服。",
+        "approval_status": "p01与p02实际PNG已由角色审者亲看通过，本话连续性外观已锁；不等同用户提供或批准原设。",
+        "hair_root_color": "发根可用深黑红/深红渐变衔接深红卷曲发尾；属于本话改编选择，非原文明示。"
+      },
+      "distinction_from_gift_masks": "花火自有左白半面不是白狐全脸礼物；不复制礼物额心红点/狐耳毛流完整外观。"
+    }
+  },
+  "prompt_inserts": {
+    "feiying": "Adult Feiying: light cherry-pink hair, SHORT FLUFFY LAYERED CROWN and jagged outward-flipped cheek/jaw framing locks; the approved longer nape/side ribbons remain separate behind that short head silhouette. Do not turn all face-framing hair into smooth waist-length tresses. Bright amethyst-violet eyes, alert slightly upturned upper lids, short youthful ADULT pointed-oval face, lively perceptive expression when appropriate. Red bow and blossom clip; no real rabbit ears or tail. Keep the approved modern school-teacher outfit and right WHITE full glove / left BLACK fingerless glove.",
+    "yaoguang": "Adult Yaoguang: silver-white crown and long back hair in cool blue-lilac shadows, distinct CURVED SEPARATED FOREHEAD BANGS and outward-flipped feather-like cheek/temple side tufts, not generic smooth silver waves. Clearly colored violet/cyan iris with restrained warm-gold highlights; these are natural iris pigments and reflections, NOT self-emitting or magical glowing eyes, almond alert eyes, composed subtly knowing expression when appropriate, not a fixed droopy sleepy maternal smile. Right-temple peacock clasp and left-shoulder navy scarf. Bare hands; jade LEFT wrist only, RIGHT wrist empty.",
+    "scene_permission": "Preserve identity through source-specific acting: Feiying ears warm after being listened to; hot cocoa scalds her; after saying made of snow she blushes fully and flusters, all explicitly in this chapter. These are allowed, without adding confession, mutual relationship confirmation, kisses, handholding, hugs or heart effects. Yaoguang listens with her fan closed for two hours, opens it only after the snow remark, lowers it before wearing the white fox mask.",
+    "hanabi": "Adult short-stature troupe leader Hanabi, deep-red curled HAIR ENDS; roots may be black-red as this episode adaptation. Plain white human-face HALF mask with fine shallow carved lines on her ANATOMICAL LEFT face, anatomical RIGHT half exposed with knowing smile. She DOES NOT remove it in this chapter. Deep-red cropped jacket, ivory shirt, black full trousers, short boots, restrained tiny gold accents, same clothing for school arrival and rehearsals. No fox ears/tail, no exposed kimono, no child proportions. This is a novel-constrained episode adaptation, not a user-provided original design.",
+    "gift_masks": "Exactly TWO finished full fox gift masks: WHITE belongs to Yaoguang, silver fur-flow lines, exactly one central cinnabar forehead dot, upturned eye edges; FIRE RED belongs to Feiying, gold rim, broad laughing mouth. On FIRST reveal to reader, white is left and red right. This display order is NOT a global screen placement: final same-wall office cross-section has Feiying room301 on LEFT with RED, Yaoguang room302 on RIGHT with WHITE, the two masks face across the SAME shared internal vent. Hanabi owns a different plain left-face half mask, never a fox gift mask. Failed drafts appear only in separated past making insets, never extra finished present masks. White silver reflects the work lamp, not magic.",
+    "storybook": "Fictional comic-within-comic only: cream March hare guide with carrot-pattern folded map, exactly one cream egg, patchwork straw scarecrow, stocky gray-brown badger. Keep designs simple and consistent, clearly framed as storybook inserts. Never turn campus Feiying into the rabbit or place these creatures on the real rooftop."
+  },
+  "qa_rules": [
+    "每页最终PNG由命名的全页审阅者实际打开后才登记通过；图片prompt与作者声明均不能代替成品。",
+    "本角色审查代理只在personally_viewed锚点记亲看，不冒称亲看全部20页；PNG局修后旧SHA的审阅不自动适用于新SHA。",
+    "可见范围判断：未出镜、闭眼、背面或裁切记not_visible或passed_where_visible，不强补看不到的饰物。",
+    "原设提供同人身份；近作辅助校园衣服/场景，不能仅用近作互相当唯一身份模板；每次图像调用实际最多5张参考。",
+    "细小受光和远景像素简化并非自动返工；足够可见的眼色、发型、手套/玉镯左右、角色年龄或新面具外观明确漂移则必修。",
+    "本章原作明确耳尖发热、可可烫口、雪做的后脸红透；允许相应红脸与窘迫，不能机械继承第八话疲色规则。",
+    "折扇在倾听全程保持合起，听完雪做的解释后才打开遮下半脸；戴面具前放扇，喝可可/拿面具手势不要画第三只手。",
+    "白狐礼物与红狐礼物现时成品只2只；花火自有左半脸白面具是独立人物配件，形制不同，不与礼物混同。",
+    "花火原设未由用户提供，其本话外观标注为原文约束加改编设计，不称用户已批准原设；不硬套其他作品服装或兽耳。",
+    "绘本兔、蛋、稻草人、獾仅书中画中画，不在真实天台出现，不把绯英变成兔人。",
+    "301左/302右为同墙相邻办公室，共用可传物内部通气窗，不变成走廊对门或新增走廊外传物口。",
+    "根审已裁定校园既有残雪在冷晴画面可保留，无落雪不必返工。",
+    "杯沿/把手小差异已裁定可接受；保持每人归属/纹样和现时恰好2杯即可，被遮挡不补画。"
+  ],
+  "actual_episode_review": {
+    "stage": "最终20页实际全页审阅通过，A/B两半作者源记录与角色核对已冻结。",
+    "page_count": 20,
+    "panel_count": 90,
+    "full_page_reviewer": "/root/ep9_visual_qa",
+    "identity_anchor_auditor": "/root/ep9_character_audit",
+    "identity_anchor_checks": [
+      {
+        "page": 1,
+        "file": "page-01.png",
+        "current_source": "/workspace/generated_images/exec-80d214bb-fb91-4323-98b1-0525ab2c7cf9.png",
+        "sha256": "1a2f92eb9544260f1db314dd10010f7369622cf0dcff67f58d51d4e4e9515800",
+        "auditor": "/root/ep9_character_audit",
+        "actual_png_viewed": true,
+        "identity_decision": "passed",
+        "scope": "本代理亲看人物身份锚，整页内容另需ep9_visual_qa检查；如局修将另按新SHA亲看。",
+        "observations": {
+          "花火": "成年小个团长，深红卷曲发尾、左脸素白浅刻半面与露出的右脸知情笑、深红便服和小金饰清楚；此为小说约束+本话改编设计。",
+          "绯英": "末格浅樱粉短蓬主冠/脸周外翻短层/独立长束，紫眼红蝶樱夹正确；衣服分体，手不入镜。",
+          "爻光": "末格分束弯刘海外翘、银白长后发、自然紫青虹彩、右羽左披，左腕绿玉镯且裸手，身份成立。"
+        },
+        "remaining_identity_must_fix": [],
+        "content_followups": [],
+        "is_current_final_frozen_version": true,
+        "final_png_sha_matches_personal_identity_recheck": true,
+        "final_full_page_review": "passed_by_ep9_visual_qa"
+      },
+      {
+        "page": 2,
+        "file": "page-02.png",
+        "current_source": "/workspace/generated_images/exec-0f9eb813-7a5d-42b4-be7c-b8187a4e67d3.png",
+        "sha256": "c0d1294e79c88d0165a343ea95664c8bc94fdabdd9b2ed309703e58b1eac2a54",
+        "auditor": "/root/ep9_character_audit",
+        "actual_png_viewed": true,
+        "identity_decision": "passed",
+        "scope": "本代理实际亲看F更近头像及花火连续性；全页内容另由命名全页审者判断。",
+        "observations": {
+          "绯英": "近景浅樱粉短蓬主冠、两层外翻脸周短束、独立长后束与紫晶眼清楚，成年脸/右白手套/分体校园装稳定。",
+          "花火": "深红卷尾与解剖左素白浅刻半面、右半脸知情笑稳定；短外套与黑长裤成年便服与p01连续，半面始终未摘。"
+        },
+        "remaining_identity_must_fix": [],
+        "content_followups": [],
+        "is_current_final_frozen_version": true,
+        "final_png_sha_matches_personal_identity_recheck": true,
+        "final_full_page_review": "passed_by_ep9_visual_qa"
+      },
+      {
+        "page": 5,
+        "file": "page-05.png",
+        "current_source": "/workspace/generated_images/exec-d290deeb-2ca7-471f-8f22-eabd474a35bf.png",
+        "sha256": "38d8494d3cd83159d77f7fea0b01432f3b743225f6957fc5fa742403ca66d321",
+        "auditor": "/root/ep9_character_audit",
+        "actual_png_viewed": true,
+        "identity_decision": "passed",
+        "scope": "本代理实际亲看天台人物全身、发眼近景、手套玉镯、双杯与闭扇连续性；全页内容仍由命名全页审者判断。",
+        "observations": {
+          "绯英": "浅粉短蓬发冠、外翻脸周短层与独立长后束清楚，紫眼红蝶樱夹；已批准莓红短衫/米白衬衣/独立深蓝高腰中长裙黑袜，右白全指左黑露指正确。",
+          "爻光": "银白冷蓝紫长后发、分束弯刘海外翘，近景自然紫青虹彩；右羽左蓝披、白西装立领裙青腰带，裸手唯一左玉镯右腕空。",
+          "杯扇": "F米白红狐保温可可/Y深蓝羽纹茶，且仅两杯；折扇保持闭起，身份与道具连续性锚成立。"
+        },
+        "remaining_identity_must_fix": [],
+        "content_followups": [],
+        "is_current_final_frozen_version": true,
+        "final_png_sha_matches_personal_identity_recheck": true,
+        "final_full_page_review": "passed_by_ep9_visual_qa"
+      },
+      {
+        "page": 13,
+        "file": "page-13.png",
+        "current_source": "/workspace/generated_images/exec-323d35f9-8f59-4de4-9aa5-55d86f6f6b62.png",
+        "sha256": "0787708257b6a28e32880f1d7727141b24d91aea161c6058d30bbc3945f2b4cf",
+        "auditor": "/root/ep9_character_audit",
+        "actual_png_viewed": true,
+        "identity_decision": "passed",
+        "scope": "本代理亲看人物身份锚，整页内容另需ep9_visual_qa检查；如局修将另按新SHA亲看。",
+        "observations": {
+          "绯英": "初/末格短蓬主冠、尖锐外翻脸周短层与长后束分离，紫晶眼红蝶樱夹及右白全指/左黑露指手套正确；莓红短衫/衬衣/独立深蓝高腰半裙清楚。",
+          "爻光": "末格分束弯刘海、外翘侧束与银白长发，紫青自然虹彩右羽左蓝披，裸手与唯一左玉镯清楚；交叉抱臂为可读的正常姿势。",
+          "狐面具": "两只成品白左红右、白银毛流1点朱砂上挑眼/红金边大笑口清楚；与花火人形半面不同。"
+        },
+        "remaining_identity_must_fix": [],
+        "content_followups": [],
+        "is_current_final_frozen_version": true,
+        "identity_review_history": [
+          {
+            "current_source": "/workspace/generated_images/exec-39440620-bed0-4930-8ed9-58f31dd7b464.png",
+            "sha256": "d6e314973a946a88a7418a961b724b8a0bdf3251d44c801889ea4c52b802298a",
+            "actual_png_viewed": true,
+            "identity_decision": "passed",
+            "observations": {
+              "绯英": "初/末格短蓬主冠、尖锐外翻脸周短层与长后束分离，紫晶眼红蝶樱夹及右白全指/左黑露指手套正确；莓红短衫/衬衣/独立深蓝高腰半裙清楚。",
+              "爻光": "末格分束弯刘海、外翘侧束与银白长发，紫青自然虹彩右羽左蓝披，裸手与唯一左玉镯清楚；交叉抱臂为可读的正常姿势。",
+              "狐面具": "两只成品白左红右、白银毛流1点朱砂上挑眼/红金边大笑口清楚；与花火人形半面不同。"
+            },
+            "version": "initial_generation_before_closed_fan_local_revision"
+          }
+        ],
+        "post_local_revision_identity_rechecked": true,
+        "latest_recheck_note": "本代理已再次真实打开新整页，末格闭扇修正成立；F/Y脸发眼、左右手/玉镯和双狐面外观与初身份锚相同。",
+        "final_png_sha_matches_personal_identity_recheck": true,
+        "final_full_page_review": "passed_by_ep9_visual_qa"
+      },
+      {
+        "page": 17,
+        "file": "page-17.png",
+        "current_source": "/workspace/generated_images/exec-5d7b3b45-50aa-4b04-b21f-caa574e602c6.png",
+        "sha256": "5f014d38437df7e3e6d119280df0d22b15736e4391f134c0759d5c9bcb64620c",
+        "auditor": "/root/ep9_character_audit",
+        "actual_png_viewed": true,
+        "identity_decision": "passed",
+        "scope": "本代理在B请求下实际完整打开最终PNG，补查戴白狐/末格双杯/末窗归属连续性；全页最终结论另由ep9_visual_qa实际审阅。",
+        "observations": {
+          "爻光": "戴面前自然紫青虹彩、弯分束刘海外翘、右羽左披及左玉镯/右腕空清楚；放下杯与扇后双裸手端详白狐，再戴上；戴面后可见眼仍自然虹彩，未自发光。",
+          "绯英": "浅粉短冠/外翻短层与长束分开，紫晶眼红蝶樱夹/右白左黑稳定；末格停两秒与源红脸成立。",
+          "狐面具": "白狐银毛流/额1朱砂/上挑眼由Y戴，红狐金边大笑口留F侧，仅两成功礼面。"
+        },
+        "remaining_identity_must_fix": [],
+        "content_followups": [],
+        "is_current_final_frozen_version": true,
+        "final_png_sha_matches_personal_identity_recheck": true,
+        "final_full_page_review": "passed_by_ep9_visual_qa"
+      },
+      {
+        "page": 18,
+        "file": "page-18.png",
+        "current_source": "/workspace/generated_images/exec-66b0dfcf-6d86-4bc1-af81-e738377fc583.png",
+        "sha256": "66481b01b18813b2d615862f7352585b9e98165cd7110f9bd8d1f7e24be9beaa",
+        "auditor": "/root/ep9_character_audit",
+        "actual_png_viewed": true,
+        "identity_decision": "passed",
+        "scope": "本代理在B请求下实际完整打开最终PNG，补查戴白狐/末格双杯/末窗归属连续性；全页最终结论另由ep9_visual_qa实际审阅。",
+        "observations": {
+          "绯英": "修版仍保持短冠与脸周外翻、紫眼、右白左黑和独立中长裙；源台词与脸红窘迫未变成年龄或关系升级。",
+          "爻光": "佩白狐、银白长发右羽左披与可见左玉镯正确；正面可见眼自然紫青反光。",
+          "杯面连续性": "已删末格额外白杯，F手持米白红狐可可/Y深蓝羽杯在墙上总2杯；红狐在墙上、白狐Y戴，总2礼面。"
+        },
+        "remaining_identity_must_fix": [],
+        "content_followups": [],
+        "is_current_final_frozen_version": true,
+        "final_png_sha_matches_personal_identity_recheck": true,
+        "final_full_page_review": "passed_by_ep9_visual_qa"
+      },
+      {
+        "page": 20,
+        "file": "page-20.png",
+        "current_source": "/workspace/generated_images/exec-c4f85c4e-4d7f-4c50-81b7-f9143ad5dcd9.png",
+        "sha256": "2a6a84589edc0af5569b981a472e25fd9a6e46bb7153647d9454d451d3a56102",
+        "auditor": "/root/ep9_character_audit",
+        "actual_png_viewed": true,
+        "identity_decision": "passed",
+        "scope": "本代理在B请求下实际完整打开最终PNG，补查戴白狐/末格双杯/末窗归属连续性；全页最终结论另由ep9_visual_qa实际审阅。",
+        "observations": {
+          "人物可见性": "本页无真人角色，不对未出镜脸发眼作判断。",
+          "狐面具": "共享内窗左右各1面，301绯英侧红狐金边笑口、302爻光侧白狐银线单红点，相对不交换；花火半面不在窗台。",
+          "空间与叙事": "两室共享同一内部窗可读，红左白右并与初展示左右区别；观测日记为预言，无提前事故图。"
+        },
+        "remaining_identity_must_fix": [],
+        "content_followups": [],
+        "is_current_final_frozen_version": true,
+        "final_png_sha_matches_personal_identity_recheck": true,
+        "final_full_page_review": "passed_by_ep9_visual_qa"
+      }
+    ],
+    "final_pages": [
+      {
+        "page": 1,
+        "file": "page-01.png",
+        "current_source": "/workspace/generated_images/exec-80d214bb-fb91-4323-98b1-0525ab2c7cf9.png",
+        "sha256": "1a2f92eb9544260f1db314dd10010f7369622cf0dcff67f58d51d4e4e9515800",
+        "actual_final_png_viewed": true,
+        "full_page_reviewer": "/root/ep9_visual_qa",
+        "review_basis": "ep9_visual_qa已逐张真实打开最终20页PNG，所有局修页均重开，并明确给出本SHA通过；本代理逐页重算现PNG与作者源记录核同。",
+        "visible_character_identity": "passed_where_visible",
+        "approved_campus_outfits_and_adult_proportions": "passed_where_visible",
+        "glove_and_wrist_sides": "passed_where_visible",
+        "scene_expression": "passed_with_source_ear_warmth_scalding_cocoa_full_blush_closed_listening_fan_then_cover_and_mask_allowed",
+        "storybook_cast_and_mask_count": "passed_where_visible",
+        "visibility_qualification": "只判可见范围，未出镜/闭眼/背面/裁切不补画。本人亲看实际锚01/02/05/13/17/18/20；其余13页依据命名全页审阅者真实逐张结论，不冒称本人看全20。",
+        "character_auditor_personally_viewed_this_final_png": true,
+        "identity_anchor_basis": [
+          1,
+          2,
+          5,
+          13,
+          17,
+          18,
+          20
+        ],
+        "source_record_matches_current_png": true,
+        "artist_record_frozen": true,
+        "must_fix": [],
+        "decision": "passed_on_frozen_final_png"
+      },
+      {
+        "page": 2,
+        "file": "page-02.png",
+        "current_source": "/workspace/generated_images/exec-0f9eb813-7a5d-42b4-be7c-b8187a4e67d3.png",
+        "sha256": "c0d1294e79c88d0165a343ea95664c8bc94fdabdd9b2ed309703e58b1eac2a54",
+        "actual_final_png_viewed": true,
+        "full_page_reviewer": "/root/ep9_visual_qa",
+        "review_basis": "ep9_visual_qa已逐张真实打开最终20页PNG，所有局修页均重开，并明确给出本SHA通过；本代理逐页重算现PNG与作者源记录核同。",
+        "visible_character_identity": "passed_where_visible",
+        "approved_campus_outfits_and_adult_proportions": "passed_where_visible",
+        "glove_and_wrist_sides": "passed_where_visible",
+        "scene_expression": "passed_with_source_ear_warmth_scalding_cocoa_full_blush_closed_listening_fan_then_cover_and_mask_allowed",
+        "storybook_cast_and_mask_count": "passed_where_visible",
+        "visibility_qualification": "只判可见范围，未出镜/闭眼/背面/裁切不补画。本人亲看实际锚01/02/05/13/17/18/20；其余13页依据命名全页审阅者真实逐张结论，不冒称本人看全20。",
+        "character_auditor_personally_viewed_this_final_png": true,
+        "identity_anchor_basis": [
+          1,
+          2,
+          5,
+          13,
+          17,
+          18,
+          20
+        ],
+        "source_record_matches_current_png": true,
+        "artist_record_frozen": true,
+        "must_fix": [],
+        "decision": "passed_on_frozen_final_png"
+      },
+      {
+        "page": 3,
+        "file": "page-03.png",
+        "current_source": "/workspace/generated_images/exec-c97a201c-9eee-454e-ba81-1ba6b34233d3.png",
+        "sha256": "211e19e8674a5027b52e4eb8d05a79c25b4cf07433d37de85cbff853bbfadc59",
+        "actual_final_png_viewed": true,
+        "full_page_reviewer": "/root/ep9_visual_qa",
+        "review_basis": "ep9_visual_qa已逐张真实打开最终20页PNG，所有局修页均重开，并明确给出本SHA通过；本代理逐页重算现PNG与作者源记录核同。",
+        "visible_character_identity": "passed_where_visible",
+        "approved_campus_outfits_and_adult_proportions": "passed_where_visible",
+        "glove_and_wrist_sides": "passed_where_visible",
+        "scene_expression": "passed_with_source_ear_warmth_scalding_cocoa_full_blush_closed_listening_fan_then_cover_and_mask_allowed",
+        "storybook_cast_and_mask_count": "passed_where_visible",
+        "visibility_qualification": "只判可见范围，未出镜/闭眼/背面/裁切不补画。本人亲看实际锚01/02/05/13/17/18/20；其余13页依据命名全页审阅者真实逐张结论，不冒称本人看全20。",
+        "character_auditor_personally_viewed_this_final_png": false,
+        "identity_anchor_basis": [
+          1,
+          2,
+          5,
+          13,
+          17,
+          18,
+          20
+        ],
+        "source_record_matches_current_png": true,
+        "artist_record_frozen": true,
+        "must_fix": [],
+        "decision": "passed_on_frozen_final_png"
+      },
+      {
+        "page": 4,
+        "file": "page-04.png",
+        "current_source": "/workspace/generated_images/exec-1df6f5ca-df06-4311-9003-63b2538bd3c4.png",
+        "sha256": "5785fac96ad90ef72cd9f9b91fa1543bc42653347c202c18eb26edde803baf70",
+        "actual_final_png_viewed": true,
+        "full_page_reviewer": "/root/ep9_visual_qa",
+        "review_basis": "ep9_visual_qa已逐张真实打开最终20页PNG，所有局修页均重开，并明确给出本SHA通过；本代理逐页重算现PNG与作者源记录核同。",
+        "visible_character_identity": "passed_where_visible",
+        "approved_campus_outfits_and_adult_proportions": "passed_where_visible",
+        "glove_and_wrist_sides": "passed_where_visible",
+        "scene_expression": "passed_with_source_ear_warmth_scalding_cocoa_full_blush_closed_listening_fan_then_cover_and_mask_allowed",
+        "storybook_cast_and_mask_count": "passed_where_visible",
+        "visibility_qualification": "只判可见范围，未出镜/闭眼/背面/裁切不补画。本人亲看实际锚01/02/05/13/17/18/20；其余13页依据命名全页审阅者真实逐张结论，不冒称本人看全20。",
+        "character_auditor_personally_viewed_this_final_png": false,
+        "identity_anchor_basis": [
+          1,
+          2,
+          5,
+          13,
+          17,
+          18,
+          20
+        ],
+        "source_record_matches_current_png": true,
+        "artist_record_frozen": true,
+        "must_fix": [],
+        "decision": "passed_on_frozen_final_png"
+      },
+      {
+        "page": 5,
+        "file": "page-05.png",
+        "current_source": "/workspace/generated_images/exec-d290deeb-2ca7-471f-8f22-eabd474a35bf.png",
+        "sha256": "38d8494d3cd83159d77f7fea0b01432f3b743225f6957fc5fa742403ca66d321",
+        "actual_final_png_viewed": true,
+        "full_page_reviewer": "/root/ep9_visual_qa",
+        "review_basis": "ep9_visual_qa已逐张真实打开最终20页PNG，所有局修页均重开，并明确给出本SHA通过；本代理逐页重算现PNG与作者源记录核同。",
+        "visible_character_identity": "passed_where_visible",
+        "approved_campus_outfits_and_adult_proportions": "passed_where_visible",
+        "glove_and_wrist_sides": "passed_where_visible",
+        "scene_expression": "passed_with_source_ear_warmth_scalding_cocoa_full_blush_closed_listening_fan_then_cover_and_mask_allowed",
+        "storybook_cast_and_mask_count": "passed_where_visible",
+        "visibility_qualification": "只判可见范围，未出镜/闭眼/背面/裁切不补画。本人亲看实际锚01/02/05/13/17/18/20；其余13页依据命名全页审阅者真实逐张结论，不冒称本人看全20。",
+        "character_auditor_personally_viewed_this_final_png": true,
+        "identity_anchor_basis": [
+          1,
+          2,
+          5,
+          13,
+          17,
+          18,
+          20
+        ],
+        "source_record_matches_current_png": true,
+        "artist_record_frozen": true,
+        "must_fix": [],
+        "decision": "passed_on_frozen_final_png"
+      },
+      {
+        "page": 6,
+        "file": "page-06.png",
+        "current_source": "/workspace/generated_images/exec-7abd7173-fa8c-47e1-8e24-f25b613c01fb.png",
+        "sha256": "a7b0662d7a0d6e8744ebe6746600a0ef0797b447fa194547249ce6779284b082",
+        "actual_final_png_viewed": true,
+        "full_page_reviewer": "/root/ep9_visual_qa",
+        "review_basis": "ep9_visual_qa已逐张真实打开最终20页PNG，所有局修页均重开，并明确给出本SHA通过；本代理逐页重算现PNG与作者源记录核同。",
+        "visible_character_identity": "passed_where_visible",
+        "approved_campus_outfits_and_adult_proportions": "passed_where_visible",
+        "glove_and_wrist_sides": "passed_where_visible",
+        "scene_expression": "passed_with_source_ear_warmth_scalding_cocoa_full_blush_closed_listening_fan_then_cover_and_mask_allowed",
+        "storybook_cast_and_mask_count": "passed_where_visible",
+        "visibility_qualification": "只判可见范围，未出镜/闭眼/背面/裁切不补画。本人亲看实际锚01/02/05/13/17/18/20；其余13页依据命名全页审阅者真实逐张结论，不冒称本人看全20。",
+        "character_auditor_personally_viewed_this_final_png": false,
+        "identity_anchor_basis": [
+          1,
+          2,
+          5,
+          13,
+          17,
+          18,
+          20
+        ],
+        "source_record_matches_current_png": true,
+        "artist_record_frozen": true,
+        "must_fix": [],
+        "decision": "passed_on_frozen_final_png"
+      },
+      {
+        "page": 7,
+        "file": "page-07.png",
+        "current_source": "/workspace/generated_images/exec-6c83689f-4c86-4326-ba2e-a25c7763b627.png",
+        "sha256": "e095d063ab5a21e45d7277b96973730766dd8454ffd0d1ce3f834f3a9224c719",
+        "actual_final_png_viewed": true,
+        "full_page_reviewer": "/root/ep9_visual_qa",
+        "review_basis": "ep9_visual_qa已逐张真实打开最终20页PNG，所有局修页均重开，并明确给出本SHA通过；本代理逐页重算现PNG与作者源记录核同。",
+        "visible_character_identity": "passed_where_visible",
+        "approved_campus_outfits_and_adult_proportions": "passed_where_visible",
+        "glove_and_wrist_sides": "passed_where_visible",
+        "scene_expression": "passed_with_source_ear_warmth_scalding_cocoa_full_blush_closed_listening_fan_then_cover_and_mask_allowed",
+        "storybook_cast_and_mask_count": "passed_where_visible",
+        "visibility_qualification": "只判可见范围，未出镜/闭眼/背面/裁切不补画。本人亲看实际锚01/02/05/13/17/18/20；其余13页依据命名全页审阅者真实逐张结论，不冒称本人看全20。",
+        "character_auditor_personally_viewed_this_final_png": false,
+        "identity_anchor_basis": [
+          1,
+          2,
+          5,
+          13,
+          17,
+          18,
+          20
+        ],
+        "source_record_matches_current_png": true,
+        "artist_record_frozen": true,
+        "must_fix": [],
+        "decision": "passed_on_frozen_final_png"
+      },
+      {
+        "page": 8,
+        "file": "page-08.png",
+        "current_source": "/workspace/generated_images/exec-f4619889-95b8-4385-b102-33caf83afd09.png",
+        "sha256": "a2d5023c94a1c50d113912cb0f5ffb7356d04053595e40156b0ff98d62feb71f",
+        "actual_final_png_viewed": true,
+        "full_page_reviewer": "/root/ep9_visual_qa",
+        "review_basis": "ep9_visual_qa已逐张真实打开最终20页PNG，所有局修页均重开，并明确给出本SHA通过；本代理逐页重算现PNG与作者源记录核同。",
+        "visible_character_identity": "passed_where_visible",
+        "approved_campus_outfits_and_adult_proportions": "passed_where_visible",
+        "glove_and_wrist_sides": "passed_where_visible",
+        "scene_expression": "passed_with_source_ear_warmth_scalding_cocoa_full_blush_closed_listening_fan_then_cover_and_mask_allowed",
+        "storybook_cast_and_mask_count": "passed_where_visible",
+        "visibility_qualification": "只判可见范围，未出镜/闭眼/背面/裁切不补画。本人亲看实际锚01/02/05/13/17/18/20；其余13页依据命名全页审阅者真实逐张结论，不冒称本人看全20。",
+        "character_auditor_personally_viewed_this_final_png": false,
+        "identity_anchor_basis": [
+          1,
+          2,
+          5,
+          13,
+          17,
+          18,
+          20
+        ],
+        "source_record_matches_current_png": true,
+        "artist_record_frozen": true,
+        "must_fix": [],
+        "decision": "passed_on_frozen_final_png"
+      },
+      {
+        "page": 9,
+        "file": "page-09.png",
+        "current_source": "/workspace/generated_images/exec-80f71d0d-c96a-40c0-8416-b9928a10fafe.png",
+        "sha256": "fb8efb0aabbcb727d363794d87395c7ffca603c428c6263722aa0e0f2387a54a",
+        "actual_final_png_viewed": true,
+        "full_page_reviewer": "/root/ep9_visual_qa",
+        "review_basis": "ep9_visual_qa已逐张真实打开最终20页PNG，所有局修页均重开，并明确给出本SHA通过；本代理逐页重算现PNG与作者源记录核同。",
+        "visible_character_identity": "passed_where_visible",
+        "approved_campus_outfits_and_adult_proportions": "passed_where_visible",
+        "glove_and_wrist_sides": "passed_where_visible",
+        "scene_expression": "passed_with_source_ear_warmth_scalding_cocoa_full_blush_closed_listening_fan_then_cover_and_mask_allowed",
+        "storybook_cast_and_mask_count": "passed_where_visible",
+        "visibility_qualification": "只判可见范围，未出镜/闭眼/背面/裁切不补画。本人亲看实际锚01/02/05/13/17/18/20；其余13页依据命名全页审阅者真实逐张结论，不冒称本人看全20。",
+        "character_auditor_personally_viewed_this_final_png": false,
+        "identity_anchor_basis": [
+          1,
+          2,
+          5,
+          13,
+          17,
+          18,
+          20
+        ],
+        "source_record_matches_current_png": true,
+        "artist_record_frozen": true,
+        "must_fix": [],
+        "decision": "passed_on_frozen_final_png"
+      },
+      {
+        "page": 10,
+        "file": "page-10.png",
+        "current_source": "/workspace/generated_images/exec-e19c9303-8877-44fd-9dd9-64d6f71563b0.png",
+        "sha256": "05a50a8ffa5ad611ffa8151aff27a7208a99947017bc26966d41662117c65cb1",
+        "actual_final_png_viewed": true,
+        "full_page_reviewer": "/root/ep9_visual_qa",
+        "review_basis": "ep9_visual_qa已逐张真实打开最终20页PNG，所有局修页均重开，并明确给出本SHA通过；本代理逐页重算现PNG与作者源记录核同。",
+        "visible_character_identity": "passed_where_visible",
+        "approved_campus_outfits_and_adult_proportions": "passed_where_visible",
+        "glove_and_wrist_sides": "passed_where_visible",
+        "scene_expression": "passed_with_source_ear_warmth_scalding_cocoa_full_blush_closed_listening_fan_then_cover_and_mask_allowed",
+        "storybook_cast_and_mask_count": "passed_where_visible",
+        "visibility_qualification": "只判可见范围，未出镜/闭眼/背面/裁切不补画。本人亲看实际锚01/02/05/13/17/18/20；其余13页依据命名全页审阅者真实逐张结论，不冒称本人看全20。",
+        "character_auditor_personally_viewed_this_final_png": false,
+        "identity_anchor_basis": [
+          1,
+          2,
+          5,
+          13,
+          17,
+          18,
+          20
+        ],
+        "source_record_matches_current_png": true,
+        "artist_record_frozen": true,
+        "must_fix": [],
+        "decision": "passed_on_frozen_final_png"
+      },
+      {
+        "page": 11,
+        "file": "page-11.png",
+        "current_source": "/workspace/generated_images/exec-e765bbfe-fb63-441c-982d-a9e1cb5c576b.png",
+        "sha256": "895ce7eaf92c91cb5df1c04d7b54cd855999682231a464265500703b3763fa2b",
+        "actual_final_png_viewed": true,
+        "full_page_reviewer": "/root/ep9_visual_qa",
+        "review_basis": "ep9_visual_qa已逐张真实打开最终20页PNG，所有局修页均重开，并明确给出本SHA通过；本代理逐页重算现PNG与作者源记录核同。",
+        "visible_character_identity": "passed_where_visible",
+        "approved_campus_outfits_and_adult_proportions": "passed_where_visible",
+        "glove_and_wrist_sides": "passed_where_visible",
+        "scene_expression": "passed_with_source_ear_warmth_scalding_cocoa_full_blush_closed_listening_fan_then_cover_and_mask_allowed",
+        "storybook_cast_and_mask_count": "passed_where_visible",
+        "visibility_qualification": "只判可见范围，未出镜/闭眼/背面/裁切不补画。本人亲看实际锚01/02/05/13/17/18/20；其余13页依据命名全页审阅者真实逐张结论，不冒称本人看全20。",
+        "character_auditor_personally_viewed_this_final_png": false,
+        "identity_anchor_basis": [
+          1,
+          2,
+          5,
+          13,
+          17,
+          18,
+          20
+        ],
+        "source_record_matches_current_png": true,
+        "artist_record_frozen": true,
+        "must_fix": [],
+        "decision": "passed_on_frozen_final_png"
+      },
+      {
+        "page": 12,
+        "file": "page-12.png",
+        "current_source": "/workspace/generated_images/exec-b8b07f30-96b2-432a-8645-fc45a33f47bb.png",
+        "sha256": "15a89002982b0d9f6de8558d08cfed6720cfd7f0aa2e912ecbc68bc6e474b5d4",
+        "actual_final_png_viewed": true,
+        "full_page_reviewer": "/root/ep9_visual_qa",
+        "review_basis": "ep9_visual_qa已逐张真实打开最终20页PNG，所有局修页均重开，并明确给出本SHA通过；本代理逐页重算现PNG与作者源记录核同。",
+        "visible_character_identity": "passed_where_visible",
+        "approved_campus_outfits_and_adult_proportions": "passed_where_visible",
+        "glove_and_wrist_sides": "passed_where_visible",
+        "scene_expression": "passed_with_source_ear_warmth_scalding_cocoa_full_blush_closed_listening_fan_then_cover_and_mask_allowed",
+        "storybook_cast_and_mask_count": "passed_where_visible",
+        "visibility_qualification": "只判可见范围，未出镜/闭眼/背面/裁切不补画。本人亲看实际锚01/02/05/13/17/18/20；其余13页依据命名全页审阅者真实逐张结论，不冒称本人看全20。",
+        "character_auditor_personally_viewed_this_final_png": false,
+        "identity_anchor_basis": [
+          1,
+          2,
+          5,
+          13,
+          17,
+          18,
+          20
+        ],
+        "source_record_matches_current_png": true,
+        "artist_record_frozen": true,
+        "must_fix": [],
+        "decision": "passed_on_frozen_final_png"
+      },
+      {
+        "page": 13,
+        "file": "page-13.png",
+        "current_source": "/workspace/generated_images/exec-323d35f9-8f59-4de4-9aa5-55d86f6f6b62.png",
+        "sha256": "0787708257b6a28e32880f1d7727141b24d91aea161c6058d30bbc3945f2b4cf",
+        "actual_final_png_viewed": true,
+        "full_page_reviewer": "/root/ep9_visual_qa",
+        "review_basis": "ep9_visual_qa已逐张真实打开最终20页PNG，所有局修页均重开，并明确给出本SHA通过；本代理逐页重算现PNG与作者源记录核同。",
+        "visible_character_identity": "passed_where_visible",
+        "approved_campus_outfits_and_adult_proportions": "passed_where_visible",
+        "glove_and_wrist_sides": "passed_where_visible",
+        "scene_expression": "passed_with_source_ear_warmth_scalding_cocoa_full_blush_closed_listening_fan_then_cover_and_mask_allowed",
+        "storybook_cast_and_mask_count": "passed_where_visible",
+        "visibility_qualification": "只判可见范围，未出镜/闭眼/背面/裁切不补画。本人亲看实际锚01/02/05/13/17/18/20；其余13页依据命名全页审阅者真实逐张结论，不冒称本人看全20。",
+        "character_auditor_personally_viewed_this_final_png": true,
+        "identity_anchor_basis": [
+          1,
+          2,
+          5,
+          13,
+          17,
+          18,
+          20
+        ],
+        "source_record_matches_current_png": true,
+        "artist_record_frozen": true,
+        "must_fix": [],
+        "decision": "passed_on_frozen_final_png"
+      },
+      {
+        "page": 14,
+        "file": "page-14.png",
+        "current_source": "/workspace/generated_images/exec-2d3a3d02-2317-4059-a598-d0122c927d1d.png",
+        "sha256": "2f02b0c276e1ae43118044ba96af1901241fea7454b5a129f030fa30206dcd49",
+        "actual_final_png_viewed": true,
+        "full_page_reviewer": "/root/ep9_visual_qa",
+        "review_basis": "ep9_visual_qa已逐张真实打开最终20页PNG，所有局修页均重开，并明确给出本SHA通过；本代理逐页重算现PNG与作者源记录核同。",
+        "visible_character_identity": "passed_where_visible",
+        "approved_campus_outfits_and_adult_proportions": "passed_where_visible",
+        "glove_and_wrist_sides": "passed_where_visible",
+        "scene_expression": "passed_with_source_ear_warmth_scalding_cocoa_full_blush_closed_listening_fan_then_cover_and_mask_allowed",
+        "storybook_cast_and_mask_count": "passed_where_visible",
+        "visibility_qualification": "只判可见范围，未出镜/闭眼/背面/裁切不补画。本人亲看实际锚01/02/05/13/17/18/20；其余13页依据命名全页审阅者真实逐张结论，不冒称本人看全20。",
+        "character_auditor_personally_viewed_this_final_png": false,
+        "identity_anchor_basis": [
+          1,
+          2,
+          5,
+          13,
+          17,
+          18,
+          20
+        ],
+        "source_record_matches_current_png": true,
+        "artist_record_frozen": true,
+        "must_fix": [],
+        "decision": "passed_on_frozen_final_png"
+      },
+      {
+        "page": 15,
+        "file": "page-15.png",
+        "current_source": "/workspace/generated_images/exec-2aec8367-41c2-4deb-aa0e-72dc8401255b.png",
+        "sha256": "a4c36916224aa885052d32bc650a0b68cee865211d195d724849299dc3626660",
+        "actual_final_png_viewed": true,
+        "full_page_reviewer": "/root/ep9_visual_qa",
+        "review_basis": "ep9_visual_qa已逐张真实打开最终20页PNG，所有局修页均重开，并明确给出本SHA通过；本代理逐页重算现PNG与作者源记录核同。",
+        "visible_character_identity": "passed_where_visible",
+        "approved_campus_outfits_and_adult_proportions": "passed_where_visible",
+        "glove_and_wrist_sides": "passed_where_visible",
+        "scene_expression": "passed_with_source_ear_warmth_scalding_cocoa_full_blush_closed_listening_fan_then_cover_and_mask_allowed",
+        "storybook_cast_and_mask_count": "passed_where_visible",
+        "visibility_qualification": "只判可见范围，未出镜/闭眼/背面/裁切不补画。本人亲看实际锚01/02/05/13/17/18/20；其余13页依据命名全页审阅者真实逐张结论，不冒称本人看全20。",
+        "character_auditor_personally_viewed_this_final_png": false,
+        "identity_anchor_basis": [
+          1,
+          2,
+          5,
+          13,
+          17,
+          18,
+          20
+        ],
+        "source_record_matches_current_png": true,
+        "artist_record_frozen": true,
+        "must_fix": [],
+        "decision": "passed_on_frozen_final_png"
+      },
+      {
+        "page": 16,
+        "file": "page-16.png",
+        "current_source": "/workspace/generated_images/exec-7806784b-4fcb-41bb-b0c6-81d2fa11d665.png",
+        "sha256": "f7fbab5d2bae75e8bbfa1feeba0d8d932981dc28f88b42700158bf94bf1824a7",
+        "actual_final_png_viewed": true,
+        "full_page_reviewer": "/root/ep9_visual_qa",
+        "review_basis": "ep9_visual_qa已逐张真实打开最终20页PNG，所有局修页均重开，并明确给出本SHA通过；本代理逐页重算现PNG与作者源记录核同。",
+        "visible_character_identity": "passed_where_visible",
+        "approved_campus_outfits_and_adult_proportions": "passed_where_visible",
+        "glove_and_wrist_sides": "passed_where_visible",
+        "scene_expression": "passed_with_source_ear_warmth_scalding_cocoa_full_blush_closed_listening_fan_then_cover_and_mask_allowed",
+        "storybook_cast_and_mask_count": "passed_where_visible",
+        "visibility_qualification": "只判可见范围，未出镜/闭眼/背面/裁切不补画。本人亲看实际锚01/02/05/13/17/18/20；其余13页依据命名全页审阅者真实逐张结论，不冒称本人看全20。",
+        "character_auditor_personally_viewed_this_final_png": false,
+        "identity_anchor_basis": [
+          1,
+          2,
+          5,
+          13,
+          17,
+          18,
+          20
+        ],
+        "source_record_matches_current_png": true,
+        "artist_record_frozen": true,
+        "must_fix": [],
+        "decision": "passed_on_frozen_final_png"
+      },
+      {
+        "page": 17,
+        "file": "page-17.png",
+        "current_source": "/workspace/generated_images/exec-5d7b3b45-50aa-4b04-b21f-caa574e602c6.png",
+        "sha256": "5f014d38437df7e3e6d119280df0d22b15736e4391f134c0759d5c9bcb64620c",
+        "actual_final_png_viewed": true,
+        "full_page_reviewer": "/root/ep9_visual_qa",
+        "review_basis": "ep9_visual_qa已逐张真实打开最终20页PNG，所有局修页均重开，并明确给出本SHA通过；本代理逐页重算现PNG与作者源记录核同。",
+        "visible_character_identity": "passed_where_visible",
+        "approved_campus_outfits_and_adult_proportions": "passed_where_visible",
+        "glove_and_wrist_sides": "passed_where_visible",
+        "scene_expression": "passed_with_source_ear_warmth_scalding_cocoa_full_blush_closed_listening_fan_then_cover_and_mask_allowed",
+        "storybook_cast_and_mask_count": "passed_where_visible",
+        "visibility_qualification": "只判可见范围，未出镜/闭眼/背面/裁切不补画。本人亲看实际锚01/02/05/13/17/18/20；其余13页依据命名全页审阅者真实逐张结论，不冒称本人看全20。",
+        "character_auditor_personally_viewed_this_final_png": true,
+        "identity_anchor_basis": [
+          1,
+          2,
+          5,
+          13,
+          17,
+          18,
+          20
+        ],
+        "source_record_matches_current_png": true,
+        "artist_record_frozen": true,
+        "must_fix": [],
+        "decision": "passed_on_frozen_final_png"
+      },
+      {
+        "page": 18,
+        "file": "page-18.png",
+        "current_source": "/workspace/generated_images/exec-66b0dfcf-6d86-4bc1-af81-e738377fc583.png",
+        "sha256": "66481b01b18813b2d615862f7352585b9e98165cd7110f9bd8d1f7e24be9beaa",
+        "actual_final_png_viewed": true,
+        "full_page_reviewer": "/root/ep9_visual_qa",
+        "review_basis": "ep9_visual_qa已逐张真实打开最终20页PNG，所有局修页均重开，并明确给出本SHA通过；本代理逐页重算现PNG与作者源记录核同。",
+        "visible_character_identity": "passed_where_visible",
+        "approved_campus_outfits_and_adult_proportions": "passed_where_visible",
+        "glove_and_wrist_sides": "passed_where_visible",
+        "scene_expression": "passed_with_source_ear_warmth_scalding_cocoa_full_blush_closed_listening_fan_then_cover_and_mask_allowed",
+        "storybook_cast_and_mask_count": "passed_where_visible",
+        "visibility_qualification": "只判可见范围，未出镜/闭眼/背面/裁切不补画。本人亲看实际锚01/02/05/13/17/18/20；其余13页依据命名全页审阅者真实逐张结论，不冒称本人看全20。",
+        "character_auditor_personally_viewed_this_final_png": true,
+        "identity_anchor_basis": [
+          1,
+          2,
+          5,
+          13,
+          17,
+          18,
+          20
+        ],
+        "source_record_matches_current_png": true,
+        "artist_record_frozen": true,
+        "must_fix": [],
+        "decision": "passed_on_frozen_final_png"
+      },
+      {
+        "page": 19,
+        "file": "page-19.png",
+        "current_source": "/workspace/generated_images/exec-001c0dfd-234b-4e59-a3f8-9bc293dbd748.png",
+        "sha256": "c3ac4744fee0e53b4ef67c17a05347b0de35612b99d5e2155238b886fd4fa3d9",
+        "actual_final_png_viewed": true,
+        "full_page_reviewer": "/root/ep9_visual_qa",
+        "review_basis": "ep9_visual_qa已逐张真实打开最终20页PNG，所有局修页均重开，并明确给出本SHA通过；本代理逐页重算现PNG与作者源记录核同。",
+        "visible_character_identity": "passed_where_visible",
+        "approved_campus_outfits_and_adult_proportions": "passed_where_visible",
+        "glove_and_wrist_sides": "passed_where_visible",
+        "scene_expression": "passed_with_source_ear_warmth_scalding_cocoa_full_blush_closed_listening_fan_then_cover_and_mask_allowed",
+        "storybook_cast_and_mask_count": "passed_where_visible",
+        "visibility_qualification": "只判可见范围，未出镜/闭眼/背面/裁切不补画。本人亲看实际锚01/02/05/13/17/18/20；其余13页依据命名全页审阅者真实逐张结论，不冒称本人看全20。",
+        "character_auditor_personally_viewed_this_final_png": false,
+        "identity_anchor_basis": [
+          1,
+          2,
+          5,
+          13,
+          17,
+          18,
+          20
+        ],
+        "source_record_matches_current_png": true,
+        "artist_record_frozen": true,
+        "must_fix": [],
+        "decision": "passed_on_frozen_final_png"
+      },
+      {
+        "page": 20,
+        "file": "page-20.png",
+        "current_source": "/workspace/generated_images/exec-c4f85c4e-4d7f-4c50-81b7-f9143ad5dcd9.png",
+        "sha256": "2a6a84589edc0af5569b981a472e25fd9a6e46bb7153647d9454d451d3a56102",
+        "actual_final_png_viewed": true,
+        "full_page_reviewer": "/root/ep9_visual_qa",
+        "review_basis": "ep9_visual_qa已逐张真实打开最终20页PNG，所有局修页均重开，并明确给出本SHA通过；本代理逐页重算现PNG与作者源记录核同。",
+        "visible_character_identity": "passed_where_visible",
+        "approved_campus_outfits_and_adult_proportions": "passed_where_visible",
+        "glove_and_wrist_sides": "passed_where_visible",
+        "scene_expression": "passed_with_source_ear_warmth_scalding_cocoa_full_blush_closed_listening_fan_then_cover_and_mask_allowed",
+        "storybook_cast_and_mask_count": "passed_where_visible",
+        "visibility_qualification": "只判可见范围，未出镜/闭眼/背面/裁切不补画。本人亲看实际锚01/02/05/13/17/18/20；其余13页依据命名全页审阅者真实逐张结论，不冒称本人看全20。",
+        "character_auditor_personally_viewed_this_final_png": true,
+        "identity_anchor_basis": [
+          1,
+          2,
+          5,
+          13,
+          17,
+          18,
+          20
+        ],
+        "source_record_matches_current_png": true,
+        "artist_record_frozen": true,
+        "must_fix": [],
+        "decision": "passed_on_frozen_final_png"
+      }
+    ],
+    "final_status": "completed_and_frozen",
+    "artist_records_locked": true,
+    "current_source_records_match_final_png": true,
+    "character_identity_correction_sustained": true,
+    "remaining_must_fix": [],
+    "review_claim_policy": "actual_final_png_viewed由命名全页审阅者ep9_visual_qa真实打开该最终SHA完整PNG确认；角色审者亲看范围单列7锚，非全20。",
+    "current_full_page_qa_count": 20,
+    "current_passed_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "pending_pages": [],
+    "author_half_freeze_status": {
+      "front_pages_01_10": {
+        "frozen": true,
+        "all_current_sources_and_sha_match": true,
+        "record": "前半生成记录.json"
+      },
+      "back_pages_11_20": {
+        "frozen": true,
+        "all_current_sources_and_sha_match": true,
+        "record": "后半生成记录.json"
+      }
+    },
+    "frozen_author_records": [
+      {
+        "file": "前半生成记录.json",
+        "sha256": "0c25678cd3e39e909f3f3683c8ed3d1ade864afe0789234df8002e9ccc86b673",
+        "all_ten_frozen": true,
+        "current_pngs_and_source_sha_match": true
+      },
+      {
+        "file": "后半生成记录.json",
+        "sha256": "2256d9159c25fd042aae5030f885d0e438853ebb4e944d8ae63cd2638e3b64ae",
+        "all_ten_frozen": true,
+        "current_pngs_and_source_sha_match": true
+      }
+    ],
+    "final_qa_confirmation": {
+      "reviewer": "/root/ep9_visual_qa",
+      "actual_all_twenty_final_pngs_viewed": true,
+      "all_local_revisions_reopened": true,
+      "current_sha_recomputed_and_equal": true,
+      "page_count": 20,
+      "remaining_must_fix": [],
+      "basis": "最终NEW_TASK明确给出20行SHA并确认全20真实整页通过；两作者正式冻结回执及本代理现场重算source/PNG/qa_approved_sha256均一致。"
+    },
+    "character_auditor_personally_viewed_final_pages": [
+      1,
+      2,
+      5,
+      13,
+      17,
+      18,
+      20
+    ],
+    "mutation_policy_after_freeze": "本代理完成本次冻结后停止写入角色核对.json，交export_final按此字节快照打包；若后续发现必修需先与主代理协调重新冻结。"
+  },
+  "in_package_original_references": [
+    {
+      "original_id": "original_feiying",
+      "package_file": "参考/绯英原设.jpg",
+      "sha256": "8ec0576d31814a4f0d54c067b4375b25f5510671823c4d41706cc33b55a346da",
+      "original_bytes_preserved": true,
+      "copy_verification_state": "verified_equal_at_final_freeze"
+    },
+    {
+      "original_id": "original_yaoguang_closeup",
+      "package_file": "参考/爻光原设近景.jpg",
+      "sha256": "1c14724f3bd1ab2f0bbef92ca17250015f810b00d6ed8c72d86e564c2b51c82e",
+      "original_bytes_preserved": true,
+      "copy_verification_state": "verified_equal_at_final_freeze"
+    },
+    {
+      "original_id": "original_yaoguang_fullbody",
+      "package_file": "参考/爻光原设全身.jpg",
+      "sha256": "8222e86042d6637460243ee623098453319f1e679fa64605095ecf0b6d795313",
+      "original_bytes_preserved": true,
+      "copy_verification_state": "verified_equal_at_final_freeze"
+    }
+  ],
+  "per_page_qa_fields": {
+    "actual_final_png_viewed": "命名full_page_reviewer实际打开此SHA完整PNG；不表示角色审查代理亲看全部20页。",
+    "character_auditor_personally_viewed_this_final_png": "只在本代理实际打开此页且SHA等于最终冻结版本时true；逐项锚点有独立来源记录。",
+    "passed_where_visible": "只对可见范围通过，闭眼/裁切/未出镜不凭空视为缺失。",
+    "sha256": "最终冻结PNG完整SHA-256；不得由历史生成列表末项臆测。"
+  },
+  "prior_episode_character_review_document": {
+    "workspace_path": "/workspace/绯色难测_第八话/角色核对.json",
+    "sha256": "d4eebf712a1c562287ce730d826595b45d5aedbcaf360a41a526e79470d548f3",
+    "actual_read_completed": true,
+    "usage": "沿用原设身份与已批准校园装；第八话疲惫表情限制不套用于第九话。",
+    "archive_execution_dependency": false
+  },
+  "source_read": {
+    "workspace_path": "/workspace/原作/卷二_卦象紊乱.txt",
+    "sha256": "bd4a562260e338ef499ba9a37ae01f86b48be7c717f8d1dd7f007d02560e56bb",
+    "chapter": "第九章 面具",
+    "read_completed": true,
+    "boundary": "第九章至第十章前；无第十章事故提前可视化。"
+  },
+  "storybook_inset_cast": {
+    "work": "苍天航路绒绒号",
+    "author_name": "虚照",
+    "narrative_status": "只作为F讲述中的漫画画中画，不是真实校园角色，不揭作者身份。",
+    "march_hare": {
+      "design": "浅米白三月兔，简洁长兔耳，背一张带萝卜图样/萝卜味的卷折地图，可有小向导袋；圆润书绘形象，非F粉发化身。",
+      "identity": "自称第一向导，护送一颗蛋到永不落幕游乐园；结尾在山头目送而不入园。"
+    },
+    "egg": {
+      "count": 1,
+      "design": "一颗浅米白椭圆蛋，少量淡斑可固定，不画多蛋，不新增具体孵出物。"
+    },
+    "scarecrow": {
+      "design": "稻草肢体，简单旧帽与补丁衣，害怕自己影子、哭泣但保护同伴；不要画成现实学生。"
+    },
+    "badger": {
+      "design": "矮壮灰褐獾、较深眼周简易条纹，小布袋；收过3个月买路财实为喂蛋。"
+    },
+    "continuity": "雪山、雾林、落水、远望游乐园均同一本漫画书绘样式；三月兔与F保持不同形体和配色。",
+    "actual_episode_continuity_notes": {
+      "basis": "ep9_visual_qa实际审阅p06/p07后回报，本角色审者未亲看这两页。",
+      "march_hare": "奶白长耳，绿巾橙色包，后续保持。",
+      "egg": "唯一斑点蛋，木车红垫；不增数量。",
+      "scarecrow": "蓝补丁衣、黄巾、棕旧帽。",
+      "badger": "灰褐毛、蓝包。"
+    }
+  },
+  "gift_mask_lock": {
+    "physical_finished_pair_count": 2,
+    "hanabi_mask_is_separate_personal_accessory": true,
+    "white_fox": {
+      "owner": "爻光",
+      "base": "素白",
+      "lines": "银线毛流",
+      "forehead": "正中恰好1点朱砂",
+      "eyes": "眼尾上挑",
+      "shape": "完整狐面，与花火素白半面形状区分"
+    },
+    "red_fox": {
+      "owner": "绯英",
+      "base": "火红",
+      "lines": "金线滚边",
+      "mouth": "笑口大开"
+    },
+    "display_orientation": "仅初次对读者展示礼物时白左红右，归属白=Y、红=F。末尾同墙室内横剖面则301左红/302右白，各自向内部共享窗另一边面对；不能把初次展示左右硬套成主人换位。",
+    "window_orientation": "同墙邻室301左F红狐、302右Y白狐；同一道内部通气窗的两侧各自一边面对，隔老墙缝相对。若横剖面给两室即左红右白，不能造第三窗或交换归属。",
+    "drafts": "过去失败过程可用独立纸草稿/主观过去格/单次制作特写，不在现时天台摆出额外成功实体；来源记录保留原文先银线潦草、再朱砂点歪、最终留到天亮。",
+    "lighting": "白狐银线只反射工地灯微光，不自发光或魔法面具。"
+  },
+  "source_emotion_policy": {
+    "allowed": [
+      "F原文耳尖发热",
+      "F猛喝可可烫口哈气",
+      "F雪做的脱口后满脸红透并炸毛解释",
+      "Y短暂停笔、合扇全程倾听、之后扇遮下半脸且扇骨不动",
+      "F戴白狐后举杯停两秒、轻声犯规了吧"
+    ],
+    "not_added": [
+      "无确认恋爱",
+      "无接吻/牵手/拥抱",
+      "无额外情书/戒指/心形滤镜",
+      "不揭虚照作者身份",
+      "不提前画第十章事故"
+    ]
+  }
+}
