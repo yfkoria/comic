@@ -1,0 +1,922 @@
+[
+  {
+    "page": 1,
+    "file": "page-01.png",
+    "source": "/workspace/generated_images/exec-098287ed-4c51-4bdf-aee6-a2bca816777f.png",
+    "sources": [
+      "/workspace/generated_images/exec-1bfe640d-bcbd-443e-b2e4-ddf07609ae13.png",
+      "/workspace/generated_images/exec-098287ed-4c51-4bdf-aee6-a2bca816777f.png"
+    ],
+    "history": [
+      "/workspace/generated_images/exec-1bfe640d-bcbd-443e-b2e4-ddf07609ae13.png",
+      "/workspace/generated_images/exec-098287ed-4c51-4bdf-aee6-a2bca816777f.png"
+    ],
+    "sha256": "b54b00bb305ea5b7d721aa2c575daa1b4f31cb6aeee203215ec8fffa3df2ad11",
+    "bytes": 2381468,
+    "resolution": [
+      1024,
+      1536
+    ],
+    "decode": "ok",
+    "actual_references": [
+      {
+        "file": "/workspace/绯色难测_第八话/page-01.png",
+        "sha256": "54a73287f0789183d0fbca72bb5d61aeca8c25507ace1f0724ca5d01b54562d0"
+      }
+    ],
+    "steps": [
+      {
+        "source": "/workspace/generated_images/exec-1bfe640d-bcbd-443e-b2e4-ddf07609ae13.png",
+        "sha256": "54a73287f0789183d0fbca72bb5d61aeca8c25507ace1f0724ca5d01b54562d0",
+        "kind": "generated",
+        "actual_references": [
+          {
+            "file": "/workspace/绯色难测_第八话/参考/绯英原设.jpg",
+            "sha256": "8ec0576d31814a4f0d54c067b4375b25f5510671823c4d41706cc33b55a346da"
+          },
+          {
+            "file": "/workspace/绯色难测_第八话/参考/爻光原设近景.jpg",
+            "sha256": "1c14724f3bd1ab2f0bbef92ca17250015f810b00d6ed8c72d86e564c2b51c82e"
+          },
+          {
+            "file": "/workspace/绯色难测_第八话/参考/爻光原设全身.jpg",
+            "sha256": "8222e86042d6637460243ee623098453319f1e679fa64605095ecf0b6d795313"
+          },
+          {
+            "file": "/workspace/绯色难测_第八话/参考/第七话校正人物09.png",
+            "sha256": "b171ae7f7cdd3033e726739f6c8d94fb0f8a34259f40ec39be3e89290dce9eab"
+          },
+          {
+            "file": "/workspace/绯色难测_第八话/参考/第七话邻室与纸窗.png",
+            "sha256": "a5186f72b59f72579fbdfa8cb8ac77f7f49460eed8529dad2a604903d4976c98"
+          }
+        ],
+        "note": "作者待实际查看，独立QA待审"
+      },
+      {
+        "source": "/workspace/generated_images/exec-098287ed-4c51-4bdf-aee6-a2bca816777f.png",
+        "sha256": "b54b00bb305ea5b7d721aa2c575daa1b4f31cb6aeee203215ec8fffa3df2ad11",
+        "kind": "localized_edit",
+        "actual_references": [
+          {
+            "file": "/workspace/绯色难测_第八话/page-01.png",
+            "sha256": "54a73287f0789183d0fbca72bb5d61aeca8c25507ace1f0724ca5d01b54562d0"
+          }
+        ],
+        "note": "第2格新增制度已局部改为源三条，待作者/独立QA实际复核"
+      }
+    ],
+    "visual_review": "作者实际查看与ep8_visual_qa最终整页独立复核通过，ep8_character_audit已亲看身份锚点及局修版",
+    "independent_reviewer": "/root/ep8_visual_qa",
+    "frozen": true
+  },
+  {
+    "page": 2,
+    "file": "page-02.png",
+    "source": "/workspace/generated_images/exec-65e9b364-cf60-40be-a5b4-1baea15ae2a8.png",
+    "sources": [
+      "/workspace/generated_images/exec-06d92e07-c688-4225-9126-ea29d60bbed4.png",
+      "/workspace/generated_images/exec-65e9b364-cf60-40be-a5b4-1baea15ae2a8.png"
+    ],
+    "history": [
+      "/workspace/generated_images/exec-06d92e07-c688-4225-9126-ea29d60bbed4.png",
+      "/workspace/generated_images/exec-65e9b364-cf60-40be-a5b4-1baea15ae2a8.png"
+    ],
+    "sha256": "4b2fd2e4075451cb7dff5a178b3db4dbfeb9618895ae0442568bac7c91375d6b",
+    "bytes": 2571765,
+    "resolution": [
+      1024,
+      1536
+    ],
+    "decode": "ok",
+    "actual_references": [
+      {
+        "file": "/workspace/绯色难测_第八话/page-02.png",
+        "sha256": "08adabdc4f56ffa0c9c2f02365786685fae8d0f6987f003c9180d5b93e53158f"
+      }
+    ],
+    "steps": [
+      {
+        "source": "/workspace/generated_images/exec-06d92e07-c688-4225-9126-ea29d60bbed4.png",
+        "sha256": "08adabdc4f56ffa0c9c2f02365786685fae8d0f6987f003c9180d5b93e53158f",
+        "kind": "generated",
+        "actual_references": [
+          {
+            "file": "/workspace/绯色难测_第八话/参考/绯英原设.jpg",
+            "sha256": "8ec0576d31814a4f0d54c067b4375b25f5510671823c4d41706cc33b55a346da"
+          },
+          {
+            "file": "/workspace/绯色难测_第八话/参考/爻光原设近景.jpg",
+            "sha256": "1c14724f3bd1ab2f0bbef92ca17250015f810b00d6ed8c72d86e564c2b51c82e"
+          },
+          {
+            "file": "/workspace/绯色难测_第八话/参考/爻光原设全身.jpg",
+            "sha256": "8222e86042d6637460243ee623098453319f1e679fa64605095ecf0b6d795313"
+          },
+          {
+            "file": "/workspace/绯色难测_第八话/参考/第七话校正人物09.png",
+            "sha256": "b171ae7f7cdd3033e726739f6c8d94fb0f8a34259f40ec39be3e89290dce9eab"
+          },
+          {
+            "file": "/workspace/绯色难测_第八话/参考/第七话邻室与纸窗.png",
+            "sha256": "a5186f72b59f72579fbdfa8cb8ac77f7f49460eed8529dad2a604903d4976c98"
+          }
+        ],
+        "note": "作者待实际查看，独立QA待审"
+      },
+      {
+        "source": "/workspace/generated_images/exec-65e9b364-cf60-40be-a5b4-1baea15ae2a8.png",
+        "sha256": "4b2fd2e4075451cb7dff5a178b3db4dbfeb9618895ae0442568bac7c91375d6b",
+        "kind": "localized_edit",
+        "actual_references": [
+          {
+            "file": "/workspace/绯色难测_第八话/page-02.png",
+            "sha256": "08adabdc4f56ffa0c9c2f02365786685fae8d0f6987f003c9180d5b93e53158f"
+          }
+        ],
+        "note": "排班抬头月宫改幻月祭及检查点改关卡，待最终实际复核"
+      }
+    ],
+    "visual_review": "作者实际查看与ep8_visual_qa最终整页独立复核通过",
+    "independent_reviewer": "/root/ep8_visual_qa",
+    "frozen": true
+  },
+  {
+    "page": 3,
+    "file": "page-03.png",
+    "source": "/workspace/generated_images/exec-06449d2f-9158-47eb-b30d-88fb177850fa.png",
+    "sources": [
+      "/workspace/generated_images/exec-06449d2f-9158-47eb-b30d-88fb177850fa.png"
+    ],
+    "history": [
+      "/workspace/generated_images/exec-06449d2f-9158-47eb-b30d-88fb177850fa.png"
+    ],
+    "sha256": "4dd31a2c7a7f8ec7314d14119212dde35f3364f84e1d620fe1fff765db9d09b6",
+    "bytes": 2598186,
+    "resolution": [
+      1024,
+      1536
+    ],
+    "decode": "ok",
+    "actual_references": [
+      {
+        "file": "/workspace/绯色难测_第八话/参考/绯英原设.jpg",
+        "sha256": "8ec0576d31814a4f0d54c067b4375b25f5510671823c4d41706cc33b55a346da"
+      },
+      {
+        "file": "/workspace/绯色难测_第八话/参考/爻光原设近景.jpg",
+        "sha256": "1c14724f3bd1ab2f0bbef92ca17250015f810b00d6ed8c72d86e564c2b51c82e"
+      },
+      {
+        "file": "/workspace/绯色难测_第八话/参考/爻光原设全身.jpg",
+        "sha256": "8222e86042d6637460243ee623098453319f1e679fa64605095ecf0b6d795313"
+      },
+      {
+        "file": "/workspace/绯色难测_第八话/参考/第七话校正人物09.png",
+        "sha256": "b171ae7f7cdd3033e726739f6c8d94fb0f8a34259f40ec39be3e89290dce9eab"
+      },
+      {
+        "file": "/workspace/绯色难测_第八话/参考/第七话邻室与纸窗.png",
+        "sha256": "a5186f72b59f72579fbdfa8cb8ac77f7f49460eed8529dad2a604903d4976c98"
+      }
+    ],
+    "steps": [
+      {
+        "source": "/workspace/generated_images/exec-06449d2f-9158-47eb-b30d-88fb177850fa.png",
+        "sha256": "4dd31a2c7a7f8ec7314d14119212dde35f3364f84e1d620fe1fff765db9d09b6",
+        "kind": "generated",
+        "actual_references": [
+          {
+            "file": "/workspace/绯色难测_第八话/参考/绯英原设.jpg",
+            "sha256": "8ec0576d31814a4f0d54c067b4375b25f5510671823c4d41706cc33b55a346da"
+          },
+          {
+            "file": "/workspace/绯色难测_第八话/参考/爻光原设近景.jpg",
+            "sha256": "1c14724f3bd1ab2f0bbef92ca17250015f810b00d6ed8c72d86e564c2b51c82e"
+          },
+          {
+            "file": "/workspace/绯色难测_第八话/参考/爻光原设全身.jpg",
+            "sha256": "8222e86042d6637460243ee623098453319f1e679fa64605095ecf0b6d795313"
+          },
+          {
+            "file": "/workspace/绯色难测_第八话/参考/第七话校正人物09.png",
+            "sha256": "b171ae7f7cdd3033e726739f6c8d94fb0f8a34259f40ec39be3e89290dce9eab"
+          },
+          {
+            "file": "/workspace/绯色难测_第八话/参考/第七话邻室与纸窗.png",
+            "sha256": "a5186f72b59f72579fbdfa8cb8ac77f7f49460eed8529dad2a604903d4976c98"
+          }
+        ],
+        "note": "作者待实际查看，独立QA待审"
+      }
+    ],
+    "visual_review": "作者实际查看与ep8_visual_qa最终整页独立复核通过",
+    "independent_reviewer": "/root/ep8_visual_qa",
+    "frozen": true
+  },
+  {
+    "page": 4,
+    "file": "page-04.png",
+    "source": "/workspace/generated_images/exec-976b2e4c-02c9-4537-bec5-fcfebfbfab84.png",
+    "sources": [
+      "/workspace/generated_images/exec-04f554c0-90cd-4a14-9d3c-d0faed47fd0e.png",
+      "/workspace/generated_images/exec-976b2e4c-02c9-4537-bec5-fcfebfbfab84.png"
+    ],
+    "history": [
+      "/workspace/generated_images/exec-04f554c0-90cd-4a14-9d3c-d0faed47fd0e.png",
+      "/workspace/generated_images/exec-976b2e4c-02c9-4537-bec5-fcfebfbfab84.png"
+    ],
+    "sha256": "8314f71680669b24f512a86f8d7c6ac897b02ec6ce6958ce8f1ad8fbd2975ca7",
+    "bytes": 2530791,
+    "resolution": [
+      1024,
+      1536
+    ],
+    "decode": "ok",
+    "actual_references": [
+      {
+        "file": "/workspace/绯色难测_第八话/page-04.png",
+        "sha256": "6b8c1760a0b55e196e11dba1e5d6fc7b4b86e43c45f70d173a102f954c1624e1"
+      }
+    ],
+    "steps": [
+      {
+        "source": "/workspace/generated_images/exec-04f554c0-90cd-4a14-9d3c-d0faed47fd0e.png",
+        "sha256": "6b8c1760a0b55e196e11dba1e5d6fc7b4b86e43c45f70d173a102f954c1624e1",
+        "kind": "generated",
+        "actual_references": [
+          {
+            "file": "/workspace/绯色难测_第八话/参考/绯英原设.jpg",
+            "sha256": "8ec0576d31814a4f0d54c067b4375b25f5510671823c4d41706cc33b55a346da"
+          },
+          {
+            "file": "/workspace/绯色难测_第八话/参考/爻光原设近景.jpg",
+            "sha256": "1c14724f3bd1ab2f0bbef92ca17250015f810b00d6ed8c72d86e564c2b51c82e"
+          },
+          {
+            "file": "/workspace/绯色难测_第八话/参考/爻光原设全身.jpg",
+            "sha256": "8222e86042d6637460243ee623098453319f1e679fa64605095ecf0b6d795313"
+          },
+          {
+            "file": "/workspace/绯色难测_第八话/参考/第七话校正人物09.png",
+            "sha256": "b171ae7f7cdd3033e726739f6c8d94fb0f8a34259f40ec39be3e89290dce9eab"
+          },
+          {
+            "file": "/workspace/绯色难测_第八话/page-03.png",
+            "sha256": "4dd31a2c7a7f8ec7314d14119212dde35f3364f84e1d620fe1fff765db9d09b6"
+          }
+        ],
+        "note": "沿03实际道具生成次日小床/警示，作者待看独立QA待审"
+      },
+      {
+        "source": "/workspace/generated_images/exec-976b2e4c-02c9-4537-bec5-fcfebfbfab84.png",
+        "sha256": "8314f71680669b24f512a86f8d7c6ac897b02ec6ce6958ce8f1ad8fbd2975ca7",
+        "kind": "localized_edit",
+        "actual_references": [
+          {
+            "file": "/workspace/绯色难测_第八话/page-04.png",
+            "sha256": "6b8c1760a0b55e196e11dba1e5d6fc7b4b86e43c45f70d173a102f954c1624e1"
+          }
+        ],
+        "note": "首格递册手改F莓红袖/左黑露指，保留小床与三角警示，待最终复核"
+      }
+    ],
+    "visual_review": "作者实际查看与ep8_visual_qa最终整页独立复核通过",
+    "independent_reviewer": "/root/ep8_visual_qa",
+    "frozen": true
+  },
+  {
+    "page": 5,
+    "file": "page-05.png",
+    "source": "/workspace/generated_images/exec-06b567d6-b7af-4421-b7f6-dc1ffee3ab44.png",
+    "sources": [
+      "/workspace/generated_images/exec-06b567d6-b7af-4421-b7f6-dc1ffee3ab44.png"
+    ],
+    "history": [
+      "/workspace/generated_images/exec-06b567d6-b7af-4421-b7f6-dc1ffee3ab44.png"
+    ],
+    "sha256": "9d845d9cf198849da2e7003d4a8d6f434f154f4f8c69815fc955491723c8db3c",
+    "bytes": 2783741,
+    "resolution": [
+      1024,
+      1536
+    ],
+    "decode": "ok",
+    "actual_references": [
+      {
+        "file": "/workspace/绯色难测_第八话/参考/绯英原设.jpg",
+        "sha256": "8ec0576d31814a4f0d54c067b4375b25f5510671823c4d41706cc33b55a346da"
+      },
+      {
+        "file": "/workspace/绯色难测_第八话/参考/爻光原设近景.jpg",
+        "sha256": "1c14724f3bd1ab2f0bbef92ca17250015f810b00d6ed8c72d86e564c2b51c82e"
+      },
+      {
+        "file": "/workspace/绯色难测_第八话/参考/爻光原设全身.jpg",
+        "sha256": "8222e86042d6637460243ee623098453319f1e679fa64605095ecf0b6d795313"
+      },
+      {
+        "file": "/workspace/绯色难测_第八话/参考/第七话校正人物09.png",
+        "sha256": "b171ae7f7cdd3033e726739f6c8d94fb0f8a34259f40ec39be3e89290dce9eab"
+      },
+      {
+        "file": "/workspace/绯色难测_第八话/参考/第六话月宫原方案.png",
+        "sha256": "6c24c1a7501bbb452816496a409785b6db2611cac6467dcec7942b6f881a8e5a"
+      }
+    ],
+    "steps": [
+      {
+        "source": "/workspace/generated_images/exec-06b567d6-b7af-4421-b7f6-dc1ffee3ab44.png",
+        "sha256": "9d845d9cf198849da2e7003d4a8d6f434f154f4f8c69815fc955491723c8db3c",
+        "kind": "generated",
+        "actual_references": [
+          {
+            "file": "/workspace/绯色难测_第八话/参考/绯英原设.jpg",
+            "sha256": "8ec0576d31814a4f0d54c067b4375b25f5510671823c4d41706cc33b55a346da"
+          },
+          {
+            "file": "/workspace/绯色难测_第八话/参考/爻光原设近景.jpg",
+            "sha256": "1c14724f3bd1ab2f0bbef92ca17250015f810b00d6ed8c72d86e564c2b51c82e"
+          },
+          {
+            "file": "/workspace/绯色难测_第八话/参考/爻光原设全身.jpg",
+            "sha256": "8222e86042d6637460243ee623098453319f1e679fa64605095ecf0b6d795313"
+          },
+          {
+            "file": "/workspace/绯色难测_第八话/参考/第七话校正人物09.png",
+            "sha256": "b171ae7f7cdd3033e726739f6c8d94fb0f8a34259f40ec39be3e89290dce9eab"
+          },
+          {
+            "file": "/workspace/绯色难测_第八话/参考/第六话月宫原方案.png",
+            "sha256": "6c24c1a7501bbb452816496a409785b6db2611cac6467dcec7942b6f881a8e5a"
+          }
+        ],
+        "note": "作者待实际查看，独立QA待审"
+      }
+    ],
+    "visual_review": "作者实际查看与ep8_visual_qa最终整页独立复核通过",
+    "independent_reviewer": "/root/ep8_visual_qa",
+    "frozen": true
+  },
+  {
+    "page": 6,
+    "file": "page-06.png",
+    "source": "/workspace/generated_images/exec-493f57b9-3319-487f-8525-0ca2805b6fa1.png",
+    "sources": [
+      "/workspace/generated_images/exec-493f57b9-3319-487f-8525-0ca2805b6fa1.png"
+    ],
+    "history": [
+      "/workspace/generated_images/exec-493f57b9-3319-487f-8525-0ca2805b6fa1.png"
+    ],
+    "sha256": "d26b3045b94fe1975fd5dc545acf716a03dcf6ed04be20133537c2e34a4e942f",
+    "bytes": 2842499,
+    "resolution": [
+      1024,
+      1536
+    ],
+    "decode": "ok",
+    "actual_references": [
+      {
+        "file": "/workspace/绯色难测_第八话/参考/绯英原设.jpg",
+        "sha256": "8ec0576d31814a4f0d54c067b4375b25f5510671823c4d41706cc33b55a346da"
+      },
+      {
+        "file": "/workspace/绯色难测_第八话/参考/爻光原设近景.jpg",
+        "sha256": "1c14724f3bd1ab2f0bbef92ca17250015f810b00d6ed8c72d86e564c2b51c82e"
+      },
+      {
+        "file": "/workspace/绯色难测_第八话/参考/爻光原设全身.jpg",
+        "sha256": "8222e86042d6637460243ee623098453319f1e679fa64605095ecf0b6d795313"
+      },
+      {
+        "file": "/workspace/绯色难测_第八话/参考/第七话校正人物09.png",
+        "sha256": "b171ae7f7cdd3033e726739f6c8d94fb0f8a34259f40ec39be3e89290dce9eab"
+      },
+      {
+        "file": "/workspace/绯色难测_第八话/参考/第六话月宫原方案.png",
+        "sha256": "6c24c1a7501bbb452816496a409785b6db2611cac6467dcec7942b6f881a8e5a"
+      }
+    ],
+    "steps": [
+      {
+        "source": "/workspace/generated_images/exec-493f57b9-3319-487f-8525-0ca2805b6fa1.png",
+        "sha256": "d26b3045b94fe1975fd5dc545acf716a03dcf6ed04be20133537c2e34a4e942f",
+        "kind": "generated",
+        "actual_references": [
+          {
+            "file": "/workspace/绯色难测_第八话/参考/绯英原设.jpg",
+            "sha256": "8ec0576d31814a4f0d54c067b4375b25f5510671823c4d41706cc33b55a346da"
+          },
+          {
+            "file": "/workspace/绯色难测_第八话/参考/爻光原设近景.jpg",
+            "sha256": "1c14724f3bd1ab2f0bbef92ca17250015f810b00d6ed8c72d86e564c2b51c82e"
+          },
+          {
+            "file": "/workspace/绯色难测_第八话/参考/爻光原设全身.jpg",
+            "sha256": "8222e86042d6637460243ee623098453319f1e679fa64605095ecf0b6d795313"
+          },
+          {
+            "file": "/workspace/绯色难测_第八话/参考/第七话校正人物09.png",
+            "sha256": "b171ae7f7cdd3033e726739f6c8d94fb0f8a34259f40ec39be3e89290dce9eab"
+          },
+          {
+            "file": "/workspace/绯色难测_第八话/参考/第六话月宫原方案.png",
+            "sha256": "6c24c1a7501bbb452816496a409785b6db2611cac6467dcec7942b6f881a8e5a"
+          }
+        ],
+        "note": "作者待实际查看，独立QA待审"
+      }
+    ],
+    "visual_review": "作者实际查看与ep8_visual_qa最终整页独立复核通过",
+    "independent_reviewer": "/root/ep8_visual_qa",
+    "frozen": true
+  },
+  {
+    "page": 7,
+    "file": "page-07.png",
+    "source": "/workspace/generated_images/exec-452f10a1-9445-4d1a-bf01-1b3d58ef6f37.png",
+    "sources": [
+      "/workspace/generated_images/exec-452f10a1-9445-4d1a-bf01-1b3d58ef6f37.png"
+    ],
+    "history": [
+      "/workspace/generated_images/exec-452f10a1-9445-4d1a-bf01-1b3d58ef6f37.png"
+    ],
+    "sha256": "ddc60f3fd95319628e5073a936ca29a0546eed1aebbdc9f23c8b7349337c1e92",
+    "bytes": 2595006,
+    "resolution": [
+      1024,
+      1536
+    ],
+    "decode": "ok",
+    "actual_references": [
+      {
+        "file": "/workspace/绯色难测_第八话/参考/绯英原设.jpg",
+        "sha256": "8ec0576d31814a4f0d54c067b4375b25f5510671823c4d41706cc33b55a346da"
+      },
+      {
+        "file": "/workspace/绯色难测_第八话/参考/爻光原设近景.jpg",
+        "sha256": "1c14724f3bd1ab2f0bbef92ca17250015f810b00d6ed8c72d86e564c2b51c82e"
+      },
+      {
+        "file": "/workspace/绯色难测_第八话/参考/爻光原设全身.jpg",
+        "sha256": "8222e86042d6637460243ee623098453319f1e679fa64605095ecf0b6d795313"
+      },
+      {
+        "file": "/workspace/绯色难测_第八话/参考/第七话校正人物09.png",
+        "sha256": "b171ae7f7cdd3033e726739f6c8d94fb0f8a34259f40ec39be3e89290dce9eab"
+      },
+      {
+        "file": "/workspace/绯色难测_第八话/参考/第六话月宫原方案.png",
+        "sha256": "6c24c1a7501bbb452816496a409785b6db2611cac6467dcec7942b6f881a8e5a"
+      }
+    ],
+    "steps": [
+      {
+        "source": "/workspace/generated_images/exec-452f10a1-9445-4d1a-bf01-1b3d58ef6f37.png",
+        "sha256": "ddc60f3fd95319628e5073a936ca29a0546eed1aebbdc9f23c8b7349337c1e92",
+        "kind": "generated",
+        "actual_references": [
+          {
+            "file": "/workspace/绯色难测_第八话/参考/绯英原设.jpg",
+            "sha256": "8ec0576d31814a4f0d54c067b4375b25f5510671823c4d41706cc33b55a346da"
+          },
+          {
+            "file": "/workspace/绯色难测_第八话/参考/爻光原设近景.jpg",
+            "sha256": "1c14724f3bd1ab2f0bbef92ca17250015f810b00d6ed8c72d86e564c2b51c82e"
+          },
+          {
+            "file": "/workspace/绯色难测_第八话/参考/爻光原设全身.jpg",
+            "sha256": "8222e86042d6637460243ee623098453319f1e679fa64605095ecf0b6d795313"
+          },
+          {
+            "file": "/workspace/绯色难测_第八话/参考/第七话校正人物09.png",
+            "sha256": "b171ae7f7cdd3033e726739f6c8d94fb0f8a34259f40ec39be3e89290dce9eab"
+          },
+          {
+            "file": "/workspace/绯色难测_第八话/参考/第六话月宫原方案.png",
+            "sha256": "6c24c1a7501bbb452816496a409785b6db2611cac6467dcec7942b6f881a8e5a"
+          }
+        ],
+        "note": "作者待实际查看，独立QA待审"
+      }
+    ],
+    "visual_review": "作者实际查看与ep8_visual_qa最终整页独立复核通过",
+    "independent_reviewer": "/root/ep8_visual_qa",
+    "frozen": true
+  },
+  {
+    "page": 8,
+    "file": "page-08.png",
+    "source": "/workspace/generated_images/exec-5dbf7a00-0984-4880-8492-f10531bebca5.png",
+    "sources": [
+      "/workspace/generated_images/exec-985367bb-05da-46bf-b786-f29f648de478.png",
+      "/workspace/generated_images/exec-5dbf7a00-0984-4880-8492-f10531bebca5.png"
+    ],
+    "history": [
+      "/workspace/generated_images/exec-985367bb-05da-46bf-b786-f29f648de478.png",
+      "/workspace/generated_images/exec-5dbf7a00-0984-4880-8492-f10531bebca5.png"
+    ],
+    "sha256": "f19c3cf56500b5d6c9d68c6a823bc734063215d82b1ed4ff3a872feb93cdeee3",
+    "bytes": 2531074,
+    "resolution": [
+      1024,
+      1536
+    ],
+    "decode": "ok",
+    "actual_references": [
+      {
+        "file": "/workspace/绯色难测_第八话/page-08.png",
+        "sha256": "eb69da3d656eace9106ff9c2ddd60f5906eb469089af565cff420d8f5691f1bc"
+      }
+    ],
+    "steps": [
+      {
+        "source": "/workspace/generated_images/exec-985367bb-05da-46bf-b786-f29f648de478.png",
+        "sha256": "eb69da3d656eace9106ff9c2ddd60f5906eb469089af565cff420d8f5691f1bc",
+        "kind": "generated",
+        "actual_references": [
+          {
+            "file": "/workspace/绯色难测_第八话/参考/绯英原设.jpg",
+            "sha256": "8ec0576d31814a4f0d54c067b4375b25f5510671823c4d41706cc33b55a346da"
+          },
+          {
+            "file": "/workspace/绯色难测_第八话/参考/爻光原设近景.jpg",
+            "sha256": "1c14724f3bd1ab2f0bbef92ca17250015f810b00d6ed8c72d86e564c2b51c82e"
+          },
+          {
+            "file": "/workspace/绯色难测_第八话/参考/爻光原设全身.jpg",
+            "sha256": "8222e86042d6637460243ee623098453319f1e679fa64605095ecf0b6d795313"
+          },
+          {
+            "file": "/workspace/绯色难测_第八话/参考/第七话校正人物09.png",
+            "sha256": "b171ae7f7cdd3033e726739f6c8d94fb0f8a34259f40ec39be3e89290dce9eab"
+          },
+          {
+            "file": "/workspace/绯色难测_第八话/page-04.png",
+            "sha256": "6b8c1760a0b55e196e11dba1e5d6fc7b4b86e43c45f70d173a102f954c1624e1",
+            "snapshot_file": "/workspace/generated_images/exec-04f554c0-90cd-4a14-9d3c-d0faed47fd0e.png",
+            "snapshot_note": "该参数路径在发起08请求时指向04初版；仅借其第2格正确小床纸图，明确禁止照抄首格错绿袖。随后04首格局修造成同一路径当前SHA变化，此处保留调用时内容快照。"
+          }
+        ],
+        "note": "沿04第2格小床道具生成，作者待实际查看，独立QA待审"
+      },
+      {
+        "source": "/workspace/generated_images/exec-5dbf7a00-0984-4880-8492-f10531bebca5.png",
+        "sha256": "f19c3cf56500b5d6c9d68c6a823bc734063215d82b1ed4ff3a872feb93cdeee3",
+        "kind": "localized_edit",
+        "actual_references": [
+          {
+            "file": "/workspace/绯色难测_第八话/page-08.png",
+            "sha256": "eb69da3d656eace9106ff9c2ddd60f5906eb469089af565cff420d8f5691f1bc"
+          }
+        ],
+        "note": "末格右腕错镯已局部去除，左腕仍画外，待作者与独立QA最后复核"
+      }
+    ],
+    "visual_review": "作者实际查看与ep8_visual_qa最终整页独立复核通过",
+    "independent_reviewer": "/root/ep8_visual_qa",
+    "frozen": true
+  },
+  {
+    "page": 9,
+    "file": "page-09.png",
+    "source": "/workspace/generated_images/exec-55def7c8-df95-4de8-8392-5af4e8daa80c.png",
+    "sources": [
+      "/workspace/generated_images/exec-90dcad98-7d6b-4ba9-ac44-29b54d1f44ad.png",
+      "/workspace/generated_images/exec-55def7c8-df95-4de8-8392-5af4e8daa80c.png"
+    ],
+    "sha256": "a7d85886362a3970302c39a4b7c725df22cfbe939f56153b2b99ad5414f54c9d",
+    "bytes": 2507298,
+    "resolution": [
+      1024,
+      1536
+    ],
+    "decode": "ok",
+    "actual_references": [
+      "/workspace/generated_images/exec-90dcad98-7d6b-4ba9-ac44-29b54d1f44ad.png",
+      "/workspace/原设参考/绯英原设.jpg",
+      "/workspace/原设参考/爻光原设_近景.jpg",
+      "/workspace/原设参考/爻光原设_全身.jpg"
+    ],
+    "generation_steps": [
+      {
+        "source": "/workspace/generated_images/exec-90dcad98-7d6b-4ba9-ac44-29b54d1f44ad.png",
+        "references": [
+          "/workspace/原设参考/绯英原设.jpg",
+          "/workspace/原设参考/爻光原设_近景.jpg",
+          "/workspace/原设参考/爻光原设_全身.jpg",
+          "/workspace/绯色难测_第七话/page-09.png",
+          "/workspace/绯色难测_第七话/page-14.png"
+        ],
+        "note": "作者已生成待目视，独立QA待审"
+      },
+      {
+        "source": "/workspace/generated_images/exec-55def7c8-df95-4de8-8392-5af4e8daa80c.png",
+        "references": [
+          "/workspace/generated_images/exec-90dcad98-7d6b-4ba9-ac44-29b54d1f44ad.png",
+          "/workspace/原设参考/绯英原设.jpg",
+          "/workspace/原设参考/爻光原设_近景.jpg",
+          "/workspace/原设参考/爻光原设_全身.jpg"
+        ],
+        "note": "已局部删除次日指令杂字，待作者与独立QA复核"
+      }
+    ],
+    "visual_review": "作者与ep8_visual_qa实际最终整页复核通过（所有局修版本已复看）",
+    "qa_reviewer": "/root/ep8_visual_qa",
+    "frozen": true
+  },
+  {
+    "page": 10,
+    "file": "page-10.png",
+    "source": "/workspace/generated_images/exec-7fc60ce0-6f8b-45b3-a16f-44378aaf1869.png",
+    "sources": [
+      "/workspace/generated_images/exec-e6202098-bd1c-4f9c-bff6-29e1698389b0.png",
+      "/workspace/generated_images/exec-7fc60ce0-6f8b-45b3-a16f-44378aaf1869.png"
+    ],
+    "sha256": "5788e83a33f1a427ece069f38193aff76c55637e9a3bbf027fa988e615f44770",
+    "bytes": 2409394,
+    "resolution": [
+      1024,
+      1536
+    ],
+    "decode": "ok",
+    "actual_references": [
+      "/workspace/generated_images/exec-e6202098-bd1c-4f9c-bff6-29e1698389b0.png"
+    ],
+    "generation_steps": [
+      {
+        "source": "/workspace/generated_images/exec-e6202098-bd1c-4f9c-bff6-29e1698389b0.png",
+        "references": [
+          "/workspace/原设参考/绯英原设.jpg",
+          "/workspace/原设参考/爻光原设_近景.jpg",
+          "/workspace/原设参考/爻光原设_全身.jpg",
+          "/workspace/generated_images/exec-55def7c8-df95-4de8-8392-5af4e8daa80c.png",
+          "/workspace/绯色难测_第八话/page-06.png"
+        ],
+        "note": "作者已生成待目视，独立QA待审"
+      },
+      {
+        "source": "/workspace/generated_images/exec-7fc60ce0-6f8b-45b3-a16f-44378aaf1869.png",
+        "references": [
+          "/workspace/generated_images/exec-e6202098-bd1c-4f9c-bff6-29e1698389b0.png"
+        ],
+        "note": "局部清除末格额外背景人物，待作者及独立QA复核"
+      }
+    ],
+    "visual_review": "作者与ep8_visual_qa实际最终整页复核通过（所有局修版本已复看）",
+    "qa_reviewer": "/root/ep8_visual_qa",
+    "frozen": true
+  },
+  {
+    "page": 11,
+    "file": "page-11.png",
+    "source": "/workspace/generated_images/exec-fb701dda-f470-4100-9b5a-82eb637a60c9.png",
+    "sources": [
+      "/workspace/generated_images/exec-51250bb1-2cc2-44d1-95c9-bc48bcb178b3.png",
+      "/workspace/generated_images/exec-fb701dda-f470-4100-9b5a-82eb637a60c9.png"
+    ],
+    "sha256": "07557167096680e3570f825655ccea46c1cac3086eb6e81f5b2269573f5bdb01",
+    "bytes": 2474723,
+    "resolution": [
+      1024,
+      1536
+    ],
+    "decode": "ok",
+    "actual_references": [
+      "/workspace/generated_images/exec-51250bb1-2cc2-44d1-95c9-bc48bcb178b3.png"
+    ],
+    "generation_steps": [
+      {
+        "source": "/workspace/generated_images/exec-51250bb1-2cc2-44d1-95c9-bc48bcb178b3.png",
+        "references": [
+          "/workspace/原设参考/绯英原设.jpg",
+          "/workspace/原设参考/爻光原设_近景.jpg",
+          "/workspace/原设参考/爻光原设_全身.jpg",
+          "/workspace/generated_images/exec-90dcad98-7d6b-4ba9-ac44-29b54d1f44ad.png",
+          "/workspace/绯色难测_第七话/page-09.png"
+        ],
+        "note": "作者已生成待目视，独立QA待审"
+      },
+      {
+        "source": "/workspace/generated_images/exec-fb701dda-f470-4100-9b5a-82eb637a60c9.png",
+        "references": [
+          "/workspace/generated_images/exec-51250bb1-2cc2-44d1-95c9-bc48bcb178b3.png"
+        ],
+        "note": "局部修正旁白/指导前缀，待作者与独立QA复核"
+      }
+    ],
+    "visual_review": "作者与ep8_visual_qa实际最终整页复核通过（所有局修版本已复看）",
+    "qa_reviewer": "/root/ep8_visual_qa",
+    "frozen": true
+  },
+  {
+    "page": 12,
+    "file": "page-12.png",
+    "source": "/workspace/generated_images/exec-1e58b429-7126-43c1-be7b-993d574139ca.png",
+    "sources": [
+      "/workspace/generated_images/exec-a39d5dde-b9c2-4753-9493-5ea903095b37.png",
+      "/workspace/generated_images/exec-1e58b429-7126-43c1-be7b-993d574139ca.png"
+    ],
+    "sha256": "fa8aa9e37d1f72b93179edffdf0c2b26920a1c368ab4c8689b7c9531dc494464",
+    "bytes": 2425640,
+    "resolution": [
+      1024,
+      1536
+    ],
+    "decode": "ok",
+    "actual_references": [
+      "/workspace/generated_images/exec-a39d5dde-b9c2-4753-9493-5ea903095b37.png"
+    ],
+    "generation_steps": [
+      {
+        "source": "/workspace/generated_images/exec-a39d5dde-b9c2-4753-9493-5ea903095b37.png",
+        "references": [
+          "/workspace/原设参考/绯英原设.jpg",
+          "/workspace/原设参考/爻光原设_近景.jpg",
+          "/workspace/原设参考/爻光原设_全身.jpg",
+          "/workspace/generated_images/exec-90dcad98-7d6b-4ba9-ac44-29b54d1f44ad.png",
+          "/workspace/绯色难测_第七话/page-09.png"
+        ],
+        "note": "作者已生成待目视，独立QA待审"
+      },
+      {
+        "source": "/workspace/generated_images/exec-1e58b429-7126-43c1-be7b-993d574139ca.png",
+        "references": [
+          "/workspace/generated_images/exec-a39d5dde-b9c2-4753-9493-5ea903095b37.png"
+        ],
+        "note": "局部修正旁白/指导前缀，待作者与独立QA复核"
+      }
+    ],
+    "visual_review": "作者与ep8_visual_qa实际最终整页复核通过（所有局修版本已复看）",
+    "qa_reviewer": "/root/ep8_visual_qa",
+    "frozen": true
+  },
+  {
+    "page": 13,
+    "file": "page-13.png",
+    "source": "/workspace/generated_images/exec-02838fc3-f843-4740-9e9d-38583a2a1058.png",
+    "sources": [
+      "/workspace/generated_images/exec-02838fc3-f843-4740-9e9d-38583a2a1058.png"
+    ],
+    "sha256": "bc32d27b5bd4c3a58836860dd519640c48cfcf7ab0b402f2d93acc6bb7b42bc1",
+    "bytes": 2488952,
+    "resolution": [
+      1024,
+      1536
+    ],
+    "decode": "ok",
+    "actual_references": [
+      "/workspace/原设参考/绯英原设.jpg",
+      "/workspace/原设参考/爻光原设_近景.jpg",
+      "/workspace/原设参考/爻光原设_全身.jpg",
+      "/workspace/generated_images/exec-90dcad98-7d6b-4ba9-ac44-29b54d1f44ad.png",
+      "/workspace/绯色难测_第七话/page-09.png"
+    ],
+    "generation_steps": [
+      {
+        "source": "/workspace/generated_images/exec-02838fc3-f843-4740-9e9d-38583a2a1058.png",
+        "references": [
+          "/workspace/原设参考/绯英原设.jpg",
+          "/workspace/原设参考/爻光原设_近景.jpg",
+          "/workspace/原设参考/爻光原设_全身.jpg",
+          "/workspace/generated_images/exec-90dcad98-7d6b-4ba9-ac44-29b54d1f44ad.png",
+          "/workspace/绯色难测_第七话/page-09.png"
+        ],
+        "note": "作者已生成待目视，独立QA待审"
+      }
+    ],
+    "visual_review": "作者与ep8_visual_qa实际最终整页复核通过（所有局修版本已复看）",
+    "qa_reviewer": "/root/ep8_visual_qa",
+    "frozen": true
+  },
+  {
+    "page": 14,
+    "file": "page-14.png",
+    "source": "/workspace/generated_images/exec-796a9d39-f5b9-429f-91f3-0b0eca2ceed8.png",
+    "sources": [
+      "/workspace/generated_images/exec-07f7d1a5-e025-4974-aa31-3566f15c7cf1.png",
+      "/workspace/generated_images/exec-796a9d39-f5b9-429f-91f3-0b0eca2ceed8.png"
+    ],
+    "sha256": "451e2712246face0bb5c242f03c5a62ec88e9896edec7788488d670605a8c0f8",
+    "bytes": 2549381,
+    "resolution": [
+      1024,
+      1536
+    ],
+    "decode": "ok",
+    "actual_references": [
+      "/workspace/generated_images/exec-07f7d1a5-e025-4974-aa31-3566f15c7cf1.png"
+    ],
+    "generation_steps": [
+      {
+        "source": "/workspace/generated_images/exec-07f7d1a5-e025-4974-aa31-3566f15c7cf1.png",
+        "references": [
+          "/workspace/原设参考/绯英原设.jpg",
+          "/workspace/原设参考/爻光原设_近景.jpg",
+          "/workspace/原设参考/爻光原设_全身.jpg",
+          "/workspace/generated_images/exec-55def7c8-df95-4de8-8392-5af4e8daa80c.png",
+          "/workspace/generated_images/exec-976b2e4c-02c9-4537-bec5-fcfebfbfab84.png"
+        ],
+        "note": "作者已生成待目视，独立QA待审"
+      },
+      {
+        "source": "/workspace/generated_images/exec-796a9d39-f5b9-429f-91f3-0b0eca2ceed8.png",
+        "references": [
+          "/workspace/generated_images/exec-07f7d1a5-e025-4974-aa31-3566f15c7cf1.png"
+        ],
+        "note": "局部修正活动名/署名/版本杂字，待作者与独立QA复核"
+      }
+    ],
+    "visual_review": "作者与ep8_visual_qa实际最终整页复核通过（所有局修版本已复看）",
+    "qa_reviewer": "/root/ep8_visual_qa",
+    "frozen": true
+  },
+  {
+    "page": 15,
+    "file": "page-15.png",
+    "source": "/workspace/generated_images/exec-dd1cbbfa-ba5a-412e-b975-d2a68bb2e014.png",
+    "sources": [
+      "/workspace/generated_images/exec-dd1cbbfa-ba5a-412e-b975-d2a68bb2e014.png"
+    ],
+    "sha256": "9622e3696a6ef017f3c7228f004b65ccff9e5aca65369962551e7467a81f993c",
+    "bytes": 2592070,
+    "resolution": [
+      1024,
+      1536
+    ],
+    "decode": "ok",
+    "actual_references": [
+      "/workspace/原设参考/绯英原设.jpg",
+      "/workspace/原设参考/爻光原设_近景.jpg",
+      "/workspace/原设参考/爻光原设_全身.jpg",
+      "/workspace/generated_images/exec-55def7c8-df95-4de8-8392-5af4e8daa80c.png",
+      "/workspace/绯色难测_第七话/page-14.png"
+    ],
+    "generation_steps": [
+      {
+        "source": "/workspace/generated_images/exec-dd1cbbfa-ba5a-412e-b975-d2a68bb2e014.png",
+        "references": [
+          "/workspace/原设参考/绯英原设.jpg",
+          "/workspace/原设参考/爻光原设_近景.jpg",
+          "/workspace/原设参考/爻光原设_全身.jpg",
+          "/workspace/generated_images/exec-55def7c8-df95-4de8-8392-5af4e8daa80c.png",
+          "/workspace/绯色难测_第七话/page-14.png"
+        ],
+        "note": "作者已生成待目视，独立QA待审"
+      }
+    ],
+    "visual_review": "作者与ep8_visual_qa实际最终整页复核通过（所有局修版本已复看）",
+    "qa_reviewer": "/root/ep8_visual_qa",
+    "frozen": true
+  },
+  {
+    "page": 16,
+    "file": "page-16.png",
+    "source": "/workspace/generated_images/exec-0432f5d8-d943-49cb-8a94-2544d54305b2.png",
+    "sources": [
+      "/workspace/generated_images/exec-ce971497-adca-4290-8bfc-cc06a4c63445.png",
+      "/workspace/generated_images/exec-0432f5d8-d943-49cb-8a94-2544d54305b2.png"
+    ],
+    "sha256": "34aebd4ac9d31020d7dd1847b143314868e3d23da00ff93d6b19823096bfb4a3",
+    "bytes": 2476072,
+    "resolution": [
+      1024,
+      1536
+    ],
+    "decode": "ok",
+    "actual_references": [
+      "/workspace/generated_images/exec-ce971497-adca-4290-8bfc-cc06a4c63445.png",
+      "/workspace/绯色难测_第四话/page-10.png",
+      "/workspace/原设参考/绯英原设.jpg",
+      "/workspace/原设参考/爻光原设_近景.jpg",
+      "/workspace/原设参考/爻光原设_全身.jpg"
+    ],
+    "generation_steps": [
+      {
+        "source": "/workspace/generated_images/exec-ce971497-adca-4290-8bfc-cc06a4c63445.png",
+        "references": [
+          "/workspace/原设参考/绯英原设.jpg",
+          "/workspace/原设参考/爻光原设_近景.jpg",
+          "/workspace/原设参考/爻光原设_全身.jpg",
+          "/workspace/generated_images/exec-55def7c8-df95-4de8-8392-5af4e8daa80c.png",
+          "/workspace/generated_images/exec-976b2e4c-02c9-4537-bec5-fcfebfbfab84.png"
+        ],
+        "note": "作者已生成待目视，独立QA待审"
+      },
+      {
+        "source": "/workspace/generated_images/exec-0432f5d8-d943-49cb-8a94-2544d54305b2.png",
+        "references": [
+          "/workspace/generated_images/exec-ce971497-adca-4290-8bfc-cc06a4c63445.png",
+          "/workspace/绯色难测_第四话/page-10.png",
+          "/workspace/原设参考/绯英原设.jpg",
+          "/workspace/原设参考/爻光原设_近景.jpg",
+          "/workspace/原设参考/爻光原设_全身.jpg"
+        ],
+        "note": "局部修正活动名/署名/版本杂字，待作者与独立QA复核"
+      }
+    ],
+    "visual_review": "作者与ep8_visual_qa实际最终整页复核通过（所有局修版本已复看）",
+    "qa_reviewer": "/root/ep8_visual_qa",
+    "frozen": true
+  }
+]

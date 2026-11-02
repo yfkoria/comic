@@ -1,0 +1,284 @@
+{
+  "checked_at": "2026-11-02T19:02:53.985925+00:00",
+  "expected_pages": 16,
+  "actual_pages": 16,
+  "storyboard_panels": 72,
+  "all_decode_ok": true,
+  "duplicate_pages": false,
+  "pdf_pages": 16,
+  "pdf_rendered_pixels_match_sources": true,
+  "pdf_bytes": 57072564,
+  "pdf_sha256": "9cf1db208f802a5a570d7d093acc32b8692b62876d79e3d8d3f6b5f799106568",
+  "images": [
+    {
+      "page": 1,
+      "file": "page-01.png",
+      "bytes": 2381468,
+      "resolution": [
+        1024,
+        1536
+      ],
+      "sha256": "b54b00bb305ea5b7d721aa2c575daa1b4f31cb6aeee203215ec8fffa3df2ad11",
+      "decode": "ok",
+      "decoded_rgb_sha256": "208b82ab1c13dc955db8f7834a198770d9850892da4e593f900660296700c791"
+    },
+    {
+      "page": 2,
+      "file": "page-02.png",
+      "bytes": 2571765,
+      "resolution": [
+        1024,
+        1536
+      ],
+      "sha256": "4b2fd2e4075451cb7dff5a178b3db4dbfeb9618895ae0442568bac7c91375d6b",
+      "decode": "ok",
+      "decoded_rgb_sha256": "a227fd10fcd1854ab9bfe42311be780eb2e9869dbb0ea76e5f9e32b2bc365a29"
+    },
+    {
+      "page": 3,
+      "file": "page-03.png",
+      "bytes": 2598186,
+      "resolution": [
+        1024,
+        1536
+      ],
+      "sha256": "4dd31a2c7a7f8ec7314d14119212dde35f3364f84e1d620fe1fff765db9d09b6",
+      "decode": "ok",
+      "decoded_rgb_sha256": "d9cbddc8497951108678b2e77f9db869a38e85b253c191bfa2ed5394985d9860"
+    },
+    {
+      "page": 4,
+      "file": "page-04.png",
+      "bytes": 2530791,
+      "resolution": [
+        1024,
+        1536
+      ],
+      "sha256": "8314f71680669b24f512a86f8d7c6ac897b02ec6ce6958ce8f1ad8fbd2975ca7",
+      "decode": "ok",
+      "decoded_rgb_sha256": "8c47e8b8097c1f0c3dc97acc40abede51c7e3fee7a51352d7f94e70b1552893e"
+    },
+    {
+      "page": 5,
+      "file": "page-05.png",
+      "bytes": 2783741,
+      "resolution": [
+        1024,
+        1536
+      ],
+      "sha256": "9d845d9cf198849da2e7003d4a8d6f434f154f4f8c69815fc955491723c8db3c",
+      "decode": "ok",
+      "decoded_rgb_sha256": "585d7a9c9a282290e92cbeacf63adde3ab4e11104970ec41da8a84543d5acdd1"
+    },
+    {
+      "page": 6,
+      "file": "page-06.png",
+      "bytes": 2842499,
+      "resolution": [
+        1024,
+        1536
+      ],
+      "sha256": "d26b3045b94fe1975fd5dc545acf716a03dcf6ed04be20133537c2e34a4e942f",
+      "decode": "ok",
+      "decoded_rgb_sha256": "1be0a9d9d8e75b0f8015a4eac413183ec1e55c202aa9ab57e92c00e2cfd15229"
+    },
+    {
+      "page": 7,
+      "file": "page-07.png",
+      "bytes": 2595006,
+      "resolution": [
+        1024,
+        1536
+      ],
+      "sha256": "ddc60f3fd95319628e5073a936ca29a0546eed1aebbdc9f23c8b7349337c1e92",
+      "decode": "ok",
+      "decoded_rgb_sha256": "5a3323dbca34cf5eb3f07038da4e554bb92a479d70804b830fca87208a42a558"
+    },
+    {
+      "page": 8,
+      "file": "page-08.png",
+      "bytes": 2531074,
+      "resolution": [
+        1024,
+        1536
+      ],
+      "sha256": "f19c3cf56500b5d6c9d68c6a823bc734063215d82b1ed4ff3a872feb93cdeee3",
+      "decode": "ok",
+      "decoded_rgb_sha256": "1d2324fd0cdc6b02ae4c7c0df4734f127e21a76420e84f30c1a0eff1bb0966b2"
+    },
+    {
+      "page": 9,
+      "file": "page-09.png",
+      "bytes": 2507298,
+      "resolution": [
+        1024,
+        1536
+      ],
+      "sha256": "a7d85886362a3970302c39a4b7c725df22cfbe939f56153b2b99ad5414f54c9d",
+      "decode": "ok",
+      "decoded_rgb_sha256": "b74a54df4782db947af881ace7fda6de547ca62ad69609f4a5fed28d831c4b27"
+    },
+    {
+      "page": 10,
+      "file": "page-10.png",
+      "bytes": 2409394,
+      "resolution": [
+        1024,
+        1536
+      ],
+      "sha256": "5788e83a33f1a427ece069f38193aff76c55637e9a3bbf027fa988e615f44770",
+      "decode": "ok",
+      "decoded_rgb_sha256": "dc24a1cfbb32dd3a461022a56048e105b529bbd8e42ad013cae2d4e280bd4957"
+    },
+    {
+      "page": 11,
+      "file": "page-11.png",
+      "bytes": 2474723,
+      "resolution": [
+        1024,
+        1536
+      ],
+      "sha256": "07557167096680e3570f825655ccea46c1cac3086eb6e81f5b2269573f5bdb01",
+      "decode": "ok",
+      "decoded_rgb_sha256": "2d3daa6680fb25a823631d2efd04e2ff541368a1a0ee587ed1b14c4bb9adcda4"
+    },
+    {
+      "page": 12,
+      "file": "page-12.png",
+      "bytes": 2425640,
+      "resolution": [
+        1024,
+        1536
+      ],
+      "sha256": "fa8aa9e37d1f72b93179edffdf0c2b26920a1c368ab4c8689b7c9531dc494464",
+      "decode": "ok",
+      "decoded_rgb_sha256": "972024076ce6040ceeea854c5c441203a39edffe20c124f4bedb4b30aa061069"
+    },
+    {
+      "page": 13,
+      "file": "page-13.png",
+      "bytes": 2488952,
+      "resolution": [
+        1024,
+        1536
+      ],
+      "sha256": "bc32d27b5bd4c3a58836860dd519640c48cfcf7ab0b402f2d93acc6bb7b42bc1",
+      "decode": "ok",
+      "decoded_rgb_sha256": "9f812856cc66121efd4c787bacc63f47bde6c01eef7a4ae1e7039739e03800b8"
+    },
+    {
+      "page": 14,
+      "file": "page-14.png",
+      "bytes": 2549381,
+      "resolution": [
+        1024,
+        1536
+      ],
+      "sha256": "451e2712246face0bb5c242f03c5a62ec88e9896edec7788488d670605a8c0f8",
+      "decode": "ok",
+      "decoded_rgb_sha256": "7e0a257dc8522c304741fbf8be1e4f26beccd192deb34595d15a688198d1821d"
+    },
+    {
+      "page": 15,
+      "file": "page-15.png",
+      "bytes": 2592070,
+      "resolution": [
+        1024,
+        1536
+      ],
+      "sha256": "9622e3696a6ef017f3c7228f004b65ccff9e5aca65369962551e7467a81f993c",
+      "decode": "ok",
+      "decoded_rgb_sha256": "c09b9a6d4028b97686d172e17c824ccbbe764df5f2c1eaf6d527b904d70fc537"
+    },
+    {
+      "page": 16,
+      "file": "page-16.png",
+      "bytes": 2476072,
+      "resolution": [
+        1024,
+        1536
+      ],
+      "sha256": "34aebd4ac9d31020d7dd1847b143314868e3d23da00ff93d6b19823096bfb4a3",
+      "decode": "ok",
+      "decoded_rgb_sha256": "a5dd33492c36ec2afef991133a9887976a9133ed031bbba92e85ca4b3c0cad3c"
+    }
+  ],
+  "reference_assets": [
+    {
+      "file": "参考/绯英原设.jpg",
+      "format": "JPEG",
+      "bytes": 134176,
+      "resolution": [
+        582,
+        1280
+      ],
+      "sha256": "8ec0576d31814a4f0d54c067b4375b25f5510671823c4d41706cc33b55a346da",
+      "decode": "ok"
+    },
+    {
+      "file": "参考/爻光原设近景.jpg",
+      "format": "JPEG",
+      "bytes": 147839,
+      "resolution": [
+        929,
+        1280
+      ],
+      "sha256": "1c14724f3bd1ab2f0bbef92ca17250015f810b00d6ed8c72d86e564c2b51c82e",
+      "decode": "ok"
+    },
+    {
+      "file": "参考/爻光原设全身.jpg",
+      "format": "JPEG",
+      "bytes": 123636,
+      "resolution": [
+        591,
+        1280
+      ],
+      "sha256": "8222e86042d6637460243ee623098453319f1e679fa64605095ecf0b6d795313",
+      "decode": "ok"
+    },
+    {
+      "file": "参考/第七话校正人物09.png",
+      "format": "PNG",
+      "bytes": 2593096,
+      "resolution": [
+        1024,
+        1536
+      ],
+      "sha256": "b171ae7f7cdd3033e726739f6c8d94fb0f8a34259f40ec39be3e89290dce9eab",
+      "decode": "ok"
+    },
+    {
+      "file": "参考/第七话邻室与纸窗.png",
+      "format": "PNG",
+      "bytes": 2430672,
+      "resolution": [
+        1024,
+        1536
+      ],
+      "sha256": "a5186f72b59f72579fbdfa8cb8ac77f7f49460eed8529dad2a604903d4976c98",
+      "decode": "ok"
+    },
+    {
+      "file": "参考/第六话月宫原方案.png",
+      "format": "PNG",
+      "bytes": 2660614,
+      "resolution": [
+        1024,
+        1536
+      ],
+      "sha256": "6c24c1a7501bbb452816496a409785b6db2611cac6467dcec7942b6f881a8e5a",
+      "decode": "ok"
+    }
+  ],
+  "reference_images_kept_in_original_format": true,
+  "character_audit": {
+    "file": "角色核对.json",
+    "sha256": "d4eebf712a1c562287ce730d826595b45d5aedbcaf360a41a526e79470d548f3",
+    "status": "completed_and_frozen"
+  },
+  "package_includes_pdf": false,
+  "markdown_relative_links_checked": 22,
+  "prompt_reference_links_checked": 80,
+  "markdown_and_prompt_references_in_package": true
+}

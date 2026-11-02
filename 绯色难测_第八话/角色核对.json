@@ -1,0 +1,619 @@
+{
+  "episode": 8,
+  "title": "布阵",
+  "requested_focus": "继续推进卷二，同时沿用第七话按用户原设校正后的角色形象，逐页核查。",
+  "status": "completed_and_frozen",
+  "scope": "只负责第八话人物身份核对；不修改前七话画稿，不撤回已批准校园服装，不新增无依据的完整停云正脸设定。",
+  "evidence": [
+    {
+      "id": "original_feiying",
+      "workspace_path": "/workspace/原设参考/绯英原设.jpg",
+      "sha256": "8ec0576d31814a4f0d54c067b4375b25f5510671823c4d41706cc33b55a346da",
+      "actual_view_completed": true,
+      "usage": "用户原设：F短冠/脸周层/眼型/饰物",
+      "archive_execution_dependency": false
+    },
+    {
+      "id": "original_yaoguang_close",
+      "workspace_path": "/workspace/原设参考/爻光原设_近景.jpg",
+      "sha256": "1c14724f3bd1ab2f0bbef92ca17250015f810b00d6ed8c72d86e564c2b51c82e",
+      "actual_view_completed": true,
+      "usage": "用户原设：Y刘海/侧束/虹膜/羽饰",
+      "archive_execution_dependency": false
+    },
+    {
+      "id": "original_yaoguang_full",
+      "workspace_path": "/workspace/原设参考/爻光原设_全身.jpg",
+      "sha256": "8222e86042d6637460243ee623098453319f1e679fa64605095ecf0b6d795313",
+      "actual_view_completed": true,
+      "usage": "用户原设：Y长后发与整体轮廓",
+      "archive_execution_dependency": false
+    },
+    {
+      "id": "episode7_01",
+      "workspace_path": "/workspace/绯色难测_第七话/page-01.png",
+      "sha256": "cbb6e19546ae63dceaa782b1214fa62a331db3af516a14f1ededb41a7f6651c4",
+      "actual_view_completed": true,
+      "usage": "已校正最终人物：F正面机灵状态与两人校园服装",
+      "archive_execution_dependency": false
+    },
+    {
+      "id": "episode7_09",
+      "workspace_path": "/workspace/绯色难测_第七话/page-09.png",
+      "sha256": "b171ae7f7cdd3033e726739f6c8d94fb0f8a34259f40ec39be3e89290dce9eab",
+      "actual_view_completed": true,
+      "usage": "已校正最终人物：F安静状态与Y清醒虹彩近景",
+      "archive_execution_dependency": false
+    },
+    {
+      "id": "episode7_16",
+      "workspace_path": "/workspace/绯色难测_第七话/page-16.png",
+      "sha256": "5a91d982723a118dc89fcf503b51acf98e2667e58812e1c83afbcd21fa872096",
+      "actual_view_completed": true,
+      "usage": "已校正最终人物：Y夜景单人近景与侧背轮廓",
+      "archive_execution_dependency": false
+    }
+  ],
+  "overall_finding": {
+    "current_reference_verdict": "原设三图与第七话最终01/09/16已实际打开。第七话短层头形、外翘发束、紫青虹彩已校正，可作为本话身份基准。",
+    "episode8_png_verdict": "第八话16/16最终PNG经ep8_visual_qa真实逐页检查及全部局修回看通过。角色身份持续保持原设与第七话校正版；本代理另实际打开01/09初稿及局修版，身份通过。原作疲倦与简短照顾神态依情境保留。",
+    "execution_priorities": [
+      "F短蓬主冠与外翻脸周层保持，长后束与主冠分层",
+      "Y弯分刘海与外翘侧束、自然紫青虹彩保持",
+      "校园服装与解剖左右手饰严格沿既定规则",
+      "原作疲倦与短暂安静允许，不将疲态自动判为身份漂移"
+    ]
+  },
+  "characters": {
+    "绯英": {
+      "original_identity": {
+        "hair": "浅樱粉基色；蓬松短碎发冠；围着脸颊与下颌外翻的尖发束；长鬓发/后侧长束与短头部轮廓分层",
+        "face": "短而利落的成年动漫鹅蛋/微尖下颌脸；清醒的略上挑上眼线；紫罗兰/紫水晶瞳，允许很小暖金高光",
+        "accessories": "红蝴蝶结与樱花形发夹；保留识别位置和形状，不用真兔耳替代发饰",
+        "demeanor": "有机灵和行动感，可笑、可认真、可短暂犹豫，不套固定温婉笑脸",
+        "build": "成年、纤细灵活的动漫比例；服装不把身材再次夸张放大"
+      },
+      "approved_campus_changes": [
+        "莓红短开衫、米白衬衫、独立高腰深蓝A字中长裙、深色裤袜、黑便鞋、小深蓝肩包",
+        "校园长后束与较现实服装细节保留",
+        "不恢复吊带裙、背带、原幻想披摆和真动物耳尾"
+      ],
+      "hard_constraints": [
+        "头顶短蓬层与脸周外翻轮廓在可见正面/三分之二头像中清楚",
+        "紫水晶瞳在有足够像素的睁眼近景中可辨，不改纯红/纯蓝/灰瞳",
+        "红蝴蝶结、樱花夹保持，不加真实兔耳或动物尾",
+        "解剖右手白色全指手套，解剖左手黑色露指手套；手背局部露肤须有合理露指开口/袖腕裁切",
+        "衣服保持已批分体开衫、衬衣和半裙，不复原吊带裙或学生制服",
+        "本章原作明确眼下淡青与困倦，允许疲倦、困眼和安静表情；身份以短层头形、紫眼、饰物等可见特征判断，不硬锁每格机灵笑。",
+        "淡青眼圈仅轻微疲色，不画深紫淤青或病态黑眼圈改变角色眼型。",
+        "月宫上色站地面，裙角仅小处扎起，仍可识别为已批深蓝中长裙，不借姿势改成幻想短裙或学生制服。"
+      ],
+      "prior_episode_drift_history": [
+        {
+          "evidence": [
+            "episode6_14",
+            "episode6_16"
+          ],
+          "observation": "长后束、细长垂发占比提高，脸周短碎外翻发束较原设/已批表情图弱；柔和微笑与半垂眼睑令原设的机灵感降低。",
+          "correction": "保留长后束，明确突出短发冠和至少两层脸周外翻发束；按情境画认真/笑意，默认眼型不要全部下垂。"
+        },
+        {
+          "evidence": [
+            "episode6_01",
+            "episode6_14"
+          ],
+          "observation": "暖光中发色比用户原设更艳，部分区域接近玫红；并非整张已变色，但不宜再向开衫的酒红色漂移。",
+          "correction": "把头发基色锁定浅樱粉，保留浅亮发面；暖反光只作为局部受光。"
+        }
+      ],
+      "prior_episode_drift_history_note": "这里记录第七话原设核对时发现并已校正的历史偏移，不代表第八话新图已经出现同类问题。第八话实际结论需见冻结终表。"
+    },
+    "爻光": {
+      "original_identity": {
+        "hair": "银白基色、冷蓝紫阴影；额前弯曲分开的碎刘海；太阳穴至脸侧有明显向外翘的羽状分层发束；保留长后发",
+        "face": "利落的成年动漫脸，清醒杏眼；虹彩以紫/青为主并有少量暖金；表情克制，原设有一点从容会意，不是全程困倦或慈母式微笑",
+        "accessories": "解剖右太阳穴孔雀羽饰、少量金色垂饰；校园版左肩深蓝披巾",
+        "build": "成年修长比例，不因教师身份加重现实衰老或夸张胸腰"
+      },
+      "approved_campus_changes": [
+        "米白西装、白立领中长裙、青蓝细腰带、左肩深蓝披巾、灰低跟鞋",
+        "原幻想孔雀羽意象压为右侧发饰/披巾配色，不恢复巨大羽尾披摆",
+        "双手裸手，唯一旧玉镯在解剖左腕；右腕空净",
+        "原设长尖甲、层叠臂饰等可因校园工作简化，不要求恢复；身份主要靠头发、虹膜和羽饰识别"
+      ],
+      "hard_constraints": [
+        "可见近景保留独立弯碎刘海与外翘侧束，不画成通用顺滑银白大波浪",
+        "虹彩紫青眼在睁眼近景可辨，不变纯灰、纯红或完全同绯英的单紫瞳",
+        "虹彩是普通虹膜色与反光，不自发光、不画法术光芒或星空投射",
+        "羽饰在解剖右太阳穴，披巾在左肩；不镜像互换",
+        "双手裸手，解剖左腕唯一玉镯，解剖右腕无手镯/手表",
+        "姓名写爻光；旧校园sheet标题交光为错误，不是原设；正文自然叫主任可用，签名可合理裁切但不得写错姓名"
+      ],
+      "prior_episode_drift_history": [
+        {
+          "evidence": [
+            "episode6_14",
+            "episode6_16"
+          ],
+          "observation": "暖光与柔和处理使虹彩层次更接近普通灰紫瞳；大多数表情趋向相同的温柔半垂眼。",
+          "correction": "在近景保留可辨紫青虹彩与少量暖金高光，清醒眼型与克制表情区分于绯英；允许真正低头或静默的情节表情。"
+        },
+        {
+          "evidence": [
+            "episode6_01",
+            "episode6_14",
+            "episode6_16"
+          ],
+          "observation": "弯碎刘海、外翘侧束仍存在，但体积和层次较原设近景及已批表情图更柔，长卷发更抢轮廓。",
+          "correction": "强化额前独立弯束与脸侧两三层外翘尖束，不能只靠银白长发和孔雀夹认人。"
+        }
+      ],
+      "prior_episode_drift_history_note": "这里记录第七话原设核对时发现并已校正的历史偏移，不代表第八话新图已经出现同类问题。第八话实际结论需见冻结终表。"
+    },
+    "停云": {
+      "source_presence": "原作本章仅送来假面剧团确认函，未在用户资料中提供其原设。",
+      "adaptation_plan": "仅画绿色袖口递函的手或侧背影，不在此章强定义完整正脸。绿色袖口属于改编取景与服装设计选择，不宣称原作明示。",
+      "original_reference_available": false,
+      "full_face_identity_locked": false
+    }
+  },
+  "prompt_inserts": {
+    "feiying": "Adult Feiying: light cherry-pink hair, SHORT FLUFFY LAYERED CROWN and jagged outward-flipped cheek/jaw framing locks; the approved longer nape/side ribbons remain separate behind that short head silhouette. Do not turn all face-framing hair into smooth waist-length tresses. Bright amethyst-violet eyes, alert slightly upturned upper lids, short youthful ADULT pointed-oval face, lively perceptive expression when appropriate. Red bow and blossom clip; no real rabbit ears or tail. Keep the approved modern school-teacher outfit and right WHITE full glove / left BLACK fingerless glove.",
+    "yaoguang": "Adult Yaoguang: silver-white crown and long back hair in cool blue-lilac shadows, distinct CURVED SEPARATED FOREHEAD BANGS and outward-flipped feather-like cheek/temple side tufts, not generic smooth silver waves. Clearly colored violet/cyan iris with restrained warm-gold highlights; these are natural iris pigments and reflections, NOT self-emitting or magical glowing eyes, almond alert eyes, composed subtly knowing expression when appropriate, not a fixed droopy sleepy maternal smile. Right-temple peacock clasp and left-shoulder navy scarf. Bare hands; jade LEFT wrist only, RIGHT wrist empty.",
+    "scene_permission": "Preserve facial identity while respecting the scene: this chapter explicitly shows Feiying tired with faint blue under-eye circles. Fatigue, quiet attention, hesitation and brief smiles are allowed; do not force a mischievous grin or eyebrow pose into every panel. No hearts, instant confession or added romantic touching. Natural iris pigments and reflections, never self-emitting eyes."
+  },
+  "qa_rules": [
+    "每页真实打开最终PNG后再填通过，不按prompt当成成品",
+    "角色没有出镜/眼睛闭合/细节在画外时用not_visible，不强补饰物或凭空认定缺失",
+    "修图后要再打开整页核对，保持正文/手饰/脸型同时成立",
+    "细小受光差别与远景像素简化不是自动返工理由；只有清楚可见的身份特征漂移才判必修",
+    "第八话生成时原设至少应作为同人身份参照，近作只负责校园服装和场景，不能只把近作互相当唯一模板"
+  ],
+  "actual_episode_review": {
+    "stage": "最终十六页全页审阅通过，前后作者来源记录及角色核对均已冻结",
+    "page_count": 16,
+    "panel_count": 72,
+    "full_page_reviewer": "/root/ep8_visual_qa",
+    "identity_anchor_auditor": "/root/ep8_character_audit",
+    "identity_anchor_checks": [
+      {
+        "page": 1,
+        "file": "page-01.png",
+        "current_source": "/workspace/generated_images/exec-098287ed-4c51-4bdf-aee6-a2bca816777f.png",
+        "sha256": "b54b00bb305ea5b7d721aa2c575daa1b4f31cb6aeee203215ec8fffa3df2ad11",
+        "auditor": "/root/ep8_character_audit",
+        "actual_png_viewed": true,
+        "identity_decision": "passed",
+        "scope": "本代理实际打开的人物身份锚点及局修保持；本页另已获ep8_visual_qa最终整页通过，当前SHA与最终冻结图一致。",
+        "observations": {
+          "绯英": "侧面及三分之二面头像维持浅樱粉短蓬主冠、外翻脸周短层和独立较长后束；紫眼与红蝴蝶结/樱花夹清楚，微困符合本章。",
+          "爻光": "末格近景分束弯刘海与两侧羽状外翘发束清楚，自然紫青虹彩及清醒镇定眼型与7校正版相符。"
+        },
+        "remaining_identity_must_fix": [],
+        "identity_review_history": [
+          {
+            "source": "/workspace/generated_images/exec-1bfe640d-bcbd-443e-b2e4-ddf07609ae13.png",
+            "sha256": "54a73287f0789183d0fbca72bb5d61aeca8c25507ace1f0724ca5d01b54562d0",
+            "actual_png_viewed": true,
+            "identity_decision": "passed",
+            "version": "initial_generation_before_content_only_local_revision"
+          }
+        ],
+        "post_local_revision_identity_rechecked": true,
+        "latest_recheck_note": "排班表局部文字修正后身份保持，脸发眼与原设/第七校正版一致",
+        "final_full_page_review": "passed_by_ep8_visual_qa",
+        "final_png_sha_matches_personal_identity_recheck": true
+      },
+      {
+        "page": 9,
+        "file": "page-09.png",
+        "current_source": "/workspace/generated_images/exec-55def7c8-df95-4de8-8392-5af4e8daa80c.png",
+        "sha256": "a7d85886362a3970302c39a4b7c725df22cfbe939f56153b2b99ad5414f54c9d",
+        "auditor": "/root/ep8_character_audit",
+        "actual_png_viewed": true,
+        "identity_decision": "passed",
+        "scope": "本代理实际打开的人物身份锚点及局修保持；本页另已获ep8_visual_qa最终整页通过，当前SHA与最终冻结图一致。",
+        "observations": {
+          "绯英": "浅樱粉短蓬发冠与颊侧锐外翻短层清楚，长后束另层；紫眼保持。第2格困倦半垂眼与原作淡青疲色吻合，不判为身份漂移。",
+          "爻光": "第1/5格分束弯刘海、外翘鬓束、银白冷蓝紫发色、右羽饰与自然紫青虹彩可辨；镇定对话与递饭短笑合情境，不是全页固定慈母脸。"
+        },
+        "remaining_identity_must_fix": [],
+        "identity_review_history": [
+          {
+            "source": "/workspace/generated_images/exec-90dcad98-7d6b-4ba9-ac44-29b54d1f44ad.png",
+            "sha256": "ebf68ac89553cde081be5d5c6930ee265ad73d26527c62227a960563582f56ba",
+            "actual_png_viewed": true,
+            "identity_decision": "passed",
+            "version": "initial_generation_before_content_only_local_revision"
+          }
+        ],
+        "post_local_revision_identity_rechecked": true,
+        "latest_recheck_note": "删纸边杂字后身份保持，疲态F与清醒虹彩Y仍成立",
+        "final_full_page_review": "passed_by_ep8_visual_qa",
+        "final_png_sha_matches_personal_identity_recheck": true
+      }
+    ],
+    "final_pages": [
+      {
+        "page": 1,
+        "file": "page-01.png",
+        "current_source": "/workspace/generated_images/exec-098287ed-4c51-4bdf-aee6-a2bca816777f.png",
+        "sha256": "b54b00bb305ea5b7d721aa2c575daa1b4f31cb6aeee203215ec8fffa3df2ad11",
+        "actual_final_png_viewed": true,
+        "full_page_reviewer": "/root/ep8_visual_qa",
+        "review_basis": "用户三张原设、第七话校正版、本文件角色标准及第八话原作情境；命名全页审阅者逐页实看并回看所有局修。",
+        "visible_character_identity": "passed",
+        "approved_campus_outfits_and_adult_proportions": "passed_where_visible",
+        "glove_and_wrist_sides": "passed_where_visible",
+        "scene_expression": "passed_with_source_fatigue_blue_under_eye_shadows_and_brief_smiles_allowed",
+        "visibility_qualification": "只对可见范围作身份判断；闭眼、背面、未出镜与裁切不凭空补画。全页最终结论由ep8_visual_qa真实逐张检查，本审查代理不冒称亲看全部16页。",
+        "character_auditor_personally_viewed_this_final_png": true,
+        "identity_anchor_basis": [
+          1,
+          9
+        ],
+        "must_fix": [],
+        "decision": "passed_on_frozen_final_png"
+      },
+      {
+        "page": 2,
+        "file": "page-02.png",
+        "current_source": "/workspace/generated_images/exec-65e9b364-cf60-40be-a5b4-1baea15ae2a8.png",
+        "sha256": "4b2fd2e4075451cb7dff5a178b3db4dbfeb9618895ae0442568bac7c91375d6b",
+        "actual_final_png_viewed": true,
+        "full_page_reviewer": "/root/ep8_visual_qa",
+        "review_basis": "用户三张原设、第七话校正版、本文件角色标准及第八话原作情境；命名全页审阅者逐页实看并回看所有局修。",
+        "visible_character_identity": "passed",
+        "approved_campus_outfits_and_adult_proportions": "passed_where_visible",
+        "glove_and_wrist_sides": "passed_where_visible",
+        "scene_expression": "passed_with_source_fatigue_blue_under_eye_shadows_and_brief_smiles_allowed",
+        "visibility_qualification": "只对可见范围作身份判断；闭眼、背面、未出镜与裁切不凭空补画。全页最终结论由ep8_visual_qa真实逐张检查，本审查代理不冒称亲看全部16页。",
+        "character_auditor_personally_viewed_this_final_png": false,
+        "identity_anchor_basis": [
+          1,
+          9
+        ],
+        "must_fix": [],
+        "decision": "passed_on_frozen_final_png"
+      },
+      {
+        "page": 3,
+        "file": "page-03.png",
+        "current_source": "/workspace/generated_images/exec-06449d2f-9158-47eb-b30d-88fb177850fa.png",
+        "sha256": "4dd31a2c7a7f8ec7314d14119212dde35f3364f84e1d620fe1fff765db9d09b6",
+        "actual_final_png_viewed": true,
+        "full_page_reviewer": "/root/ep8_visual_qa",
+        "review_basis": "用户三张原设、第七话校正版、本文件角色标准及第八话原作情境；命名全页审阅者逐页实看并回看所有局修。",
+        "visible_character_identity": "passed",
+        "approved_campus_outfits_and_adult_proportions": "passed_where_visible",
+        "glove_and_wrist_sides": "passed_where_visible",
+        "scene_expression": "passed_with_source_fatigue_blue_under_eye_shadows_and_brief_smiles_allowed",
+        "visibility_qualification": "只对可见范围作身份判断；闭眼、背面、未出镜与裁切不凭空补画。全页最终结论由ep8_visual_qa真实逐张检查，本审查代理不冒称亲看全部16页。",
+        "character_auditor_personally_viewed_this_final_png": false,
+        "identity_anchor_basis": [
+          1,
+          9
+        ],
+        "must_fix": [],
+        "decision": "passed_on_frozen_final_png"
+      },
+      {
+        "page": 4,
+        "file": "page-04.png",
+        "current_source": "/workspace/generated_images/exec-976b2e4c-02c9-4537-bec5-fcfebfbfab84.png",
+        "sha256": "8314f71680669b24f512a86f8d7c6ac897b02ec6ce6958ce8f1ad8fbd2975ca7",
+        "actual_final_png_viewed": true,
+        "full_page_reviewer": "/root/ep8_visual_qa",
+        "review_basis": "用户三张原设、第七话校正版、本文件角色标准及第八话原作情境；命名全页审阅者逐页实看并回看所有局修。",
+        "visible_character_identity": "passed",
+        "approved_campus_outfits_and_adult_proportions": "passed_where_visible",
+        "glove_and_wrist_sides": "passed_where_visible",
+        "scene_expression": "passed_with_source_fatigue_blue_under_eye_shadows_and_brief_smiles_allowed",
+        "visibility_qualification": "只对可见范围作身份判断；闭眼、背面、未出镜与裁切不凭空补画。全页最终结论由ep8_visual_qa真实逐张检查，本审查代理不冒称亲看全部16页。",
+        "character_auditor_personally_viewed_this_final_png": false,
+        "identity_anchor_basis": [
+          1,
+          9
+        ],
+        "must_fix": [],
+        "decision": "passed_on_frozen_final_png"
+      },
+      {
+        "page": 5,
+        "file": "page-05.png",
+        "current_source": "/workspace/generated_images/exec-06b567d6-b7af-4421-b7f6-dc1ffee3ab44.png",
+        "sha256": "9d845d9cf198849da2e7003d4a8d6f434f154f4f8c69815fc955491723c8db3c",
+        "actual_final_png_viewed": true,
+        "full_page_reviewer": "/root/ep8_visual_qa",
+        "review_basis": "用户三张原设、第七话校正版、本文件角色标准及第八话原作情境；命名全页审阅者逐页实看并回看所有局修。",
+        "visible_character_identity": "passed",
+        "approved_campus_outfits_and_adult_proportions": "passed_where_visible",
+        "glove_and_wrist_sides": "passed_where_visible",
+        "scene_expression": "passed_with_source_fatigue_blue_under_eye_shadows_and_brief_smiles_allowed",
+        "visibility_qualification": "只对可见范围作身份判断；闭眼、背面、未出镜与裁切不凭空补画。全页最终结论由ep8_visual_qa真实逐张检查，本审查代理不冒称亲看全部16页。",
+        "character_auditor_personally_viewed_this_final_png": false,
+        "identity_anchor_basis": [
+          1,
+          9
+        ],
+        "must_fix": [],
+        "decision": "passed_on_frozen_final_png"
+      },
+      {
+        "page": 6,
+        "file": "page-06.png",
+        "current_source": "/workspace/generated_images/exec-493f57b9-3319-487f-8525-0ca2805b6fa1.png",
+        "sha256": "d26b3045b94fe1975fd5dc545acf716a03dcf6ed04be20133537c2e34a4e942f",
+        "actual_final_png_viewed": true,
+        "full_page_reviewer": "/root/ep8_visual_qa",
+        "review_basis": "用户三张原设、第七话校正版、本文件角色标准及第八话原作情境；命名全页审阅者逐页实看并回看所有局修。",
+        "visible_character_identity": "passed",
+        "approved_campus_outfits_and_adult_proportions": "passed_where_visible",
+        "glove_and_wrist_sides": "passed_where_visible",
+        "scene_expression": "passed_with_source_fatigue_blue_under_eye_shadows_and_brief_smiles_allowed",
+        "visibility_qualification": "只对可见范围作身份判断；闭眼、背面、未出镜与裁切不凭空补画。全页最终结论由ep8_visual_qa真实逐张检查，本审查代理不冒称亲看全部16页。",
+        "character_auditor_personally_viewed_this_final_png": false,
+        "identity_anchor_basis": [
+          1,
+          9
+        ],
+        "must_fix": [],
+        "decision": "passed_on_frozen_final_png"
+      },
+      {
+        "page": 7,
+        "file": "page-07.png",
+        "current_source": "/workspace/generated_images/exec-452f10a1-9445-4d1a-bf01-1b3d58ef6f37.png",
+        "sha256": "ddc60f3fd95319628e5073a936ca29a0546eed1aebbdc9f23c8b7349337c1e92",
+        "actual_final_png_viewed": true,
+        "full_page_reviewer": "/root/ep8_visual_qa",
+        "review_basis": "用户三张原设、第七话校正版、本文件角色标准及第八话原作情境；命名全页审阅者逐页实看并回看所有局修。",
+        "visible_character_identity": "passed",
+        "approved_campus_outfits_and_adult_proportions": "passed_where_visible",
+        "glove_and_wrist_sides": "passed_where_visible",
+        "scene_expression": "passed_with_source_fatigue_blue_under_eye_shadows_and_brief_smiles_allowed",
+        "visibility_qualification": "只对可见范围作身份判断；闭眼、背面、未出镜与裁切不凭空补画。全页最终结论由ep8_visual_qa真实逐张检查，本审查代理不冒称亲看全部16页。",
+        "character_auditor_personally_viewed_this_final_png": false,
+        "identity_anchor_basis": [
+          1,
+          9
+        ],
+        "must_fix": [],
+        "decision": "passed_on_frozen_final_png"
+      },
+      {
+        "page": 8,
+        "file": "page-08.png",
+        "current_source": "/workspace/generated_images/exec-5dbf7a00-0984-4880-8492-f10531bebca5.png",
+        "sha256": "f19c3cf56500b5d6c9d68c6a823bc734063215d82b1ed4ff3a872feb93cdeee3",
+        "actual_final_png_viewed": true,
+        "full_page_reviewer": "/root/ep8_visual_qa",
+        "review_basis": "用户三张原设、第七话校正版、本文件角色标准及第八话原作情境；命名全页审阅者逐页实看并回看所有局修。",
+        "visible_character_identity": "passed",
+        "approved_campus_outfits_and_adult_proportions": "passed_where_visible",
+        "glove_and_wrist_sides": "passed_where_visible",
+        "scene_expression": "passed_with_source_fatigue_blue_under_eye_shadows_and_brief_smiles_allowed",
+        "visibility_qualification": "只对可见范围作身份判断；闭眼、背面、未出镜与裁切不凭空补画。全页最终结论由ep8_visual_qa真实逐张检查，本审查代理不冒称亲看全部16页。",
+        "character_auditor_personally_viewed_this_final_png": false,
+        "identity_anchor_basis": [
+          1,
+          9
+        ],
+        "must_fix": [],
+        "decision": "passed_on_frozen_final_png"
+      },
+      {
+        "page": 9,
+        "file": "page-09.png",
+        "current_source": "/workspace/generated_images/exec-55def7c8-df95-4de8-8392-5af4e8daa80c.png",
+        "sha256": "a7d85886362a3970302c39a4b7c725df22cfbe939f56153b2b99ad5414f54c9d",
+        "actual_final_png_viewed": true,
+        "full_page_reviewer": "/root/ep8_visual_qa",
+        "review_basis": "用户三张原设、第七话校正版、本文件角色标准及第八话原作情境；命名全页审阅者逐页实看并回看所有局修。",
+        "visible_character_identity": "passed",
+        "approved_campus_outfits_and_adult_proportions": "passed_where_visible",
+        "glove_and_wrist_sides": "passed_where_visible",
+        "scene_expression": "passed_with_source_fatigue_blue_under_eye_shadows_and_brief_smiles_allowed",
+        "visibility_qualification": "只对可见范围作身份判断；闭眼、背面、未出镜与裁切不凭空补画。全页最终结论由ep8_visual_qa真实逐张检查，本审查代理不冒称亲看全部16页。",
+        "character_auditor_personally_viewed_this_final_png": true,
+        "identity_anchor_basis": [
+          1,
+          9
+        ],
+        "must_fix": [],
+        "decision": "passed_on_frozen_final_png"
+      },
+      {
+        "page": 10,
+        "file": "page-10.png",
+        "current_source": "/workspace/generated_images/exec-7fc60ce0-6f8b-45b3-a16f-44378aaf1869.png",
+        "sha256": "5788e83a33f1a427ece069f38193aff76c55637e9a3bbf027fa988e615f44770",
+        "actual_final_png_viewed": true,
+        "full_page_reviewer": "/root/ep8_visual_qa",
+        "review_basis": "用户三张原设、第七话校正版、本文件角色标准及第八话原作情境；命名全页审阅者逐页实看并回看所有局修。",
+        "visible_character_identity": "passed",
+        "approved_campus_outfits_and_adult_proportions": "passed_where_visible",
+        "glove_and_wrist_sides": "passed_where_visible",
+        "scene_expression": "passed_with_source_fatigue_blue_under_eye_shadows_and_brief_smiles_allowed",
+        "visibility_qualification": "只对可见范围作身份判断；闭眼、背面、未出镜与裁切不凭空补画。全页最终结论由ep8_visual_qa真实逐张检查，本审查代理不冒称亲看全部16页。",
+        "character_auditor_personally_viewed_this_final_png": false,
+        "identity_anchor_basis": [
+          1,
+          9
+        ],
+        "must_fix": [],
+        "decision": "passed_on_frozen_final_png"
+      },
+      {
+        "page": 11,
+        "file": "page-11.png",
+        "current_source": "/workspace/generated_images/exec-fb701dda-f470-4100-9b5a-82eb637a60c9.png",
+        "sha256": "07557167096680e3570f825655ccea46c1cac3086eb6e81f5b2269573f5bdb01",
+        "actual_final_png_viewed": true,
+        "full_page_reviewer": "/root/ep8_visual_qa",
+        "review_basis": "用户三张原设、第七话校正版、本文件角色标准及第八话原作情境；命名全页审阅者逐页实看并回看所有局修。",
+        "visible_character_identity": "passed",
+        "approved_campus_outfits_and_adult_proportions": "passed_where_visible",
+        "glove_and_wrist_sides": "passed_where_visible",
+        "scene_expression": "passed_with_source_fatigue_blue_under_eye_shadows_and_brief_smiles_allowed",
+        "visibility_qualification": "只对可见范围作身份判断；闭眼、背面、未出镜与裁切不凭空补画。全页最终结论由ep8_visual_qa真实逐张检查，本审查代理不冒称亲看全部16页。",
+        "character_auditor_personally_viewed_this_final_png": false,
+        "identity_anchor_basis": [
+          1,
+          9
+        ],
+        "must_fix": [],
+        "decision": "passed_on_frozen_final_png"
+      },
+      {
+        "page": 12,
+        "file": "page-12.png",
+        "current_source": "/workspace/generated_images/exec-1e58b429-7126-43c1-be7b-993d574139ca.png",
+        "sha256": "fa8aa9e37d1f72b93179edffdf0c2b26920a1c368ab4c8689b7c9531dc494464",
+        "actual_final_png_viewed": true,
+        "full_page_reviewer": "/root/ep8_visual_qa",
+        "review_basis": "用户三张原设、第七话校正版、本文件角色标准及第八话原作情境；命名全页审阅者逐页实看并回看所有局修。",
+        "visible_character_identity": "passed",
+        "approved_campus_outfits_and_adult_proportions": "passed_where_visible",
+        "glove_and_wrist_sides": "passed_where_visible",
+        "scene_expression": "passed_with_source_fatigue_blue_under_eye_shadows_and_brief_smiles_allowed",
+        "visibility_qualification": "只对可见范围作身份判断；闭眼、背面、未出镜与裁切不凭空补画。全页最终结论由ep8_visual_qa真实逐张检查，本审查代理不冒称亲看全部16页。",
+        "character_auditor_personally_viewed_this_final_png": false,
+        "identity_anchor_basis": [
+          1,
+          9
+        ],
+        "must_fix": [],
+        "decision": "passed_on_frozen_final_png"
+      },
+      {
+        "page": 13,
+        "file": "page-13.png",
+        "current_source": "/workspace/generated_images/exec-02838fc3-f843-4740-9e9d-38583a2a1058.png",
+        "sha256": "bc32d27b5bd4c3a58836860dd519640c48cfcf7ab0b402f2d93acc6bb7b42bc1",
+        "actual_final_png_viewed": true,
+        "full_page_reviewer": "/root/ep8_visual_qa",
+        "review_basis": "用户三张原设、第七话校正版、本文件角色标准及第八话原作情境；命名全页审阅者逐页实看并回看所有局修。",
+        "visible_character_identity": "passed",
+        "approved_campus_outfits_and_adult_proportions": "passed_where_visible",
+        "glove_and_wrist_sides": "passed_where_visible",
+        "scene_expression": "passed_with_source_fatigue_blue_under_eye_shadows_and_brief_smiles_allowed",
+        "visibility_qualification": "只对可见范围作身份判断；闭眼、背面、未出镜与裁切不凭空补画。全页最终结论由ep8_visual_qa真实逐张检查，本审查代理不冒称亲看全部16页。",
+        "character_auditor_personally_viewed_this_final_png": false,
+        "identity_anchor_basis": [
+          1,
+          9
+        ],
+        "must_fix": [],
+        "decision": "passed_on_frozen_final_png"
+      },
+      {
+        "page": 14,
+        "file": "page-14.png",
+        "current_source": "/workspace/generated_images/exec-796a9d39-f5b9-429f-91f3-0b0eca2ceed8.png",
+        "sha256": "451e2712246face0bb5c242f03c5a62ec88e9896edec7788488d670605a8c0f8",
+        "actual_final_png_viewed": true,
+        "full_page_reviewer": "/root/ep8_visual_qa",
+        "review_basis": "用户三张原设、第七话校正版、本文件角色标准及第八话原作情境；命名全页审阅者逐页实看并回看所有局修。",
+        "visible_character_identity": "passed",
+        "approved_campus_outfits_and_adult_proportions": "passed_where_visible",
+        "glove_and_wrist_sides": "passed_where_visible",
+        "scene_expression": "passed_with_source_fatigue_blue_under_eye_shadows_and_brief_smiles_allowed",
+        "visibility_qualification": "只对可见范围作身份判断；闭眼、背面、未出镜与裁切不凭空补画。全页最终结论由ep8_visual_qa真实逐张检查，本审查代理不冒称亲看全部16页。",
+        "character_auditor_personally_viewed_this_final_png": false,
+        "identity_anchor_basis": [
+          1,
+          9
+        ],
+        "must_fix": [],
+        "decision": "passed_on_frozen_final_png"
+      },
+      {
+        "page": 15,
+        "file": "page-15.png",
+        "current_source": "/workspace/generated_images/exec-dd1cbbfa-ba5a-412e-b975-d2a68bb2e014.png",
+        "sha256": "9622e3696a6ef017f3c7228f004b65ccff9e5aca65369962551e7467a81f993c",
+        "actual_final_png_viewed": true,
+        "full_page_reviewer": "/root/ep8_visual_qa",
+        "review_basis": "用户三张原设、第七话校正版、本文件角色标准及第八话原作情境；命名全页审阅者逐页实看并回看所有局修。",
+        "visible_character_identity": "passed",
+        "approved_campus_outfits_and_adult_proportions": "passed_where_visible",
+        "glove_and_wrist_sides": "passed_where_visible",
+        "scene_expression": "passed_with_source_fatigue_blue_under_eye_shadows_and_brief_smiles_allowed",
+        "visibility_qualification": "只对可见范围作身份判断；闭眼、背面、未出镜与裁切不凭空补画。全页最终结论由ep8_visual_qa真实逐张检查，本审查代理不冒称亲看全部16页。",
+        "character_auditor_personally_viewed_this_final_png": false,
+        "identity_anchor_basis": [
+          1,
+          9
+        ],
+        "must_fix": [],
+        "decision": "passed_on_frozen_final_png"
+      },
+      {
+        "page": 16,
+        "file": "page-16.png",
+        "current_source": "/workspace/generated_images/exec-0432f5d8-d943-49cb-8a94-2544d54305b2.png",
+        "sha256": "34aebd4ac9d31020d7dd1847b143314868e3d23da00ff93d6b19823096bfb4a3",
+        "actual_final_png_viewed": true,
+        "full_page_reviewer": "/root/ep8_visual_qa",
+        "review_basis": "用户三张原设、第七话校正版、本文件角色标准及第八话原作情境；命名全页审阅者逐页实看并回看所有局修。",
+        "visible_character_identity": "passed",
+        "approved_campus_outfits_and_adult_proportions": "passed_where_visible",
+        "glove_and_wrist_sides": "passed_where_visible",
+        "scene_expression": "passed_with_source_fatigue_blue_under_eye_shadows_and_brief_smiles_allowed",
+        "visibility_qualification": "只对可见范围作身份判断；闭眼、背面、未出镜与裁切不凭空补画。全页最终结论由ep8_visual_qa真实逐张检查，本审查代理不冒称亲看全部16页。",
+        "character_auditor_personally_viewed_this_final_png": false,
+        "identity_anchor_basis": [
+          1,
+          9
+        ],
+        "must_fix": [],
+        "decision": "passed_on_frozen_final_png",
+        "reviewer_specific_note": "ep8_visual_qa报告已通过原像素只读分析确认末页制度编写姓名为上短乂+下长乂的正确爻字，不是交；此为命名全页审阅者的核查结论，不冒称角色审查代理亲看该页。"
+      }
+    ],
+    "final_status": "completed_and_frozen",
+    "artist_records_locked": true,
+    "current_source_records_match_final_png": true,
+    "character_identity_correction_sustained": true,
+    "remaining_must_fix": [],
+    "review_claim_policy": "本角色审查代理实际查看三张用户原设、第七话最终01/09/16与第八话01/09初稿及局修版。全16页最终整页审阅者为ep8_visual_qa；终表依据其真实结论和冻结PNG SHA登记，不把仅身份放行当作全页通过，不冒称本代理亲看全部16页。",
+    "final_qa_confirmation": "ep8_visual_qa明确确认01-16全部实际打开，所有局修版本均整页复看通过；A与B随后分别锁定前后8条当前source/sha与最终PNG，无剩余必改。"
+  },
+  "in_package_original_references": [
+    {
+      "original_id": "original_feiying",
+      "package_file": "参考/绯英原设.jpg",
+      "sha256": "8ec0576d31814a4f0d54c067b4375b25f5510671823c4d41706cc33b55a346da",
+      "original_bytes_preserved": true,
+      "copy_verification_state": "verified_equal_at_final_freeze"
+    },
+    {
+      "original_id": "original_yaoguang_close",
+      "package_file": "参考/爻光原设近景.jpg",
+      "sha256": "1c14724f3bd1ab2f0bbef92ca17250015f810b00d6ed8c72d86e564c2b51c82e",
+      "original_bytes_preserved": true,
+      "copy_verification_state": "verified_equal_at_final_freeze"
+    },
+    {
+      "original_id": "original_yaoguang_full",
+      "package_file": "参考/爻光原设全身.jpg",
+      "sha256": "8222e86042d6637460243ee623098453319f1e679fa64605095ecf0b6d795313",
+      "original_bytes_preserved": true,
+      "copy_verification_state": "verified_equal_at_final_freeze"
+    }
+  ],
+  "per_page_qa_fields": {
+    "actual_final_png_viewed": "命名的full_page_reviewer确实打开并最终检查了该SHA的完整PNG；不表示角色审查代理亲看全部16页。",
+    "character_auditor_personally_viewed_this_final_png": "只在本代理亲自打开本话此页、且SHA与最终冻结版本完全相同时为true；实际锚点页码逐项登记，不冒称亲看全部16页。",
+    "passed_where_visible": "可见范围通过，闭眼/裁切/未出镜不自动视为缺失",
+    "sha256": "最终冻结PNG的完整文件SHA-256，非初稿或历史列表的最后一项推断"
+  },
+  "prior_episode_character_review_document": {
+    "workspace_path": "/workspace/绯色难测_第七话/角色核对.json",
+    "sha256": "aff37c84d8df4fcc24293d3d7dc105bbee5284d6679c6b24ebbf61e204127c5c",
+    "actual_read_completed": true,
+    "usage": "历史漂移与第七话已校正记录；characters里的第六话漂移引用来自该历史文件，不冒称本轮重新打开第六话图。",
+    "archive_execution_dependency": false
+  }
+}
