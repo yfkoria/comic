@@ -1,0 +1,210 @@
+{
+  "checked_at": "2026-11-02T17:04:42.506924+00:00",
+  "expected_pages": 16,
+  "actual_pages": 16,
+  "storyboard_panels": 72,
+  "all_decode_ok": true,
+  "duplicate_pages": false,
+  "pdf_pages": 16,
+  "pdf_rendered_pixels_match_sources": true,
+  "pdf_bytes": 58613981,
+  "pdf_sha256": "245e8be857d06ec2607146726530ab7604d3c23163827e1f53600708f996e7e0",
+  "images": [
+    {
+      "page": 1,
+      "file": "page-01.png",
+      "bytes": 2813023,
+      "resolution": [
+        1024,
+        1536
+      ],
+      "sha256": "444798bca0cea7c10a5ec67842665a17b019b69a709f8d2ebd7e19b9993b25cf",
+      "decode": "ok",
+      "decoded_rgb_sha256": "07532cd263580f722d78121db363126a7a12c81425bcb3e76913abbdb259fec6"
+    },
+    {
+      "page": 2,
+      "file": "page-02.png",
+      "bytes": 2690927,
+      "resolution": [
+        1024,
+        1536
+      ],
+      "sha256": "ff3946acc9b7e3688238144c32e9c4d30f3b99d1105d41f29ebf3abeabcc5f7a",
+      "decode": "ok",
+      "decoded_rgb_sha256": "9ff904f13790f9513bd6b0c99677d0830c201ce1281e9693bb163253f6f429ff"
+    },
+    {
+      "page": 3,
+      "file": "page-03.png",
+      "bytes": 2540103,
+      "resolution": [
+        1024,
+        1536
+      ],
+      "sha256": "afcedc05952d4d5c4a3bf56193633f2234dd57ef3a0f1598473f0f205a57c35a",
+      "decode": "ok",
+      "decoded_rgb_sha256": "826ee7f5de450cef9d65a3673b62c0744778af72abc10f00622a57cce1ca59b3"
+    },
+    {
+      "page": 4,
+      "file": "page-04.png",
+      "bytes": 2635538,
+      "resolution": [
+        1024,
+        1536
+      ],
+      "sha256": "d98d213f43c1192ddad9a86cd0097786641ac4c178030f60fd7baaa2183fb7d3",
+      "decode": "ok",
+      "decoded_rgb_sha256": "abdc54c5625a853870957b2f4798b73c7446ea7879ac63b11fd126dffe82977a"
+    },
+    {
+      "page": 5,
+      "file": "page-05.png",
+      "bytes": 2660614,
+      "resolution": [
+        1024,
+        1536
+      ],
+      "sha256": "6c24c1a7501bbb452816496a409785b6db2611cac6467dcec7942b6f881a8e5a",
+      "decode": "ok",
+      "decoded_rgb_sha256": "d2d492cc5d1499cfd32abec68ba0a6260774c9718db339340b3f5cd124b18a70"
+    },
+    {
+      "page": 6,
+      "file": "page-06.png",
+      "bytes": 2554628,
+      "resolution": [
+        1024,
+        1536
+      ],
+      "sha256": "fcf2a682b6f27c8b89e7e58113be62703969bef1a63f3d436561650ca8bf72d7",
+      "decode": "ok",
+      "decoded_rgb_sha256": "bb9dbaddb29d04892dd01c886b572f8f866beb8ca8fadf5053bc8e0ea43bdab0"
+    },
+    {
+      "page": 7,
+      "file": "page-07.png",
+      "bytes": 2565521,
+      "resolution": [
+        1024,
+        1536
+      ],
+      "sha256": "c2c16821ff73e0710681b2dcb4ac5e500b6c3758604e9ca7c553187b074a6674",
+      "decode": "ok",
+      "decoded_rgb_sha256": "f1b886ec9964afe5a07f7746891f5345bc9d9c4014801cf896078ddcd727f88d"
+    },
+    {
+      "page": 8,
+      "file": "page-08.png",
+      "bytes": 2727697,
+      "resolution": [
+        1024,
+        1536
+      ],
+      "sha256": "f292dbd522543bc795d05ef2e29ab65fb1a91280e25d49dad8efbe3685045c29",
+      "decode": "ok",
+      "decoded_rgb_sha256": "aca1dfa820f4ea4e194369abdb3d200a901dda767edcff9ff1e59891497e4344"
+    },
+    {
+      "page": 9,
+      "file": "page-09.png",
+      "bytes": 2485330,
+      "resolution": [
+        1024,
+        1536
+      ],
+      "sha256": "45ecb187a89dc3570c4cb4a455f74f807cfb7ca88c4e864659c7681319166424",
+      "decode": "ok",
+      "decoded_rgb_sha256": "4954f6aaa468b34b2bf75b63b07e4a39b4f57534c988d05569fc6d35746b2e9c"
+    },
+    {
+      "page": 10,
+      "file": "page-10.png",
+      "bytes": 2550699,
+      "resolution": [
+        1024,
+        1536
+      ],
+      "sha256": "15f8bbdb973c0f6dd13a121018a5e534407948db4d779e39e59eafe6d6e47cac",
+      "decode": "ok",
+      "decoded_rgb_sha256": "4ba18ed3cb2d8c1cfe0ff44c0d0bd6b5bcc2b8e71e952f527d8a56bf1a874a7a"
+    },
+    {
+      "page": 11,
+      "file": "page-11.png",
+      "bytes": 2724451,
+      "resolution": [
+        1024,
+        1536
+      ],
+      "sha256": "931d11642182e6c6a8a19aa2ad0d5407e5733a23f2376be37812896599569135",
+      "decode": "ok",
+      "decoded_rgb_sha256": "2805f413b059e31ba6a41699aee8839dd54b2b6990a48445fcc971dc70a5a578"
+    },
+    {
+      "page": 12,
+      "file": "page-12.png",
+      "bytes": 2672528,
+      "resolution": [
+        1024,
+        1536
+      ],
+      "sha256": "a8e54aea31baf2423602362c00449a12501c8f6306a47bbc2b04e40aafe25eee",
+      "decode": "ok",
+      "decoded_rgb_sha256": "49c8ccbd1b87c681a631e9f2a1b4cb5dbf44ff78fb6c6acf73c56eb75677578d"
+    },
+    {
+      "page": 13,
+      "file": "page-13.png",
+      "bytes": 2837916,
+      "resolution": [
+        1024,
+        1536
+      ],
+      "sha256": "797ac36d4619eecaa32b0bef610284ae31b95dda9fa0a50e7a535537f603c4b2",
+      "decode": "ok",
+      "decoded_rgb_sha256": "a57c08d0fbe684a2522102c4cc564216c76f2bf83a5bd653e73f1f9c2440a296"
+    },
+    {
+      "page": 14,
+      "file": "page-14.png",
+      "bytes": 2657027,
+      "resolution": [
+        1024,
+        1536
+      ],
+      "sha256": "123f8f48c45c730cd70e9cf361f0a23b61bfec55325eee457f5e7d2d024a99e3",
+      "decode": "ok",
+      "decoded_rgb_sha256": "5f637692aca375343760ab4c41d65dbdaf73e716e355109b643c3b0f4e4d88df"
+    },
+    {
+      "page": 15,
+      "file": "page-15.png",
+      "bytes": 2533317,
+      "resolution": [
+        1024,
+        1536
+      ],
+      "sha256": "6e3d936643873f65ea1de88c3cd9e61787154db9c2a91f6b94e2382b83f1002a",
+      "decode": "ok",
+      "decoded_rgb_sha256": "caf3256d2e9ba059a2723dda92e4cb0f06ee2464617c9e95583f77b9b9898882"
+    },
+    {
+      "page": 16,
+      "file": "page-16.png",
+      "bytes": 2500805,
+      "resolution": [
+        1024,
+        1536
+      ],
+      "sha256": "9b5beecad83c7530bbe932235c2abd3530d7f65e3d1a4de1339c00f775386e2c",
+      "decode": "ok",
+      "decoded_rgb_sha256": "e140f55e0a92e54efced23cc98edf8932108877d294e493cea810169e2b9399a"
+    }
+  ],
+  "package_includes_pdf": false,
+  "markdown_relative_links_checked": 21,
+  "prompt_reference_links_checked": 46,
+  "markdown_and_prompt_references_in_package": true
+}

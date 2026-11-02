@@ -1,0 +1,528 @@
+[
+  {
+    "page": 1,
+    "title": "旧地图上的红叉",
+    "layout": "5格：到场；茶桌座向；旧图；旧事；调整人流。",
+    "panels": [
+      [
+        "校长室门边，绯英抱薄资料进来，景元的银灰长发和茶桌在内；秋光。",
+        "标题：第六话·朱批。绯英：我资历浅——"
+      ],
+      [
+        "从景元一侧看两把客椅，爻光已经坐在画面左边，右边空椅有一杯倒好的茶，绯英正坐下。景元将旧地图摊开，打断客套。",
+        "无对白，茶已倒好。"
+      ],
+      [
+        "旧校园祭典地图局部俯视，简化路线与节点，清晰总标“18个关卡”，恰好三个红叉标出堵点；不用强画满18个编号。",
+        "图签：幻月祭·旧图。总标：18个关卡。"
+      ],
+      [
+        "景元指向一处红叉，不是发生在当下的拥挤事故；两位教师侧面听。",
+        "景元：三年前这里堵过人。教导处只认通关册，社团联只认新地图。谁都没错，走廊里谁都出不去。"
+      ],
+      [
+        "爻光左手压平地图，左腕玉镯；右手空腕持合拢折扇指向狭窄转角。",
+        "爻光：今年保留原图，调整人流。"
+      ]
+    ],
+    "source": "卷一第六章《朱批》",
+    "references": [
+      "参考/绯英校园版.png",
+      "参考/爻光已校正画稿.png",
+      "参考/景元与同事.png"
+    ],
+    "status": "已生成并通过独立视觉复核",
+    "prompt": "Create ONE finished full-colour Chinese sequential manga page for 《绯色难测》第六话《朱批》. Exact 1024×1536 portrait PNG, detailed clean 2D anime linework, rich soft cel shading, warm autumn Chinese school interiors, ivory gutters and thin black panel borders, matching the supplied FINAL approved comic pages. Reading top-to-bottom and LEFT TO RIGHT within a row. This is a finished narrative page, not a poster/reference sheet. EXACT panel count, no extra panels/text/watermark. Header “绯色难测 · 第六话”, correct two-digit footer. Only page01 includes title“朱批”, only page16 ends“第六话·完”. Large readable simplified Chinese, correct speaker tails. Do NOT print speaker labels or production instructions; only actual dialogue after role labels.\n\nCHARACTERS MUST MATCH: 绯英 Feiying is ADULT art teacher early thirties, pink fluffy layered short crown with long fine side strands, violet eyes, red bow/blossom clip. Berry-red cropped cardigan over ivory blouse, SEPARATE high-waist slate-navy A-line midi skirt, narrow taupe belt, charcoal tights, black loafers, small navy bag. NO pinafore, suspenders, apron, student uniform, animal ears/tail. Anatomical RIGHT hand WHITE FULL-FINGER glove, LEFT BLACK FINGERLESS glove with bare fingertips. Frontal white glove viewer LEFT/black glove viewer RIGHT. She writes/paints/eats using white RIGHT. Do not swap hands or make both gloves white.\n爻光 Yaoguang is ADULT grade director/maths teacher, silver-white long hair pale blue/lilac shadows, curved bangs/outward tufts, peacock-blue feather at RIGHT temple, iridescent violet/cyan/pale-gold eyes. Ivory blazer over white stand-collar below-knee dress, teal narrow belt, navy draped scarf LEFT shoulder, gray low heels. Both hands BARE. Jade bangle ONLY anatomical LEFT wrist; RIGHT WRIST COMPLETELY EMPTY, especially when writing or eating. Reference 已校正画稿 has correct hand placement. Set fan down before two-hand actions. Exactly TWO arms/TWO hands each. Name 爻 is U+723B four strokes (two diagonal crosses 乂 stacked); NEVER the wrong character 交. Prefer specified natural “主任” address; don't invent badges/extra names.\nPrincipal 景元: adult man, long silver-gray hair loosely tied, gold eyes, charcoal blazer over light-gray Chinese standing-collar shirt, calm tea-drinker. 银狼: HIGH-SCHOOL girl, silver-gray shoulder hair/violet tips, headphones, purple eyes, gray school jacket/white shirt/navy tie/navy below-knee skirt, games-sticker laptop/lollipop; not Qingque/child/teacher. Only specified people appear per page. References may show other scenes; do not import their students, coins, fox notes, screens, dialogue or headers into this episode.\n\nSPACE/PROPS: hallway frontal LEFT office301 Feiying/RIGHT302 Yaoguang. One shared INTERNAL wall with a single sliding paper vent, no extra grate on hallway wall. Principal tea table: Yaoguang left guest chair, Feiying right guest chair (view from Jingyuan). 302 worktable has clear guest chair, papers in center. Moon-palace is a festival PLAN/line drawing, not completed magical venue: Feiying's moon, gauze and outline stay intact, Yaoguang adds pencil diagonal braces/load points/machine location/EXIT arrows on tracing paper. A rabbit-shaped EXIT arrow is an ordinary drawing; nobody gains rabbit ears. Old broadcast-room scene07–08: green-painted door, new working lamp, Yaoguang gray dust LEFT cuff then tiny green mark LEFT shoulder; she does no exposed electrical work. After this another-day scene no stain required. Cafeteria13–14 FIXED frontal seat order FEIYING LEFT / YAOGUANG RIGHT, separate two meals, common white porcelain surface then ONE small white saucer centered. Two cilantro piles meet, then moved to small saucer with ONE spoon of peanut sauce beside. Hands never touch. No extra food portions/serving another's mouth. Under-desk coins/fifth-episode notebook are absent from this episode.\n\nPACING: follows weeks of shared school work, four nights→fifth day→second week→multiple later days→November. Festival is still being PREPARED, no opening/accident/romance declaration. Third episode already established false staff table restored and separate authorized work allocation; this episode confirms Yaoguang CHOSE to apply, not a first disclosure that allocation was legitimate. Preserve work competence and tiny pauses. No love hearts/romantic blush faces/heartbeat effects/confessions/hugging/intimate touch; only page14 allows VERY subtle warm ear tips as in original, not facial blushing. Page08 lifted hand stops short and moves bucket instead. Digital-stamp plan is administrative paper authorization, no real exploit code/passwords.\n\nTEXT/counts: map has clear label18个关卡 and exactly THREE red X marks, not necessarily18 tiny numbered nodes. Returned plan says27处修改 and 经费超支240% (overrun, NOT total budget240%). Crane plan label300只纸鹤, no need draw300 objects. Countdown “距幻月祭40天→39天” is days until festival, not current date. Card balance3.70. The small 乾 hexagram is EXACTLY SIX unbroken horizontal parallel strokes. Use no invented formulas/English labels. All quoted text accurate, speaker-labelled metadata NOT printed.\n\n\nPAGE 01 旧地图上的红叉. EXACTLY 5 panels. Layout: 5格：到场；茶桌座向；旧图；旧事；调整人流。\n\nPanel 1 picture: 校长室门边，绯英抱薄资料进来，景元的银灰长发和茶桌在内；秋光。\nIntended text (only dialogue, never role labels): 标题：第六话·朱批。绯英：我资历浅——\n\nPanel 2 picture: 从景元一侧看两把客椅，爻光已经坐在画面左边，右边空椅有一杯倒好的茶，绯英正坐下。景元将旧地图摊开，打断客套。\nIntended text (only dialogue, never role labels): 无对白，茶已倒好。\n\nPanel 3 picture: 旧校园祭典地图局部俯视，简化路线与节点，清晰总标“18个关卡”，恰好三个红叉标出堵点；不用强画满18个编号。\nIntended text (only dialogue, never role labels): 图签：幻月祭·旧图。总标：18个关卡。\n\nPanel 4 picture: 景元指向一处红叉，不是发生在当下的拥挤事故；两位教师侧面听。\nIntended text (only dialogue, never role labels): 景元：三年前这里堵过人。教导处只认通关册，社团联只认新地图。谁都没错，走廊里谁都出不去。\n\nPanel 5 picture: 爻光左手压平地图，左腕玉镯；右手空腕持合拢折扇指向狭窄转角。\nIntended text (only dialogue, never role labels): 爻光：今年保留原图，调整人流。\n\nFooter 01; preserve exactly 5 panels."
+  },
+  {
+    "page": 2,
+    "title": "画能走出来的",
+    "layout": "5格：问画什么；迷宫交锋；两份任命；各拿一份；走廊一停。",
+    "panels": [
+      [
+        "同一茶桌，绯英右座、爻光左座，地图在中间。以两人半身对话构图，保持普通工作距离。",
+        "绯英：那我画什么？爻光：画能走出来的。"
+      ],
+      [
+        "绯英斜看她，嘴角带工作上的挑战；爻光神情平静，无心形、脸红或亲密凝望。",
+        "绯英：主任连迷宫都要剥夺？爻光：可以迷路，不可以失踪。"
+      ],
+      [
+        "景元将恰好两份任命放在地图上，不改变已有工位安排。",
+        "文件标题：幻月祭·共同执祭负责人。"
+      ],
+      [
+        "绯英先拿一份，爻光拿另一份。两只茶杯仍有温热细气，动作分开不碰手。",
+        "旁白：茶杯还没凉，事情就定了。"
+      ],
+      [
+        "绯英已经走到校长室外走廊，背向门稍慢一步；爻光还在门内向景元问预算，不伸手挽留。",
+        "爻光画外：安全预算何时能批？无对白的停步。"
+      ]
+    ],
+    "source": "卷一第六章《朱批》",
+    "references": [
+      "参考/绯英校园版.png",
+      "参考/爻光已校正画稿.png",
+      "参考/景元与同事.png"
+    ],
+    "status": "已生成并通过独立视觉复核",
+    "prompt": "Create ONE finished full-colour Chinese sequential manga page for 《绯色难测》第六话《朱批》. Exact 1024×1536 portrait PNG, detailed clean 2D anime linework, rich soft cel shading, warm autumn Chinese school interiors, ivory gutters and thin black panel borders, matching the supplied FINAL approved comic pages. Reading top-to-bottom and LEFT TO RIGHT within a row. This is a finished narrative page, not a poster/reference sheet. EXACT panel count, no extra panels/text/watermark. Header “绯色难测 · 第六话”, correct two-digit footer. Only page01 includes title“朱批”, only page16 ends“第六话·完”. Large readable simplified Chinese, correct speaker tails. Do NOT print speaker labels or production instructions; only actual dialogue after role labels.\n\nCHARACTERS MUST MATCH: 绯英 Feiying is ADULT art teacher early thirties, pink fluffy layered short crown with long fine side strands, violet eyes, red bow/blossom clip. Berry-red cropped cardigan over ivory blouse, SEPARATE high-waist slate-navy A-line midi skirt, narrow taupe belt, charcoal tights, black loafers, small navy bag. NO pinafore, suspenders, apron, student uniform, animal ears/tail. Anatomical RIGHT hand WHITE FULL-FINGER glove, LEFT BLACK FINGERLESS glove with bare fingertips. Frontal white glove viewer LEFT/black glove viewer RIGHT. She writes/paints/eats using white RIGHT. Do not swap hands or make both gloves white.\n爻光 Yaoguang is ADULT grade director/maths teacher, silver-white long hair pale blue/lilac shadows, curved bangs/outward tufts, peacock-blue feather at RIGHT temple, iridescent violet/cyan/pale-gold eyes. Ivory blazer over white stand-collar below-knee dress, teal narrow belt, navy draped scarf LEFT shoulder, gray low heels. Both hands BARE. Jade bangle ONLY anatomical LEFT wrist; RIGHT WRIST COMPLETELY EMPTY, especially when writing or eating. Reference 已校正画稿 has correct hand placement. Set fan down before two-hand actions. Exactly TWO arms/TWO hands each. Name 爻 is U+723B four strokes (two diagonal crosses 乂 stacked); NEVER the wrong character 交. Prefer specified natural “主任” address; don't invent badges/extra names.\nPrincipal 景元: adult man, long silver-gray hair loosely tied, gold eyes, charcoal blazer over light-gray Chinese standing-collar shirt, calm tea-drinker. 银狼: HIGH-SCHOOL girl, silver-gray shoulder hair/violet tips, headphones, purple eyes, gray school jacket/white shirt/navy tie/navy below-knee skirt, games-sticker laptop/lollipop; not Qingque/child/teacher. Only specified people appear per page. References may show other scenes; do not import their students, coins, fox notes, screens, dialogue or headers into this episode.\n\nSPACE/PROPS: hallway frontal LEFT office301 Feiying/RIGHT302 Yaoguang. One shared INTERNAL wall with a single sliding paper vent, no extra grate on hallway wall. Principal tea table: Yaoguang left guest chair, Feiying right guest chair (view from Jingyuan). 302 worktable has clear guest chair, papers in center. Moon-palace is a festival PLAN/line drawing, not completed magical venue: Feiying's moon, gauze and outline stay intact, Yaoguang adds pencil diagonal braces/load points/machine location/EXIT arrows on tracing paper. A rabbit-shaped EXIT arrow is an ordinary drawing; nobody gains rabbit ears. Old broadcast-room scene07–08: green-painted door, new working lamp, Yaoguang gray dust LEFT cuff then tiny green mark LEFT shoulder; she does no exposed electrical work. After this another-day scene no stain required. Cafeteria13–14 FIXED frontal seat order FEIYING LEFT / YAOGUANG RIGHT, separate two meals, common white porcelain surface then ONE small white saucer centered. Two cilantro piles meet, then moved to small saucer with ONE spoon of peanut sauce beside. Hands never touch. No extra food portions/serving another's mouth. Under-desk coins/fifth-episode notebook are absent from this episode.\n\nPACING: follows weeks of shared school work, four nights→fifth day→second week→multiple later days→November. Festival is still being PREPARED, no opening/accident/romance declaration. Third episode already established false staff table restored and separate authorized work allocation; this episode confirms Yaoguang CHOSE to apply, not a first disclosure that allocation was legitimate. Preserve work competence and tiny pauses. No love hearts/romantic blush faces/heartbeat effects/confessions/hugging/intimate touch; only page14 allows VERY subtle warm ear tips as in original, not facial blushing. Page08 lifted hand stops short and moves bucket instead. Digital-stamp plan is administrative paper authorization, no real exploit code/passwords.\n\nTEXT/counts: map has clear label18个关卡 and exactly THREE red X marks, not necessarily18 tiny numbered nodes. Returned plan says27处修改 and 经费超支240% (overrun, NOT total budget240%). Crane plan label300只纸鹤, no need draw300 objects. Countdown “距幻月祭40天→39天” is days until festival, not current date. Card balance3.70. The small 乾 hexagram is EXACTLY SIX unbroken horizontal parallel strokes. Use no invented formulas/English labels. All quoted text accurate, speaker-labelled metadata NOT printed.\n\n\nPAGE 02 画能走出来的. EXACTLY 5 panels. Layout: 5格：问画什么；迷宫交锋；两份任命；各拿一份；走廊一停。\n\nPanel 1 picture: 同一茶桌，绯英右座、爻光左座，地图在中间。以两人半身对话构图，保持普通工作距离。\nIntended text (only dialogue, never role labels): 绯英：那我画什么？爻光：画能走出来的。\n\nPanel 2 picture: 绯英斜看她，嘴角带工作上的挑战；爻光神情平静，无心形、脸红或亲密凝望。\nIntended text (only dialogue, never role labels): 绯英：主任连迷宫都要剥夺？爻光：可以迷路，不可以失踪。\n\nPanel 3 picture: 景元将恰好两份任命放在地图上，不改变已有工位安排。\nIntended text (only dialogue, never role labels): 文件标题：幻月祭·共同执祭负责人。\n\nPanel 4 picture: 绯英先拿一份，爻光拿另一份。两只茶杯仍有温热细气，动作分开不碰手。\nIntended text (only dialogue, never role labels): 旁白：茶杯还没凉，事情就定了。\n\nPanel 5 picture: 绯英已经走到校长室外走廊，背向门稍慢一步；爻光还在门内向景元问预算，不伸手挽留。\nIntended text (only dialogue, never role labels): 爻光画外：安全预算何时能批？无对白的停步。\n\nFooter 02; preserve exactly 5 panels."
+  },
+  {
+    "page": 3,
+    "title": "二十七处",
+    "layout": "4格：四夜；第五天；红批；敲隔壁。",
+    "panels": [
+      [
+        "绯英301画桌的连续四个夜晚小蒙太奇放在同一大格内，台灯、草稿、月宫轮廓逐渐完整，不画四个同时存在的人。",
+        "字幕：第一版方案，花了四个晚上。"
+      ],
+      [
+        "第五天，退回的企划摊在桌上，红字批注密集，数量用醒目标注交代，月宫草图仍可见。",
+        "字幕：第五天。页眉批注：27处修改。"
+      ],
+      [
+        "一条清晰红字特写，纸边露绯英黑色露指左手，指尖收紧。",
+        "红批：经费超支240%。"
+      ],
+      [
+        "绯英抱图敲302门；廊前301左302右，爻光在办公室内订文件，先示意旁边一把空椅。",
+        "音效：叩、叩。无对白，先指椅子。"
+      ]
+    ],
+    "source": "卷一第六章《朱批》",
+    "references": [
+      "参考/绯英校园版.png",
+      "参考/爻光已校正画稿.png",
+      "参考/相邻办公室.png"
+    ],
+    "status": "已生成并通过独立视觉复核",
+    "prompt": "Create ONE finished full-colour Chinese sequential manga page for 《绯色难测》第六话《朱批》. Exact 1024×1536 portrait PNG, detailed clean 2D anime linework, rich soft cel shading, warm autumn Chinese school interiors, ivory gutters and thin black panel borders, matching the supplied FINAL approved comic pages. Reading top-to-bottom and LEFT TO RIGHT within a row. This is a finished narrative page, not a poster/reference sheet. EXACT panel count, no extra panels/text/watermark. Header “绯色难测 · 第六话”, correct two-digit footer. Only page01 includes title“朱批”, only page16 ends“第六话·完”. Large readable simplified Chinese, correct speaker tails. Do NOT print speaker labels or production instructions; only actual dialogue after role labels.\n\nCHARACTERS MUST MATCH: 绯英 Feiying is ADULT art teacher early thirties, pink fluffy layered short crown with long fine side strands, violet eyes, red bow/blossom clip. Berry-red cropped cardigan over ivory blouse, SEPARATE high-waist slate-navy A-line midi skirt, narrow taupe belt, charcoal tights, black loafers, small navy bag. NO pinafore, suspenders, apron, student uniform, animal ears/tail. Anatomical RIGHT hand WHITE FULL-FINGER glove, LEFT BLACK FINGERLESS glove with bare fingertips. Frontal white glove viewer LEFT/black glove viewer RIGHT. She writes/paints/eats using white RIGHT. Do not swap hands or make both gloves white.\n爻光 Yaoguang is ADULT grade director/maths teacher, silver-white long hair pale blue/lilac shadows, curved bangs/outward tufts, peacock-blue feather at RIGHT temple, iridescent violet/cyan/pale-gold eyes. Ivory blazer over white stand-collar below-knee dress, teal narrow belt, navy draped scarf LEFT shoulder, gray low heels. Both hands BARE. Jade bangle ONLY anatomical LEFT wrist; RIGHT WRIST COMPLETELY EMPTY, especially when writing or eating. Reference 已校正画稿 has correct hand placement. Set fan down before two-hand actions. Exactly TWO arms/TWO hands each. Name 爻 is U+723B four strokes (two diagonal crosses 乂 stacked); NEVER the wrong character 交. Prefer specified natural “主任” address; don't invent badges/extra names.\nPrincipal 景元: adult man, long silver-gray hair loosely tied, gold eyes, charcoal blazer over light-gray Chinese standing-collar shirt, calm tea-drinker. 银狼: HIGH-SCHOOL girl, silver-gray shoulder hair/violet tips, headphones, purple eyes, gray school jacket/white shirt/navy tie/navy below-knee skirt, games-sticker laptop/lollipop; not Qingque/child/teacher. Only specified people appear per page. References may show other scenes; do not import their students, coins, fox notes, screens, dialogue or headers into this episode.\n\nSPACE/PROPS: hallway frontal LEFT office301 Feiying/RIGHT302 Yaoguang. One shared INTERNAL wall with a single sliding paper vent, no extra grate on hallway wall. Principal tea table: Yaoguang left guest chair, Feiying right guest chair (view from Jingyuan). 302 worktable has clear guest chair, papers in center. Moon-palace is a festival PLAN/line drawing, not completed magical venue: Feiying's moon, gauze and outline stay intact, Yaoguang adds pencil diagonal braces/load points/machine location/EXIT arrows on tracing paper. A rabbit-shaped EXIT arrow is an ordinary drawing; nobody gains rabbit ears. Old broadcast-room scene07–08: green-painted door, new working lamp, Yaoguang gray dust LEFT cuff then tiny green mark LEFT shoulder; she does no exposed electrical work. After this another-day scene no stain required. Cafeteria13–14 FIXED frontal seat order FEIYING LEFT / YAOGUANG RIGHT, separate two meals, common white porcelain surface then ONE small white saucer centered. Two cilantro piles meet, then moved to small saucer with ONE spoon of peanut sauce beside. Hands never touch. No extra food portions/serving another's mouth. Under-desk coins/fifth-episode notebook are absent from this episode.\n\nPACING: follows weeks of shared school work, four nights→fifth day→second week→multiple later days→November. Festival is still being PREPARED, no opening/accident/romance declaration. Third episode already established false staff table restored and separate authorized work allocation; this episode confirms Yaoguang CHOSE to apply, not a first disclosure that allocation was legitimate. Preserve work competence and tiny pauses. No love hearts/romantic blush faces/heartbeat effects/confessions/hugging/intimate touch; only page14 allows VERY subtle warm ear tips as in original, not facial blushing. Page08 lifted hand stops short and moves bucket instead. Digital-stamp plan is administrative paper authorization, no real exploit code/passwords.\n\nTEXT/counts: map has clear label18个关卡 and exactly THREE red X marks, not necessarily18 tiny numbered nodes. Returned plan says27处修改 and 经费超支240% (overrun, NOT total budget240%). Crane plan label300只纸鹤, no need draw300 objects. Countdown “距幻月祭40天→39天” is days until festival, not current date. Card balance3.70. The small 乾 hexagram is EXACTLY SIX unbroken horizontal parallel strokes. Use no invented formulas/English labels. All quoted text accurate, speaker-labelled metadata NOT printed.\n\n\nPAGE 03 二十七处. EXACTLY 4 panels. Layout: 4格：四夜；第五天；红批；敲隔壁。\n\nPanel 1 picture: 绯英301画桌的连续四个夜晚小蒙太奇放在同一大格内，台灯、草稿、月宫轮廓逐渐完整，不画四个同时存在的人。\nIntended text (only dialogue, never role labels): 字幕：第一版方案，花了四个晚上。\n\nPanel 2 picture: 第五天，退回的企划摊在桌上，红字批注密集，数量用醒目标注交代，月宫草图仍可见。\nIntended text (only dialogue, never role labels): 字幕：第五天。页眉批注：27处修改。\n\nPanel 3 picture: 一条清晰红字特写，纸边露绯英黑色露指左手，指尖收紧。\nIntended text (only dialogue, never role labels): 红批：经费超支240%。\n\nPanel 4 picture: 绯英抱图敲302门；廊前301左302右，爻光在办公室内订文件，先示意旁边一把空椅。\nIntended text (only dialogue, never role labels): 音效：叩、叩。无对白，先指椅子。\n\nFooter 03; preserve exactly 4 panels."
+  },
+  {
+    "page": 4,
+    "title": "雾与纸鹤",
+    "layout": "5格：问雾；出口；往里放；人也走；纸鹤阻燃。",
+    "panels": [
+      [
+        "302桌前，绯英站在客椅旁，爻光坐在自己的工作侧。桌上红批本、月宫方案，订书机已放桌面。",
+        "绯英：月宫为什么不能放雾？"
+      ],
+      [
+        "爻光视线指向方案图上的出口，右手空腕拿笔或指图，左手可放画外，折扇收在桌侧。",
+        "爻光：逃生出口看不见。"
+      ],
+      [
+        "绯英拿纸局部月宫示意，不画真实烟雾遮住现室。",
+        "绯英：雾往里面放！"
+      ],
+      [
+        "爻光半身冷静回应，手腕不必特写。",
+        "爻光：人也往里面走。"
+      ],
+      [
+        "绯英翻到纸鹤效果页，只有少量纸鹤草图配大字数量；爻光的批注就两个字。",
+        "绯英：这个三百只纸鹤呢？纸鹤不挡出口。红批：阻燃。绯英：就两个字？"
+      ]
+    ],
+    "source": "卷一第六章《朱批》",
+    "references": [
+      "参考/绯英校园版.png",
+      "参考/爻光已校正画稿.png",
+      "参考/相邻办公室.png"
+    ],
+    "status": "已生成并通过独立视觉复核",
+    "prompt": "Create ONE finished full-colour Chinese sequential manga page for 《绯色难测》第六话《朱批》. Exact 1024×1536 portrait PNG, detailed clean 2D anime linework, rich soft cel shading, warm autumn Chinese school interiors, ivory gutters and thin black panel borders, matching the supplied FINAL approved comic pages. Reading top-to-bottom and LEFT TO RIGHT within a row. This is a finished narrative page, not a poster/reference sheet. EXACT panel count, no extra panels/text/watermark. Header “绯色难测 · 第六话”, correct two-digit footer. Only page01 includes title“朱批”, only page16 ends“第六话·完”. Large readable simplified Chinese, correct speaker tails. Do NOT print speaker labels or production instructions; only actual dialogue after role labels.\n\nCHARACTERS MUST MATCH: 绯英 Feiying is ADULT art teacher early thirties, pink fluffy layered short crown with long fine side strands, violet eyes, red bow/blossom clip. Berry-red cropped cardigan over ivory blouse, SEPARATE high-waist slate-navy A-line midi skirt, narrow taupe belt, charcoal tights, black loafers, small navy bag. NO pinafore, suspenders, apron, student uniform, animal ears/tail. Anatomical RIGHT hand WHITE FULL-FINGER glove, LEFT BLACK FINGERLESS glove with bare fingertips. Frontal white glove viewer LEFT/black glove viewer RIGHT. She writes/paints/eats using white RIGHT. Do not swap hands or make both gloves white.\n爻光 Yaoguang is ADULT grade director/maths teacher, silver-white long hair pale blue/lilac shadows, curved bangs/outward tufts, peacock-blue feather at RIGHT temple, iridescent violet/cyan/pale-gold eyes. Ivory blazer over white stand-collar below-knee dress, teal narrow belt, navy draped scarf LEFT shoulder, gray low heels. Both hands BARE. Jade bangle ONLY anatomical LEFT wrist; RIGHT WRIST COMPLETELY EMPTY, especially when writing or eating. Reference 已校正画稿 has correct hand placement. Set fan down before two-hand actions. Exactly TWO arms/TWO hands each. Name 爻 is U+723B four strokes (two diagonal crosses 乂 stacked); NEVER the wrong character 交. Prefer specified natural “主任” address; don't invent badges/extra names.\nPrincipal 景元: adult man, long silver-gray hair loosely tied, gold eyes, charcoal blazer over light-gray Chinese standing-collar shirt, calm tea-drinker. 银狼: HIGH-SCHOOL girl, silver-gray shoulder hair/violet tips, headphones, purple eyes, gray school jacket/white shirt/navy tie/navy below-knee skirt, games-sticker laptop/lollipop; not Qingque/child/teacher. Only specified people appear per page. References may show other scenes; do not import their students, coins, fox notes, screens, dialogue or headers into this episode.\n\nSPACE/PROPS: hallway frontal LEFT office301 Feiying/RIGHT302 Yaoguang. One shared INTERNAL wall with a single sliding paper vent, no extra grate on hallway wall. Principal tea table: Yaoguang left guest chair, Feiying right guest chair (view from Jingyuan). 302 worktable has clear guest chair, papers in center. Moon-palace is a festival PLAN/line drawing, not completed magical venue: Feiying's moon, gauze and outline stay intact, Yaoguang adds pencil diagonal braces/load points/machine location/EXIT arrows on tracing paper. A rabbit-shaped EXIT arrow is an ordinary drawing; nobody gains rabbit ears. Old broadcast-room scene07–08: green-painted door, new working lamp, Yaoguang gray dust LEFT cuff then tiny green mark LEFT shoulder; she does no exposed electrical work. After this another-day scene no stain required. Cafeteria13–14 FIXED frontal seat order FEIYING LEFT / YAOGUANG RIGHT, separate two meals, common white porcelain surface then ONE small white saucer centered. Two cilantro piles meet, then moved to small saucer with ONE spoon of peanut sauce beside. Hands never touch. No extra food portions/serving another's mouth. Under-desk coins/fifth-episode notebook are absent from this episode.\n\nPACING: follows weeks of shared school work, four nights→fifth day→second week→multiple later days→November. Festival is still being PREPARED, no opening/accident/romance declaration. Third episode already established false staff table restored and separate authorized work allocation; this episode confirms Yaoguang CHOSE to apply, not a first disclosure that allocation was legitimate. Preserve work competence and tiny pauses. No love hearts/romantic blush faces/heartbeat effects/confessions/hugging/intimate touch; only page14 allows VERY subtle warm ear tips as in original, not facial blushing. Page08 lifted hand stops short and moves bucket instead. Digital-stamp plan is administrative paper authorization, no real exploit code/passwords.\n\nTEXT/counts: map has clear label18个关卡 and exactly THREE red X marks, not necessarily18 tiny numbered nodes. Returned plan says27处修改 and 经费超支240% (overrun, NOT total budget240%). Crane plan label300只纸鹤, no need draw300 objects. Countdown “距幻月祭40天→39天” is days until festival, not current date. Card balance3.70. The small 乾 hexagram is EXACTLY SIX unbroken horizontal parallel strokes. Use no invented formulas/English labels. All quoted text accurate, speaker-labelled metadata NOT printed.\n\n\nPAGE 04 雾与纸鹤. EXACTLY 5 panels. Layout: 5格：问雾；出口；往里放；人也走；纸鹤阻燃。\n\nPanel 1 picture: 302桌前，绯英站在客椅旁，爻光坐在自己的工作侧。桌上红批本、月宫方案，订书机已放桌面。\nIntended text (only dialogue, never role labels): 绯英：月宫为什么不能放雾？\n\nPanel 2 picture: 爻光视线指向方案图上的出口，右手空腕拿笔或指图，左手可放画外，折扇收在桌侧。\nIntended text (only dialogue, never role labels): 爻光：逃生出口看不见。\n\nPanel 3 picture: 绯英拿纸局部月宫示意，不画真实烟雾遮住现室。\nIntended text (only dialogue, never role labels): 绯英：雾往里面放！\n\nPanel 4 picture: 爻光半身冷静回应，手腕不必特写。\nIntended text (only dialogue, never role labels): 爻光：人也往里面走。\n\nPanel 5 picture: 绯英翻到纸鹤效果页，只有少量纸鹤草图配大字数量；爻光的批注就两个字。\nIntended text (only dialogue, never role labels): 绯英：这个三百只纸鹤呢？纸鹤不挡出口。红批：阻燃。绯英：就两个字？\n\nFooter 04; preserve exactly 5 panels."
+  },
+  {
+    "page": 5,
+    "title": "月亮下面的铅笔线",
+    "layout": "5格：抽拷贝纸；重叠线条；透光；丑与承重；兔子箭头。",
+    "panels": [
+      [
+        "爻光抽出月宫方案下面一层半透明拷贝纸，折扇已经放下，两手自然：右腕空净，左腕唯一玉镯。",
+        "无对白，纸层展开。"
+      ],
+      [
+        "月宫原线稿与透明结构层重叠特写：绯英的月亮、纱幕和全部轮廓完整保留，下层添斜撑、承重点、雾机位置、出口箭头。不是把艺术方案全划掉。",
+        "图上短标：承重点／雾机位置／出口。旁白：月宫的线条，一笔没丢。"
+      ],
+      [
+        "绯英两手举起叠纸朝窗光看，左黑露指、右白全指。铅笔线浮在她画的月亮下。",
+        "无对白，让她发现对方保留了什么。"
+      ],
+      [
+        "上下半身对话留适当气泡，绯英看斜撑、爻光看图。",
+        "绯英：这么丑。爻光：承重。绯英：我用纱遮起来。爻光：不要遮消防标识。"
+      ],
+      [
+        "绯英坐下，指向方案上的兔子形箭头小草稿。爻光用裸右手递一支笔，右腕没有镯，不碰对方手；她用白右手接。",
+        "绯英：那给标识画个兔子箭头。"
+      ]
+    ],
+    "source": "卷一第六章《朱批》",
+    "references": [
+      "参考/绯英校园版.png",
+      "参考/爻光已校正画稿.png",
+      "参考/相邻办公室.png"
+    ],
+    "status": "已生成并通过独立视觉复核",
+    "prompt": "Create ONE finished full-colour Chinese sequential manga page for 《绯色难测》第六话《朱批》. Exact 1024×1536 portrait PNG, detailed clean 2D anime linework, rich soft cel shading, warm autumn Chinese school interiors, ivory gutters and thin black panel borders, matching the supplied FINAL approved comic pages. Reading top-to-bottom and LEFT TO RIGHT within a row. This is a finished narrative page, not a poster/reference sheet. EXACT panel count, no extra panels/text/watermark. Header “绯色难测 · 第六话”, correct two-digit footer. Only page01 includes title“朱批”, only page16 ends“第六话·完”. Large readable simplified Chinese, correct speaker tails. Do NOT print speaker labels or production instructions; only actual dialogue after role labels.\n\nCHARACTERS MUST MATCH: 绯英 Feiying is ADULT art teacher early thirties, pink fluffy layered short crown with long fine side strands, violet eyes, red bow/blossom clip. Berry-red cropped cardigan over ivory blouse, SEPARATE high-waist slate-navy A-line midi skirt, narrow taupe belt, charcoal tights, black loafers, small navy bag. NO pinafore, suspenders, apron, student uniform, animal ears/tail. Anatomical RIGHT hand WHITE FULL-FINGER glove, LEFT BLACK FINGERLESS glove with bare fingertips. Frontal white glove viewer LEFT/black glove viewer RIGHT. She writes/paints/eats using white RIGHT. Do not swap hands or make both gloves white.\n爻光 Yaoguang is ADULT grade director/maths teacher, silver-white long hair pale blue/lilac shadows, curved bangs/outward tufts, peacock-blue feather at RIGHT temple, iridescent violet/cyan/pale-gold eyes. Ivory blazer over white stand-collar below-knee dress, teal narrow belt, navy draped scarf LEFT shoulder, gray low heels. Both hands BARE. Jade bangle ONLY anatomical LEFT wrist; RIGHT WRIST COMPLETELY EMPTY, especially when writing or eating. Reference 已校正画稿 has correct hand placement. Set fan down before two-hand actions. Exactly TWO arms/TWO hands each. Name 爻 is U+723B four strokes (two diagonal crosses 乂 stacked); NEVER the wrong character 交. Prefer specified natural “主任” address; don't invent badges/extra names.\nPrincipal 景元: adult man, long silver-gray hair loosely tied, gold eyes, charcoal blazer over light-gray Chinese standing-collar shirt, calm tea-drinker. 银狼: HIGH-SCHOOL girl, silver-gray shoulder hair/violet tips, headphones, purple eyes, gray school jacket/white shirt/navy tie/navy below-knee skirt, games-sticker laptop/lollipop; not Qingque/child/teacher. Only specified people appear per page. References may show other scenes; do not import their students, coins, fox notes, screens, dialogue or headers into this episode.\n\nSPACE/PROPS: hallway frontal LEFT office301 Feiying/RIGHT302 Yaoguang. One shared INTERNAL wall with a single sliding paper vent, no extra grate on hallway wall. Principal tea table: Yaoguang left guest chair, Feiying right guest chair (view from Jingyuan). 302 worktable has clear guest chair, papers in center. Moon-palace is a festival PLAN/line drawing, not completed magical venue: Feiying's moon, gauze and outline stay intact, Yaoguang adds pencil diagonal braces/load points/machine location/EXIT arrows on tracing paper. A rabbit-shaped EXIT arrow is an ordinary drawing; nobody gains rabbit ears. Old broadcast-room scene07–08: green-painted door, new working lamp, Yaoguang gray dust LEFT cuff then tiny green mark LEFT shoulder; she does no exposed electrical work. After this another-day scene no stain required. Cafeteria13–14 FIXED frontal seat order FEIYING LEFT / YAOGUANG RIGHT, separate two meals, common white porcelain surface then ONE small white saucer centered. Two cilantro piles meet, then moved to small saucer with ONE spoon of peanut sauce beside. Hands never touch. No extra food portions/serving another's mouth. Under-desk coins/fifth-episode notebook are absent from this episode.\n\nPACING: follows weeks of shared school work, four nights→fifth day→second week→multiple later days→November. Festival is still being PREPARED, no opening/accident/romance declaration. Third episode already established false staff table restored and separate authorized work allocation; this episode confirms Yaoguang CHOSE to apply, not a first disclosure that allocation was legitimate. Preserve work competence and tiny pauses. No love hearts/romantic blush faces/heartbeat effects/confessions/hugging/intimate touch; only page14 allows VERY subtle warm ear tips as in original, not facial blushing. Page08 lifted hand stops short and moves bucket instead. Digital-stamp plan is administrative paper authorization, no real exploit code/passwords.\n\nTEXT/counts: map has clear label18个关卡 and exactly THREE red X marks, not necessarily18 tiny numbered nodes. Returned plan says27处修改 and 经费超支240% (overrun, NOT total budget240%). Crane plan label300只纸鹤, no need draw300 objects. Countdown “距幻月祭40天→39天” is days until festival, not current date. Card balance3.70. The small 乾 hexagram is EXACTLY SIX unbroken horizontal parallel strokes. Use no invented formulas/English labels. All quoted text accurate, speaker-labelled metadata NOT printed.\n\n\nPAGE 05 月亮下面的铅笔线. EXACTLY 5 panels. Layout: 5格：抽拷贝纸；重叠线条；透光；丑与承重；兔子箭头。\n\nPanel 1 picture: 爻光抽出月宫方案下面一层半透明拷贝纸，折扇已经放下，两手自然：右腕空净，左腕唯一玉镯。\nIntended text (only dialogue, never role labels): 无对白，纸层展开。\n\nPanel 2 picture: 月宫原线稿与透明结构层重叠特写：绯英的月亮、纱幕和全部轮廓完整保留，下层添斜撑、承重点、雾机位置、出口箭头。不是把艺术方案全划掉。\nIntended text (only dialogue, never role labels): 图上短标：承重点／雾机位置／出口。旁白：月宫的线条，一笔没丢。\n\nPanel 3 picture: 绯英两手举起叠纸朝窗光看，左黑露指、右白全指。铅笔线浮在她画的月亮下。\nIntended text (only dialogue, never role labels): 无对白，让她发现对方保留了什么。\n\nPanel 4 picture: 上下半身对话留适当气泡，绯英看斜撑、爻光看图。\nIntended text (only dialogue, never role labels): 绯英：这么丑。爻光：承重。绯英：我用纱遮起来。爻光：不要遮消防标识。\n\nPanel 5 picture: 绯英坐下，指向方案上的兔子形箭头小草稿。爻光用裸右手递一支笔，右腕没有镯，不碰对方手；她用白右手接。\nIntended text (only dialogue, never role labels): 绯英：那给标识画个兔子箭头。\n\nFooter 05; preserve exactly 5 panels."
+  },
+  {
+    "page": 6,
+    "title": "没有撕掉的那页",
+    "layout": "4格：改到夜；两次起念；红墨纸背；抚平。",
+    "panels": [
+      [
+        "从桌边看两位教师各自改图，窗外由晚色转深蓝夜景，月宫拷贝纸在中间；二人没有贴靠。",
+        "字幕：一直改到窗外都黑了。"
+      ],
+      [
+        "绯英拎起那张驳回页，手指停在纸边；用一小前后动作重影表示两次想撕的停顿，纸完整没有真的撕破。",
+        "旁白：两次想撕掉，最后都没撕。"
+      ],
+      [
+        "折过四次的驳回页翻到背面，红墨透纸，批注工整、尖利；不强求27条逐字可读，也不额外写情书。",
+        "旁白：问一句，就能找到一句答复。"
+      ],
+      [
+        "绯英用黑色露指左手裸露的指甲轻轻刮平皱角，白色全指右手压住另一端。纸仍是工作方案驳回页。",
+        "无对白，落在细小动作上。"
+      ]
+    ],
+    "source": "卷一第六章《朱批》",
+    "references": [
+      "参考/绯英校园版.png",
+      "参考/爻光已校正画稿.png",
+      "参考/相邻办公室.png"
+    ],
+    "status": "已生成并通过独立视觉复核",
+    "prompt": "Create ONE finished full-colour Chinese sequential manga page for 《绯色难测》第六话《朱批》. Exact 1024×1536 portrait PNG, detailed clean 2D anime linework, rich soft cel shading, warm autumn Chinese school interiors, ivory gutters and thin black panel borders, matching the supplied FINAL approved comic pages. Reading top-to-bottom and LEFT TO RIGHT within a row. This is a finished narrative page, not a poster/reference sheet. EXACT panel count, no extra panels/text/watermark. Header “绯色难测 · 第六话”, correct two-digit footer. Only page01 includes title“朱批”, only page16 ends“第六话·完”. Large readable simplified Chinese, correct speaker tails. Do NOT print speaker labels or production instructions; only actual dialogue after role labels.\n\nCHARACTERS MUST MATCH: 绯英 Feiying is ADULT art teacher early thirties, pink fluffy layered short crown with long fine side strands, violet eyes, red bow/blossom clip. Berry-red cropped cardigan over ivory blouse, SEPARATE high-waist slate-navy A-line midi skirt, narrow taupe belt, charcoal tights, black loafers, small navy bag. NO pinafore, suspenders, apron, student uniform, animal ears/tail. Anatomical RIGHT hand WHITE FULL-FINGER glove, LEFT BLACK FINGERLESS glove with bare fingertips. Frontal white glove viewer LEFT/black glove viewer RIGHT. She writes/paints/eats using white RIGHT. Do not swap hands or make both gloves white.\n爻光 Yaoguang is ADULT grade director/maths teacher, silver-white long hair pale blue/lilac shadows, curved bangs/outward tufts, peacock-blue feather at RIGHT temple, iridescent violet/cyan/pale-gold eyes. Ivory blazer over white stand-collar below-knee dress, teal narrow belt, navy draped scarf LEFT shoulder, gray low heels. Both hands BARE. Jade bangle ONLY anatomical LEFT wrist; RIGHT WRIST COMPLETELY EMPTY, especially when writing or eating. Reference 已校正画稿 has correct hand placement. Set fan down before two-hand actions. Exactly TWO arms/TWO hands each. Name 爻 is U+723B four strokes (two diagonal crosses 乂 stacked); NEVER the wrong character 交. Prefer specified natural “主任” address; don't invent badges/extra names.\nPrincipal 景元: adult man, long silver-gray hair loosely tied, gold eyes, charcoal blazer over light-gray Chinese standing-collar shirt, calm tea-drinker. 银狼: HIGH-SCHOOL girl, silver-gray shoulder hair/violet tips, headphones, purple eyes, gray school jacket/white shirt/navy tie/navy below-knee skirt, games-sticker laptop/lollipop; not Qingque/child/teacher. Only specified people appear per page. References may show other scenes; do not import their students, coins, fox notes, screens, dialogue or headers into this episode.\n\nSPACE/PROPS: hallway frontal LEFT office301 Feiying/RIGHT302 Yaoguang. One shared INTERNAL wall with a single sliding paper vent, no extra grate on hallway wall. Principal tea table: Yaoguang left guest chair, Feiying right guest chair (view from Jingyuan). 302 worktable has clear guest chair, papers in center. Moon-palace is a festival PLAN/line drawing, not completed magical venue: Feiying's moon, gauze and outline stay intact, Yaoguang adds pencil diagonal braces/load points/machine location/EXIT arrows on tracing paper. A rabbit-shaped EXIT arrow is an ordinary drawing; nobody gains rabbit ears. Old broadcast-room scene07–08: green-painted door, new working lamp, Yaoguang gray dust LEFT cuff then tiny green mark LEFT shoulder; she does no exposed electrical work. After this another-day scene no stain required. Cafeteria13–14 FIXED frontal seat order FEIYING LEFT / YAOGUANG RIGHT, separate two meals, common white porcelain surface then ONE small white saucer centered. Two cilantro piles meet, then moved to small saucer with ONE spoon of peanut sauce beside. Hands never touch. No extra food portions/serving another's mouth. Under-desk coins/fifth-episode notebook are absent from this episode.\n\nPACING: follows weeks of shared school work, four nights→fifth day→second week→multiple later days→November. Festival is still being PREPARED, no opening/accident/romance declaration. Third episode already established false staff table restored and separate authorized work allocation; this episode confirms Yaoguang CHOSE to apply, not a first disclosure that allocation was legitimate. Preserve work competence and tiny pauses. No love hearts/romantic blush faces/heartbeat effects/confessions/hugging/intimate touch; only page14 allows VERY subtle warm ear tips as in original, not facial blushing. Page08 lifted hand stops short and moves bucket instead. Digital-stamp plan is administrative paper authorization, no real exploit code/passwords.\n\nTEXT/counts: map has clear label18个关卡 and exactly THREE red X marks, not necessarily18 tiny numbered nodes. Returned plan says27处修改 and 经费超支240% (overrun, NOT total budget240%). Crane plan label300只纸鹤, no need draw300 objects. Countdown “距幻月祭40天→39天” is days until festival, not current date. Card balance3.70. The small 乾 hexagram is EXACTLY SIX unbroken horizontal parallel strokes. Use no invented formulas/English labels. All quoted text accurate, speaker-labelled metadata NOT printed.\n\n\nPAGE 06 没有撕掉的那页. EXACTLY 4 panels. Layout: 4格：改到夜；两次起念；红墨纸背；抚平。\n\nPanel 1 picture: 从桌边看两位教师各自改图，窗外由晚色转深蓝夜景，月宫拷贝纸在中间；二人没有贴靠。\nIntended text (only dialogue, never role labels): 字幕：一直改到窗外都黑了。\n\nPanel 2 picture: 绯英拎起那张驳回页，手指停在纸边；用一小前后动作重影表示两次想撕的停顿，纸完整没有真的撕破。\nIntended text (only dialogue, never role labels): 旁白：两次想撕掉，最后都没撕。\n\nPanel 3 picture: 折过四次的驳回页翻到背面，红墨透纸，批注工整、尖利；不强求27条逐字可读，也不额外写情书。\nIntended text (only dialogue, never role labels): 旁白：问一句，就能找到一句答复。\n\nPanel 4 picture: 绯英用黑色露指左手裸露的指甲轻轻刮平皱角，白色全指右手压住另一端。纸仍是工作方案驳回页。\nIntended text (only dialogue, never role labels): 无对白，落在细小动作上。\n\nFooter 06; preserve exactly 4 panels."
+  },
+  {
+    "page": 7,
+    "title": "旧广播室",
+    "layout": "4格：第二周换址；检修与刷漆；灰袖；工作拌嘴。",
+    "panels": [
+      [
+        "第二周，旧广播室门外，老式播音牌和门窗，走廊自然光。白纸工作单写从地下层改到旧广播室；未开放鬼屋，只有筹备。",
+        "字幕：第二周。工作单：鬼屋选址：旧广播室。"
+      ],
+      [
+        "绯英白右手持滚筒给旧木门刷绿色漆，左黑手扶桶柄，桶放地上稳定；爻光在另一侧读检修单，旁有刚装好的灯。",
+        "检修单标题：照明检修。"
+      ],
+      [
+        "绯英举着滚筒回头，看到爻光站在新灯下，白色左袖口蹭一片灰，原有玉镯仍只左腕；不画她徒手接裸电线。",
+        "绯英：主任，你这身不适合干活。"
+      ],
+      [
+        "两人隔着门口和工具正常说话，爻光神情有工作中的无奈。",
+        "爻光：本座不干活，你的鬼屋连鬼都看不见。绯英：鬼本来就看不见！爻光：本座要看见门。"
+      ]
+    ],
+    "source": "卷一第六章《朱批》",
+    "references": [
+      "参考/绯英校园版.png",
+      "参考/爻光已校正画稿.png"
+    ],
+    "status": "已生成并通过独立视觉复核",
+    "prompt": "Create ONE finished full-colour Chinese sequential manga page for 《绯色难测》第六话《朱批》. Exact 1024×1536 portrait PNG, detailed clean 2D anime linework, rich soft cel shading, warm autumn Chinese school interiors, ivory gutters and thin black panel borders, matching the supplied FINAL approved comic pages. Reading top-to-bottom and LEFT TO RIGHT within a row. This is a finished narrative page, not a poster/reference sheet. EXACT panel count, no extra panels/text/watermark. Header “绯色难测 · 第六话”, correct two-digit footer. Only page01 includes title“朱批”, only page16 ends“第六话·完”. Large readable simplified Chinese, correct speaker tails. Do NOT print speaker labels or production instructions; only actual dialogue after role labels.\n\nCHARACTERS MUST MATCH: 绯英 Feiying is ADULT art teacher early thirties, pink fluffy layered short crown with long fine side strands, violet eyes, red bow/blossom clip. Berry-red cropped cardigan over ivory blouse, SEPARATE high-waist slate-navy A-line midi skirt, narrow taupe belt, charcoal tights, black loafers, small navy bag. NO pinafore, suspenders, apron, student uniform, animal ears/tail. Anatomical RIGHT hand WHITE FULL-FINGER glove, LEFT BLACK FINGERLESS glove with bare fingertips. Frontal white glove viewer LEFT/black glove viewer RIGHT. She writes/paints/eats using white RIGHT. Do not swap hands or make both gloves white.\n爻光 Yaoguang is ADULT grade director/maths teacher, silver-white long hair pale blue/lilac shadows, curved bangs/outward tufts, peacock-blue feather at RIGHT temple, iridescent violet/cyan/pale-gold eyes. Ivory blazer over white stand-collar below-knee dress, teal narrow belt, navy draped scarf LEFT shoulder, gray low heels. Both hands BARE. Jade bangle ONLY anatomical LEFT wrist; RIGHT WRIST COMPLETELY EMPTY, especially when writing or eating. Reference 已校正画稿 has correct hand placement. Set fan down before two-hand actions. Exactly TWO arms/TWO hands each. Name 爻 is U+723B four strokes (two diagonal crosses 乂 stacked); NEVER the wrong character 交. Prefer specified natural “主任” address; don't invent badges/extra names.\nPrincipal 景元: adult man, long silver-gray hair loosely tied, gold eyes, charcoal blazer over light-gray Chinese standing-collar shirt, calm tea-drinker. 银狼: HIGH-SCHOOL girl, silver-gray shoulder hair/violet tips, headphones, purple eyes, gray school jacket/white shirt/navy tie/navy below-knee skirt, games-sticker laptop/lollipop; not Qingque/child/teacher. Only specified people appear per page. References may show other scenes; do not import their students, coins, fox notes, screens, dialogue or headers into this episode.\n\nSPACE/PROPS: hallway frontal LEFT office301 Feiying/RIGHT302 Yaoguang. One shared INTERNAL wall with a single sliding paper vent, no extra grate on hallway wall. Principal tea table: Yaoguang left guest chair, Feiying right guest chair (view from Jingyuan). 302 worktable has clear guest chair, papers in center. Moon-palace is a festival PLAN/line drawing, not completed magical venue: Feiying's moon, gauze and outline stay intact, Yaoguang adds pencil diagonal braces/load points/machine location/EXIT arrows on tracing paper. A rabbit-shaped EXIT arrow is an ordinary drawing; nobody gains rabbit ears. Old broadcast-room scene07–08: green-painted door, new working lamp, Yaoguang gray dust LEFT cuff then tiny green mark LEFT shoulder; she does no exposed electrical work. After this another-day scene no stain required. Cafeteria13–14 FIXED frontal seat order FEIYING LEFT / YAOGUANG RIGHT, separate two meals, common white porcelain surface then ONE small white saucer centered. Two cilantro piles meet, then moved to small saucer with ONE spoon of peanut sauce beside. Hands never touch. No extra food portions/serving another's mouth. Under-desk coins/fifth-episode notebook are absent from this episode.\n\nPACING: follows weeks of shared school work, four nights→fifth day→second week→multiple later days→November. Festival is still being PREPARED, no opening/accident/romance declaration. Third episode already established false staff table restored and separate authorized work allocation; this episode confirms Yaoguang CHOSE to apply, not a first disclosure that allocation was legitimate. Preserve work competence and tiny pauses. No love hearts/romantic blush faces/heartbeat effects/confessions/hugging/intimate touch; only page14 allows VERY subtle warm ear tips as in original, not facial blushing. Page08 lifted hand stops short and moves bucket instead. Digital-stamp plan is administrative paper authorization, no real exploit code/passwords.\n\nTEXT/counts: map has clear label18个关卡 and exactly THREE red X marks, not necessarily18 tiny numbered nodes. Returned plan says27处修改 and 经费超支240% (overrun, NOT total budget240%). Crane plan label300只纸鹤, no need draw300 objects. Countdown “距幻月祭40天→39天” is days until festival, not current date. Card balance3.70. The small 乾 hexagram is EXACTLY SIX unbroken horizontal parallel strokes. Use no invented formulas/English labels. All quoted text accurate, speaker-labelled metadata NOT printed.\n\n\nPAGE 07 旧广播室. EXACTLY 4 panels. Layout: 4格：第二周换址；检修与刷漆；灰袖；工作拌嘴。\n\nPanel 1 picture: 第二周，旧广播室门外，老式播音牌和门窗，走廊自然光。白纸工作单写从地下层改到旧广播室；未开放鬼屋，只有筹备。\nIntended text (only dialogue, never role labels): 字幕：第二周。工作单：鬼屋选址：旧广播室。\n\nPanel 2 picture: 绯英白右手持滚筒给旧木门刷绿色漆，左黑手扶桶柄，桶放地上稳定；爻光在另一侧读检修单，旁有刚装好的灯。\nIntended text (only dialogue, never role labels): 检修单标题：照明检修。\n\nPanel 3 picture: 绯英举着滚筒回头，看到爻光站在新灯下，白色左袖口蹭一片灰，原有玉镯仍只左腕；不画她徒手接裸电线。\nIntended text (only dialogue, never role labels): 绯英：主任，你这身不适合干活。\n\nPanel 4 picture: 两人隔着门口和工具正常说话，爻光神情有工作中的无奈。\nIntended text (only dialogue, never role labels): 爻光：本座不干活，你的鬼屋连鬼都看不见。绯英：鬼本来就看不见！爻光：本座要看见门。\n\nFooter 07; preserve exactly 4 panels."
+  },
+  {
+    "page": 8,
+    "title": "手停在半空",
+    "layout": "5格：扔布；接慢；绿印；半空；搬远桶。",
+    "panels": [
+      [
+        "同一旧广播室门口。绯英先把滚筒放回地上的漆桶，白右手向爻光轻抛一块干抹布；黑左手放低，不能同时又持滚筒又扔布。",
+        "无对白，笑着抛。"
+      ],
+      [
+        "爻光伸出两只裸手接布慢半拍，右腕空净，左腕玉镯。布角擦到她的左肩，灰仍在左袖口。",
+        "无对白，布角掠过。"
+      ],
+      [
+        "白外套左肩多一小道绿印，左袖口原有墙灰；抹布由爻光手中接住，不悬空变成第二块布。",
+        "无对白，绿印很小。"
+      ],
+      [
+        "绯英白色右手抬到半空，仍隔着距离，没有碰到爻光身体或衣服；她看一眼那道绿。",
+        "无对白，停一拍。"
+      ],
+      [
+        "绯英改为弯腰把漆桶搬离爻光脚边，滚筒已经在桶里；爻光手拿抹布，肩绿袖灰保持同场连续。",
+        "无对白，动作回到工作。"
+      ]
+    ],
+    "source": "卷一第六章《朱批》",
+    "references": [
+      "参考/绯英校园版.png",
+      "参考/爻光已校正画稿.png"
+    ],
+    "status": "已生成并通过独立视觉复核",
+    "prompt": "Create ONE finished full-colour Chinese sequential manga page for 《绯色难测》第六话《朱批》. Exact 1024×1536 portrait PNG, detailed clean 2D anime linework, rich soft cel shading, warm autumn Chinese school interiors, ivory gutters and thin black panel borders, matching the supplied FINAL approved comic pages. Reading top-to-bottom and LEFT TO RIGHT within a row. This is a finished narrative page, not a poster/reference sheet. EXACT panel count, no extra panels/text/watermark. Header “绯色难测 · 第六话”, correct two-digit footer. Only page01 includes title“朱批”, only page16 ends“第六话·完”. Large readable simplified Chinese, correct speaker tails. Do NOT print speaker labels or production instructions; only actual dialogue after role labels.\n\nCHARACTERS MUST MATCH: 绯英 Feiying is ADULT art teacher early thirties, pink fluffy layered short crown with long fine side strands, violet eyes, red bow/blossom clip. Berry-red cropped cardigan over ivory blouse, SEPARATE high-waist slate-navy A-line midi skirt, narrow taupe belt, charcoal tights, black loafers, small navy bag. NO pinafore, suspenders, apron, student uniform, animal ears/tail. Anatomical RIGHT hand WHITE FULL-FINGER glove, LEFT BLACK FINGERLESS glove with bare fingertips. Frontal white glove viewer LEFT/black glove viewer RIGHT. She writes/paints/eats using white RIGHT. Do not swap hands or make both gloves white.\n爻光 Yaoguang is ADULT grade director/maths teacher, silver-white long hair pale blue/lilac shadows, curved bangs/outward tufts, peacock-blue feather at RIGHT temple, iridescent violet/cyan/pale-gold eyes. Ivory blazer over white stand-collar below-knee dress, teal narrow belt, navy draped scarf LEFT shoulder, gray low heels. Both hands BARE. Jade bangle ONLY anatomical LEFT wrist; RIGHT WRIST COMPLETELY EMPTY, especially when writing or eating. Reference 已校正画稿 has correct hand placement. Set fan down before two-hand actions. Exactly TWO arms/TWO hands each. Name 爻 is U+723B four strokes (two diagonal crosses 乂 stacked); NEVER the wrong character 交. Prefer specified natural “主任” address; don't invent badges/extra names.\nPrincipal 景元: adult man, long silver-gray hair loosely tied, gold eyes, charcoal blazer over light-gray Chinese standing-collar shirt, calm tea-drinker. 银狼: HIGH-SCHOOL girl, silver-gray shoulder hair/violet tips, headphones, purple eyes, gray school jacket/white shirt/navy tie/navy below-knee skirt, games-sticker laptop/lollipop; not Qingque/child/teacher. Only specified people appear per page. References may show other scenes; do not import their students, coins, fox notes, screens, dialogue or headers into this episode.\n\nSPACE/PROPS: hallway frontal LEFT office301 Feiying/RIGHT302 Yaoguang. One shared INTERNAL wall with a single sliding paper vent, no extra grate on hallway wall. Principal tea table: Yaoguang left guest chair, Feiying right guest chair (view from Jingyuan). 302 worktable has clear guest chair, papers in center. Moon-palace is a festival PLAN/line drawing, not completed magical venue: Feiying's moon, gauze and outline stay intact, Yaoguang adds pencil diagonal braces/load points/machine location/EXIT arrows on tracing paper. A rabbit-shaped EXIT arrow is an ordinary drawing; nobody gains rabbit ears. Old broadcast-room scene07–08: green-painted door, new working lamp, Yaoguang gray dust LEFT cuff then tiny green mark LEFT shoulder; she does no exposed electrical work. After this another-day scene no stain required. Cafeteria13–14 FIXED frontal seat order FEIYING LEFT / YAOGUANG RIGHT, separate two meals, common white porcelain surface then ONE small white saucer centered. Two cilantro piles meet, then moved to small saucer with ONE spoon of peanut sauce beside. Hands never touch. No extra food portions/serving another's mouth. Under-desk coins/fifth-episode notebook are absent from this episode.\n\nPACING: follows weeks of shared school work, four nights→fifth day→second week→multiple later days→November. Festival is still being PREPARED, no opening/accident/romance declaration. Third episode already established false staff table restored and separate authorized work allocation; this episode confirms Yaoguang CHOSE to apply, not a first disclosure that allocation was legitimate. Preserve work competence and tiny pauses. No love hearts/romantic blush faces/heartbeat effects/confessions/hugging/intimate touch; only page14 allows VERY subtle warm ear tips as in original, not facial blushing. Page08 lifted hand stops short and moves bucket instead. Digital-stamp plan is administrative paper authorization, no real exploit code/passwords.\n\nTEXT/counts: map has clear label18个关卡 and exactly THREE red X marks, not necessarily18 tiny numbered nodes. Returned plan says27处修改 and 经费超支240% (overrun, NOT total budget240%). Crane plan label300只纸鹤, no need draw300 objects. Countdown “距幻月祭40天→39天” is days until festival, not current date. Card balance3.70. The small 乾 hexagram is EXACTLY SIX unbroken horizontal parallel strokes. Use no invented formulas/English labels. All quoted text accurate, speaker-labelled metadata NOT printed.\n\n\nPAGE 08 手停在半空. EXACTLY 5 panels. Layout: 5格：扔布；接慢；绿印；半空；搬远桶。\n\nPanel 1 picture: 同一旧广播室门口。绯英先把滚筒放回地上的漆桶，白右手向爻光轻抛一块干抹布；黑左手放低，不能同时又持滚筒又扔布。\nIntended text (only dialogue, never role labels): 无对白，笑着抛。\n\nPanel 2 picture: 爻光伸出两只裸手接布慢半拍，右腕空净，左腕玉镯。布角擦到她的左肩，灰仍在左袖口。\nIntended text (only dialogue, never role labels): 无对白，布角掠过。\n\nPanel 3 picture: 白外套左肩多一小道绿印，左袖口原有墙灰；抹布由爻光手中接住，不悬空变成第二块布。\nIntended text (only dialogue, never role labels): 无对白，绿印很小。\n\nPanel 4 picture: 绯英白色右手抬到半空，仍隔着距离，没有碰到爻光身体或衣服；她看一眼那道绿。\nIntended text (only dialogue, never role labels): 无对白，停一拍。\n\nPanel 5 picture: 绯英改为弯腰把漆桶搬离爻光脚边，滚筒已经在桶里；爻光手拿抹布，肩绿袖灰保持同场连续。\nIntended text (only dialogue, never role labels): 无对白，动作回到工作。\n\nFooter 08; preserve exactly 5 panels."
+  },
+  {
+    "page": 9,
+    "title": "电子集章的缺口",
+    "layout": "4格：方案；圈范围；钥匙；反问。",
+    "panels": [
+      [
+        "另一天，302办公室桌边。高中生银狼抱游戏贴纸笔记本电脑、棒棒糖，灰银肩发紫梢/耳机/灰校服与蓝过膝裙。绯英在客椅看不太懂，爻光接纸质方案。",
+        "旁白：电子集章，是最后一个缺口。方案标题：幻月祭·电子集章。"
+      ],
+      [
+        "爻光逐页看，裸右手空腕用笔圈出一段“授权范围”，左玉镯手压纸；仅工作说明，不呈现入侵步骤、密码或真实技术控制台。",
+        "标题：授权范围。"
+      ],
+      [
+        "爻光推回方案，银狼咬着糖还没接。桌上有普通机房钥匙挂在值班登记板一旁，不交到学生手里。",
+        "爻光：机房钥匙由值班老师保管。你做程序，不改排班。"
+      ],
+      [
+        "银狼看向两位老师，表情并不惊恐也不挑衅过度，棒棒糖杆在唇边。",
+        "银狼：办公室那件事也算？爻光：算。"
+      ]
+    ],
+    "source": "卷一第六章《朱批》",
+    "references": [
+      "参考/绯英校园版.png",
+      "参考/爻光已校正画稿.png",
+      "参考/相邻办公室.png",
+      "参考/银狼校园造型.png"
+    ],
+    "status": "已生成并通过独立视觉复核",
+    "prompt": "Create ONE finished full-colour Chinese sequential manga page for 《绯色难测》第六话《朱批》. Exact 1024×1536 portrait PNG, detailed clean 2D anime linework, rich soft cel shading, warm autumn Chinese school interiors, ivory gutters and thin black panel borders, matching the supplied FINAL approved comic pages. Reading top-to-bottom and LEFT TO RIGHT within a row. This is a finished narrative page, not a poster/reference sheet. EXACT panel count, no extra panels/text/watermark. Header “绯色难测 · 第六话”, correct two-digit footer. Only page01 includes title“朱批”, only page16 ends“第六话·完”. Large readable simplified Chinese, correct speaker tails. Do NOT print speaker labels or production instructions; only actual dialogue after role labels.\n\nCHARACTERS MUST MATCH: 绯英 Feiying is ADULT art teacher early thirties, pink fluffy layered short crown with long fine side strands, violet eyes, red bow/blossom clip. Berry-red cropped cardigan over ivory blouse, SEPARATE high-waist slate-navy A-line midi skirt, narrow taupe belt, charcoal tights, black loafers, small navy bag. NO pinafore, suspenders, apron, student uniform, animal ears/tail. Anatomical RIGHT hand WHITE FULL-FINGER glove, LEFT BLACK FINGERLESS glove with bare fingertips. Frontal white glove viewer LEFT/black glove viewer RIGHT. She writes/paints/eats using white RIGHT. Do not swap hands or make both gloves white.\n爻光 Yaoguang is ADULT grade director/maths teacher, silver-white long hair pale blue/lilac shadows, curved bangs/outward tufts, peacock-blue feather at RIGHT temple, iridescent violet/cyan/pale-gold eyes. Ivory blazer over white stand-collar below-knee dress, teal narrow belt, navy draped scarf LEFT shoulder, gray low heels. Both hands BARE. Jade bangle ONLY anatomical LEFT wrist; RIGHT WRIST COMPLETELY EMPTY, especially when writing or eating. Reference 已校正画稿 has correct hand placement. Set fan down before two-hand actions. Exactly TWO arms/TWO hands each. Name 爻 is U+723B four strokes (two diagonal crosses 乂 stacked); NEVER the wrong character 交. Prefer specified natural “主任” address; don't invent badges/extra names.\nPrincipal 景元: adult man, long silver-gray hair loosely tied, gold eyes, charcoal blazer over light-gray Chinese standing-collar shirt, calm tea-drinker. 银狼: HIGH-SCHOOL girl, silver-gray shoulder hair/violet tips, headphones, purple eyes, gray school jacket/white shirt/navy tie/navy below-knee skirt, games-sticker laptop/lollipop; not Qingque/child/teacher. Only specified people appear per page. References may show other scenes; do not import their students, coins, fox notes, screens, dialogue or headers into this episode.\n\nSPACE/PROPS: hallway frontal LEFT office301 Feiying/RIGHT302 Yaoguang. One shared INTERNAL wall with a single sliding paper vent, no extra grate on hallway wall. Principal tea table: Yaoguang left guest chair, Feiying right guest chair (view from Jingyuan). 302 worktable has clear guest chair, papers in center. Moon-palace is a festival PLAN/line drawing, not completed magical venue: Feiying's moon, gauze and outline stay intact, Yaoguang adds pencil diagonal braces/load points/machine location/EXIT arrows on tracing paper. A rabbit-shaped EXIT arrow is an ordinary drawing; nobody gains rabbit ears. Old broadcast-room scene07–08: green-painted door, new working lamp, Yaoguang gray dust LEFT cuff then tiny green mark LEFT shoulder; she does no exposed electrical work. After this another-day scene no stain required. Cafeteria13–14 FIXED frontal seat order FEIYING LEFT / YAOGUANG RIGHT, separate two meals, common white porcelain surface then ONE small white saucer centered. Two cilantro piles meet, then moved to small saucer with ONE spoon of peanut sauce beside. Hands never touch. No extra food portions/serving another's mouth. Under-desk coins/fifth-episode notebook are absent from this episode.\n\nPACING: follows weeks of shared school work, four nights→fifth day→second week→multiple later days→November. Festival is still being PREPARED, no opening/accident/romance declaration. Third episode already established false staff table restored and separate authorized work allocation; this episode confirms Yaoguang CHOSE to apply, not a first disclosure that allocation was legitimate. Preserve work competence and tiny pauses. No love hearts/romantic blush faces/heartbeat effects/confessions/hugging/intimate touch; only page14 allows VERY subtle warm ear tips as in original, not facial blushing. Page08 lifted hand stops short and moves bucket instead. Digital-stamp plan is administrative paper authorization, no real exploit code/passwords.\n\nTEXT/counts: map has clear label18个关卡 and exactly THREE red X marks, not necessarily18 tiny numbered nodes. Returned plan says27处修改 and 经费超支240% (overrun, NOT total budget240%). Crane plan label300只纸鹤, no need draw300 objects. Countdown “距幻月祭40天→39天” is days until festival, not current date. Card balance3.70. The small 乾 hexagram is EXACTLY SIX unbroken horizontal parallel strokes. Use no invented formulas/English labels. All quoted text accurate, speaker-labelled metadata NOT printed.\n\n\nPAGE 09 电子集章的缺口. EXACTLY 4 panels. Layout: 4格：方案；圈范围；钥匙；反问。\n\nPanel 1 picture: 另一天，302办公室桌边。高中生银狼抱游戏贴纸笔记本电脑、棒棒糖，灰银肩发紫梢/耳机/灰校服与蓝过膝裙。绯英在客椅看不太懂，爻光接纸质方案。\nIntended text (only dialogue, never role labels): 旁白：电子集章，是最后一个缺口。方案标题：幻月祭·电子集章。\n\nPanel 2 picture: 爻光逐页看，裸右手空腕用笔圈出一段“授权范围”，左玉镯手压纸；仅工作说明，不呈现入侵步骤、密码或真实技术控制台。\nIntended text (only dialogue, never role labels): 标题：授权范围。\n\nPanel 3 picture: 爻光推回方案，银狼咬着糖还没接。桌上有普通机房钥匙挂在值班登记板一旁，不交到学生手里。\nIntended text (only dialogue, never role labels): 爻光：机房钥匙由值班老师保管。你做程序，不改排班。\n\nPanel 4 picture: 银狼看向两位老师，表情并不惊恐也不挑衅过度，棒棒糖杆在唇边。\nIntended text (only dialogue, never role labels): 银狼：办公室那件事也算？爻光：算。\n\nFooter 09; preserve exactly 4 panels."
+  },
+  {
+    "page": 10,
+    "title": "恢复的表，后来的申请",
+    "layout": "4格：看学生；取批准单；两件事；日期。",
+    "panels": [
+      [
+        "绯英看向银狼，银狼咬碎糖的细小表情；不能把棒棒糖变成另一件物品，也不新增自白大段。",
+        "音效：咔。"
+      ],
+      [
+        "爻光从抽屉取出一份正式工位申请，桌上电子集章方案与申请分开放；这是第三话已经批准的那项工位安排的申请依据。",
+        "文件标题：共同执祭工位申请。"
+      ],
+      [
+        "绯英接过批准单，爻光解释，裸右腕无镯，左腕玉镯在压纸时可见；同事距离不碰手。",
+        "爻光：改错的表已恢复。本座来绘世楼，是后面的共同执祭申请。"
+      ],
+      [
+        "批准单日期栏近景，只标相对事件的小字幕，不硬造具体月日；文件有“教务处已批准”，申请人姓名首字在近景左缘画外，避免误造姓名。",
+        "印章：教务处已批准。旁白：批准日期，在她们第一场争论之后。"
+      ]
+    ],
+    "source": "卷一第六章《朱批》",
+    "references": [
+      "参考/绯英校园版.png",
+      "参考/爻光已校正画稿.png",
+      "参考/相邻办公室.png",
+      "参考/银狼校园造型.png"
+    ],
+    "status": "已生成并通过独立视觉复核",
+    "prompt": "Create ONE finished full-colour Chinese sequential manga page for 《绯色难测》第六话《朱批》. Exact 1024×1536 portrait PNG, detailed clean 2D anime linework, rich soft cel shading, warm autumn Chinese school interiors, ivory gutters and thin black panel borders, matching the supplied FINAL approved comic pages. Reading top-to-bottom and LEFT TO RIGHT within a row. This is a finished narrative page, not a poster/reference sheet. EXACT panel count, no extra panels/text/watermark. Header “绯色难测 · 第六话”, correct two-digit footer. Only page01 includes title“朱批”, only page16 ends“第六话·完”. Large readable simplified Chinese, correct speaker tails. Do NOT print speaker labels or production instructions; only actual dialogue after role labels.\n\nCHARACTERS MUST MATCH: 绯英 Feiying is ADULT art teacher early thirties, pink fluffy layered short crown with long fine side strands, violet eyes, red bow/blossom clip. Berry-red cropped cardigan over ivory blouse, SEPARATE high-waist slate-navy A-line midi skirt, narrow taupe belt, charcoal tights, black loafers, small navy bag. NO pinafore, suspenders, apron, student uniform, animal ears/tail. Anatomical RIGHT hand WHITE FULL-FINGER glove, LEFT BLACK FINGERLESS glove with bare fingertips. Frontal white glove viewer LEFT/black glove viewer RIGHT. She writes/paints/eats using white RIGHT. Do not swap hands or make both gloves white.\n爻光 Yaoguang is ADULT grade director/maths teacher, silver-white long hair pale blue/lilac shadows, curved bangs/outward tufts, peacock-blue feather at RIGHT temple, iridescent violet/cyan/pale-gold eyes. Ivory blazer over white stand-collar below-knee dress, teal narrow belt, navy draped scarf LEFT shoulder, gray low heels. Both hands BARE. Jade bangle ONLY anatomical LEFT wrist; RIGHT WRIST COMPLETELY EMPTY, especially when writing or eating. Reference 已校正画稿 has correct hand placement. Set fan down before two-hand actions. Exactly TWO arms/TWO hands each. Name 爻 is U+723B four strokes (two diagonal crosses 乂 stacked); NEVER the wrong character 交. Prefer specified natural “主任” address; don't invent badges/extra names.\nPrincipal 景元: adult man, long silver-gray hair loosely tied, gold eyes, charcoal blazer over light-gray Chinese standing-collar shirt, calm tea-drinker. 银狼: HIGH-SCHOOL girl, silver-gray shoulder hair/violet tips, headphones, purple eyes, gray school jacket/white shirt/navy tie/navy below-knee skirt, games-sticker laptop/lollipop; not Qingque/child/teacher. Only specified people appear per page. References may show other scenes; do not import their students, coins, fox notes, screens, dialogue or headers into this episode.\n\nSPACE/PROPS: hallway frontal LEFT office301 Feiying/RIGHT302 Yaoguang. One shared INTERNAL wall with a single sliding paper vent, no extra grate on hallway wall. Principal tea table: Yaoguang left guest chair, Feiying right guest chair (view from Jingyuan). 302 worktable has clear guest chair, papers in center. Moon-palace is a festival PLAN/line drawing, not completed magical venue: Feiying's moon, gauze and outline stay intact, Yaoguang adds pencil diagonal braces/load points/machine location/EXIT arrows on tracing paper. A rabbit-shaped EXIT arrow is an ordinary drawing; nobody gains rabbit ears. Old broadcast-room scene07–08: green-painted door, new working lamp, Yaoguang gray dust LEFT cuff then tiny green mark LEFT shoulder; she does no exposed electrical work. After this another-day scene no stain required. Cafeteria13–14 FIXED frontal seat order FEIYING LEFT / YAOGUANG RIGHT, separate two meals, common white porcelain surface then ONE small white saucer centered. Two cilantro piles meet, then moved to small saucer with ONE spoon of peanut sauce beside. Hands never touch. No extra food portions/serving another's mouth. Under-desk coins/fifth-episode notebook are absent from this episode.\n\nPACING: follows weeks of shared school work, four nights→fifth day→second week→multiple later days→November. Festival is still being PREPARED, no opening/accident/romance declaration. Third episode already established false staff table restored and separate authorized work allocation; this episode confirms Yaoguang CHOSE to apply, not a first disclosure that allocation was legitimate. Preserve work competence and tiny pauses. No love hearts/romantic blush faces/heartbeat effects/confessions/hugging/intimate touch; only page14 allows VERY subtle warm ear tips as in original, not facial blushing. Page08 lifted hand stops short and moves bucket instead. Digital-stamp plan is administrative paper authorization, no real exploit code/passwords.\n\nTEXT/counts: map has clear label18个关卡 and exactly THREE red X marks, not necessarily18 tiny numbered nodes. Returned plan says27处修改 and 经费超支240% (overrun, NOT total budget240%). Crane plan label300只纸鹤, no need draw300 objects. Countdown “距幻月祭40天→39天” is days until festival, not current date. Card balance3.70. The small 乾 hexagram is EXACTLY SIX unbroken horizontal parallel strokes. Use no invented formulas/English labels. All quoted text accurate, speaker-labelled metadata NOT printed.\n\n\nPAGE 10 恢复的表，后来的申请. EXACTLY 4 panels. Layout: 4格：看学生；取批准单；两件事；日期。\n\nPanel 1 picture: 绯英看向银狼，银狼咬碎糖的细小表情；不能把棒棒糖变成另一件物品，也不新增自白大段。\nIntended text (only dialogue, never role labels): 音效：咔。\n\nPanel 2 picture: 爻光从抽屉取出一份正式工位申请，桌上电子集章方案与申请分开放；这是第三话已经批准的那项工位安排的申请依据。\nIntended text (only dialogue, never role labels): 文件标题：共同执祭工位申请。\n\nPanel 3 picture: 绯英接过批准单，爻光解释，裸右腕无镯，左腕玉镯在压纸时可见；同事距离不碰手。\nIntended text (only dialogue, never role labels): 爻光：改错的表已恢复。本座来绘世楼，是后面的共同执祭申请。\n\nPanel 4 picture: 批准单日期栏近景，只标相对事件的小字幕，不硬造具体月日；文件有“教务处已批准”，申请人姓名首字在近景左缘画外，避免误造姓名。\nIntended text (only dialogue, never role labels): 印章：教务处已批准。旁白：批准日期，在她们第一场争论之后。\n\nFooter 10; preserve exactly 4 panels."
+  },
+  {
+    "page": 11,
+    "title": "这栋楼的方案最多",
+    "layout": "4格：确认主动；拿回笔；修改说明；倒计时与奔忙。",
+    "panels": [
+      [
+        "绯英抬眼再看对方，确认的是爻光主动申请，而非第一次发现工位合法。银狼在桌外旁看，保持学生与教师界限。",
+        "绯英：你自己来的？"
+      ],
+      [
+        "爻光把笔拿回自己一侧，右裸手、右腕空净，面容冷静。",
+        "爻光：这栋楼的方案最多。"
+      ],
+      [
+        "银狼收回电子集章申请不再讨价还价；以小幅同格过渡到次日送来改好的说明，仍只是纸面范围改正。",
+        "字幕：第二天。修改说明：授权范围已按圈注调整。"
+      ],
+      [
+        "校园筹备蒙太奇：进度牌翻“距幻月祭40天”到“39天”，绯英跑机房/库房并在画桌重画第四版月宫。只表现数周筹备中的片段，不把整个跨度压成两天。",
+        "进度牌：距幻月祭40天→39天。草稿标：月宫·第四版。"
+      ]
+    ],
+    "source": "卷一第六章《朱批》",
+    "references": [
+      "参考/绯英校园版.png",
+      "参考/爻光已校正画稿.png",
+      "参考/相邻办公室.png",
+      "参考/银狼校园造型.png"
+    ],
+    "status": "已生成并通过独立视觉复核",
+    "prompt": "Create ONE finished full-colour Chinese sequential manga page for 《绯色难测》第六话《朱批》. Exact 1024×1536 portrait PNG, detailed clean 2D anime linework, rich soft cel shading, warm autumn Chinese school interiors, ivory gutters and thin black panel borders, matching the supplied FINAL approved comic pages. Reading top-to-bottom and LEFT TO RIGHT within a row. This is a finished narrative page, not a poster/reference sheet. EXACT panel count, no extra panels/text/watermark. Header “绯色难测 · 第六话”, correct two-digit footer. Only page01 includes title“朱批”, only page16 ends“第六话·完”. Large readable simplified Chinese, correct speaker tails. Do NOT print speaker labels or production instructions; only actual dialogue after role labels.\n\nCHARACTERS MUST MATCH: 绯英 Feiying is ADULT art teacher early thirties, pink fluffy layered short crown with long fine side strands, violet eyes, red bow/blossom clip. Berry-red cropped cardigan over ivory blouse, SEPARATE high-waist slate-navy A-line midi skirt, narrow taupe belt, charcoal tights, black loafers, small navy bag. NO pinafore, suspenders, apron, student uniform, animal ears/tail. Anatomical RIGHT hand WHITE FULL-FINGER glove, LEFT BLACK FINGERLESS glove with bare fingertips. Frontal white glove viewer LEFT/black glove viewer RIGHT. She writes/paints/eats using white RIGHT. Do not swap hands or make both gloves white.\n爻光 Yaoguang is ADULT grade director/maths teacher, silver-white long hair pale blue/lilac shadows, curved bangs/outward tufts, peacock-blue feather at RIGHT temple, iridescent violet/cyan/pale-gold eyes. Ivory blazer over white stand-collar below-knee dress, teal narrow belt, navy draped scarf LEFT shoulder, gray low heels. Both hands BARE. Jade bangle ONLY anatomical LEFT wrist; RIGHT WRIST COMPLETELY EMPTY, especially when writing or eating. Reference 已校正画稿 has correct hand placement. Set fan down before two-hand actions. Exactly TWO arms/TWO hands each. Name 爻 is U+723B four strokes (two diagonal crosses 乂 stacked); NEVER the wrong character 交. Prefer specified natural “主任” address; don't invent badges/extra names.\nPrincipal 景元: adult man, long silver-gray hair loosely tied, gold eyes, charcoal blazer over light-gray Chinese standing-collar shirt, calm tea-drinker. 银狼: HIGH-SCHOOL girl, silver-gray shoulder hair/violet tips, headphones, purple eyes, gray school jacket/white shirt/navy tie/navy below-knee skirt, games-sticker laptop/lollipop; not Qingque/child/teacher. Only specified people appear per page. References may show other scenes; do not import their students, coins, fox notes, screens, dialogue or headers into this episode.\n\nSPACE/PROPS: hallway frontal LEFT office301 Feiying/RIGHT302 Yaoguang. One shared INTERNAL wall with a single sliding paper vent, no extra grate on hallway wall. Principal tea table: Yaoguang left guest chair, Feiying right guest chair (view from Jingyuan). 302 worktable has clear guest chair, papers in center. Moon-palace is a festival PLAN/line drawing, not completed magical venue: Feiying's moon, gauze and outline stay intact, Yaoguang adds pencil diagonal braces/load points/machine location/EXIT arrows on tracing paper. A rabbit-shaped EXIT arrow is an ordinary drawing; nobody gains rabbit ears. Old broadcast-room scene07–08: green-painted door, new working lamp, Yaoguang gray dust LEFT cuff then tiny green mark LEFT shoulder; she does no exposed electrical work. After this another-day scene no stain required. Cafeteria13–14 FIXED frontal seat order FEIYING LEFT / YAOGUANG RIGHT, separate two meals, common white porcelain surface then ONE small white saucer centered. Two cilantro piles meet, then moved to small saucer with ONE spoon of peanut sauce beside. Hands never touch. No extra food portions/serving another's mouth. Under-desk coins/fifth-episode notebook are absent from this episode.\n\nPACING: follows weeks of shared school work, four nights→fifth day→second week→multiple later days→November. Festival is still being PREPARED, no opening/accident/romance declaration. Third episode already established false staff table restored and separate authorized work allocation; this episode confirms Yaoguang CHOSE to apply, not a first disclosure that allocation was legitimate. Preserve work competence and tiny pauses. No love hearts/romantic blush faces/heartbeat effects/confessions/hugging/intimate touch; only page14 allows VERY subtle warm ear tips as in original, not facial blushing. Page08 lifted hand stops short and moves bucket instead. Digital-stamp plan is administrative paper authorization, no real exploit code/passwords.\n\nTEXT/counts: map has clear label18个关卡 and exactly THREE red X marks, not necessarily18 tiny numbered nodes. Returned plan says27处修改 and 经费超支240% (overrun, NOT total budget240%). Crane plan label300只纸鹤, no need draw300 objects. Countdown “距幻月祭40天→39天” is days until festival, not current date. Card balance3.70. The small 乾 hexagram is EXACTLY SIX unbroken horizontal parallel strokes. Use no invented formulas/English labels. All quoted text accurate, speaker-labelled metadata NOT printed.\n\n\nPAGE 11 这栋楼的方案最多. EXACTLY 4 panels. Layout: 4格：确认主动；拿回笔；修改说明；倒计时与奔忙。\n\nPanel 1 picture: 绯英抬眼再看对方，确认的是爻光主动申请，而非第一次发现工位合法。银狼在桌外旁看，保持学生与教师界限。\nIntended text (only dialogue, never role labels): 绯英：你自己来的？\n\nPanel 2 picture: 爻光把笔拿回自己一侧，右裸手、右腕空净，面容冷静。\nIntended text (only dialogue, never role labels): 爻光：这栋楼的方案最多。\n\nPanel 3 picture: 银狼收回电子集章申请不再讨价还价；以小幅同格过渡到次日送来改好的说明，仍只是纸面范围改正。\nIntended text (only dialogue, never role labels): 字幕：第二天。修改说明：授权范围已按圈注调整。\n\nPanel 4 picture: 校园筹备蒙太奇：进度牌翻“距幻月祭40天”到“39天”，绯英跑机房/库房并在画桌重画第四版月宫。只表现数周筹备中的片段，不把整个跨度压成两天。\nIntended text (only dialogue, never role labels): 进度牌：距幻月祭40天→39天。草稿标：月宫·第四版。\n\nFooter 11; preserve exactly 4 panels."
+  },
+  {
+    "page": 12,
+    "title": "两份饭",
+    "layout": "5格：快关门；同时刷卡；只给一份；我请；三块七。",
+    "panels": [
+      [
+        "食堂快关门的夜晚，窗口暖灯，工作人员收拾碗盘，绯英刚跑完一天筹备；她回头才看见爻光还在身后。",
+        "字幕：食堂快关门时。"
+      ],
+      [
+        "两张不同的饭卡同时拍到读卡机，但只有两人的右手：绯英白全指右手、爻光裸右手空腕；无第三只手。",
+        "音效：滴、滴。"
+      ],
+      [
+        "食堂阿姨先盛好一份，爻光平静纠正数量，绯英在旁。",
+        "爻光：两个。"
+      ],
+      [
+        "绯英摆出要请客的样子，卡仍在自己白右手里；读卡机可显示刚才的余额，不画支付二维码或手机。",
+        "绯英：我请。爻光：你的卡里剩三块七。"
+      ],
+      [
+        "绯英一愣，爻光示意刚才读卡机余额，现在阿姨补出第二份；两份独立餐盘，不画共吃一盘。",
+        "绯英：你为什么知道！爻光：刚显示的。屏幕：余额3.70。"
+      ]
+    ],
+    "source": "卷一第六章《朱批》",
+    "references": [
+      "参考/绯英校园版.png",
+      "参考/爻光已校正画稿.png"
+    ],
+    "status": "已生成并通过独立视觉复核",
+    "prompt": "Create ONE finished full-colour Chinese sequential manga page for 《绯色难测》第六话《朱批》. Exact 1024×1536 portrait PNG, detailed clean 2D anime linework, rich soft cel shading, warm autumn Chinese school interiors, ivory gutters and thin black panel borders, matching the supplied FINAL approved comic pages. Reading top-to-bottom and LEFT TO RIGHT within a row. This is a finished narrative page, not a poster/reference sheet. EXACT panel count, no extra panels/text/watermark. Header “绯色难测 · 第六话”, correct two-digit footer. Only page01 includes title“朱批”, only page16 ends“第六话·完”. Large readable simplified Chinese, correct speaker tails. Do NOT print speaker labels or production instructions; only actual dialogue after role labels.\n\nCHARACTERS MUST MATCH: 绯英 Feiying is ADULT art teacher early thirties, pink fluffy layered short crown with long fine side strands, violet eyes, red bow/blossom clip. Berry-red cropped cardigan over ivory blouse, SEPARATE high-waist slate-navy A-line midi skirt, narrow taupe belt, charcoal tights, black loafers, small navy bag. NO pinafore, suspenders, apron, student uniform, animal ears/tail. Anatomical RIGHT hand WHITE FULL-FINGER glove, LEFT BLACK FINGERLESS glove with bare fingertips. Frontal white glove viewer LEFT/black glove viewer RIGHT. She writes/paints/eats using white RIGHT. Do not swap hands or make both gloves white.\n爻光 Yaoguang is ADULT grade director/maths teacher, silver-white long hair pale blue/lilac shadows, curved bangs/outward tufts, peacock-blue feather at RIGHT temple, iridescent violet/cyan/pale-gold eyes. Ivory blazer over white stand-collar below-knee dress, teal narrow belt, navy draped scarf LEFT shoulder, gray low heels. Both hands BARE. Jade bangle ONLY anatomical LEFT wrist; RIGHT WRIST COMPLETELY EMPTY, especially when writing or eating. Reference 已校正画稿 has correct hand placement. Set fan down before two-hand actions. Exactly TWO arms/TWO hands each. Name 爻 is U+723B four strokes (two diagonal crosses 乂 stacked); NEVER the wrong character 交. Prefer specified natural “主任” address; don't invent badges/extra names.\nPrincipal 景元: adult man, long silver-gray hair loosely tied, gold eyes, charcoal blazer over light-gray Chinese standing-collar shirt, calm tea-drinker. 银狼: HIGH-SCHOOL girl, silver-gray shoulder hair/violet tips, headphones, purple eyes, gray school jacket/white shirt/navy tie/navy below-knee skirt, games-sticker laptop/lollipop; not Qingque/child/teacher. Only specified people appear per page. References may show other scenes; do not import their students, coins, fox notes, screens, dialogue or headers into this episode.\n\nSPACE/PROPS: hallway frontal LEFT office301 Feiying/RIGHT302 Yaoguang. One shared INTERNAL wall with a single sliding paper vent, no extra grate on hallway wall. Principal tea table: Yaoguang left guest chair, Feiying right guest chair (view from Jingyuan). 302 worktable has clear guest chair, papers in center. Moon-palace is a festival PLAN/line drawing, not completed magical venue: Feiying's moon, gauze and outline stay intact, Yaoguang adds pencil diagonal braces/load points/machine location/EXIT arrows on tracing paper. A rabbit-shaped EXIT arrow is an ordinary drawing; nobody gains rabbit ears. Old broadcast-room scene07–08: green-painted door, new working lamp, Yaoguang gray dust LEFT cuff then tiny green mark LEFT shoulder; she does no exposed electrical work. After this another-day scene no stain required. Cafeteria13–14 FIXED frontal seat order FEIYING LEFT / YAOGUANG RIGHT, separate two meals, common white porcelain surface then ONE small white saucer centered. Two cilantro piles meet, then moved to small saucer with ONE spoon of peanut sauce beside. Hands never touch. No extra food portions/serving another's mouth. Under-desk coins/fifth-episode notebook are absent from this episode.\n\nPACING: follows weeks of shared school work, four nights→fifth day→second week→multiple later days→November. Festival is still being PREPARED, no opening/accident/romance declaration. Third episode already established false staff table restored and separate authorized work allocation; this episode confirms Yaoguang CHOSE to apply, not a first disclosure that allocation was legitimate. Preserve work competence and tiny pauses. No love hearts/romantic blush faces/heartbeat effects/confessions/hugging/intimate touch; only page14 allows VERY subtle warm ear tips as in original, not facial blushing. Page08 lifted hand stops short and moves bucket instead. Digital-stamp plan is administrative paper authorization, no real exploit code/passwords.\n\nTEXT/counts: map has clear label18个关卡 and exactly THREE red X marks, not necessarily18 tiny numbered nodes. Returned plan says27处修改 and 经费超支240% (overrun, NOT total budget240%). Crane plan label300只纸鹤, no need draw300 objects. Countdown “距幻月祭40天→39天” is days until festival, not current date. Card balance3.70. The small 乾 hexagram is EXACTLY SIX unbroken horizontal parallel strokes. Use no invented formulas/English labels. All quoted text accurate, speaker-labelled metadata NOT printed.\n\n\nPAGE 12 两份饭. EXACTLY 5 panels. Layout: 5格：快关门；同时刷卡；只给一份；我请；三块七。\n\nPanel 1 picture: 食堂快关门的夜晚，窗口暖灯，工作人员收拾碗盘，绯英刚跑完一天筹备；她回头才看见爻光还在身后。\nIntended text (only dialogue, never role labels): 字幕：食堂快关门时。\n\nPanel 2 picture: 两张不同的饭卡同时拍到读卡机，但只有两人的右手：绯英白全指右手、爻光裸右手空腕；无第三只手。\nIntended text (only dialogue, never role labels): 音效：滴、滴。\n\nPanel 3 picture: 食堂阿姨先盛好一份，爻光平静纠正数量，绯英在旁。\nIntended text (only dialogue, never role labels): 爻光：两个。\n\nPanel 4 picture: 绯英摆出要请客的样子，卡仍在自己白右手里；读卡机可显示刚才的余额，不画支付二维码或手机。\nIntended text (only dialogue, never role labels): 绯英：我请。爻光：你的卡里剩三块七。\n\nPanel 5 picture: 绯英一愣，爻光示意刚才读卡机余额，现在阿姨补出第二份；两份独立餐盘，不画共吃一盘。\nIntended text (only dialogue, never role labels): 绯英：你为什么知道！爻光：刚显示的。屏幕：余额3.70。\n\nFooter 12; preserve exactly 5 panels."
+  },
+  {
+    "page": 13,
+    "title": "两小堆香菜",
+    "layout": "4格：落座；两堆靠近；停手；各管各的。",
+    "panels": [
+      [
+        "固定餐桌全景：面对镜头的同一侧，绯英坐画面左、爻光画面右，两份各自餐盘；桌中央有一片干净白瓷区域，尚无花生酱。卡收好了，包在椅侧。",
+        "无对白。"
+      ],
+      [
+        "绯英白右手用筷子挑香菜推向对方，爻光也用裸右手空腕挑；两小堆香菜在两人之间的同一片白瓷小公用盘上碰到一起。不是两人的手相碰。",
+        "无对白，香菜撞在一起。"
+      ],
+      [
+        "两双筷子都停住，绯英左、爻光右构图不翻转；双方手之间有清楚空隙。",
+        "无对白，留一拍。"
+      ],
+      [
+        "绯英先收回白右手，用筷子拨自己餐盘的饭；爻光没答。两小堆香菜仍在中央白瓷上。",
+        "绯英：算了，各管各的。"
+      ]
+    ],
+    "source": "卷一第六章《朱批》",
+    "references": [
+      "参考/绯英校园版.png",
+      "参考/爻光已校正画稿.png"
+    ],
+    "status": "已生成并通过独立视觉复核",
+    "prompt": "Create ONE finished full-colour Chinese sequential manga page for 《绯色难测》第六话《朱批》. Exact 1024×1536 portrait PNG, detailed clean 2D anime linework, rich soft cel shading, warm autumn Chinese school interiors, ivory gutters and thin black panel borders, matching the supplied FINAL approved comic pages. Reading top-to-bottom and LEFT TO RIGHT within a row. This is a finished narrative page, not a poster/reference sheet. EXACT panel count, no extra panels/text/watermark. Header “绯色难测 · 第六话”, correct two-digit footer. Only page01 includes title“朱批”, only page16 ends“第六话·完”. Large readable simplified Chinese, correct speaker tails. Do NOT print speaker labels or production instructions; only actual dialogue after role labels.\n\nCHARACTERS MUST MATCH: 绯英 Feiying is ADULT art teacher early thirties, pink fluffy layered short crown with long fine side strands, violet eyes, red bow/blossom clip. Berry-red cropped cardigan over ivory blouse, SEPARATE high-waist slate-navy A-line midi skirt, narrow taupe belt, charcoal tights, black loafers, small navy bag. NO pinafore, suspenders, apron, student uniform, animal ears/tail. Anatomical RIGHT hand WHITE FULL-FINGER glove, LEFT BLACK FINGERLESS glove with bare fingertips. Frontal white glove viewer LEFT/black glove viewer RIGHT. She writes/paints/eats using white RIGHT. Do not swap hands or make both gloves white.\n爻光 Yaoguang is ADULT grade director/maths teacher, silver-white long hair pale blue/lilac shadows, curved bangs/outward tufts, peacock-blue feather at RIGHT temple, iridescent violet/cyan/pale-gold eyes. Ivory blazer over white stand-collar below-knee dress, teal narrow belt, navy draped scarf LEFT shoulder, gray low heels. Both hands BARE. Jade bangle ONLY anatomical LEFT wrist; RIGHT WRIST COMPLETELY EMPTY, especially when writing or eating. Reference 已校正画稿 has correct hand placement. Set fan down before two-hand actions. Exactly TWO arms/TWO hands each. Name 爻 is U+723B four strokes (two diagonal crosses 乂 stacked); NEVER the wrong character 交. Prefer specified natural “主任” address; don't invent badges/extra names.\nPrincipal 景元: adult man, long silver-gray hair loosely tied, gold eyes, charcoal blazer over light-gray Chinese standing-collar shirt, calm tea-drinker. 银狼: HIGH-SCHOOL girl, silver-gray shoulder hair/violet tips, headphones, purple eyes, gray school jacket/white shirt/navy tie/navy below-knee skirt, games-sticker laptop/lollipop; not Qingque/child/teacher. Only specified people appear per page. References may show other scenes; do not import their students, coins, fox notes, screens, dialogue or headers into this episode.\n\nSPACE/PROPS: hallway frontal LEFT office301 Feiying/RIGHT302 Yaoguang. One shared INTERNAL wall with a single sliding paper vent, no extra grate on hallway wall. Principal tea table: Yaoguang left guest chair, Feiying right guest chair (view from Jingyuan). 302 worktable has clear guest chair, papers in center. Moon-palace is a festival PLAN/line drawing, not completed magical venue: Feiying's moon, gauze and outline stay intact, Yaoguang adds pencil diagonal braces/load points/machine location/EXIT arrows on tracing paper. A rabbit-shaped EXIT arrow is an ordinary drawing; nobody gains rabbit ears. Old broadcast-room scene07–08: green-painted door, new working lamp, Yaoguang gray dust LEFT cuff then tiny green mark LEFT shoulder; she does no exposed electrical work. After this another-day scene no stain required. Cafeteria13–14 FIXED frontal seat order FEIYING LEFT / YAOGUANG RIGHT, separate two meals, common white porcelain surface then ONE small white saucer centered. Two cilantro piles meet, then moved to small saucer with ONE spoon of peanut sauce beside. Hands never touch. No extra food portions/serving another's mouth. Under-desk coins/fifth-episode notebook are absent from this episode.\n\nPACING: follows weeks of shared school work, four nights→fifth day→second week→multiple later days→November. Festival is still being PREPARED, no opening/accident/romance declaration. Third episode already established false staff table restored and separate authorized work allocation; this episode confirms Yaoguang CHOSE to apply, not a first disclosure that allocation was legitimate. Preserve work competence and tiny pauses. No love hearts/romantic blush faces/heartbeat effects/confessions/hugging/intimate touch; only page14 allows VERY subtle warm ear tips as in original, not facial blushing. Page08 lifted hand stops short and moves bucket instead. Digital-stamp plan is administrative paper authorization, no real exploit code/passwords.\n\nTEXT/counts: map has clear label18个关卡 and exactly THREE red X marks, not necessarily18 tiny numbered nodes. Returned plan says27处修改 and 经费超支240% (overrun, NOT total budget240%). Crane plan label300只纸鹤, no need draw300 objects. Countdown “距幻月祭40天→39天” is days until festival, not current date. Card balance3.70. The small 乾 hexagram is EXACTLY SIX unbroken horizontal parallel strokes. Use no invented formulas/English labels. All quoted text accurate, speaker-labelled metadata NOT printed.\n\n\nPAGE 13 两小堆香菜. EXACTLY 4 panels. Layout: 4格：落座；两堆靠近；停手；各管各的。\n\nPanel 1 picture: 固定餐桌全景：面对镜头的同一侧，绯英坐画面左、爻光画面右，两份各自餐盘；桌中央有一片干净白瓷区域，尚无花生酱。卡收好了，包在椅侧。\nIntended text (only dialogue, never role labels): 无对白。\n\nPanel 2 picture: 绯英白右手用筷子挑香菜推向对方，爻光也用裸右手空腕挑；两小堆香菜在两人之间的同一片白瓷小公用盘上碰到一起。不是两人的手相碰。\nIntended text (only dialogue, never role labels): 无对白，香菜撞在一起。\n\nPanel 3 picture: 两双筷子都停住，绯英左、爻光右构图不翻转；双方手之间有清楚空隙。\nIntended text (only dialogue, never role labels): 无对白，留一拍。\n\nPanel 4 picture: 绯英先收回白右手，用筷子拨自己餐盘的饭；爻光没答。两小堆香菜仍在中央白瓷上。\nIntended text (only dialogue, never role labels): 绯英：算了，各管各的。\n\nFooter 13; preserve exactly 4 panels."
+  },
+  {
+    "page": 14,
+    "title": "碟子在中间",
+    "layout": "4格：收香菜；添花生酱；推中间；第二口饭。",
+    "panels": [
+      [
+        "延续13页固定座向，绯英左、爻光右。爻光用一只小白碟把中央白瓷上的两堆香菜装走，主餐盘仍各自一份。",
+        "无对白。"
+      ],
+      [
+        "她短暂去窗口边再放回那只小白碟，香菜聚一侧，另一侧碟边多一勺浅棕花生酱，食物分清，不变成一整碗汤。",
+        "无对白，碟边多了一勺花生酱。"
+      ],
+      [
+        "爻光裸右手空腕推碟至两人之间正中，左腕玉镯手留在自己餐盘侧。两个人都够得到，没人往自己那边拉；不喂食、不碰手。",
+        "无对白。"
+      ],
+      [
+        "绯英低头吃自己盘中的第二口饭，耳尖只有极淡暖色，脸不泛大红，不画心形/蒸汽/心跳或恋爱凝望；画面右侧的爻光继续吃。",
+        "旁白：吃到第二口，耳尖有一点热。"
+      ]
+    ],
+    "source": "卷一第六章《朱批》",
+    "references": [
+      "参考/绯英校园版.png",
+      "参考/爻光已校正画稿.png"
+    ],
+    "status": "已生成并通过独立视觉复核",
+    "prompt": "Create ONE finished full-colour Chinese sequential manga page for 《绯色难测》第六话《朱批》. Exact 1024×1536 portrait PNG, detailed clean 2D anime linework, rich soft cel shading, warm autumn Chinese school interiors, ivory gutters and thin black panel borders, matching the supplied FINAL approved comic pages. Reading top-to-bottom and LEFT TO RIGHT within a row. This is a finished narrative page, not a poster/reference sheet. EXACT panel count, no extra panels/text/watermark. Header “绯色难测 · 第六话”, correct two-digit footer. Only page01 includes title“朱批”, only page16 ends“第六话·完”. Large readable simplified Chinese, correct speaker tails. Do NOT print speaker labels or production instructions; only actual dialogue after role labels.\n\nCHARACTERS MUST MATCH: 绯英 Feiying is ADULT art teacher early thirties, pink fluffy layered short crown with long fine side strands, violet eyes, red bow/blossom clip. Berry-red cropped cardigan over ivory blouse, SEPARATE high-waist slate-navy A-line midi skirt, narrow taupe belt, charcoal tights, black loafers, small navy bag. NO pinafore, suspenders, apron, student uniform, animal ears/tail. Anatomical RIGHT hand WHITE FULL-FINGER glove, LEFT BLACK FINGERLESS glove with bare fingertips. Frontal white glove viewer LEFT/black glove viewer RIGHT. She writes/paints/eats using white RIGHT. Do not swap hands or make both gloves white.\n爻光 Yaoguang is ADULT grade director/maths teacher, silver-white long hair pale blue/lilac shadows, curved bangs/outward tufts, peacock-blue feather at RIGHT temple, iridescent violet/cyan/pale-gold eyes. Ivory blazer over white stand-collar below-knee dress, teal narrow belt, navy draped scarf LEFT shoulder, gray low heels. Both hands BARE. Jade bangle ONLY anatomical LEFT wrist; RIGHT WRIST COMPLETELY EMPTY, especially when writing or eating. Reference 已校正画稿 has correct hand placement. Set fan down before two-hand actions. Exactly TWO arms/TWO hands each. Name 爻 is U+723B four strokes (two diagonal crosses 乂 stacked); NEVER the wrong character 交. Prefer specified natural “主任” address; don't invent badges/extra names.\nPrincipal 景元: adult man, long silver-gray hair loosely tied, gold eyes, charcoal blazer over light-gray Chinese standing-collar shirt, calm tea-drinker. 银狼: HIGH-SCHOOL girl, silver-gray shoulder hair/violet tips, headphones, purple eyes, gray school jacket/white shirt/navy tie/navy below-knee skirt, games-sticker laptop/lollipop; not Qingque/child/teacher. Only specified people appear per page. References may show other scenes; do not import their students, coins, fox notes, screens, dialogue or headers into this episode.\n\nSPACE/PROPS: hallway frontal LEFT office301 Feiying/RIGHT302 Yaoguang. One shared INTERNAL wall with a single sliding paper vent, no extra grate on hallway wall. Principal tea table: Yaoguang left guest chair, Feiying right guest chair (view from Jingyuan). 302 worktable has clear guest chair, papers in center. Moon-palace is a festival PLAN/line drawing, not completed magical venue: Feiying's moon, gauze and outline stay intact, Yaoguang adds pencil diagonal braces/load points/machine location/EXIT arrows on tracing paper. A rabbit-shaped EXIT arrow is an ordinary drawing; nobody gains rabbit ears. Old broadcast-room scene07–08: green-painted door, new working lamp, Yaoguang gray dust LEFT cuff then tiny green mark LEFT shoulder; she does no exposed electrical work. After this another-day scene no stain required. Cafeteria13–14 FIXED frontal seat order FEIYING LEFT / YAOGUANG RIGHT, separate two meals, common white porcelain surface then ONE small white saucer centered. Two cilantro piles meet, then moved to small saucer with ONE spoon of peanut sauce beside. Hands never touch. No extra food portions/serving another's mouth. Under-desk coins/fifth-episode notebook are absent from this episode.\n\nPACING: follows weeks of shared school work, four nights→fifth day→second week→multiple later days→November. Festival is still being PREPARED, no opening/accident/romance declaration. Third episode already established false staff table restored and separate authorized work allocation; this episode confirms Yaoguang CHOSE to apply, not a first disclosure that allocation was legitimate. Preserve work competence and tiny pauses. No love hearts/romantic blush faces/heartbeat effects/confessions/hugging/intimate touch; only page14 allows VERY subtle warm ear tips as in original, not facial blushing. Page08 lifted hand stops short and moves bucket instead. Digital-stamp plan is administrative paper authorization, no real exploit code/passwords.\n\nTEXT/counts: map has clear label18个关卡 and exactly THREE red X marks, not necessarily18 tiny numbered nodes. Returned plan says27处修改 and 经费超支240% (overrun, NOT total budget240%). Crane plan label300只纸鹤, no need draw300 objects. Countdown “距幻月祭40天→39天” is days until festival, not current date. Card balance3.70. The small 乾 hexagram is EXACTLY SIX unbroken horizontal parallel strokes. Use no invented formulas/English labels. All quoted text accurate, speaker-labelled metadata NOT printed.\n\n\nPAGE 14 碟子在中间. EXACTLY 4 panels. Layout: 4格：收香菜；添花生酱；推中间；第二口饭。\n\nPanel 1 picture: 延续13页固定座向，绯英左、爻光右。爻光用一只小白碟把中央白瓷上的两堆香菜装走，主餐盘仍各自一份。\nIntended text (only dialogue, never role labels): 无对白。\n\nPanel 2 picture: 她短暂去窗口边再放回那只小白碟，香菜聚一侧，另一侧碟边多一勺浅棕花生酱，食物分清，不变成一整碗汤。\nIntended text (only dialogue, never role labels): 无对白，碟边多了一勺花生酱。\n\nPanel 3 picture: 爻光裸右手空腕推碟至两人之间正中，左腕玉镯手留在自己餐盘侧。两个人都够得到，没人往自己那边拉；不喂食、不碰手。\nIntended text (only dialogue, never role labels): 无对白。\n\nPanel 4 picture: 绯英低头吃自己盘中的第二口饭，耳尖只有极淡暖色，脸不泛大红，不画心形/蒸汽/心跳或恋爱凝望；画面右侧的爻光继续吃。\nIntended text (only dialogue, never role labels): 旁白：吃到第二口，耳尖有一点热。\n\nFooter 14; preserve exactly 4 panels."
+  },
+  {
+    "page": 15,
+    "title": "十一月的签名",
+    "layout": "5格：企划通过；推最后页；两个签名；小乾卦；页码。",
+    "panels": [
+      [
+        "十一月，302工作桌。窗外秋叶较深，月宫方案正式通过，仍是筹备不是祭典开场；两人正常在桌的两侧。",
+        "字幕：十一月，企划终于通过。"
+      ],
+      [
+        "绯英白右手签好最后一页，黑左手按纸，随后将整页推给爻光；批准图稿与月宫拷贝纸仍在旁。",
+        "无对白。"
+      ],
+      [
+        "爻光用裸右手空腕签名，左玉镯手稳纸。签名上下两行摆放，近景可只取两人的尾字“英”“光”，姓名首字在左画外，光的长钩近乎触到英但不碰到；不让模型错造姓字。",
+        "无对白，签名最后一笔很长。"
+      ],
+      [
+        "同一页签名边上新增一个很小的乾卦标：恰好六条上下平行完整短横，没有断线，不画八条或神秘光效。",
+        "绯英小内心：这也在审批流程里吗？"
+      ],
+      [
+        "她还没问出口，爻光已合上文件，手回到工作页码单，神情自然。",
+        "爻光：还有页码要重编。"
+      ]
+    ],
+    "source": "卷一第六章《朱批》",
+    "references": [
+      "参考/绯英校园版.png",
+      "参考/爻光已校正画稿.png",
+      "参考/相邻办公室.png"
+    ],
+    "status": "已生成并通过独立视觉复核",
+    "prompt": "Create ONE finished full-colour Chinese sequential manga page for 《绯色难测》第六话《朱批》. Exact 1024×1536 portrait PNG, detailed clean 2D anime linework, rich soft cel shading, warm autumn Chinese school interiors, ivory gutters and thin black panel borders, matching the supplied FINAL approved comic pages. Reading top-to-bottom and LEFT TO RIGHT within a row. This is a finished narrative page, not a poster/reference sheet. EXACT panel count, no extra panels/text/watermark. Header “绯色难测 · 第六话”, correct two-digit footer. Only page01 includes title“朱批”, only page16 ends“第六话·完”. Large readable simplified Chinese, correct speaker tails. Do NOT print speaker labels or production instructions; only actual dialogue after role labels.\n\nCHARACTERS MUST MATCH: 绯英 Feiying is ADULT art teacher early thirties, pink fluffy layered short crown with long fine side strands, violet eyes, red bow/blossom clip. Berry-red cropped cardigan over ivory blouse, SEPARATE high-waist slate-navy A-line midi skirt, narrow taupe belt, charcoal tights, black loafers, small navy bag. NO pinafore, suspenders, apron, student uniform, animal ears/tail. Anatomical RIGHT hand WHITE FULL-FINGER glove, LEFT BLACK FINGERLESS glove with bare fingertips. Frontal white glove viewer LEFT/black glove viewer RIGHT. She writes/paints/eats using white RIGHT. Do not swap hands or make both gloves white.\n爻光 Yaoguang is ADULT grade director/maths teacher, silver-white long hair pale blue/lilac shadows, curved bangs/outward tufts, peacock-blue feather at RIGHT temple, iridescent violet/cyan/pale-gold eyes. Ivory blazer over white stand-collar below-knee dress, teal narrow belt, navy draped scarf LEFT shoulder, gray low heels. Both hands BARE. Jade bangle ONLY anatomical LEFT wrist; RIGHT WRIST COMPLETELY EMPTY, especially when writing or eating. Reference 已校正画稿 has correct hand placement. Set fan down before two-hand actions. Exactly TWO arms/TWO hands each. Name 爻 is U+723B four strokes (two diagonal crosses 乂 stacked); NEVER the wrong character 交. Prefer specified natural “主任” address; don't invent badges/extra names.\nPrincipal 景元: adult man, long silver-gray hair loosely tied, gold eyes, charcoal blazer over light-gray Chinese standing-collar shirt, calm tea-drinker. 银狼: HIGH-SCHOOL girl, silver-gray shoulder hair/violet tips, headphones, purple eyes, gray school jacket/white shirt/navy tie/navy below-knee skirt, games-sticker laptop/lollipop; not Qingque/child/teacher. Only specified people appear per page. References may show other scenes; do not import their students, coins, fox notes, screens, dialogue or headers into this episode.\n\nSPACE/PROPS: hallway frontal LEFT office301 Feiying/RIGHT302 Yaoguang. One shared INTERNAL wall with a single sliding paper vent, no extra grate on hallway wall. Principal tea table: Yaoguang left guest chair, Feiying right guest chair (view from Jingyuan). 302 worktable has clear guest chair, papers in center. Moon-palace is a festival PLAN/line drawing, not completed magical venue: Feiying's moon, gauze and outline stay intact, Yaoguang adds pencil diagonal braces/load points/machine location/EXIT arrows on tracing paper. A rabbit-shaped EXIT arrow is an ordinary drawing; nobody gains rabbit ears. Old broadcast-room scene07–08: green-painted door, new working lamp, Yaoguang gray dust LEFT cuff then tiny green mark LEFT shoulder; she does no exposed electrical work. After this another-day scene no stain required. Cafeteria13–14 FIXED frontal seat order FEIYING LEFT / YAOGUANG RIGHT, separate two meals, common white porcelain surface then ONE small white saucer centered. Two cilantro piles meet, then moved to small saucer with ONE spoon of peanut sauce beside. Hands never touch. No extra food portions/serving another's mouth. Under-desk coins/fifth-episode notebook are absent from this episode.\n\nPACING: follows weeks of shared school work, four nights→fifth day→second week→multiple later days→November. Festival is still being PREPARED, no opening/accident/romance declaration. Third episode already established false staff table restored and separate authorized work allocation; this episode confirms Yaoguang CHOSE to apply, not a first disclosure that allocation was legitimate. Preserve work competence and tiny pauses. No love hearts/romantic blush faces/heartbeat effects/confessions/hugging/intimate touch; only page14 allows VERY subtle warm ear tips as in original, not facial blushing. Page08 lifted hand stops short and moves bucket instead. Digital-stamp plan is administrative paper authorization, no real exploit code/passwords.\n\nTEXT/counts: map has clear label18个关卡 and exactly THREE red X marks, not necessarily18 tiny numbered nodes. Returned plan says27处修改 and 经费超支240% (overrun, NOT total budget240%). Crane plan label300只纸鹤, no need draw300 objects. Countdown “距幻月祭40天→39天” is days until festival, not current date. Card balance3.70. The small 乾 hexagram is EXACTLY SIX unbroken horizontal parallel strokes. Use no invented formulas/English labels. All quoted text accurate, speaker-labelled metadata NOT printed.\n\n\nPAGE 15 十一月的签名. EXACTLY 5 panels. Layout: 5格：企划通过；推最后页；两个签名；小乾卦；页码。\n\nPanel 1 picture: 十一月，302工作桌。窗外秋叶较深，月宫方案正式通过，仍是筹备不是祭典开场；两人正常在桌的两侧。\nIntended text (only dialogue, never role labels): 字幕：十一月，企划终于通过。\n\nPanel 2 picture: 绯英白右手签好最后一页，黑左手按纸，随后将整页推给爻光；批准图稿与月宫拷贝纸仍在旁。\nIntended text (only dialogue, never role labels): 无对白。\n\nPanel 3 picture: 爻光用裸右手空腕签名，左玉镯手稳纸。签名上下两行摆放，近景可只取两人的尾字“英”“光”，姓名首字在左画外，光的长钩近乎触到英但不碰到；不让模型错造姓字。\nIntended text (only dialogue, never role labels): 无对白，签名最后一笔很长。\n\nPanel 4 picture: 同一页签名边上新增一个很小的乾卦标：恰好六条上下平行完整短横，没有断线，不画八条或神秘光效。\nIntended text (only dialogue, never role labels): 绯英小内心：这也在审批流程里吗？\n\nPanel 5 picture: 她还没问出口，爻光已合上文件，手回到工作页码单，神情自然。\nIntended text (only dialogue, never role labels): 爻光：还有页码要重编。\n\nFooter 15; preserve exactly 5 panels."
+  },
+  {
+    "page": 16,
+    "title": "今晚留吗",
+    "layout": "5格：问；包放回；灯下继续；日记；糊照里的小碟。",
+    "panels": [
+      [
+        "夜里的302，窗外深蓝，桌灯暖。爻光整理刚合上的文件，朝已拿起包的绯英问一句，正常同事姿态。",
+        "爻光：今晚留吗？"
+      ],
+      [
+        "绯英将小蓝肩包放回椅子上，手套左右正确，神情轻松确定，不画告白式眼泪或拥抱。",
+        "绯英：留。"
+      ],
+      [
+        "两人在同一工作桌两侧各自翻页重编，仍不触碰；文件堆和台灯让安静工作有具体内容。",
+        "无对白，夜还长。"
+      ],
+      [
+        "转入无名观察者的观测日记页面，只有文字与一张小糊照片，不给观察者新身份/正脸。",
+        "幕间·观测日记。11月6日。食堂阿姨说，两位老师把香菜推给对方，又各自假装没推。"
+      ],
+      [
+        "一张随手拍糊的食堂小照片，前景大块炒饭挡了多半视野，背景只能看见两位老师的局部轮廓与两人中间的一小白碟，不是摆拍双人合照；香菜和一勺花生酱仍在碟里。",
+        "日记：图片没拍清，前景全是我的炒饭。那只花生酱碟子在中间，谁也没往自己那边拿。落款：第六话·完。"
+      ]
+    ],
+    "source": "卷一第六章《朱批》",
+    "references": [
+      "参考/绯英校园版.png",
+      "参考/爻光已校正画稿.png",
+      "参考/相邻办公室.png"
+    ],
+    "status": "已生成并通过独立视觉复核",
+    "prompt": "Create ONE finished full-colour Chinese sequential manga page for 《绯色难测》第六话《朱批》. Exact 1024×1536 portrait PNG, detailed clean 2D anime linework, rich soft cel shading, warm autumn Chinese school interiors, ivory gutters and thin black panel borders, matching the supplied FINAL approved comic pages. Reading top-to-bottom and LEFT TO RIGHT within a row. This is a finished narrative page, not a poster/reference sheet. EXACT panel count, no extra panels/text/watermark. Header “绯色难测 · 第六话”, correct two-digit footer. Only page01 includes title“朱批”, only page16 ends“第六话·完”. Large readable simplified Chinese, correct speaker tails. Do NOT print speaker labels or production instructions; only actual dialogue after role labels.\n\nCHARACTERS MUST MATCH: 绯英 Feiying is ADULT art teacher early thirties, pink fluffy layered short crown with long fine side strands, violet eyes, red bow/blossom clip. Berry-red cropped cardigan over ivory blouse, SEPARATE high-waist slate-navy A-line midi skirt, narrow taupe belt, charcoal tights, black loafers, small navy bag. NO pinafore, suspenders, apron, student uniform, animal ears/tail. Anatomical RIGHT hand WHITE FULL-FINGER glove, LEFT BLACK FINGERLESS glove with bare fingertips. Frontal white glove viewer LEFT/black glove viewer RIGHT. She writes/paints/eats using white RIGHT. Do not swap hands or make both gloves white.\n爻光 Yaoguang is ADULT grade director/maths teacher, silver-white long hair pale blue/lilac shadows, curved bangs/outward tufts, peacock-blue feather at RIGHT temple, iridescent violet/cyan/pale-gold eyes. Ivory blazer over white stand-collar below-knee dress, teal narrow belt, navy draped scarf LEFT shoulder, gray low heels. Both hands BARE. Jade bangle ONLY anatomical LEFT wrist; RIGHT WRIST COMPLETELY EMPTY, especially when writing or eating. Reference 已校正画稿 has correct hand placement. Set fan down before two-hand actions. Exactly TWO arms/TWO hands each. Name 爻 is U+723B four strokes (two diagonal crosses 乂 stacked); NEVER the wrong character 交. Prefer specified natural “主任” address; don't invent badges/extra names.\nPrincipal 景元: adult man, long silver-gray hair loosely tied, gold eyes, charcoal blazer over light-gray Chinese standing-collar shirt, calm tea-drinker. 银狼: HIGH-SCHOOL girl, silver-gray shoulder hair/violet tips, headphones, purple eyes, gray school jacket/white shirt/navy tie/navy below-knee skirt, games-sticker laptop/lollipop; not Qingque/child/teacher. Only specified people appear per page. References may show other scenes; do not import their students, coins, fox notes, screens, dialogue or headers into this episode.\n\nSPACE/PROPS: hallway frontal LEFT office301 Feiying/RIGHT302 Yaoguang. One shared INTERNAL wall with a single sliding paper vent, no extra grate on hallway wall. Principal tea table: Yaoguang left guest chair, Feiying right guest chair (view from Jingyuan). 302 worktable has clear guest chair, papers in center. Moon-palace is a festival PLAN/line drawing, not completed magical venue: Feiying's moon, gauze and outline stay intact, Yaoguang adds pencil diagonal braces/load points/machine location/EXIT arrows on tracing paper. A rabbit-shaped EXIT arrow is an ordinary drawing; nobody gains rabbit ears. Old broadcast-room scene07–08: green-painted door, new working lamp, Yaoguang gray dust LEFT cuff then tiny green mark LEFT shoulder; she does no exposed electrical work. After this another-day scene no stain required. Cafeteria13–14 FIXED frontal seat order FEIYING LEFT / YAOGUANG RIGHT, separate two meals, common white porcelain surface then ONE small white saucer centered. Two cilantro piles meet, then moved to small saucer with ONE spoon of peanut sauce beside. Hands never touch. No extra food portions/serving another's mouth. Under-desk coins/fifth-episode notebook are absent from this episode.\n\nPACING: follows weeks of shared school work, four nights→fifth day→second week→multiple later days→November. Festival is still being PREPARED, no opening/accident/romance declaration. Third episode already established false staff table restored and separate authorized work allocation; this episode confirms Yaoguang CHOSE to apply, not a first disclosure that allocation was legitimate. Preserve work competence and tiny pauses. No love hearts/romantic blush faces/heartbeat effects/confessions/hugging/intimate touch; only page14 allows VERY subtle warm ear tips as in original, not facial blushing. Page08 lifted hand stops short and moves bucket instead. Digital-stamp plan is administrative paper authorization, no real exploit code/passwords.\n\nTEXT/counts: map has clear label18个关卡 and exactly THREE red X marks, not necessarily18 tiny numbered nodes. Returned plan says27处修改 and 经费超支240% (overrun, NOT total budget240%). Crane plan label300只纸鹤, no need draw300 objects. Countdown “距幻月祭40天→39天” is days until festival, not current date. Card balance3.70. The small 乾 hexagram is EXACTLY SIX unbroken horizontal parallel strokes. Use no invented formulas/English labels. All quoted text accurate, speaker-labelled metadata NOT printed.\n\n\nPAGE 16 今晚留吗. EXACTLY 5 panels. Layout: 5格：问；包放回；灯下继续；日记；糊照里的小碟。\n\nPanel 1 picture: 夜里的302，窗外深蓝，桌灯暖。爻光整理刚合上的文件，朝已拿起包的绯英问一句，正常同事姿态。\nIntended text (only dialogue, never role labels): 爻光：今晚留吗？\n\nPanel 2 picture: 绯英将小蓝肩包放回椅子上，手套左右正确，神情轻松确定，不画告白式眼泪或拥抱。\nIntended text (only dialogue, never role labels): 绯英：留。\n\nPanel 3 picture: 两人在同一工作桌两侧各自翻页重编，仍不触碰；文件堆和台灯让安静工作有具体内容。\nIntended text (only dialogue, never role labels): 无对白，夜还长。\n\nPanel 4 picture: 转入无名观察者的观测日记页面，只有文字与一张小糊照片，不给观察者新身份/正脸。\nIntended text (only dialogue, never role labels): 幕间·观测日记。11月6日。食堂阿姨说，两位老师把香菜推给对方，又各自假装没推。\n\nPanel 5 picture: 一张随手拍糊的食堂小照片，前景大块炒饭挡了多半视野，背景只能看见两位老师的局部轮廓与两人中间的一小白碟，不是摆拍双人合照；香菜和一勺花生酱仍在碟里。\nIntended text (only dialogue, never role labels): 日记：图片没拍清，前景全是我的炒饭。那只花生酱碟子在中间，谁也没往自己那边拿。落款：第六话·完。\n\nFooter 16; preserve exactly 5 panels."
+  }
+]
