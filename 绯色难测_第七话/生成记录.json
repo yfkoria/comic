@@ -1,0 +1,521 @@
+[
+  {
+    "page": 1,
+    "file": "page-01.png",
+    "source": "/workspace/generated_images/exec-5e7f0af8-9743-4193-a4e3-2404a0787520.png",
+    "sources": [
+      "/workspace/generated_images/exec-5e8ba7ab-02d2-475f-9a91-f43ce898c19d.png",
+      "/workspace/generated_images/exec-5e7f0af8-9743-4193-a4e3-2404a0787520.png"
+    ],
+    "references": [
+      "/workspace/绯色难测_第七话/page-01.png",
+      "/workspace/原设参考/绯英原设.jpg",
+      "/workspace/原设参考/爻光原设_近景.jpg"
+    ],
+    "bytes": 2602245,
+    "resolution": [
+      1024,
+      1536
+    ],
+    "sha256": "cbb6e19546ae63dceaa782b1214fa62a331db3af516a14f1ededb41a7f6651c4",
+    "decode": "ok",
+    "visual_review": "作者与独立视觉QA已实际逐格复核通过，原设脸发瞳特征核查正确",
+    "generation_steps": [
+      {
+        "source": "/workspace/generated_images/exec-5e8ba7ab-02d2-475f-9a91-f43ce898c19d.png",
+        "references": [
+          "/workspace/绯色难测_第七话/参考/绯英原设.jpg",
+          "/workspace/绯色难测_第七话/参考/爻光原设近景.jpg",
+          "/workspace/绯色难测_第七话/参考/爻光原设全身.jpg",
+          "/workspace/绯色难测_第七话/参考/绯英校园版.png",
+          "/workspace/绯色难测_第七话/参考/第六话夜间工位.png"
+        ],
+        "note": "原设与校园参考共同建立01身份锚点"
+      },
+      {
+        "source": "/workspace/generated_images/exec-5e7f0af8-9743-4193-a4e3-2404a0787520.png",
+        "references": [
+          "/workspace/绯色难测_第七话/page-01.png",
+          "/workspace/原设参考/绯英原设.jpg",
+          "/workspace/原设参考/爻光原设_近景.jpg"
+        ],
+        "edit_target_snapshot": "/workspace/generated_images/exec-5e8ba7ab-02d2-475f-9a91-f43ce898c19d.png",
+        "note": "仅清提前伞雪并展平两钉脚，身份保持"
+      }
+    ],
+    "frozen": true
+  },
+  {
+    "page": 2,
+    "file": "page-02.png",
+    "source": "/workspace/generated_images/exec-c2fb8558-ea8d-46dc-adc9-c1c50c4490a9.png",
+    "sources": [
+      "/workspace/generated_images/exec-4dfb479f-b6cf-4e57-880b-e5b509d8e354.png",
+      "/workspace/generated_images/exec-c2fb8558-ea8d-46dc-adc9-c1c50c4490a9.png"
+    ],
+    "references": [
+      "/workspace/绯色难测_第七话/page-02.png"
+    ],
+    "generation_steps": [
+      {
+        "source": "/workspace/generated_images/exec-4dfb479f-b6cf-4e57-880b-e5b509d8e354.png",
+        "references": [
+          "/workspace/原设参考/绯英原设.jpg",
+          "/workspace/原设参考/爻光原设_近景.jpg",
+          "/workspace/原设参考/爻光原设_全身.jpg",
+          "/workspace/generated_images/exec-0da016d0-d92e-4b3a-a6e1-871af4564caf.png",
+          "/workspace/绯色难测_第七话/page-09.png"
+        ],
+        "note": "作者待看，独立QA待审"
+      },
+      {
+        "source": "/workspace/generated_images/exec-c2fb8558-ea8d-46dc-adc9-c1c50c4490a9.png",
+        "references": [
+          "/workspace/绯色难测_第七话/page-02.png"
+        ],
+        "note": "首格金属脚统一为两条展平直脚，待作者/独立QA复核",
+        "edit_target_snapshot": "/workspace/generated_images/exec-4dfb479f-b6cf-4e57-880b-e5b509d8e354.png"
+      }
+    ],
+    "bytes": 2468090,
+    "resolution": [
+      1024,
+      1536
+    ],
+    "sha256": "2bf19f6b83da6c478e07e688f251fe29e5c0e1909a4a72397fe4ffc4f8a6ae14",
+    "decode": "ok",
+    "visual_review": "作者与独立视觉QA已实际逐格复核通过，原设脸发瞳特征核查正确",
+    "frozen": true
+  },
+  {
+    "page": 3,
+    "file": "page-03.png",
+    "source": "/workspace/generated_images/exec-7d692506-b84d-4970-85c7-b4228097b3ba.png",
+    "sources": [
+      "/workspace/generated_images/exec-7d692506-b84d-4970-85c7-b4228097b3ba.png"
+    ],
+    "references": [
+      "/workspace/原设参考/绯英原设.jpg",
+      "/workspace/原设参考/爻光原设_近景.jpg",
+      "/workspace/原设参考/爻光原设_全身.jpg",
+      "/workspace/generated_images/exec-0da016d0-d92e-4b3a-a6e1-871af4564caf.png",
+      "/workspace/绯色难测_第七话/page-09.png"
+    ],
+    "bytes": 2652389,
+    "resolution": [
+      1024,
+      1536
+    ],
+    "sha256": "5193f1fdae14faf195e395a58d895781c93f04ef8dc93893dd133dd71d2aed3c",
+    "decode": "ok",
+    "visual_review": "作者与独立视觉QA已实际逐格复核通过，原设脸发瞳特征核查正确",
+    "generation_steps": [
+      {
+        "source": "/workspace/generated_images/exec-7d692506-b84d-4970-85c7-b4228097b3ba.png",
+        "references": [
+          "/workspace/原设参考/绯英原设.jpg",
+          "/workspace/原设参考/爻光原设_近景.jpg",
+          "/workspace/原设参考/爻光原设_全身.jpg",
+          "/workspace/generated_images/exec-0da016d0-d92e-4b3a-a6e1-871af4564caf.png",
+          "/workspace/绯色难测_第七话/page-09.png"
+        ],
+        "note": "原设3JPG直接供图，校园参考约束服装与场景"
+      }
+    ],
+    "frozen": true
+  },
+  {
+    "page": 4,
+    "file": "page-04.png",
+    "source": "/workspace/generated_images/exec-ad418a21-ad33-41c1-b7f6-7c2df80daa6d.png",
+    "sources": [
+      "/workspace/generated_images/exec-ad418a21-ad33-41c1-b7f6-7c2df80daa6d.png"
+    ],
+    "references": [
+      "/workspace/原设参考/绯英原设.jpg",
+      "/workspace/原设参考/爻光原设_近景.jpg",
+      "/workspace/原设参考/爻光原设_全身.jpg",
+      "/workspace/generated_images/exec-0da016d0-d92e-4b3a-a6e1-871af4564caf.png",
+      "/workspace/绯色难测_第七话/page-09.png"
+    ],
+    "bytes": 2429065,
+    "resolution": [
+      1024,
+      1536
+    ],
+    "sha256": "d6b2df60fb9e41a2c62dc2c96a187f6d33969feca7d2730adc8faea21480da93",
+    "decode": "ok",
+    "visual_review": "作者与独立视觉QA已实际逐格复核通过，原设脸发瞳特征核查正确",
+    "generation_steps": [
+      {
+        "source": "/workspace/generated_images/exec-ad418a21-ad33-41c1-b7f6-7c2df80daa6d.png",
+        "references": [
+          "/workspace/原设参考/绯英原设.jpg",
+          "/workspace/原设参考/爻光原设_近景.jpg",
+          "/workspace/原设参考/爻光原设_全身.jpg",
+          "/workspace/generated_images/exec-0da016d0-d92e-4b3a-a6e1-871af4564caf.png",
+          "/workspace/绯色难测_第七话/page-09.png"
+        ],
+        "note": "原设3JPG直接供图，校园参考约束服装与场景"
+      }
+    ],
+    "frozen": true
+  },
+  {
+    "page": 5,
+    "file": "page-05.png",
+    "source": "/workspace/generated_images/exec-d2c0f0fb-8254-49cd-8633-3bce492b5255.png",
+    "sources": [
+      "/workspace/generated_images/exec-d2c0f0fb-8254-49cd-8633-3bce492b5255.png"
+    ],
+    "references": [
+      "/workspace/原设参考/绯英原设.jpg",
+      "/workspace/原设参考/爻光原设_近景.jpg",
+      "/workspace/原设参考/爻光原设_全身.jpg",
+      "/workspace/generated_images/exec-0da016d0-d92e-4b3a-a6e1-871af4564caf.png",
+      "/workspace/绯色难测_第七话/page-09.png"
+    ],
+    "bytes": 2758271,
+    "resolution": [
+      1024,
+      1536
+    ],
+    "sha256": "d19b65600ad3fddacd20f853c2d14f1814bcf901e90de38701921127261ef798",
+    "decode": "ok",
+    "visual_review": "作者与独立视觉QA已实际逐格复核通过，原设脸发瞳特征核查正确",
+    "generation_steps": [
+      {
+        "source": "/workspace/generated_images/exec-d2c0f0fb-8254-49cd-8633-3bce492b5255.png",
+        "references": [
+          "/workspace/原设参考/绯英原设.jpg",
+          "/workspace/原设参考/爻光原设_近景.jpg",
+          "/workspace/原设参考/爻光原设_全身.jpg",
+          "/workspace/generated_images/exec-0da016d0-d92e-4b3a-a6e1-871af4564caf.png",
+          "/workspace/绯色难测_第七话/page-09.png"
+        ],
+        "note": "原设3JPG直接供图，校园参考约束服装与场景"
+      }
+    ],
+    "frozen": true
+  },
+  {
+    "page": 6,
+    "file": "page-06.png",
+    "source": "/workspace/generated_images/exec-0d673914-39ec-4e9d-be28-1cb84d5ab259.png",
+    "sources": [
+      "/workspace/generated_images/exec-0d673914-39ec-4e9d-be28-1cb84d5ab259.png"
+    ],
+    "references": [
+      "/workspace/原设参考/绯英原设.jpg",
+      "/workspace/原设参考/爻光原设_近景.jpg",
+      "/workspace/原设参考/爻光原设_全身.jpg",
+      "/workspace/generated_images/exec-0da016d0-d92e-4b3a-a6e1-871af4564caf.png",
+      "/workspace/绯色难测_第七话/page-09.png"
+    ],
+    "bytes": 2679936,
+    "resolution": [
+      1024,
+      1536
+    ],
+    "sha256": "4589537631a0c0588988b3f9a7f41a0e53a18c8f9542dd3b5c148fcbcbcd5954",
+    "decode": "ok",
+    "visual_review": "作者与独立视觉QA已实际逐格复核通过，原设脸发瞳特征核查正确",
+    "generation_steps": [
+      {
+        "source": "/workspace/generated_images/exec-0d673914-39ec-4e9d-be28-1cb84d5ab259.png",
+        "references": [
+          "/workspace/原设参考/绯英原设.jpg",
+          "/workspace/原设参考/爻光原设_近景.jpg",
+          "/workspace/原设参考/爻光原设_全身.jpg",
+          "/workspace/generated_images/exec-0da016d0-d92e-4b3a-a6e1-871af4564caf.png",
+          "/workspace/绯色难测_第七话/page-09.png"
+        ],
+        "note": "原设3JPG直接供图，校园参考约束服装与场景"
+      }
+    ],
+    "frozen": true
+  },
+  {
+    "page": 7,
+    "file": "page-07.png",
+    "source": "/workspace/generated_images/exec-392bac7e-2973-40e8-acda-499f29fce10f.png",
+    "sources": [
+      "/workspace/generated_images/exec-7faab60c-7424-4807-8627-5c7ce16226c9.png",
+      "/workspace/generated_images/exec-392bac7e-2973-40e8-acda-499f29fce10f.png"
+    ],
+    "references": [
+      "/workspace/绯色难测_第七话/page-07.png"
+    ],
+    "bytes": 2519131,
+    "resolution": [
+      1024,
+      1536
+    ],
+    "sha256": "813912918e1101bae6bcb12d58e114d3b136b513c8966345d916c2a98510b830",
+    "decode": "ok",
+    "visual_review": "作者与独立视觉QA已实际逐格复核通过，原设脸发瞳特征核查正确",
+    "generation_steps": [
+      {
+        "source": "/workspace/generated_images/exec-7faab60c-7424-4807-8627-5c7ce16226c9.png",
+        "references": [
+          "/workspace/原设参考/绯英原设.jpg",
+          "/workspace/原设参考/爻光原设_近景.jpg",
+          "/workspace/原设参考/爻光原设_全身.jpg",
+          "/workspace/generated_images/exec-0da016d0-d92e-4b3a-a6e1-871af4564caf.png",
+          "/workspace/绯色难测_第七话/page-09.png"
+        ],
+        "note": "原设与通过09身份建立三瓣歪伞道具锚点"
+      },
+      {
+        "source": "/workspace/generated_images/exec-392bac7e-2973-40e8-acda-499f29fce10f.png",
+        "references": [
+          "/workspace/绯色难测_第七话/page-07.png"
+        ],
+        "edit_target_snapshot": "/workspace/generated_images/exec-7faab60c-7424-4807-8627-5c7ce16226c9.png",
+        "note": "仅清后页错误月份抬头，人物和伞图保持"
+      }
+    ],
+    "frozen": true
+  },
+  {
+    "page": 8,
+    "file": "page-08.png",
+    "source": "/workspace/generated_images/exec-e6bbbbc0-c5bf-4b21-9c66-9c0ae901c3fe.png",
+    "sources": [
+      "/workspace/generated_images/exec-e6bbbbc0-c5bf-4b21-9c66-9c0ae901c3fe.png"
+    ],
+    "references": [
+      "/workspace/原设参考/绯英原设.jpg",
+      "/workspace/原设参考/爻光原设_近景.jpg",
+      "/workspace/原设参考/爻光原设_全身.jpg",
+      "/workspace/generated_images/exec-0da016d0-d92e-4b3a-a6e1-871af4564caf.png",
+      "/workspace/绯色难测_第七话/page-07.png"
+    ],
+    "generation_steps": [
+      {
+        "source": "/workspace/generated_images/exec-e6bbbbc0-c5bf-4b21-9c66-9c0ae901c3fe.png",
+        "references": [
+          "/workspace/原设参考/绯英原设.jpg",
+          "/workspace/原设参考/爻光原设_近景.jpg",
+          "/workspace/原设参考/爻光原设_全身.jpg",
+          "/workspace/generated_images/exec-0da016d0-d92e-4b3a-a6e1-871af4564caf.png",
+          "/workspace/绯色难测_第七话/page-07.png"
+        ],
+        "note": "作者待看，独立QA待审"
+      }
+    ],
+    "bytes": 2519878,
+    "resolution": [
+      1024,
+      1536
+    ],
+    "sha256": "add411a1d56ffc1cd84d0053e3704027f5bbe98ffd76c93d8f0d96e927c54cb7",
+    "decode": "ok",
+    "visual_review": "作者与独立视觉QA已实际逐格复核通过，原设脸发瞳特征核查正确",
+    "frozen": true
+  },
+  {
+    "page": 9,
+    "source": "/workspace/generated_images/exec-7fefdda7-428c-401d-aa38-6279756c50bd.png",
+    "sources": [
+      "/workspace/generated_images/exec-7fefdda7-428c-401d-aa38-6279756c50bd.png"
+    ],
+    "file": "page-09.png",
+    "bytes": 2593096,
+    "resolution": [
+      1024,
+      1536
+    ],
+    "sha256": "b171ae7f7cdd3033e726739f6c8d94fb0f8a34259f40ec39be3e89290dce9eab",
+    "decode": "ok",
+    "references": [
+      "参考/绯英原设.jpg",
+      "参考/爻光原设近景.jpg",
+      "参考/爻光原设全身.jpg",
+      "参考/绯英校园版.png",
+      "参考/第六话夜间工位.png"
+    ],
+    "visual_review": "作者实际查看与ep7_visual_qa独立逐格复核通过，最终冻结",
+    "character_review": "已实际对照用户原设特征与09校正身份锚点，独立视觉QA通过",
+    "notes": "经原设审查与视觉QA双重实际确认的后半人物身份锚点。",
+    "frozen": true
+  },
+  {
+    "page": 10,
+    "source": "/workspace/generated_images/exec-7cac7f0e-9ef9-460b-99e8-6894944f8586.png",
+    "sources": [
+      "/workspace/generated_images/exec-7cac7f0e-9ef9-460b-99e8-6894944f8586.png"
+    ],
+    "file": "page-10.png",
+    "bytes": 2749045,
+    "resolution": [
+      1024,
+      1536
+    ],
+    "sha256": "f10bd0647461b571ac5a8ca3d22165c0490e983a0e0a624b74d58c88170696d2",
+    "decode": "ok",
+    "references": [
+      "参考/绯英原设.jpg",
+      "参考/爻光原设近景.jpg",
+      "参考/绯英校园版.png",
+      "page-09.png",
+      "参考/第六话夜间工位.png"
+    ],
+    "visual_review": "作者实际查看与ep7_visual_qa独立逐格复核通过，最终冻结",
+    "character_review": "已实际对照用户原设特征与09校正身份锚点，独立视觉QA通过",
+    "notes": "126/127递纸、23:03、两杯与钉脚通过；小台历旧伞与07一致。",
+    "frozen": true
+  },
+  {
+    "page": 11,
+    "source": "/workspace/generated_images/exec-2d41aff1-8d2b-4933-932e-f026d0b1f781.png",
+    "sources": [
+      "/workspace/generated_images/exec-2d41aff1-8d2b-4933-932e-f026d0b1f781.png"
+    ],
+    "file": "page-11.png",
+    "bytes": 2697291,
+    "resolution": [
+      1024,
+      1536
+    ],
+    "sha256": "6430ed0d1f4a65d2679bbdf75132614875da4b9ae14a418d5454d893c3344676",
+    "decode": "ok",
+    "references": [
+      "参考/绯英原设.jpg",
+      "参考/爻光原设近景.jpg",
+      "参考/绯英校园版.png",
+      "page-09.png",
+      "参考/第五话课题本.png"
+    ],
+    "visual_review": "作者实际查看与ep7_visual_qa独立逐格复核通过，最终冻结",
+    "character_review": "已实际对照用户原设特征与09校正身份锚点，独立视觉QA通过",
+    "notes": "恰两糖、取画具与灰蓝课题本新内页通过。",
+    "frozen": true
+  },
+  {
+    "page": 12,
+    "source": "/workspace/generated_images/exec-9f32542b-dbc4-471b-88d2-8b64b6e20901.png",
+    "sources": [
+      "/workspace/generated_images/exec-7687e47e-0ea6-4281-8ced-2f401c907eb5.png",
+      "/workspace/generated_images/exec-9f32542b-dbc4-471b-88d2-8b64b6e20901.png"
+    ],
+    "file": "page-12.png",
+    "bytes": 2340114,
+    "resolution": [
+      1024,
+      1536
+    ],
+    "sha256": "29899bf12bae663c4420dd2bda960da50713da8be561d10f395000e33fbb80b4",
+    "decode": "ok",
+    "references": [
+      "/workspace/generated_images/exec-7687e47e-0ea6-4281-8ced-2f401c907eb5.png",
+      "/workspace/generated_images/exec-66b235ff-acfd-469e-89c5-40cbcea6e541.png",
+      "/workspace/绯色难测_第七话/page-09.png"
+    ],
+    "visual_review": "作者实际查看与ep7_visual_qa独立逐格复核通过，最终冻结",
+    "character_review": "已实际对照用户原设特征与09校正身份锚点，独立视觉QA通过",
+    "notes": "仅末格局部修为同墙相邻301左暗/302右暖，台历无错误月份；前3格保留。",
+    "frozen": true
+  },
+  {
+    "page": 13,
+    "source": "/workspace/generated_images/exec-cbb6e459-82a6-4b95-9eb6-56a6dc85d639.png",
+    "sources": [
+      "/workspace/generated_images/exec-1c85b8f9-ac68-4a6f-9a44-7954e9aebf2a.png",
+      "/workspace/generated_images/exec-cbb6e459-82a6-4b95-9eb6-56a6dc85d639.png"
+    ],
+    "file": "page-13.png",
+    "bytes": 2424909,
+    "resolution": [
+      1024,
+      1536
+    ],
+    "sha256": "ec8e3c97ac6e9e08650c479bc3d33cc8c4deafafe38573c30b25d47c388632f9",
+    "decode": "ok",
+    "references": [
+      "/workspace/generated_images/exec-1c85b8f9-ac68-4a6f-9a44-7954e9aebf2a.png",
+      "/workspace/绯色难测_第七话/page-09.png",
+      "/workspace/原设参考/爻光原设_近景.jpg"
+    ],
+    "visual_review": "作者实际查看与ep7_visual_qa独立逐格复核通过，最终冻结",
+    "character_review": "已实际对照用户原设特征与09校正身份锚点，独立视觉QA通过",
+    "notes": "局部去掉挂墙旧伞台历与指令前缀记录：，保留11月/127页/茶字与同一灰蓝本新内页。",
+    "frozen": true
+  },
+  {
+    "page": 14,
+    "source": "/workspace/generated_images/exec-66b235ff-acfd-469e-89c5-40cbcea6e541.png",
+    "sources": [
+      "/workspace/generated_images/exec-ba80b35c-db98-4332-8288-b2d56c2524a2.png",
+      "/workspace/generated_images/exec-66b235ff-acfd-469e-89c5-40cbcea6e541.png"
+    ],
+    "file": "page-14.png",
+    "bytes": 2430672,
+    "resolution": [
+      1024,
+      1536
+    ],
+    "sha256": "a5186f72b59f72579fbdfa8cb8ac77f7f49460eed8529dad2a604903d4976c98",
+    "decode": "ok",
+    "references": [
+      "/workspace/generated_images/exec-ba80b35c-db98-4332-8288-b2d56c2524a2.png",
+      "/workspace/generated_images/exec-a32fbceb-18d1-41b7-8e5f-dc89dbe4d856.png"
+    ],
+    "visual_review": "作者实际查看与ep7_visual_qa独立逐格复核通过，最终冻结",
+    "character_review": "已实际对照用户原设特征与09校正身份锚点，独立视觉QA通过",
+    "notes": "仅首格局部修为同墙相邻301左/302右，两室此时均亮；双伞左正右歪与纸窗保留。",
+    "frozen": true
+  },
+  {
+    "page": 15,
+    "source": "/workspace/generated_images/exec-b376c4ae-ec41-4923-a255-6cc5cfb99717.png",
+    "sources": [
+      "/workspace/generated_images/exec-b376c4ae-ec41-4923-a255-6cc5cfb99717.png"
+    ],
+    "file": "page-15.png",
+    "bytes": 2509782,
+    "resolution": [
+      1024,
+      1536
+    ],
+    "sha256": "6f78bfc35cf5947b1987e09d3c7f6b01490bdf4a29647554a7de8cec277fe5c3",
+    "decode": "ok",
+    "references": [
+      "参考/爻光原设近景.jpg",
+      "page-09.png",
+      "/workspace/generated_images/exec-392bac7e-2973-40e8-acda-499f29fce10f.png",
+      "/workspace/generated_images/exec-ba80b35c-db98-4332-8288-b2d56c2524a2.png",
+      "/workspace/generated_images/exec-a32fbceb-18d1-41b7-8e5f-dc89dbe4d856.png"
+    ],
+    "visual_review": "作者实际查看与ep7_visual_qa独立逐格复核通过，最终冻结",
+    "character_review": "已实际对照用户原设特征与09校正身份锚点，独立视觉QA通过",
+    "notes": "新纸两整伞与旧伞半露/空抬头台历/灰蓝本闭合/302熄灯到301歌声通过。",
+    "frozen": true
+  },
+  {
+    "page": 16,
+    "source": "/workspace/generated_images/exec-a32fbceb-18d1-41b7-8e5f-dc89dbe4d856.png",
+    "sources": [
+      "/workspace/generated_images/exec-a32fbceb-18d1-41b7-8e5f-dc89dbe4d856.png"
+    ],
+    "file": "page-16.png",
+    "bytes": 2131094,
+    "resolution": [
+      1024,
+      1536
+    ],
+    "sha256": "5a91d982723a118dc89fcf503b51acf98e2667e58812e1c83afbcd21fa872096",
+    "decode": "ok",
+    "references": [
+      "参考/爻光原设近景.jpg",
+      "参考/爻光原设全身.jpg",
+      "page-09.png",
+      "参考/第六话夜间工位.png",
+      "参考/绯英校园版.png"
+    ],
+    "visual_review": "作者实际查看与ep7_visual_qa独立逐格复核通过，最终冻结",
+    "character_review": "已实际对照用户原设特征与09校正身份锚点，独立视觉QA通过",
+    "notes": "清醒虹彩眼与外翘侧束、301歌声/不回应/裸右握凉栏/下楼卷一完成立。",
+    "frozen": true
+  }
+]

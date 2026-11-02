@@ -1,0 +1,630 @@
+{
+  "episode": 7,
+  "title": "课题",
+  "requested_focus": "继续创作，并注意角色与用户原设的差距",
+  "status": "原设与近作9图实际比对、01/09独立身份锚点实际复核完成；第七话最终16页的全页复核结果已按ep7_visual_qa真实结论和冻结SHA登记。本代理不宣称亲看全部16页。",
+  "scope": "校正第七话后续画面，不改写或重新生成既有六话，不撤回用户确认的校园服装",
+  "evidence": [
+    {
+      "id": "original_feiying",
+      "workspace_path": "/workspace/原设参考/绯英原设.jpg",
+      "sha256": "8ec0576d31814a4f0d54c067b4375b25f5510671823c4d41706cc33b55a346da",
+      "actual_view_completed": true,
+      "usage": "用户原设，角色识别的首要依据",
+      "matching_in_package_reference_files": [
+        "参考/绯英原设.jpg"
+      ],
+      "archive_execution_dependency": false
+    },
+    {
+      "id": "original_yaoguang_close",
+      "workspace_path": "/workspace/原设参考/爻光原设_近景.jpg",
+      "sha256": "1c14724f3bd1ab2f0bbef92ca17250015f810b00d6ed8c72d86e564c2b51c82e",
+      "actual_view_completed": true,
+      "usage": "用户原设，刘海、侧束、眼睛与羽饰依据",
+      "matching_in_package_reference_files": [
+        "参考/爻光原设近景.jpg"
+      ],
+      "archive_execution_dependency": false
+    },
+    {
+      "id": "original_yaoguang_full",
+      "workspace_path": "/workspace/原设参考/爻光原设_全身.jpg",
+      "sha256": "8222e86042d6637460243ee623098453319f1e679fa64605095ecf0b6d795313",
+      "actual_view_completed": true,
+      "usage": "用户原设，长后发与整体轮廓依据",
+      "matching_in_package_reference_files": [
+        "参考/爻光原设全身.jpg"
+      ],
+      "archive_execution_dependency": false
+    },
+    {
+      "id": "approved_school_feiying",
+      "workspace_path": "/workspace/generated_images/exec-0da016d0-d92e-4b3a-a6e1-871af4564caf.png",
+      "sha256": "ec5fc61315815a3ed01fa50b4e11a64064b5640893d971b79312e48ffc2ac33c",
+      "actual_view_completed": true,
+      "usage": "用户确认的校园服装与长后束形式",
+      "matching_in_package_reference_files": [
+        "参考/绯英校园版.png"
+      ],
+      "archive_execution_dependency": false
+    },
+    {
+      "id": "approved_school_yaoguang",
+      "workspace_path": "/workspace/generated_images/exec-3d62ffe0-de12-4322-98e5-6accd0e3d032.png",
+      "sha256": "e3199298f546addb59d88bba5f624976fcdb70e8858f80327f1e4ab2f1d55f0d",
+      "actual_view_completed": true,
+      "usage": "仅服装与头发设计参考；图内交光与写字右腕玉镯为已知错误，禁止模仿",
+      "matching_in_package_reference_files": [],
+      "archive_execution_dependency": false
+    },
+    {
+      "id": "episode6_01",
+      "workspace_path": "/workspace/绯色难测_第六话/page-01.png",
+      "sha256": "444798bca0cea7c10a5ec67842665a17b019b69a709f8d2ebd7e19b9993b25cf",
+      "actual_view_completed": true,
+      "usage": "近作角色与头发轮廓取样",
+      "matching_in_package_reference_files": [],
+      "archive_execution_dependency": false
+    },
+    {
+      "id": "episode6_08",
+      "workspace_path": "/workspace/绯色难测_第六话/page-08.png",
+      "sha256": "f292dbd522543bc795d05ef2e29ab65fb1a91280e25d49dad8efbe3685045c29",
+      "actual_view_completed": true,
+      "usage": "近作三分之二面部与侧背轮廓取样",
+      "matching_in_package_reference_files": [],
+      "archive_execution_dependency": false
+    },
+    {
+      "id": "episode6_14",
+      "workspace_path": "/workspace/绯色难测_第六话/page-14.png",
+      "sha256": "123f8f48c45c730cd70e9cf361f0a23b61bfec55325eee457f5e7d2d024a99e3",
+      "actual_view_completed": true,
+      "usage": "近作双人正面脸、眼睛与体态取样",
+      "matching_in_package_reference_files": [],
+      "archive_execution_dependency": false
+    },
+    {
+      "id": "episode6_16",
+      "workspace_path": "/workspace/绯色难测_第六话/page-16.png",
+      "sha256": "9b5beecad83c7530bbe932235c2abd3530d7f65e3d1a4de1339c00f775386e2c",
+      "actual_view_completed": true,
+      "usage": "近作夜景与安静表情取样",
+      "matching_in_package_reference_files": [
+        "参考/第六话夜间工位.png"
+      ],
+      "archive_execution_dependency": false
+    }
+  ],
+  "overall_finding": {
+    "verdict": "近作仍可识别为两人，配色与饰物大体保留；但面部气质和头部短层轮廓有可见泛化，应在第七话有针对性校正。",
+    "high_priority": [
+      "绯英脸周短碎外翻发束与短蓬发冠要清楚，不能让长后束接管整个头型",
+      "爻光弯碎刘海与外翘侧束要清楚，虹彩紫青瞳不能被暖光全部压成灰紫",
+      "两人的默认面部气质区分：绯英机灵有动势，爻光清醒克制；安静情节允许柔和但不能成为同一种温柔模板脸"
+    ],
+    "not_a_fault": [
+      "已确认的校园服装与中长裙属于授权改编",
+      "绯英已批校园长后束可以保留，问题是脸周短层被弱化，不要求把全部头发剪成短发",
+      "爻光全身原设本来有长后发，不应因近景像短发而把她全剪短",
+      "低头、疲倦、静默是本章合理表情，不要求每格都挑眉或露出狡黠笑容",
+      "暖光与侧面会改变局部亮度，不把每个受光差别都判断成换瞳色"
+    ]
+  },
+  "characters": {
+    "绯英": {
+      "original_identity": {
+        "hair": "浅樱粉基色；蓬松短碎发冠；围着脸颊与下颌外翻的尖发束；长鬓发/后侧长束与短头部轮廓分层",
+        "face": "短而利落的成年动漫鹅蛋/微尖下颌脸；清醒的略上挑上眼线；紫罗兰/紫水晶瞳，允许很小暖金高光",
+        "accessories": "红蝴蝶结与樱花形发夹；保留识别位置和形状，不用真兔耳替代发饰",
+        "demeanor": "有机灵和行动感，可笑、可认真、可短暂犹豫，不套固定温婉笑脸",
+        "build": "成年、纤细灵活的动漫比例；服装不把身材再次夸张放大"
+      },
+      "approved_campus_changes": [
+        "莓红短开衫、米白衬衫、独立高腰深蓝A字中长裙、深色裤袜、黑便鞋、小深蓝肩包",
+        "校园长后束与较现实服装细节保留",
+        "不恢复吊带裙、背带、原幻想披摆和真动物耳尾"
+      ],
+      "observed_drift": [
+        {
+          "evidence": [
+            "episode6_14",
+            "episode6_16"
+          ],
+          "observation": "长后束、细长垂发占比提高，脸周短碎外翻发束较原设/已批表情图弱；柔和微笑与半垂眼睑令原设的机灵感降低。",
+          "correction": "保留长后束，明确突出短发冠和至少两层脸周外翻发束；按情境画认真/笑意，默认眼型不要全部下垂。"
+        },
+        {
+          "evidence": [
+            "episode6_01",
+            "episode6_14"
+          ],
+          "observation": "暖光中发色比用户原设更艳，部分区域接近玫红；并非整张已变色，但不宜再向开衫的酒红色漂移。",
+          "correction": "把头发基色锁定浅樱粉，保留浅亮发面；暖反光只作为局部受光。"
+        }
+      ],
+      "hard_constraints": [
+        "头顶短蓬层与脸周外翻轮廓在可见正面/三分之二头像中清楚",
+        "紫水晶瞳在有足够像素的睁眼近景中可辨，不改纯红/纯蓝/灰瞳",
+        "红蝴蝶结、樱花夹保持，不加真实兔耳或动物尾",
+        "解剖右手白色全指手套，解剖左手黑色露指手套；手背局部露肤须有合理露指开口/袖腕裁切",
+        "衣服保持已批分体开衫、衬衣和半裙，不复原吊带裙或学生制服"
+      ]
+    },
+    "爻光": {
+      "original_identity": {
+        "hair": "银白基色、冷蓝紫阴影；额前弯曲分开的碎刘海；太阳穴至脸侧有明显向外翘的羽状分层发束；保留长后发",
+        "face": "利落的成年动漫脸，清醒杏眼；虹彩以紫/青为主并有少量暖金；表情克制，原设有一点从容会意，不是全程困倦或慈母式微笑",
+        "accessories": "解剖右太阳穴孔雀羽饰、少量金色垂饰；校园版左肩深蓝披巾",
+        "build": "成年修长比例，不因教师身份加重现实衰老或夸张胸腰"
+      },
+      "approved_campus_changes": [
+        "米白西装、白立领中长裙、青蓝细腰带、左肩深蓝披巾、灰低跟鞋",
+        "原幻想孔雀羽意象压为右侧发饰/披巾配色，不恢复巨大羽尾披摆",
+        "双手裸手，唯一旧玉镯在解剖左腕；右腕空净",
+        "原设长尖甲、层叠臂饰等可因校园工作简化，不要求恢复；身份主要靠头发、虹膜和羽饰识别"
+      ],
+      "observed_drift": [
+        {
+          "evidence": [
+            "episode6_14",
+            "episode6_16"
+          ],
+          "observation": "暖光与柔和处理使虹彩层次更接近普通灰紫瞳；大多数表情趋向相同的温柔半垂眼。",
+          "correction": "在近景保留可辨紫青虹彩与少量暖金高光，清醒眼型与克制表情区分于绯英；允许真正低头或静默的情节表情。"
+        },
+        {
+          "evidence": [
+            "episode6_01",
+            "episode6_14",
+            "episode6_16"
+          ],
+          "observation": "弯碎刘海、外翘侧束仍存在，但体积和层次较原设近景及已批表情图更柔，长卷发更抢轮廓。",
+          "correction": "强化额前独立弯束与脸侧两三层外翘尖束，不能只靠银白长发和孔雀夹认人。"
+        }
+      ],
+      "hard_constraints": [
+        "可见近景保留独立弯碎刘海与外翘侧束，不画成通用顺滑银白大波浪",
+        "虹彩紫青眼在睁眼近景可辨，不变纯灰、纯红或完全同绯英的单紫瞳",
+        "虹彩是普通虹膜色与反光，不自发光、不画法术光芒或星空投射",
+        "羽饰在解剖右太阳穴，披巾在左肩；不镜像互换",
+        "双手裸手，解剖左腕唯一玉镯，解剖右腕无手镯/手表",
+        "姓名写爻光；旧校园sheet标题交光为错误，不是原设；正文自然叫主任可用，签名可合理裁切但不得写错姓名"
+      ]
+    }
+  },
+  "prompt_inserts": {
+    "feiying": "Adult Feiying: light cherry-pink hair, SHORT FLUFFY LAYERED CROWN and jagged outward-flipped cheek/jaw framing locks; the approved longer nape/side ribbons remain separate behind that short head silhouette. Do not turn all face-framing hair into smooth waist-length tresses. Bright amethyst-violet eyes, alert slightly upturned upper lids, short youthful ADULT pointed-oval face, lively perceptive expression when appropriate. Red bow and blossom clip; no real rabbit ears or tail. Keep the approved modern school-teacher outfit and right WHITE full glove / left BLACK fingerless glove.",
+    "yaoguang": "Adult Yaoguang: silver-white crown and long back hair in cool blue-lilac shadows, distinct CURVED SEPARATED FOREHEAD BANGS and outward-flipped feather-like cheek/temple side tufts, not generic smooth silver waves. Clearly colored violet/cyan iris with restrained warm-gold highlights; these are natural iris pigments and reflections, NOT self-emitting or magical glowing eyes, almond alert eyes, composed subtly knowing expression when appropriate, not a fixed droopy sleepy maternal smile. Right-temple peacock clasp and left-shoulder navy scarf. Bare hands; jade LEFT wrist only, RIGHT wrist empty.",
+    "scene_permission": "Preserve facial identity while respecting the scene: quiet attention, fatigue, hesitation and brief smiles are allowed. Do not force a mischievous grin or eyebrow pose into every panel. No hearts, instant confession or added touching."
+  },
+  "qa_rules": [
+    "每页真实打开最终PNG后再填通过，不按prompt当成成品",
+    "角色没有出镜/眼睛闭合/细节在画外时用not_visible，不强补饰物或凭空认定缺失",
+    "修图后要再打开整页核对，保持正文/手饰/脸型同时成立",
+    "细小受光差别与远景像素简化不是自动返工理由；只有清楚可见的身份特征漂移才判必修",
+    "第七话生成时原设至少应作为同人身份参照，近作只负责校园服装和场景，不能只把近作互相当唯一模板"
+  ],
+  "actual_episode_review": {
+    "stage": "最终十六页全部通过并冻结",
+    "page_count": 16,
+    "panel_count": 72,
+    "full_page_reviewer": "/root/ep7_visual_qa",
+    "identity_anchor_auditor": "/root/ep7_character_audit",
+    "identity_anchor_checks": [
+      {
+        "page": 1,
+        "file": "page-01.png",
+        "sha256": "cbb6e19546ae63dceaa782b1214fa62a331db3af516a14f1ededb41a7f6651c4",
+        "source": "/workspace/generated_images/exec-5e7f0af8-9743-4193-a4e3-2404a0787520.png",
+        "actual_viewed_by": "/root/ep7_character_audit",
+        "identity_decision": "passed_after_actual_reopen_of_revision",
+        "original_reference_compared": true,
+        "feiying_identity": "短蓬发冠、外翻脸周短束、独立细长后束、紫水晶眼、红弓与花夹成立",
+        "yaoguang_identity": "分开的弯碎刘海、外翘侧束、正常紫青虹彩与清醒眼型成立",
+        "scene_expression": "疲倦叹气/安静树话题均为原文情境，不强制笑或挑眉",
+        "other_page_review": "visual_qa最终整页复核通过；本代理亲看身份锚点的SHA与最终冻结PNG一致。",
+        "revision_history": [
+          {
+            "page": 1,
+            "file": "page-01.png",
+            "sha256": "71ce7e6cf65635f10b8b02711f81bc6cce7c53f76f5aa041842e2901ae97a8b8",
+            "source": "/workspace/generated_images/exec-5e8ba7ab-02d2-475f-9a91-f43ce898c19d.png",
+            "actual_viewed_by": "/root/ep7_character_audit",
+            "identity_decision": "passed",
+            "original_reference_compared": true,
+            "feiying_identity": "短蓬发冠、外翻脸周短束、独立细长后束、紫水晶眼、红弓与花夹成立",
+            "yaoguang_identity": "分开的弯碎刘海、外翘侧束、正常紫青虹彩与清醒眼型成立",
+            "scene_expression": "疲倦叹气/安静树话题均为原文情境，不强制笑或挑眉",
+            "other_page_review": "01墙历提前伞雪由画师局修，完整剧情仍以visual_qa最后结论为准"
+          }
+        ]
+      },
+      {
+        "page": 9,
+        "file": "page-09.png",
+        "sha256": "b171ae7f7cdd3033e726739f6c8d94fb0f8a34259f40ec39be3e89290dce9eab",
+        "source": "/workspace/generated_images/exec-7fefdda7-428c-401d-aa38-6279756c50bd.png",
+        "actual_viewed_by": "/root/ep7_character_audit",
+        "identity_decision": "passed",
+        "original_reference_compared": true,
+        "feiying_identity": "短蓬发冠、外翻脸周短束、独立细长后束、紫水晶眼、红弓与花夹成立",
+        "yaoguang_identity": "分开的弯碎刘海、外翘侧束、正常紫青虹彩与清醒眼型成立",
+        "scene_expression": "疲倦叹气/安静树话题均为原文情境，不强制笑或挑眉",
+        "other_page_review": "visual_qa最终整页复核通过；本代理亲看身份锚点的SHA与最终冻结PNG一致。"
+      }
+    ],
+    "final_pages": [
+      {
+        "page": 1,
+        "file": "page-01.png",
+        "current_source": "/workspace/generated_images/exec-5e7f0af8-9743-4193-a4e3-2404a0787520.png",
+        "sha256": "cbb6e19546ae63dceaa782b1214fa62a331db3af516a14f1ededb41a7f6651c4",
+        "actual_final_png_viewed": true,
+        "full_page_reviewer": "/root/ep7_visual_qa",
+        "review_basis": "原设、用户已确认的校园版、本文件角色核对标准及本章场景要求",
+        "visible_character_identity": "passed",
+        "approved_campus_outfits_and_adult_proportions": "passed_where_visible",
+        "glove_and_wrist_sides": "passed_where_visible",
+        "scene_expression": "passed_with_contextual_fatigue_silence_and_brief_smiles_allowed",
+        "visibility_qualification": "只要求可见范围内的身份特征；闭眼、反打、未出镜与裁切项不凭空补画。逐页结果按命名全页复核者的最终结论登记，不冒称本审查代理亲看全部16页。",
+        "character_auditor_personally_viewed_this_final_png": true,
+        "identity_anchor_basis": [
+          1,
+          9
+        ],
+        "must_fix": [],
+        "decision": "passed_on_frozen_final_png"
+      },
+      {
+        "page": 2,
+        "file": "page-02.png",
+        "current_source": "/workspace/generated_images/exec-c2fb8558-ea8d-46dc-adc9-c1c50c4490a9.png",
+        "sha256": "2bf19f6b83da6c478e07e688f251fe29e5c0e1909a4a72397fe4ffc4f8a6ae14",
+        "actual_final_png_viewed": true,
+        "full_page_reviewer": "/root/ep7_visual_qa",
+        "review_basis": "原设、用户已确认的校园版、本文件角色核对标准及本章场景要求",
+        "visible_character_identity": "passed",
+        "approved_campus_outfits_and_adult_proportions": "passed_where_visible",
+        "glove_and_wrist_sides": "passed_where_visible",
+        "scene_expression": "passed_with_contextual_fatigue_silence_and_brief_smiles_allowed",
+        "visibility_qualification": "只要求可见范围内的身份特征；闭眼、反打、未出镜与裁切项不凭空补画。逐页结果按命名全页复核者的最终结论登记，不冒称本审查代理亲看全部16页。",
+        "character_auditor_personally_viewed_this_final_png": false,
+        "identity_anchor_basis": [
+          1,
+          9
+        ],
+        "must_fix": [],
+        "decision": "passed_on_frozen_final_png"
+      },
+      {
+        "page": 3,
+        "file": "page-03.png",
+        "current_source": "/workspace/generated_images/exec-7d692506-b84d-4970-85c7-b4228097b3ba.png",
+        "sha256": "5193f1fdae14faf195e395a58d895781c93f04ef8dc93893dd133dd71d2aed3c",
+        "actual_final_png_viewed": true,
+        "full_page_reviewer": "/root/ep7_visual_qa",
+        "review_basis": "原设、用户已确认的校园版、本文件角色核对标准及本章场景要求",
+        "visible_character_identity": "passed",
+        "approved_campus_outfits_and_adult_proportions": "passed_where_visible",
+        "glove_and_wrist_sides": "passed_where_visible",
+        "scene_expression": "passed_with_contextual_fatigue_silence_and_brief_smiles_allowed",
+        "visibility_qualification": "只要求可见范围内的身份特征；闭眼、反打、未出镜与裁切项不凭空补画。逐页结果按命名全页复核者的最终结论登记，不冒称本审查代理亲看全部16页。",
+        "character_auditor_personally_viewed_this_final_png": false,
+        "identity_anchor_basis": [
+          1,
+          9
+        ],
+        "must_fix": [],
+        "decision": "passed_on_frozen_final_png"
+      },
+      {
+        "page": 4,
+        "file": "page-04.png",
+        "current_source": "/workspace/generated_images/exec-ad418a21-ad33-41c1-b7f6-7c2df80daa6d.png",
+        "sha256": "d6b2df60fb9e41a2c62dc2c96a187f6d33969feca7d2730adc8faea21480da93",
+        "actual_final_png_viewed": true,
+        "full_page_reviewer": "/root/ep7_visual_qa",
+        "review_basis": "原设、用户已确认的校园版、本文件角色核对标准及本章场景要求",
+        "visible_character_identity": "passed",
+        "approved_campus_outfits_and_adult_proportions": "passed_where_visible",
+        "glove_and_wrist_sides": "passed_where_visible",
+        "scene_expression": "passed_with_contextual_fatigue_silence_and_brief_smiles_allowed",
+        "visibility_qualification": "只要求可见范围内的身份特征；闭眼、反打、未出镜与裁切项不凭空补画。逐页结果按命名全页复核者的最终结论登记，不冒称本审查代理亲看全部16页。",
+        "character_auditor_personally_viewed_this_final_png": false,
+        "identity_anchor_basis": [
+          1,
+          9
+        ],
+        "must_fix": [],
+        "decision": "passed_on_frozen_final_png"
+      },
+      {
+        "page": 5,
+        "file": "page-05.png",
+        "current_source": "/workspace/generated_images/exec-d2c0f0fb-8254-49cd-8633-3bce492b5255.png",
+        "sha256": "d19b65600ad3fddacd20f853c2d14f1814bcf901e90de38701921127261ef798",
+        "actual_final_png_viewed": true,
+        "full_page_reviewer": "/root/ep7_visual_qa",
+        "review_basis": "原设、用户已确认的校园版、本文件角色核对标准及本章场景要求",
+        "visible_character_identity": "passed",
+        "approved_campus_outfits_and_adult_proportions": "passed_where_visible",
+        "glove_and_wrist_sides": "passed_where_visible",
+        "scene_expression": "passed_with_contextual_fatigue_silence_and_brief_smiles_allowed",
+        "visibility_qualification": "只要求可见范围内的身份特征；闭眼、反打、未出镜与裁切项不凭空补画。逐页结果按命名全页复核者的最终结论登记，不冒称本审查代理亲看全部16页。",
+        "character_auditor_personally_viewed_this_final_png": false,
+        "identity_anchor_basis": [
+          1,
+          9
+        ],
+        "must_fix": [],
+        "decision": "passed_on_frozen_final_png"
+      },
+      {
+        "page": 6,
+        "file": "page-06.png",
+        "current_source": "/workspace/generated_images/exec-0d673914-39ec-4e9d-be28-1cb84d5ab259.png",
+        "sha256": "4589537631a0c0588988b3f9a7f41a0e53a18c8f9542dd3b5c148fcbcbcd5954",
+        "actual_final_png_viewed": true,
+        "full_page_reviewer": "/root/ep7_visual_qa",
+        "review_basis": "原设、用户已确认的校园版、本文件角色核对标准及本章场景要求",
+        "visible_character_identity": "passed",
+        "approved_campus_outfits_and_adult_proportions": "passed_where_visible",
+        "glove_and_wrist_sides": "passed_where_visible",
+        "scene_expression": "passed_with_contextual_fatigue_silence_and_brief_smiles_allowed",
+        "visibility_qualification": "只要求可见范围内的身份特征；闭眼、反打、未出镜与裁切项不凭空补画。逐页结果按命名全页复核者的最终结论登记，不冒称本审查代理亲看全部16页。",
+        "character_auditor_personally_viewed_this_final_png": false,
+        "identity_anchor_basis": [
+          1,
+          9
+        ],
+        "must_fix": [],
+        "decision": "passed_on_frozen_final_png"
+      },
+      {
+        "page": 7,
+        "file": "page-07.png",
+        "current_source": "/workspace/generated_images/exec-392bac7e-2973-40e8-acda-499f29fce10f.png",
+        "sha256": "813912918e1101bae6bcb12d58e114d3b136b513c8966345d916c2a98510b830",
+        "actual_final_png_viewed": true,
+        "full_page_reviewer": "/root/ep7_visual_qa",
+        "review_basis": "原设、用户已确认的校园版、本文件角色核对标准及本章场景要求",
+        "visible_character_identity": "passed",
+        "approved_campus_outfits_and_adult_proportions": "passed_where_visible",
+        "glove_and_wrist_sides": "passed_where_visible",
+        "scene_expression": "passed_with_contextual_fatigue_silence_and_brief_smiles_allowed",
+        "visibility_qualification": "只要求可见范围内的身份特征；闭眼、反打、未出镜与裁切项不凭空补画。逐页结果按命名全页复核者的最终结论登记，不冒称本审查代理亲看全部16页。",
+        "character_auditor_personally_viewed_this_final_png": false,
+        "identity_anchor_basis": [
+          1,
+          9
+        ],
+        "must_fix": [],
+        "decision": "passed_on_frozen_final_png"
+      },
+      {
+        "page": 8,
+        "file": "page-08.png",
+        "current_source": "/workspace/generated_images/exec-e6bbbbc0-c5bf-4b21-9c66-9c0ae901c3fe.png",
+        "sha256": "add411a1d56ffc1cd84d0053e3704027f5bbe98ffd76c93d8f0d96e927c54cb7",
+        "actual_final_png_viewed": true,
+        "full_page_reviewer": "/root/ep7_visual_qa",
+        "review_basis": "原设、用户已确认的校园版、本文件角色核对标准及本章场景要求",
+        "visible_character_identity": "passed",
+        "approved_campus_outfits_and_adult_proportions": "passed_where_visible",
+        "glove_and_wrist_sides": "passed_where_visible",
+        "scene_expression": "passed_with_contextual_fatigue_silence_and_brief_smiles_allowed",
+        "visibility_qualification": "只要求可见范围内的身份特征；闭眼、反打、未出镜与裁切项不凭空补画。逐页结果按命名全页复核者的最终结论登记，不冒称本审查代理亲看全部16页。",
+        "character_auditor_personally_viewed_this_final_png": false,
+        "identity_anchor_basis": [
+          1,
+          9
+        ],
+        "must_fix": [],
+        "decision": "passed_on_frozen_final_png"
+      },
+      {
+        "page": 9,
+        "file": "page-09.png",
+        "current_source": "/workspace/generated_images/exec-7fefdda7-428c-401d-aa38-6279756c50bd.png",
+        "sha256": "b171ae7f7cdd3033e726739f6c8d94fb0f8a34259f40ec39be3e89290dce9eab",
+        "actual_final_png_viewed": true,
+        "full_page_reviewer": "/root/ep7_visual_qa",
+        "review_basis": "原设、用户已确认的校园版、本文件角色核对标准及本章场景要求",
+        "visible_character_identity": "passed",
+        "approved_campus_outfits_and_adult_proportions": "passed_where_visible",
+        "glove_and_wrist_sides": "passed_where_visible",
+        "scene_expression": "passed_with_contextual_fatigue_silence_and_brief_smiles_allowed",
+        "visibility_qualification": "只要求可见范围内的身份特征；闭眼、反打、未出镜与裁切项不凭空补画。逐页结果按命名全页复核者的最终结论登记，不冒称本审查代理亲看全部16页。",
+        "character_auditor_personally_viewed_this_final_png": true,
+        "identity_anchor_basis": [
+          1,
+          9
+        ],
+        "must_fix": [],
+        "decision": "passed_on_frozen_final_png"
+      },
+      {
+        "page": 10,
+        "file": "page-10.png",
+        "current_source": "/workspace/generated_images/exec-7cac7f0e-9ef9-460b-99e8-6894944f8586.png",
+        "sha256": "f10bd0647461b571ac5a8ca3d22165c0490e983a0e0a624b74d58c88170696d2",
+        "actual_final_png_viewed": true,
+        "full_page_reviewer": "/root/ep7_visual_qa",
+        "review_basis": "原设、用户已确认的校园版、本文件角色核对标准及本章场景要求",
+        "visible_character_identity": "passed",
+        "approved_campus_outfits_and_adult_proportions": "passed_where_visible",
+        "glove_and_wrist_sides": "passed_where_visible",
+        "scene_expression": "passed_with_contextual_fatigue_silence_and_brief_smiles_allowed",
+        "visibility_qualification": "只要求可见范围内的身份特征；闭眼、反打、未出镜与裁切项不凭空补画。逐页结果按命名全页复核者的最终结论登记，不冒称本审查代理亲看全部16页。",
+        "character_auditor_personally_viewed_this_final_png": false,
+        "identity_anchor_basis": [
+          1,
+          9
+        ],
+        "must_fix": [],
+        "decision": "passed_on_frozen_final_png"
+      },
+      {
+        "page": 11,
+        "file": "page-11.png",
+        "current_source": "/workspace/generated_images/exec-2d41aff1-8d2b-4933-932e-f026d0b1f781.png",
+        "sha256": "6430ed0d1f4a65d2679bbdf75132614875da4b9ae14a418d5454d893c3344676",
+        "actual_final_png_viewed": true,
+        "full_page_reviewer": "/root/ep7_visual_qa",
+        "review_basis": "原设、用户已确认的校园版、本文件角色核对标准及本章场景要求",
+        "visible_character_identity": "passed",
+        "approved_campus_outfits_and_adult_proportions": "passed_where_visible",
+        "glove_and_wrist_sides": "passed_where_visible",
+        "scene_expression": "passed_with_contextual_fatigue_silence_and_brief_smiles_allowed",
+        "visibility_qualification": "只要求可见范围内的身份特征；闭眼、反打、未出镜与裁切项不凭空补画。逐页结果按命名全页复核者的最终结论登记，不冒称本审查代理亲看全部16页。",
+        "character_auditor_personally_viewed_this_final_png": false,
+        "identity_anchor_basis": [
+          1,
+          9
+        ],
+        "must_fix": [],
+        "decision": "passed_on_frozen_final_png"
+      },
+      {
+        "page": 12,
+        "file": "page-12.png",
+        "current_source": "/workspace/generated_images/exec-9f32542b-dbc4-471b-88d2-8b64b6e20901.png",
+        "sha256": "29899bf12bae663c4420dd2bda960da50713da8be561d10f395000e33fbb80b4",
+        "actual_final_png_viewed": true,
+        "full_page_reviewer": "/root/ep7_visual_qa",
+        "review_basis": "原设、用户已确认的校园版、本文件角色核对标准及本章场景要求",
+        "visible_character_identity": "passed",
+        "approved_campus_outfits_and_adult_proportions": "passed_where_visible",
+        "glove_and_wrist_sides": "passed_where_visible",
+        "scene_expression": "passed_with_contextual_fatigue_silence_and_brief_smiles_allowed",
+        "visibility_qualification": "只要求可见范围内的身份特征；闭眼、反打、未出镜与裁切项不凭空补画。逐页结果按命名全页复核者的最终结论登记，不冒称本审查代理亲看全部16页。",
+        "character_auditor_personally_viewed_this_final_png": false,
+        "identity_anchor_basis": [
+          1,
+          9
+        ],
+        "must_fix": [],
+        "decision": "passed_on_frozen_final_png"
+      },
+      {
+        "page": 13,
+        "file": "page-13.png",
+        "current_source": "/workspace/generated_images/exec-cbb6e459-82a6-4b95-9eb6-56a6dc85d639.png",
+        "sha256": "ec8e3c97ac6e9e08650c479bc3d33cc8c4deafafe38573c30b25d47c388632f9",
+        "actual_final_png_viewed": true,
+        "full_page_reviewer": "/root/ep7_visual_qa",
+        "review_basis": "原设、用户已确认的校园版、本文件角色核对标准及本章场景要求",
+        "visible_character_identity": "passed",
+        "approved_campus_outfits_and_adult_proportions": "passed_where_visible",
+        "glove_and_wrist_sides": "passed_where_visible",
+        "scene_expression": "passed_with_contextual_fatigue_silence_and_brief_smiles_allowed",
+        "visibility_qualification": "只要求可见范围内的身份特征；闭眼、反打、未出镜与裁切项不凭空补画。逐页结果按命名全页复核者的最终结论登记，不冒称本审查代理亲看全部16页。",
+        "character_auditor_personally_viewed_this_final_png": false,
+        "identity_anchor_basis": [
+          1,
+          9
+        ],
+        "must_fix": [],
+        "decision": "passed_on_frozen_final_png"
+      },
+      {
+        "page": 14,
+        "file": "page-14.png",
+        "current_source": "/workspace/generated_images/exec-66b235ff-acfd-469e-89c5-40cbcea6e541.png",
+        "sha256": "a5186f72b59f72579fbdfa8cb8ac77f7f49460eed8529dad2a604903d4976c98",
+        "actual_final_png_viewed": true,
+        "full_page_reviewer": "/root/ep7_visual_qa",
+        "review_basis": "原设、用户已确认的校园版、本文件角色核对标准及本章场景要求",
+        "visible_character_identity": "passed",
+        "approved_campus_outfits_and_adult_proportions": "passed_where_visible",
+        "glove_and_wrist_sides": "passed_where_visible",
+        "scene_expression": "passed_with_contextual_fatigue_silence_and_brief_smiles_allowed",
+        "visibility_qualification": "只要求可见范围内的身份特征；闭眼、反打、未出镜与裁切项不凭空补画。逐页结果按命名全页复核者的最终结论登记，不冒称本审查代理亲看全部16页。",
+        "character_auditor_personally_viewed_this_final_png": false,
+        "identity_anchor_basis": [
+          1,
+          9
+        ],
+        "must_fix": [],
+        "decision": "passed_on_frozen_final_png"
+      },
+      {
+        "page": 15,
+        "file": "page-15.png",
+        "current_source": "/workspace/generated_images/exec-b376c4ae-ec41-4923-a255-6cc5cfb99717.png",
+        "sha256": "6f78bfc35cf5947b1987e09d3c7f6b01490bdf4a29647554a7de8cec277fe5c3",
+        "actual_final_png_viewed": true,
+        "full_page_reviewer": "/root/ep7_visual_qa",
+        "review_basis": "原设、用户已确认的校园版、本文件角色核对标准及本章场景要求",
+        "visible_character_identity": "passed",
+        "approved_campus_outfits_and_adult_proportions": "passed_where_visible",
+        "glove_and_wrist_sides": "passed_where_visible",
+        "scene_expression": "passed_with_contextual_fatigue_silence_and_brief_smiles_allowed",
+        "visibility_qualification": "只要求可见范围内的身份特征；闭眼、反打、未出镜与裁切项不凭空补画。逐页结果按命名全页复核者的最终结论登记，不冒称本审查代理亲看全部16页。",
+        "character_auditor_personally_viewed_this_final_png": false,
+        "identity_anchor_basis": [
+          1,
+          9
+        ],
+        "must_fix": [],
+        "decision": "passed_on_frozen_final_png"
+      },
+      {
+        "page": 16,
+        "file": "page-16.png",
+        "current_source": "/workspace/generated_images/exec-a32fbceb-18d1-41b7-8e5f-dc89dbe4d856.png",
+        "sha256": "5a91d982723a118dc89fcf503b51acf98e2667e58812e1c83afbcd21fa872096",
+        "actual_final_png_viewed": true,
+        "full_page_reviewer": "/root/ep7_visual_qa",
+        "review_basis": "原设、用户已确认的校园版、本文件角色核对标准及本章场景要求",
+        "visible_character_identity": "passed",
+        "approved_campus_outfits_and_adult_proportions": "passed_where_visible",
+        "glove_and_wrist_sides": "passed_where_visible",
+        "scene_expression": "passed_with_contextual_fatigue_silence_and_brief_smiles_allowed",
+        "visibility_qualification": "只要求可见范围内的身份特征；闭眼、反打、未出镜与裁切项不凭空补画。逐页结果按命名全页复核者的最终结论登记，不冒称本审查代理亲看全部16页。",
+        "character_auditor_personally_viewed_this_final_png": false,
+        "identity_anchor_basis": [
+          1,
+          9
+        ],
+        "must_fix": [],
+        "decision": "passed_on_frozen_final_png"
+      }
+    ],
+    "final_status": "completed_and_frozen",
+    "artist_records_locked": true,
+    "current_source_records_match_final_png": true,
+    "character_identity_correction_sustained": true,
+    "remaining_must_fix": [],
+    "final_qa_confirmation": "ep7_visual_qa明确确认01-16全16页实际打开，所有局修最终版本逐张复看，角色纠偏全册保持，无剩余必改。前后作者随后分别正式冻结当前source/sha与PNG。",
+    "review_claim_policy": "原设审查代理亲看3原设+2校园版+第6话4张取样，并独立实际打开01/09锚点及01修版。所有16页全页最终审阅者为ep7_visual_qa；矩阵以其真实结论登记，并使用冻结PNG SHA锁定版本，不把初稿或撤回进度当成最终通过。"
+  },
+  "in_package_original_references": [
+    {
+      "original_id": "original_feiying",
+      "package_file": "参考/绯英原设.jpg",
+      "sha256": "8ec0576d31814a4f0d54c067b4375b25f5510671823c4d41706cc33b55a346da",
+      "original_bytes_preserved": true
+    },
+    {
+      "original_id": "original_yaoguang_close",
+      "package_file": "参考/爻光原设近景.jpg",
+      "sha256": "1c14724f3bd1ab2f0bbef92ca17250015f810b00d6ed8c72d86e564c2b51c82e",
+      "original_bytes_preserved": true
+    },
+    {
+      "original_id": "original_yaoguang_full",
+      "package_file": "参考/爻光原设全身.jpg",
+      "sha256": "8222e86042d6637460243ee623098453319f1e679fa64605095ecf0b6d795313",
+      "original_bytes_preserved": true
+    }
+  ],
+  "per_page_qa_fields": {
+    "actual_final_png_viewed": "命名的full_page_reviewer确实打开过此最终版本",
+    "character_auditor_personally_viewed_this_final_png": "只在本代理亲自打开且SHA与最终版本完全相同的01/09锚点为true",
+    "passed_where_visible": "可见范围通过，闭眼/裁切/未出镜不自动视为缺失",
+    "sha256": "最终冻结PNG的完整文件SHA-256，非初稿或历史列表的最后一项推断"
+  }
+}
