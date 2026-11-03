@@ -1,0 +1,2018 @@
+[
+  {
+    "page": 1,
+    "file": "page-01.png",
+    "source": "/workspace/generated_images/exec-10510a02-18b0-4d5e-902d-17c37104a15d.png",
+    "sources": [
+      "/workspace/generated_images/exec-e59dd9b1-774e-4536-8bbc-b5606c23dc91.png",
+      "/workspace/generated_images/exec-10510a02-18b0-4d5e-902d-17c37104a15d.png"
+    ],
+    "history": [
+      "/workspace/generated_images/exec-e59dd9b1-774e-4536-8bbc-b5606c23dc91.png",
+      "/workspace/generated_images/exec-10510a02-18b0-4d5e-902d-17c37104a15d.png"
+    ],
+    "steps": [
+      {
+        "reference_assets": [
+          {
+            "file": "/workspace/绯色难测_第十四话/参考/爻光原设近景.jpg",
+            "sha256": "1c14724f3bd1ab2f0bbef92ca17250015f810b00d6ed8c72d86e564c2b51c82e",
+            "bytes": 147839
+          },
+          {
+            "file": "/workspace/绯色难测_第十四话/参考/爻光原设全身.jpg",
+            "sha256": "8222e86042d6637460243ee623098453319f1e679fa64605095ecf0b6d795313",
+            "bytes": 123636
+          },
+          {
+            "file": "/workspace/绯色难测_第十四话/参考/第十三话校正脸发及爻字20.png",
+            "sha256": "a17311835156279a75fd4a25d66b096891f1b0ab03e797d47d8f030599b30df9",
+            "bytes": 2526433
+          }
+        ],
+        "source": "/workspace/generated_images/exec-e59dd9b1-774e-4536-8bbc-b5606c23dc91.png",
+        "sha256": "8629fc26c8150a5c571521ea95ad952936c6df2057743cffa7df6a66b045c0fd",
+        "kind": "generated",
+        "actual_references": [
+          "/workspace/绯色难测_第十四话/参考/爻光原设近景.jpg",
+          "/workspace/绯色难测_第十四话/参考/爻光原设全身.jpg",
+          "/workspace/绯色难测_第十四话/参考/第十三话校正脸发及爻字20.png"
+        ],
+        "note": "前6正式独立源审放行；冻结完整prompt，实际参考先已view，真实PNG原字节直存"
+      },
+      {
+        "reference_assets": [
+          {
+            "file": "/workspace/generated_images/exec-e59dd9b1-774e-4536-8bbc-b5606c23dc91.png",
+            "sha256": "8629fc26c8150a5c571521ea95ad952936c6df2057743cffa7df6a66b045c0fd",
+            "bytes": 2620931
+          }
+        ],
+        "source": "/workspace/generated_images/exec-10510a02-18b0-4d5e-902d-17c37104a15d.png",
+        "sha256": "e978a45b0a982cf5248d50fed6f83460470325e381666cb39f352e1c9a5afb0d",
+        "kind": "localized_right_jade_removal",
+        "actual_references": [
+          "/workspace/generated_images/exec-e59dd9b1-774e-4536-8bbc-b5606c23dc91.png"
+        ],
+        "note": "源图01仅Panel2近侧RIGHT托腮腕删一玉圈；经root+QA几何反核，原Panel5 LEFT背接雪手/Panel4 LEFT玉原样保留，不改手型。"
+      }
+    ],
+    "sha256": "e978a45b0a982cf5248d50fed6f83460470325e381666cb39f352e1c9a5afb0d",
+    "bytes": 2538770,
+    "resolution": [
+      1024,
+      1536
+    ],
+    "decode": "ok",
+    "actual_references": [
+      "/workspace/generated_images/exec-e59dd9b1-774e-4536-8bbc-b5606c23dc91.png"
+    ],
+    "author_actual_view": true,
+    "frozen": true,
+    "visual_review": "author_and_independent_full_page_actual_final_png_view_passed",
+    "qa_approved_sha256": "e978a45b0a982cf5248d50fed6f83460470325e381666cb39f352e1c9a5afb0d",
+    "independent_reviewer": "/root/ep14_visual_qa"
+  },
+  {
+    "page": 2,
+    "file": "page-02.png",
+    "source": "/workspace/generated_images/exec-aefaed22-cb27-4ca0-8810-6e4798784d22.png",
+    "sources": [
+      "/workspace/generated_images/exec-ca159d18-9271-4803-b1cb-1c5d84029051.png",
+      "/workspace/generated_images/exec-aefaed22-cb27-4ca0-8810-6e4798784d22.png"
+    ],
+    "history": [
+      "/workspace/generated_images/exec-ca159d18-9271-4803-b1cb-1c5d84029051.png",
+      "/workspace/generated_images/exec-aefaed22-cb27-4ca0-8810-6e4798784d22.png"
+    ],
+    "steps": [
+      {
+        "reference_assets": [
+          {
+            "file": "/workspace/绯色难测_第十四话/参考/爻光原设近景.jpg",
+            "sha256": "1c14724f3bd1ab2f0bbef92ca17250015f810b00d6ed8c72d86e564c2b51c82e",
+            "bytes": 147839
+          },
+          {
+            "file": "/workspace/绯色难测_第十四话/参考/第七话歪伞台历07.png",
+            "sha256": "813912918e1101bae6bcb12d58e114d3b136b513c8966345d916c2a98510b830",
+            "bytes": 2519131
+          },
+          {
+            "file": "/workspace/绯色难测_第十四话/参考/第十三话校正脸发及爻字20.png",
+            "sha256": "a17311835156279a75fd4a25d66b096891f1b0ab03e797d47d8f030599b30df9",
+            "bytes": 2526433
+          }
+        ],
+        "source": "/workspace/generated_images/exec-ca159d18-9271-4803-b1cb-1c5d84029051.png",
+        "sha256": "2d61d44cade1a81f068b0f78d68b14eb850c00f26852ac919cf9a73c95cd78d8",
+        "kind": "generated",
+        "actual_references": [
+          "/workspace/绯色难测_第十四话/参考/爻光原设近景.jpg",
+          "/workspace/绯色难测_第十四话/参考/第七话歪伞台历07.png",
+          "/workspace/绯色难测_第十四话/参考/第十三话校正脸发及爻字20.png"
+        ],
+        "note": "前6正式独立源审放行；冻结完整prompt，实际参考先已view，真实PNG原字节直存"
+      },
+      {
+        "reference_assets": [
+          {
+            "file": "/workspace/generated_images/exec-ca159d18-9271-4803-b1cb-1c5d84029051.png",
+            "sha256": "2d61d44cade1a81f068b0f78d68b14eb850c00f26852ac919cf9a73c95cd78d8",
+            "bytes": 2420822
+          }
+        ],
+        "source": "/workspace/generated_images/exec-aefaed22-cb27-4ca0-8810-6e4798784d22.png",
+        "sha256": "3f937b836ba205f98b21dd25035f1bafe98f790107a3ef993b396696b18a6857",
+        "kind": "localized_right_jade_removal",
+        "actual_references": [
+          "/workspace/generated_images/exec-ca159d18-9271-4803-b1cb-1c5d84029051.png"
+        ],
+        "note": "仅02 Panel4近侧RIGHT托腮一玉圈删除；经root/audit/QA几何反核Panel1原LEFT掌/玉/融雪滴全部保，不翻手不改单格其它字脸。"
+      }
+    ],
+    "sha256": "3f937b836ba205f98b21dd25035f1bafe98f790107a3ef993b396696b18a6857",
+    "bytes": 2296395,
+    "resolution": [
+      1024,
+      1536
+    ],
+    "decode": "ok",
+    "actual_references": [
+      "/workspace/generated_images/exec-ca159d18-9271-4803-b1cb-1c5d84029051.png"
+    ],
+    "author_actual_view": true,
+    "frozen": true,
+    "visual_review": "author_and_independent_full_page_actual_final_png_view_passed",
+    "qa_approved_sha256": "3f937b836ba205f98b21dd25035f1bafe98f790107a3ef993b396696b18a6857",
+    "independent_reviewer": "/root/ep14_visual_qa"
+  },
+  {
+    "page": 3,
+    "file": "page-03.png",
+    "source": "/workspace/generated_images/exec-07f8dca0-48fb-4210-9ee1-35e1e72ed6b9.png",
+    "sources": [
+      "/workspace/generated_images/exec-07f8dca0-48fb-4210-9ee1-35e1e72ed6b9.png"
+    ],
+    "history": [
+      "/workspace/generated_images/exec-07f8dca0-48fb-4210-9ee1-35e1e72ed6b9.png"
+    ],
+    "steps": [
+      {
+        "reference_assets": [
+          {
+            "file": "/workspace/绯色难测_第十四话/参考/绯英原设.jpg",
+            "sha256": "8ec0576d31814a4f0d54c067b4375b25f5510671823c4d41706cc33b55a346da",
+            "bytes": 134176
+          },
+          {
+            "file": "/workspace/绯色难测_第十四话/参考/爻光原设近景.jpg",
+            "sha256": "1c14724f3bd1ab2f0bbef92ca17250015f810b00d6ed8c72d86e564c2b51c82e",
+            "bytes": 147839
+          },
+          {
+            "file": "/workspace/绯色难测_第十四话/参考/第十一话绯英冬装03.png",
+            "sha256": "0f66eb2412538bd4ea201611739e6193d32fad48cabd5d3b3d790c2143e947da",
+            "bytes": 2482300
+          },
+          {
+            "file": "/workspace/绯色难测_第十四话/参考/第十一话借粉围巾20.png",
+            "sha256": "663f612419713ef9d755ce0c00f215669413125aad0d1d495aaa8343f893203e",
+            "bytes": 2769336
+          },
+          {
+            "file": "/workspace/绯色难测_第十四话/参考/第十三话校正脸发及爻字20.png",
+            "sha256": "a17311835156279a75fd4a25d66b096891f1b0ab03e797d47d8f030599b30df9",
+            "bytes": 2526433
+          }
+        ],
+        "source": "/workspace/generated_images/exec-07f8dca0-48fb-4210-9ee1-35e1e72ed6b9.png",
+        "sha256": "45000f7140f1c779a516a91a75b1b54612ac8853faaedcad7a7d0abc27492fc2",
+        "kind": "generated",
+        "actual_references": [
+          "/workspace/绯色难测_第十四话/参考/绯英原设.jpg",
+          "/workspace/绯色难测_第十四话/参考/爻光原设近景.jpg",
+          "/workspace/绯色难测_第十四话/参考/第十一话绯英冬装03.png",
+          "/workspace/绯色难测_第十四话/参考/第十一话借粉围巾20.png",
+          "/workspace/绯色难测_第十四话/参考/第十三话校正脸发及爻字20.png"
+        ],
+        "note": "前6正式独立源审放行；冻结完整prompt，实际参考先已view，真实PNG原字节直存"
+      }
+    ],
+    "sha256": "45000f7140f1c779a516a91a75b1b54612ac8853faaedcad7a7d0abc27492fc2",
+    "bytes": 3000221,
+    "resolution": [
+      1024,
+      1536
+    ],
+    "decode": "ok",
+    "actual_references": [
+      "/workspace/绯色难测_第十四话/参考/绯英原设.jpg",
+      "/workspace/绯色难测_第十四话/参考/爻光原设近景.jpg",
+      "/workspace/绯色难测_第十四话/参考/第十一话绯英冬装03.png",
+      "/workspace/绯色难测_第十四话/参考/第十一话借粉围巾20.png",
+      "/workspace/绯色难测_第十四话/参考/第十三话校正脸发及爻字20.png"
+    ],
+    "author_actual_view": true,
+    "frozen": true,
+    "visual_review": "author_and_independent_full_page_actual_final_png_view_passed",
+    "qa_approved_sha256": "45000f7140f1c779a516a91a75b1b54612ac8853faaedcad7a7d0abc27492fc2",
+    "independent_reviewer": "/root/ep14_visual_qa"
+  },
+  {
+    "page": 4,
+    "file": "page-04.png",
+    "source": "/workspace/generated_images/exec-74acbb99-fae1-49fe-af9e-401d910e2d67.png",
+    "sources": [
+      "/workspace/generated_images/exec-74acbb99-fae1-49fe-af9e-401d910e2d67.png"
+    ],
+    "history": [
+      "/workspace/generated_images/exec-74acbb99-fae1-49fe-af9e-401d910e2d67.png"
+    ],
+    "steps": [
+      {
+        "reference_assets": [
+          {
+            "file": "/workspace/原设参考/绯英原设.jpg",
+            "sha256": "8ec0576d31814a4f0d54c067b4375b25f5510671823c4d41706cc33b55a346da",
+            "bytes": 134176
+          },
+          {
+            "file": "/workspace/原设参考/爻光原设_近景.jpg",
+            "sha256": "1c14724f3bd1ab2f0bbef92ca17250015f810b00d6ed8c72d86e564c2b51c82e",
+            "bytes": 147839
+          },
+          {
+            "file": "/workspace/generated_images/exec-07f8dca0-48fb-4210-9ee1-35e1e72ed6b9.png",
+            "sha256": "45000f7140f1c779a516a91a75b1b54612ac8853faaedcad7a7d0abc27492fc2",
+            "bytes": 3000221
+          },
+          {
+            "file": "/workspace/绯色难测_第十三话/page-20.png",
+            "sha256": "a17311835156279a75fd4a25d66b096891f1b0ab03e797d47d8f030599b30df9",
+            "bytes": 2526433
+          }
+        ],
+        "source": "/workspace/generated_images/exec-74acbb99-fae1-49fe-af9e-401d910e2d67.png",
+        "sha256": "fbc3423c6cc0cddd5c397016b8849da23a0fc39b69ba2af7947d001cecbf49f3",
+        "kind": "generated",
+        "actual_references": [
+          "/workspace/原设参考/绯英原设.jpg",
+          "/workspace/原设参考/爻光原设_近景.jpg",
+          "/workspace/generated_images/exec-07f8dca0-48fb-4210-9ee1-35e1e72ed6b9.png",
+          "/workspace/绯色难测_第十三话/page-20.png"
+        ],
+        "note": "前14/63源审通过；实际用03已批准immutable冬装原图替换旧冬装/旧粉巾参考。完整冻结prompt后追加实际reference顺序说明与当前手套/腕玉/爻字技术澄清，不改画面/源字。\n\nACTUAL REFERENCE MAPPING FOR THIS CALL: Ref1 F original face/crown only, no fantasy ears/clothes. Ref2 Y original face and RIGHT-temple feather only. Ref3 is APPROVED episode14 page03 immutable RAW, COPY its exact current winter coat silhouettes, gloves, ivory Y coat, warm-pink scarf currently ONLY on Y, two original tanghulu, matte navy umbrella and snowy bench/tree setting. Do NOT copy any old reference's old injuries or clothes phase. Ref4 episode13 page20 supplies exact rare name 爻 (two stacked diagonal 乂 crosses, no detached top dot/horizontal bar) and natural faces, NOT its cardigan/skirts/chairs/teacups. Render all and ONLY the frozen scenes and visible text listed above for THIS page. Important name bubbles may be natural clear handwriting preserving every source word. Make Y anatomical RIGHT wrist visibly BARE without jade; jade ONLY anatomical LEFT; F anatomical RIGHT white full-finger glove and LEFT black fingerless glove. No swapping by camera position."
+      }
+    ],
+    "sha256": "fbc3423c6cc0cddd5c397016b8849da23a0fc39b69ba2af7947d001cecbf49f3",
+    "bytes": 2906302,
+    "resolution": [
+      1024,
+      1536
+    ],
+    "decode": "ok",
+    "actual_references": [
+      "/workspace/原设参考/绯英原设.jpg",
+      "/workspace/原设参考/爻光原设_近景.jpg",
+      "/workspace/generated_images/exec-07f8dca0-48fb-4210-9ee1-35e1e72ed6b9.png",
+      "/workspace/绯色难测_第十三话/page-20.png"
+    ],
+    "author_actual_view": true,
+    "frozen": true,
+    "visual_review": "author_and_independent_full_page_actual_final_png_view_passed",
+    "qa_approved_sha256": "fbc3423c6cc0cddd5c397016b8849da23a0fc39b69ba2af7947d001cecbf49f3",
+    "independent_reviewer": "/root/ep14_visual_qa"
+  },
+  {
+    "page": 5,
+    "file": "page-05.png",
+    "source": "/workspace/generated_images/exec-f4a35f74-c2ed-41dc-9874-13b365f2e62e.png",
+    "sources": [
+      "/workspace/generated_images/exec-f4a35f74-c2ed-41dc-9874-13b365f2e62e.png"
+    ],
+    "history": [
+      "/workspace/generated_images/exec-f4a35f74-c2ed-41dc-9874-13b365f2e62e.png"
+    ],
+    "steps": [
+      {
+        "reference_assets": [
+          {
+            "file": "/workspace/原设参考/绯英原设.jpg",
+            "sha256": "8ec0576d31814a4f0d54c067b4375b25f5510671823c4d41706cc33b55a346da",
+            "bytes": 134176
+          },
+          {
+            "file": "/workspace/原设参考/爻光原设_近景.jpg",
+            "sha256": "1c14724f3bd1ab2f0bbef92ca17250015f810b00d6ed8c72d86e564c2b51c82e",
+            "bytes": 147839
+          },
+          {
+            "file": "/workspace/generated_images/exec-07f8dca0-48fb-4210-9ee1-35e1e72ed6b9.png",
+            "sha256": "45000f7140f1c779a516a91a75b1b54612ac8853faaedcad7a7d0abc27492fc2",
+            "bytes": 3000221
+          },
+          {
+            "file": "/workspace/绯色难测_第十三话/page-20.png",
+            "sha256": "a17311835156279a75fd4a25d66b096891f1b0ab03e797d47d8f030599b30df9",
+            "bytes": 2526433
+          }
+        ],
+        "source": "/workspace/generated_images/exec-f4a35f74-c2ed-41dc-9874-13b365f2e62e.png",
+        "sha256": "ac9671aa283df25158a781f9b7ec3ed180a73b8241bd4f06b8b19acf25c64513",
+        "kind": "generated",
+        "actual_references": [
+          "/workspace/原设参考/绯英原设.jpg",
+          "/workspace/原设参考/爻光原设_近景.jpg",
+          "/workspace/generated_images/exec-07f8dca0-48fb-4210-9ee1-35e1e72ed6b9.png",
+          "/workspace/绯色难测_第十三话/page-20.png"
+        ],
+        "note": "前14/63源审通过；实际用03已批准immutable冬装原图替换旧冬装/旧粉巾参考。完整冻结prompt后追加实际reference顺序说明与当前手套/腕玉/爻字技术澄清，不改画面/源字。\n\nACTUAL REFERENCE MAPPING FOR THIS CALL: Ref1 F original face/crown only, no fantasy ears/clothes. Ref2 Y original face and RIGHT-temple feather only. Ref3 is APPROVED episode14 page03 immutable RAW, COPY its exact current winter coat silhouettes, gloves, ivory Y coat, warm-pink scarf currently ONLY on Y, two original tanghulu, matte navy umbrella and snowy bench/tree setting. Do NOT copy any old reference's old injuries or clothes phase. Ref4 episode13 page20 supplies exact rare name 爻 (two stacked diagonal 乂 crosses, no detached top dot/horizontal bar) and natural faces, NOT its cardigan/skirts/chairs/teacups. Render all and ONLY the frozen scenes and visible text listed above for THIS page. Important name bubbles may be natural clear handwriting preserving every source word. Make Y anatomical RIGHT wrist visibly BARE without jade; jade ONLY anatomical LEFT; F anatomical RIGHT white full-finger glove and LEFT black fingerless glove. No swapping by camera position."
+      }
+    ],
+    "sha256": "ac9671aa283df25158a781f9b7ec3ed180a73b8241bd4f06b8b19acf25c64513",
+    "bytes": 3122010,
+    "resolution": [
+      1024,
+      1536
+    ],
+    "decode": "ok",
+    "actual_references": [
+      "/workspace/原设参考/绯英原设.jpg",
+      "/workspace/原设参考/爻光原设_近景.jpg",
+      "/workspace/generated_images/exec-07f8dca0-48fb-4210-9ee1-35e1e72ed6b9.png",
+      "/workspace/绯色难测_第十三话/page-20.png"
+    ],
+    "author_actual_view": true,
+    "frozen": true,
+    "visual_review": "author_and_independent_full_page_actual_final_png_view_passed",
+    "qa_approved_sha256": "ac9671aa283df25158a781f9b7ec3ed180a73b8241bd4f06b8b19acf25c64513",
+    "independent_reviewer": "/root/ep14_visual_qa"
+  },
+  {
+    "page": 6,
+    "file": "page-06.png",
+    "source": "/workspace/generated_images/exec-8fc14066-6d6a-440b-93a6-7fcd6b97d11b.png",
+    "sources": [
+      "/workspace/generated_images/exec-8fc14066-6d6a-440b-93a6-7fcd6b97d11b.png"
+    ],
+    "history": [
+      "/workspace/generated_images/exec-8fc14066-6d6a-440b-93a6-7fcd6b97d11b.png"
+    ],
+    "steps": [
+      {
+        "reference_assets": [
+          {
+            "file": "/workspace/原设参考/绯英原设.jpg",
+            "sha256": "8ec0576d31814a4f0d54c067b4375b25f5510671823c4d41706cc33b55a346da",
+            "bytes": 134176
+          },
+          {
+            "file": "/workspace/原设参考/爻光原设_近景.jpg",
+            "sha256": "1c14724f3bd1ab2f0bbef92ca17250015f810b00d6ed8c72d86e564c2b51c82e",
+            "bytes": 147839
+          },
+          {
+            "file": "/workspace/generated_images/exec-07f8dca0-48fb-4210-9ee1-35e1e72ed6b9.png",
+            "sha256": "45000f7140f1c779a516a91a75b1b54612ac8853faaedcad7a7d0abc27492fc2",
+            "bytes": 3000221
+          },
+          {
+            "file": "/workspace/绯色难测_第十三话/page-20.png",
+            "sha256": "a17311835156279a75fd4a25d66b096891f1b0ab03e797d47d8f030599b30df9",
+            "bytes": 2526433
+          }
+        ],
+        "source": "/workspace/generated_images/exec-8fc14066-6d6a-440b-93a6-7fcd6b97d11b.png",
+        "sha256": "67a9b8fd18862c278789d175cf80dd6b3fa884b1b9501c1ad10bb0282cb3e707",
+        "kind": "generated",
+        "actual_references": [
+          "/workspace/原设参考/绯英原设.jpg",
+          "/workspace/原设参考/爻光原设_近景.jpg",
+          "/workspace/generated_images/exec-07f8dca0-48fb-4210-9ee1-35e1e72ed6b9.png",
+          "/workspace/绯色难测_第十三话/page-20.png"
+        ],
+        "note": "前14/63源审通过；实际用03已批准immutable冬装原图替换旧冬装/旧粉巾参考。完整冻结prompt后追加实际reference顺序说明与当前手套/腕玉/爻字技术澄清，不改画面/源字。\n\nACTUAL REFERENCE MAPPING FOR THIS CALL: Ref1 F original face/crown only, no fantasy ears/clothes. Ref2 Y original face and RIGHT-temple feather only. Ref3 is APPROVED episode14 page03 immutable RAW, COPY its exact current winter coat silhouettes, gloves, ivory Y coat, warm-pink scarf currently ONLY on Y, two original tanghulu, matte navy umbrella and snowy bench/tree setting. Do NOT copy any old reference's old injuries or clothes phase. Ref4 episode13 page20 supplies exact rare name 爻 (two stacked diagonal 乂 crosses, no detached top dot/horizontal bar) and natural faces, NOT its cardigan/skirts/chairs/teacups. Render all and ONLY the frozen scenes and visible text listed above for THIS page. Important name bubbles may be natural clear handwriting preserving every source word. Make Y anatomical RIGHT wrist visibly BARE without jade; jade ONLY anatomical LEFT; F anatomical RIGHT white full-finger glove and LEFT black fingerless glove. No swapping by camera position."
+      }
+    ],
+    "sha256": "67a9b8fd18862c278789d175cf80dd6b3fa884b1b9501c1ad10bb0282cb3e707",
+    "bytes": 3126700,
+    "resolution": [
+      1024,
+      1536
+    ],
+    "decode": "ok",
+    "actual_references": [
+      "/workspace/原设参考/绯英原设.jpg",
+      "/workspace/原设参考/爻光原设_近景.jpg",
+      "/workspace/generated_images/exec-07f8dca0-48fb-4210-9ee1-35e1e72ed6b9.png",
+      "/workspace/绯色难测_第十三话/page-20.png"
+    ],
+    "author_actual_view": true,
+    "frozen": true,
+    "visual_review": "author_and_independent_full_page_actual_final_png_view_passed",
+    "qa_approved_sha256": "67a9b8fd18862c278789d175cf80dd6b3fa884b1b9501c1ad10bb0282cb3e707",
+    "independent_reviewer": "/root/ep14_visual_qa"
+  },
+  {
+    "page": 7,
+    "file": "page-07.png",
+    "source": "/workspace/generated_images/exec-17124459-f1c3-4260-b1c6-3d2ebf71ce09.png",
+    "sources": [
+      "/workspace/generated_images/exec-17124459-f1c3-4260-b1c6-3d2ebf71ce09.png"
+    ],
+    "history": [
+      "/workspace/generated_images/exec-17124459-f1c3-4260-b1c6-3d2ebf71ce09.png"
+    ],
+    "steps": [
+      {
+        "reference_assets": [
+          {
+            "file": "/workspace/原设参考/绯英原设.jpg",
+            "sha256": "8ec0576d31814a4f0d54c067b4375b25f5510671823c4d41706cc33b55a346da",
+            "bytes": 134176
+          },
+          {
+            "file": "/workspace/原设参考/爻光原设_近景.jpg",
+            "sha256": "1c14724f3bd1ab2f0bbef92ca17250015f810b00d6ed8c72d86e564c2b51c82e",
+            "bytes": 147839
+          },
+          {
+            "file": "/workspace/generated_images/exec-07f8dca0-48fb-4210-9ee1-35e1e72ed6b9.png",
+            "sha256": "45000f7140f1c779a516a91a75b1b54612ac8853faaedcad7a7d0abc27492fc2",
+            "bytes": 3000221
+          },
+          {
+            "file": "/workspace/绯色难测_第十三话/page-20.png",
+            "sha256": "a17311835156279a75fd4a25d66b096891f1b0ab03e797d47d8f030599b30df9",
+            "bytes": 2526433
+          }
+        ],
+        "source": "/workspace/generated_images/exec-17124459-f1c3-4260-b1c6-3d2ebf71ce09.png",
+        "sha256": "2ab1be06c9c5b5ea43b0b844b466ed670564317aea441abb6b06b67f4e0b40d7",
+        "kind": "generated",
+        "actual_references": [
+          "/workspace/原设参考/绯英原设.jpg",
+          "/workspace/原设参考/爻光原设_近景.jpg",
+          "/workspace/generated_images/exec-07f8dca0-48fb-4210-9ee1-35e1e72ed6b9.png",
+          "/workspace/绯色难测_第十三话/page-20.png"
+        ],
+        "note": "前14/63源审通过；实际用03已批准immutable冬装原图替换旧冬装/旧粉巾参考。完整冻结prompt后追加实际reference顺序说明与当前手套/腕玉/爻字技术澄清，不改画面/源字。\n\nACTUAL REFERENCE MAPPING FOR THIS CALL: Ref1 F original face/crown only, no fantasy ears/clothes. Ref2 Y original face and RIGHT-temple feather only. Ref3 is APPROVED episode14 page03 immutable RAW, COPY its exact current winter coat silhouettes, gloves, ivory Y coat, warm-pink scarf currently ONLY on Y, two original tanghulu, matte navy umbrella and snowy bench/tree setting. Do NOT copy any old reference's old injuries or clothes phase. Ref4 episode13 page20 supplies exact rare name 爻 (two stacked diagonal 乂 crosses, no detached top dot/horizontal bar) and natural faces, NOT its cardigan/skirts/chairs/teacups. Render all and ONLY the frozen scenes and visible text listed above for THIS page. Important name bubbles may be natural clear handwriting preserving every source word. Make Y anatomical RIGHT wrist visibly BARE without jade; jade ONLY anatomical LEFT; F anatomical RIGHT white full-finger glove and LEFT black fingerless glove. No swapping by camera position."
+      }
+    ],
+    "sha256": "2ab1be06c9c5b5ea43b0b844b466ed670564317aea441abb6b06b67f4e0b40d7",
+    "bytes": 3314216,
+    "resolution": [
+      1024,
+      1536
+    ],
+    "decode": "ok",
+    "actual_references": [
+      "/workspace/原设参考/绯英原设.jpg",
+      "/workspace/原设参考/爻光原设_近景.jpg",
+      "/workspace/generated_images/exec-07f8dca0-48fb-4210-9ee1-35e1e72ed6b9.png",
+      "/workspace/绯色难测_第十三话/page-20.png"
+    ],
+    "author_actual_view": true,
+    "frozen": true,
+    "visual_review": "author_and_independent_full_page_actual_final_png_view_passed",
+    "qa_approved_sha256": "2ab1be06c9c5b5ea43b0b844b466ed670564317aea441abb6b06b67f4e0b40d7",
+    "independent_reviewer": "/root/ep14_visual_qa"
+  },
+  {
+    "page": 8,
+    "file": "page-08.png",
+    "source": "/workspace/generated_images/exec-a3c3a254-717f-41f9-aa5a-f86932b51614.png",
+    "sources": [
+      "/workspace/generated_images/exec-9ac7fda1-81ca-4a97-9fd4-08b462639ebe.png",
+      "/workspace/generated_images/exec-a3c3a254-717f-41f9-aa5a-f86932b51614.png"
+    ],
+    "history": [
+      "/workspace/generated_images/exec-9ac7fda1-81ca-4a97-9fd4-08b462639ebe.png",
+      "/workspace/generated_images/exec-a3c3a254-717f-41f9-aa5a-f86932b51614.png"
+    ],
+    "steps": [
+      {
+        "reference_assets": [
+          {
+            "file": "/workspace/原设参考/绯英原设.jpg",
+            "sha256": "8ec0576d31814a4f0d54c067b4375b25f5510671823c4d41706cc33b55a346da",
+            "bytes": 134176
+          },
+          {
+            "file": "/workspace/原设参考/爻光原设_近景.jpg",
+            "sha256": "1c14724f3bd1ab2f0bbef92ca17250015f810b00d6ed8c72d86e564c2b51c82e",
+            "bytes": 147839
+          },
+          {
+            "file": "/workspace/generated_images/exec-07f8dca0-48fb-4210-9ee1-35e1e72ed6b9.png",
+            "sha256": "45000f7140f1c779a516a91a75b1b54612ac8853faaedcad7a7d0abc27492fc2",
+            "bytes": 3000221
+          },
+          {
+            "file": "/workspace/绯色难测_第十三话/page-20.png",
+            "sha256": "a17311835156279a75fd4a25d66b096891f1b0ab03e797d47d8f030599b30df9",
+            "bytes": 2526433
+          }
+        ],
+        "source": "/workspace/generated_images/exec-9ac7fda1-81ca-4a97-9fd4-08b462639ebe.png",
+        "sha256": "75d8a51b35f70673246fd69d723635aa5ee35b5b1ef469be9bd4f9e5e8106770",
+        "kind": "generated",
+        "actual_references": [
+          "/workspace/原设参考/绯英原设.jpg",
+          "/workspace/原设参考/爻光原设_近景.jpg",
+          "/workspace/generated_images/exec-07f8dca0-48fb-4210-9ee1-35e1e72ed6b9.png",
+          "/workspace/绯色难测_第十三话/page-20.png"
+        ],
+        "note": "前14/63源审通过；实际用03已批准immutable冬装原图替换旧冬装/旧粉巾参考。完整冻结prompt后追加实际reference顺序说明与当前手套/腕玉/爻字技术澄清，不改画面/源字。\n\nACTUAL REFERENCE MAPPING FOR THIS CALL: Ref1 F original face/crown only, no fantasy ears/clothes. Ref2 Y original face and RIGHT-temple feather only. Ref3 is APPROVED episode14 page03 immutable RAW, COPY its exact current winter coat silhouettes, gloves, ivory Y coat, warm-pink scarf currently ONLY on Y, two original tanghulu, matte navy umbrella and snowy bench/tree setting. Do NOT copy any old reference's old injuries or clothes phase. Ref4 episode13 page20 supplies exact rare name 爻 (two stacked diagonal 乂 crosses, no detached top dot/horizontal bar) and natural faces, NOT its cardigan/skirts/chairs/teacups. Render all and ONLY the frozen scenes and visible text listed above for THIS page. Important name bubbles may be natural clear handwriting preserving every source word. Make Y anatomical RIGHT wrist visibly BARE without jade; jade ONLY anatomical LEFT; F anatomical RIGHT white full-finger glove and LEFT black fingerless glove. No swapping by camera position."
+      },
+      {
+        "reference_assets": [
+          {
+            "file": "/workspace/generated_images/exec-9ac7fda1-81ca-4a97-9fd4-08b462639ebe.png",
+            "sha256": "75d8a51b35f70673246fd69d723635aa5ee35b5b1ef469be9bd4f9e5e8106770",
+            "bytes": 3084015
+          },
+          {
+            "file": "/workspace/generated_images/exec-07f8dca0-48fb-4210-9ee1-35e1e72ed6b9.png",
+            "sha256": "45000f7140f1c779a516a91a75b1b54612ac8853faaedcad7a7d0abc27492fc2",
+            "bytes": 3000221
+          }
+        ],
+        "source": "/workspace/generated_images/exec-a3c3a254-717f-41f9-aa5a-f86932b51614.png",
+        "sha256": "93bb72c02028d85926d3cff371cd642e6c86df8aa4041f5260594bbe22195058",
+        "kind": "localized_missing_pink_scarf_restoration",
+        "actual_references": [
+          "/workspace/generated_images/exec-9ac7fda1-81ca-4a97-9fd4-08b462639ebe.png",
+          "/workspace/generated_images/exec-07f8dca0-48fb-4210-9ee1-35e1e72ed6b9.png"
+        ],
+        "note": "08仅第4格Y漏失的唯一pink借巾补回，与本页p2/03准样同；原navy肩布独立，源画文/其它3格/球立方/手原样保。"
+      }
+    ],
+    "sha256": "93bb72c02028d85926d3cff371cd642e6c86df8aa4041f5260594bbe22195058",
+    "bytes": 2962847,
+    "resolution": [
+      1024,
+      1536
+    ],
+    "decode": "ok",
+    "actual_references": [
+      "/workspace/generated_images/exec-9ac7fda1-81ca-4a97-9fd4-08b462639ebe.png",
+      "/workspace/generated_images/exec-07f8dca0-48fb-4210-9ee1-35e1e72ed6b9.png"
+    ],
+    "author_actual_view": true,
+    "frozen": true,
+    "visual_review": "author_and_independent_full_page_actual_final_png_view_passed",
+    "qa_approved_sha256": "93bb72c02028d85926d3cff371cd642e6c86df8aa4041f5260594bbe22195058",
+    "independent_reviewer": "/root/ep14_visual_qa"
+  },
+  {
+    "page": 9,
+    "file": "page-09.png",
+    "source": "/workspace/generated_images/exec-b85fdc61-6142-4fb3-846f-b821356120ff.png",
+    "sources": [
+      "/workspace/generated_images/exec-dada0498-7db8-494c-a7da-6d54088b9534.png",
+      "/workspace/generated_images/exec-b85fdc61-6142-4fb3-846f-b821356120ff.png"
+    ],
+    "history": [
+      "/workspace/generated_images/exec-dada0498-7db8-494c-a7da-6d54088b9534.png",
+      "/workspace/generated_images/exec-b85fdc61-6142-4fb3-846f-b821356120ff.png"
+    ],
+    "steps": [
+      {
+        "reference_assets": [
+          {
+            "file": "/workspace/原设参考/绯英原设.jpg",
+            "sha256": "8ec0576d31814a4f0d54c067b4375b25f5510671823c4d41706cc33b55a346da",
+            "bytes": 134176
+          },
+          {
+            "file": "/workspace/原设参考/爻光原设_近景.jpg",
+            "sha256": "1c14724f3bd1ab2f0bbef92ca17250015f810b00d6ed8c72d86e564c2b51c82e",
+            "bytes": 147839
+          },
+          {
+            "file": "/workspace/generated_images/exec-07f8dca0-48fb-4210-9ee1-35e1e72ed6b9.png",
+            "sha256": "45000f7140f1c779a516a91a75b1b54612ac8853faaedcad7a7d0abc27492fc2",
+            "bytes": 3000221
+          },
+          {
+            "file": "/workspace/绯色难测_第十三话/page-20.png",
+            "sha256": "a17311835156279a75fd4a25d66b096891f1b0ab03e797d47d8f030599b30df9",
+            "bytes": 2526433
+          }
+        ],
+        "source": "/workspace/generated_images/exec-dada0498-7db8-494c-a7da-6d54088b9534.png",
+        "sha256": "a8bb9491c173e677a608ef086a93de8d12b6443db4db3aa74f217ae0859c37c7",
+        "kind": "generated",
+        "actual_references": [
+          "/workspace/原设参考/绯英原设.jpg",
+          "/workspace/原设参考/爻光原设_近景.jpg",
+          "/workspace/generated_images/exec-07f8dca0-48fb-4210-9ee1-35e1e72ed6b9.png",
+          "/workspace/绯色难测_第十三话/page-20.png"
+        ],
+        "note": "前14/63源审通过；实际用03已批准immutable冬装原图替换旧冬装/旧粉巾参考。完整冻结prompt后追加实际reference顺序说明与当前手套/腕玉/爻字技术澄清，不改画面/源字。\n\nACTUAL REFERENCE MAPPING FOR THIS CALL: Ref1 F original face/crown only, no fantasy ears/clothes. Ref2 Y original face and RIGHT-temple feather only. Ref3 is APPROVED episode14 page03 immutable RAW, COPY its exact current winter coat silhouettes, gloves, ivory Y coat, warm-pink scarf currently ONLY on Y, two original tanghulu, matte navy umbrella and snowy bench/tree setting. Do NOT copy any old reference's old injuries or clothes phase. Ref4 episode13 page20 supplies exact rare name 爻 (two stacked diagonal 乂 crosses, no detached top dot/horizontal bar) and natural faces, NOT its cardigan/skirts/chairs/teacups. Render all and ONLY the frozen scenes and visible text listed above for THIS page. Important name bubbles may be natural clear handwriting preserving every source word. Make Y anatomical RIGHT wrist visibly BARE without jade; jade ONLY anatomical LEFT; F anatomical RIGHT white full-finger glove and LEFT black fingerless glove. No swapping by camera position."
+      },
+      {
+        "reference_assets": [
+          {
+            "file": "/workspace/generated_images/exec-dada0498-7db8-494c-a7da-6d54088b9534.png",
+            "sha256": "a8bb9491c173e677a608ef086a93de8d12b6443db4db3aa74f217ae0859c37c7",
+            "bytes": 3071307
+          },
+          {
+            "file": "/workspace/generated_images/exec-07f8dca0-48fb-4210-9ee1-35e1e72ed6b9.png",
+            "sha256": "45000f7140f1c779a516a91a75b1b54612ac8853faaedcad7a7d0abc27492fc2",
+            "bytes": 3000221
+          }
+        ],
+        "source": "/workspace/generated_images/exec-b85fdc61-6142-4fb3-846f-b821356120ff.png",
+        "sha256": "44a1678af7bb62e807e96897efdf657c916d427bcfc634f0623f21a4b632a056",
+        "kind": "localized_premature_scarf_color_correction",
+        "actual_references": [
+          "/workspace/generated_images/exec-dada0498-7db8-494c-a7da-6d54088b9534.png",
+          "/workspace/generated_images/exec-07f8dca0-48fb-4210-9ee1-35e1e72ed6b9.png"
+        ],
+        "note": "09仅p1–4提前bluegray颈巾回03准暖樱粉针织流苏；保原navy肩布/所有字手脸/风偏和末格hood命中，不改源。"
+      }
+    ],
+    "sha256": "44a1678af7bb62e807e96897efdf657c916d427bcfc634f0623f21a4b632a056",
+    "bytes": 2976152,
+    "resolution": [
+      1024,
+      1536
+    ],
+    "decode": "ok",
+    "actual_references": [
+      "/workspace/generated_images/exec-dada0498-7db8-494c-a7da-6d54088b9534.png",
+      "/workspace/generated_images/exec-07f8dca0-48fb-4210-9ee1-35e1e72ed6b9.png"
+    ],
+    "author_actual_view": true,
+    "frozen": true,
+    "visual_review": "author_and_independent_full_page_actual_final_png_view_passed",
+    "qa_approved_sha256": "44a1678af7bb62e807e96897efdf657c916d427bcfc634f0623f21a4b632a056",
+    "independent_reviewer": "/root/ep14_visual_qa"
+  },
+  {
+    "page": 10,
+    "file": "page-10.png",
+    "source": "/workspace/generated_images/exec-871969cb-c2ab-419b-bfd2-bccf20fdaf28.png",
+    "sources": [
+      "/workspace/generated_images/exec-871969cb-c2ab-419b-bfd2-bccf20fdaf28.png"
+    ],
+    "history": [
+      "/workspace/generated_images/exec-871969cb-c2ab-419b-bfd2-bccf20fdaf28.png"
+    ],
+    "steps": [
+      {
+        "reference_assets": [
+          {
+            "file": "/workspace/原设参考/绯英原设.jpg",
+            "sha256": "8ec0576d31814a4f0d54c067b4375b25f5510671823c4d41706cc33b55a346da",
+            "bytes": 134176
+          },
+          {
+            "file": "/workspace/原设参考/爻光原设_近景.jpg",
+            "sha256": "1c14724f3bd1ab2f0bbef92ca17250015f810b00d6ed8c72d86e564c2b51c82e",
+            "bytes": 147839
+          },
+          {
+            "file": "/workspace/generated_images/exec-07f8dca0-48fb-4210-9ee1-35e1e72ed6b9.png",
+            "sha256": "45000f7140f1c779a516a91a75b1b54612ac8853faaedcad7a7d0abc27492fc2",
+            "bytes": 3000221
+          },
+          {
+            "file": "/workspace/绯色难测_第十三话/page-20.png",
+            "sha256": "a17311835156279a75fd4a25d66b096891f1b0ab03e797d47d8f030599b30df9",
+            "bytes": 2526433
+          }
+        ],
+        "source": "/workspace/generated_images/exec-871969cb-c2ab-419b-bfd2-bccf20fdaf28.png",
+        "sha256": "adf3902395612593b6def5ae076abf59f7bdb5461993d7b4bee96c1f1080bb86",
+        "kind": "generated",
+        "actual_references": [
+          "/workspace/原设参考/绯英原设.jpg",
+          "/workspace/原设参考/爻光原设_近景.jpg",
+          "/workspace/generated_images/exec-07f8dca0-48fb-4210-9ee1-35e1e72ed6b9.png",
+          "/workspace/绯色难测_第十三话/page-20.png"
+        ],
+        "note": "前14/63源审通过；实际用03已批准immutable冬装原图替换旧冬装/旧粉巾参考。完整冻结prompt后追加实际reference顺序说明与当前手套/腕玉/爻字技术澄清，不改画面/源字。\n\nACTUAL REFERENCE MAPPING FOR THIS CALL: Ref1 F original face/crown only, no fantasy ears/clothes. Ref2 Y original face and RIGHT-temple feather only. Ref3 is APPROVED episode14 page03 immutable RAW, COPY its exact current winter coat silhouettes, gloves, ivory Y coat, warm-pink scarf currently ONLY on Y, two original tanghulu, matte navy umbrella and snowy bench/tree setting. Do NOT copy any old reference's old injuries or clothes phase. Ref4 episode13 page20 supplies exact rare name 爻 (two stacked diagonal 乂 crosses, no detached top dot/horizontal bar) and natural faces, NOT its cardigan/skirts/chairs/teacups. Render all and ONLY the frozen scenes and visible text listed above for THIS page. Important name bubbles may be natural clear handwriting preserving every source word. Make Y anatomical RIGHT wrist visibly BARE without jade; jade ONLY anatomical LEFT; F anatomical RIGHT white full-finger glove and LEFT black fingerless glove. No swapping by camera position."
+      }
+    ],
+    "sha256": "adf3902395612593b6def5ae076abf59f7bdb5461993d7b4bee96c1f1080bb86",
+    "bytes": 3073041,
+    "resolution": [
+      1024,
+      1536
+    ],
+    "decode": "ok",
+    "actual_references": [
+      "/workspace/原设参考/绯英原设.jpg",
+      "/workspace/原设参考/爻光原设_近景.jpg",
+      "/workspace/generated_images/exec-07f8dca0-48fb-4210-9ee1-35e1e72ed6b9.png",
+      "/workspace/绯色难测_第十三话/page-20.png"
+    ],
+    "author_actual_view": true,
+    "frozen": true,
+    "visual_review": "author_and_independent_full_page_actual_final_png_view_passed",
+    "qa_approved_sha256": "adf3902395612593b6def5ae076abf59f7bdb5461993d7b4bee96c1f1080bb86",
+    "independent_reviewer": "/root/ep14_visual_qa"
+  },
+  {
+    "page": 11,
+    "file": "page-11.png",
+    "source": "/workspace/generated_images/exec-e2f4f968-6f08-4dcc-8c1f-3e1d83e559d8.png",
+    "sources": [
+      "/workspace/generated_images/exec-e2f4f968-6f08-4dcc-8c1f-3e1d83e559d8.png"
+    ],
+    "history": [
+      "/workspace/generated_images/exec-e2f4f968-6f08-4dcc-8c1f-3e1d83e559d8.png"
+    ],
+    "steps": [
+      {
+        "reference_assets": [
+          {
+            "file": "/workspace/原设参考/绯英原设.jpg",
+            "sha256": "8ec0576d31814a4f0d54c067b4375b25f5510671823c4d41706cc33b55a346da",
+            "bytes": 134176
+          },
+          {
+            "file": "/workspace/原设参考/爻光原设_近景.jpg",
+            "sha256": "1c14724f3bd1ab2f0bbef92ca17250015f810b00d6ed8c72d86e564c2b51c82e",
+            "bytes": 147839
+          },
+          {
+            "file": "/workspace/generated_images/exec-07f8dca0-48fb-4210-9ee1-35e1e72ed6b9.png",
+            "sha256": "45000f7140f1c779a516a91a75b1b54612ac8853faaedcad7a7d0abc27492fc2",
+            "bytes": 3000221
+          },
+          {
+            "file": "/workspace/generated_images/exec-a95b4548-cfd8-4267-b4b7-4295819bd1ab.png",
+            "sha256": "ae9634d0d82cd4e7bcba9bd68c6d0abb9d7ad9046d02ff06b9f2babdd77c1216",
+            "bytes": 3122081
+          },
+          {
+            "file": "/workspace/绯色难测_第十三话/page-20.png",
+            "sha256": "a17311835156279a75fd4a25d66b096891f1b0ab03e797d47d8f030599b30df9",
+            "bytes": 2526433
+          }
+        ],
+        "source": "/workspace/generated_images/exec-e2f4f968-6f08-4dcc-8c1f-3e1d83e559d8.png",
+        "sha256": "667c2403dbbabbd21b1c5faea014257ecf68e9dc835670e418df33fd85b2ed2c",
+        "kind": "generated",
+        "actual_references": [
+          "/workspace/原设参考/绯英原设.jpg",
+          "/workspace/原设参考/爻光原设_近景.jpg",
+          "/workspace/generated_images/exec-07f8dca0-48fb-4210-9ee1-35e1e72ed6b9.png",
+          "/workspace/generated_images/exec-a95b4548-cfd8-4267-b4b7-4295819bd1ab.png",
+          "/workspace/绯色难测_第十三话/page-20.png"
+        ],
+        "note": "全28/126源审通过；03批准冬装+15批准雪人/杯款反向锚。\n\nACTUAL REF MAPPING: ref1 F original FACE only, no fantasy ears/costume; ref2 Y original FACE only. ref3 is approved EP14 page03 current winter garments and pre-transfer PINK scarf. Ref4 is approved EP14 page15, use ONLY its one ordinary ROUND snowman's stone-dot face/simple snow body and pink knitting, same wooden bench/berry+teal thermos presets and blue-gray spare scarf design for LATER scenes. THIS PAGE11 IS EARLIER THAN REF4: NEVER copy blue-gray around Y neck yet! Panels1-4 Y wears her ONE PINK scarf, she removes it in panel4. Panel5 the VERY SAME PINK scarf transfers to ONE snowman ONLY: Y neck EMPTY, F neck EMPTY, blue-gray spare scarf ABSENT. Pink must not duplicate at two places. Ref5 supplies correct handwritten rare 爻 glyph (two stacked diagonal 乂 crosses, no detached dot or horizontal top bar); caption “爻光负责找配件。” preserves exact source words and may use clear natural handwriting. F RIGHT white full-finger glove/LEFT new black fingerless; Y RIGHT empty bare wrist/LEFT jade only, hands change naturally but no extra arms. Keep EXACT frozen five scenes and VISIBLE TEXT above, no other narrative."
+      }
+    ],
+    "sha256": "667c2403dbbabbd21b1c5faea014257ecf68e9dc835670e418df33fd85b2ed2c",
+    "bytes": 3012718,
+    "resolution": [
+      1024,
+      1536
+    ],
+    "decode": "ok",
+    "actual_references": [
+      "/workspace/原设参考/绯英原设.jpg",
+      "/workspace/原设参考/爻光原设_近景.jpg",
+      "/workspace/generated_images/exec-07f8dca0-48fb-4210-9ee1-35e1e72ed6b9.png",
+      "/workspace/generated_images/exec-a95b4548-cfd8-4267-b4b7-4295819bd1ab.png",
+      "/workspace/绯色难测_第十三话/page-20.png"
+    ],
+    "author_actual_view": true,
+    "frozen": true,
+    "visual_review": "author_and_independent_full_page_actual_final_png_view_passed",
+    "qa_approved_sha256": "667c2403dbbabbd21b1c5faea014257ecf68e9dc835670e418df33fd85b2ed2c",
+    "independent_reviewer": "/root/ep14_visual_qa"
+  },
+  {
+    "page": 12,
+    "file": "page-12.png",
+    "source": "/workspace/generated_images/exec-c768d88a-e0f1-4f3f-9088-94432ba58da9.png",
+    "sources": [
+      "/workspace/generated_images/exec-c768d88a-e0f1-4f3f-9088-94432ba58da9.png"
+    ],
+    "history": [
+      "/workspace/generated_images/exec-c768d88a-e0f1-4f3f-9088-94432ba58da9.png"
+    ],
+    "steps": [
+      {
+        "reference_assets": [
+          {
+            "file": "/workspace/原设参考/绯英原设.jpg",
+            "sha256": "8ec0576d31814a4f0d54c067b4375b25f5510671823c4d41706cc33b55a346da",
+            "bytes": 134176
+          },
+          {
+            "file": "/workspace/原设参考/爻光原设_近景.jpg",
+            "sha256": "1c14724f3bd1ab2f0bbef92ca17250015f810b00d6ed8c72d86e564c2b51c82e",
+            "bytes": 147839
+          },
+          {
+            "file": "/workspace/generated_images/exec-07f8dca0-48fb-4210-9ee1-35e1e72ed6b9.png",
+            "sha256": "45000f7140f1c779a516a91a75b1b54612ac8853faaedcad7a7d0abc27492fc2",
+            "bytes": 3000221
+          },
+          {
+            "file": "/workspace/generated_images/exec-a95b4548-cfd8-4267-b4b7-4295819bd1ab.png",
+            "sha256": "ae9634d0d82cd4e7bcba9bd68c6d0abb9d7ad9046d02ff06b9f2babdd77c1216",
+            "bytes": 3122081
+          }
+        ],
+        "source": "/workspace/generated_images/exec-c768d88a-e0f1-4f3f-9088-94432ba58da9.png",
+        "sha256": "d08f21a3dd9a10025a2d270f94a168148e037ae173157697353d84916bab029d",
+        "kind": "generated",
+        "actual_references": [
+          "/workspace/原设参考/绯英原设.jpg",
+          "/workspace/原设参考/爻光原设_近景.jpg",
+          "/workspace/generated_images/exec-07f8dca0-48fb-4210-9ee1-35e1e72ed6b9.png",
+          "/workspace/generated_images/exec-a95b4548-cfd8-4267-b4b7-4295819bd1ab.png"
+        ],
+        "note": "全28源审过；03衣/15已准雪人与材料锚，12Y颈空无bluegray，pink只雪人，Y取原本串一非新糖。\n\nACTUAL REFERENCES: #1 F original FACE only; #2 Y original FACE only; #3 approved episode14p03 current winter coats/hood/trousers/gloves and navy umbrella. #4 approved episode14p15 ordinary round two-snowball snowman with pebble-dot eyes/tiny smile, unique PINK knitted fringe scarf on snowman, same bench/brown food bag/F navy handbag/material continuity ONLY. THIS PAGE12 IS BEFORE BLUEGRAY IS TAKEN OUT: Y'S NECK MUST BE ENTIRELY EMPTY in all FOUR PANELS, white inner high collar visible. Do NOT copy ref3 PINK on Y neck; do NOT copy ref4 BLUEGRAY on Y neck! The ONE PINK scarf is on SNOWMAN ONLY throughout this page. F never wears a neck scarf. Bluegray spare scarf must not be seen in this page. In last panel Y takes back ONE of the original TWO tanghulu sticks from the brown food bag, holding it with her anatomical RIGHT bare EMPTY wrist; F's other original stick stays inside the bag. No third stick, hard candy or milk tea. Keep exact source dialogue/scenes above, all current whiteRIGHT/blackLEFT F gloves, Y jadeLEFT/emptyRIGHT identities."
+      }
+    ],
+    "sha256": "d08f21a3dd9a10025a2d270f94a168148e037ae173157697353d84916bab029d",
+    "bytes": 3209813,
+    "resolution": [
+      1024,
+      1536
+    ],
+    "decode": "ok",
+    "actual_references": [
+      "/workspace/原设参考/绯英原设.jpg",
+      "/workspace/原设参考/爻光原设_近景.jpg",
+      "/workspace/generated_images/exec-07f8dca0-48fb-4210-9ee1-35e1e72ed6b9.png",
+      "/workspace/generated_images/exec-a95b4548-cfd8-4267-b4b7-4295819bd1ab.png"
+    ],
+    "author_actual_view": true,
+    "frozen": true,
+    "visual_review": "author_and_independent_full_page_actual_final_png_view_passed",
+    "qa_approved_sha256": "d08f21a3dd9a10025a2d270f94a168148e037ae173157697353d84916bab029d",
+    "independent_reviewer": "/root/ep14_visual_qa"
+  },
+  {
+    "page": 13,
+    "file": "page-13.png",
+    "source": "/workspace/generated_images/exec-ffc683ce-4960-42c8-98f7-f4b6e7417e04.png",
+    "sources": [
+      "/workspace/generated_images/exec-ffc683ce-4960-42c8-98f7-f4b6e7417e04.png"
+    ],
+    "history": [
+      "/workspace/generated_images/exec-ffc683ce-4960-42c8-98f7-f4b6e7417e04.png"
+    ],
+    "steps": [
+      {
+        "reference_assets": [
+          {
+            "file": "/workspace/原设参考/绯英原设.jpg",
+            "sha256": "8ec0576d31814a4f0d54c067b4375b25f5510671823c4d41706cc33b55a346da",
+            "bytes": 134176
+          },
+          {
+            "file": "/workspace/原设参考/爻光原设_近景.jpg",
+            "sha256": "1c14724f3bd1ab2f0bbef92ca17250015f810b00d6ed8c72d86e564c2b51c82e",
+            "bytes": 147839
+          },
+          {
+            "file": "/workspace/generated_images/exec-07f8dca0-48fb-4210-9ee1-35e1e72ed6b9.png",
+            "sha256": "45000f7140f1c779a516a91a75b1b54612ac8853faaedcad7a7d0abc27492fc2",
+            "bytes": 3000221
+          },
+          {
+            "file": "/workspace/generated_images/exec-a95b4548-cfd8-4267-b4b7-4295819bd1ab.png",
+            "sha256": "ae9634d0d82cd4e7bcba9bd68c6d0abb9d7ad9046d02ff06b9f2babdd77c1216",
+            "bytes": 3122081
+          }
+        ],
+        "source": "/workspace/generated_images/exec-ffc683ce-4960-42c8-98f7-f4b6e7417e04.png",
+        "sha256": "37625c0337f541d68c9bcd72da1ed362df8e2a86434f4e09394540752b46abfb",
+        "kind": "generated",
+        "actual_references": [
+          "/workspace/原设参考/绯英原设.jpg",
+          "/workspace/原设参考/爻光原设_近景.jpg",
+          "/workspace/generated_images/exec-07f8dca0-48fb-4210-9ee1-35e1e72ed6b9.png",
+          "/workspace/generated_images/exec-a95b4548-cfd8-4267-b4b7-4295819bd1ab.png"
+        ],
+        "note": "全28源审过，03实际冬装+15已批准bluegray/雪人/杯反向锚，不继承错相位。\n\nACTUAL REFERENCES: ref1 F original FACE only; ref2 Y original FACE only; ref3 approved EP14p03 current coats, navy trousers/new gloves/ordinary navy umbrella/bench. Ref4 is approved EP14p15 ACTUAL material anchor for BLUEGRAY spare knitted scarf, single simple round snowman with two black pebble eyes/tiny curved mouth, PINK scarf around SNOWMAN ONLY, same two metal thermos bottles (F berry/cream, Y deep-teal), simple brown FOOD paper bag and navy F handbag. Do not copy ref4's later drinking/feeding or old pre-transfer pink-neck state from ref3. This is PAGE13 BEFORE the spare scarf is tied. Y NECK MUST BE EMPTY in ALL FIVE PANELS, white inner collar visible: neither pink nor bluegray around her neck yet. Only in panel4 F takes ONE bluegray scarf from her navy bag; panel5 F HOLDS that one scarf in her hands near Y, not on Y yet. Both tanghulu go back into the single brown food bag before tying, no hands simultaneously holding them. The UNIQUE PINK scarf remains around ONE SNOWMAN in the background throughout this page. F never wears a pink scarf, Y never wears pink again this day. All clothes/hair/faces/hand identities must match approved refs. Keep ONLY EXACT source scenes and visible text above, no extra dialogue or physical scarf."
+      }
+    ],
+    "sha256": "37625c0337f541d68c9bcd72da1ed362df8e2a86434f4e09394540752b46abfb",
+    "bytes": 3106939,
+    "resolution": [
+      1024,
+      1536
+    ],
+    "decode": "ok",
+    "actual_references": [
+      "/workspace/原设参考/绯英原设.jpg",
+      "/workspace/原设参考/爻光原设_近景.jpg",
+      "/workspace/generated_images/exec-07f8dca0-48fb-4210-9ee1-35e1e72ed6b9.png",
+      "/workspace/generated_images/exec-a95b4548-cfd8-4267-b4b7-4295819bd1ab.png"
+    ],
+    "author_actual_view": true,
+    "frozen": true,
+    "visual_review": "author_and_independent_full_page_actual_final_png_view_passed",
+    "qa_approved_sha256": "37625c0337f541d68c9bcd72da1ed362df8e2a86434f4e09394540752b46abfb",
+    "independent_reviewer": "/root/ep14_visual_qa"
+  },
+  {
+    "page": 14,
+    "file": "page-14.png",
+    "source": "/workspace/generated_images/exec-d0347cb4-a033-4f42-aeda-298726c4f248.png",
+    "sources": [
+      "/workspace/generated_images/exec-d0347cb4-a033-4f42-aeda-298726c4f248.png"
+    ],
+    "history": [
+      "/workspace/generated_images/exec-d0347cb4-a033-4f42-aeda-298726c4f248.png"
+    ],
+    "steps": [
+      {
+        "reference_assets": [
+          {
+            "file": "/workspace/原设参考/绯英原设.jpg",
+            "sha256": "8ec0576d31814a4f0d54c067b4375b25f5510671823c4d41706cc33b55a346da",
+            "bytes": 134176
+          },
+          {
+            "file": "/workspace/原设参考/爻光原设_近景.jpg",
+            "sha256": "1c14724f3bd1ab2f0bbef92ca17250015f810b00d6ed8c72d86e564c2b51c82e",
+            "bytes": 147839
+          },
+          {
+            "file": "/workspace/generated_images/exec-07f8dca0-48fb-4210-9ee1-35e1e72ed6b9.png",
+            "sha256": "45000f7140f1c779a516a91a75b1b54612ac8853faaedcad7a7d0abc27492fc2",
+            "bytes": 3000221
+          },
+          {
+            "file": "/workspace/generated_images/exec-a95b4548-cfd8-4267-b4b7-4295819bd1ab.png",
+            "sha256": "ae9634d0d82cd4e7bcba9bd68c6d0abb9d7ad9046d02ff06b9f2babdd77c1216",
+            "bytes": 3122081
+          }
+        ],
+        "source": "/workspace/generated_images/exec-d0347cb4-a033-4f42-aeda-298726c4f248.png",
+        "sha256": "4744500cd5a423fca42ff4ba9369645748bd74424564d1ea78a89414af9b128e",
+        "kind": "generated",
+        "actual_references": [
+          "/workspace/原设参考/绯英原设.jpg",
+          "/workspace/原设参考/爻光原设_近景.jpg",
+          "/workspace/generated_images/exec-07f8dca0-48fb-4210-9ee1-35e1e72ed6b9.png",
+          "/workspace/generated_images/exec-a95b4548-cfd8-4267-b4b7-4295819bd1ab.png"
+        ],
+        "note": "全28源审过，03实际冬装+15已批准bluegray/雪人/杯反向锚，不继承错相位。\n\nACTUAL REFERENCES: ref1 F original FACE only; ref2 Y original FACE only; ref3 approved EP14p03 current coats, navy trousers/new gloves/ordinary navy umbrella/bench. Ref4 is approved EP14p15 ACTUAL material anchor for BLUEGRAY spare knitted scarf, single simple round snowman with two black pebble eyes/tiny curved mouth, PINK scarf around SNOWMAN ONLY, same two metal thermos bottles (F berry/cream, Y deep-teal), simple brown FOOD paper bag and navy F handbag. Do not copy ref4's later drinking/feeding or old pre-transfer pink-neck state from ref3. This is PAGE14 of tying the ONE BLUEGRAY spare scarf around Y neck. F RIGHT white full-finger glove/LEFT new black fingerless gently wrap/tuck/tighten that ONE BLUEGRAY scarf. It stays bluegray on Y, never pink. Keep Y's original navy LEFT shoulder-cloth as a separate garment under coat, not a second neck scarf. Final panel F-left Y-right on the same dry bench, TWO closed metal thermos bottles exactly as approved ref4: F berry body/cream lid, Y deep-teal body/matching cap/silver metal top, no glass milk tea/pearls. The UNIQUE PINK scarf remains around ONE SNOWMAN in the background throughout this page. F never wears a pink scarf, Y never wears pink again this day. All clothes/hair/faces/hand identities must match approved refs. Keep ONLY EXACT source scenes and visible text above, no extra dialogue or physical scarf."
+      }
+    ],
+    "sha256": "4744500cd5a423fca42ff4ba9369645748bd74424564d1ea78a89414af9b128e",
+    "bytes": 3205410,
+    "resolution": [
+      1024,
+      1536
+    ],
+    "decode": "ok",
+    "actual_references": [
+      "/workspace/原设参考/绯英原设.jpg",
+      "/workspace/原设参考/爻光原设_近景.jpg",
+      "/workspace/generated_images/exec-07f8dca0-48fb-4210-9ee1-35e1e72ed6b9.png",
+      "/workspace/generated_images/exec-a95b4548-cfd8-4267-b4b7-4295819bd1ab.png"
+    ],
+    "author_actual_view": true,
+    "frozen": true,
+    "visual_review": "author_and_independent_full_page_actual_final_png_view_passed",
+    "qa_approved_sha256": "4744500cd5a423fca42ff4ba9369645748bd74424564d1ea78a89414af9b128e",
+    "independent_reviewer": "/root/ep14_visual_qa"
+  },
+  {
+    "page": 15,
+    "file": "page-15.png",
+    "source": "/workspace/generated_images/exec-a95b4548-cfd8-4267-b4b7-4295819bd1ab.png",
+    "sources": [
+      "/workspace/generated_images/exec-a95b4548-cfd8-4267-b4b7-4295819bd1ab.png"
+    ],
+    "history": [
+      "/workspace/generated_images/exec-a95b4548-cfd8-4267-b4b7-4295819bd1ab.png"
+    ],
+    "steps": [
+      {
+        "source": "/workspace/generated_images/exec-a95b4548-cfd8-4267-b4b7-4295819bd1ab.png",
+        "sha256": "ae9634d0d82cd4e7bcba9bd68c6d0abb9d7ad9046d02ff06b9f2babdd77c1216",
+        "kind": "generated",
+        "actual_references": [
+          "/workspace/绯色难测_第十四话/参考/绯英原设.jpg",
+          "/workspace/绯色难测_第十四话/参考/爻光原设近景.jpg",
+          "/workspace/绯色难测_第十四话/参考/第十一话绯英冬装03.png",
+          "/workspace/绯色难测_第十四话/参考/第十二话新手套03.png",
+          "/workspace/绯色难测_第十四话/参考/第十三话校正脸发及爻字20.png"
+        ],
+        "actual_reference_assets": [
+          {
+            "path": "/workspace/绯色难测_第十四话/参考/绯英原设.jpg",
+            "sha256": "8ec0576d31814a4f0d54c067b4375b25f5510671823c4d41706cc33b55a346da",
+            "bytes": 134176
+          },
+          {
+            "path": "/workspace/绯色难测_第十四话/参考/爻光原设近景.jpg",
+            "sha256": "1c14724f3bd1ab2f0bbef92ca17250015f810b00d6ed8c72d86e564c2b51c82e",
+            "bytes": 147839
+          },
+          {
+            "path": "/workspace/绯色难测_第十四话/参考/第十一话绯英冬装03.png",
+            "sha256": "0f66eb2412538bd4ea201611739e6193d32fad48cabd5d3b3d790c2143e947da",
+            "bytes": 2482300
+          },
+          {
+            "path": "/workspace/绯色难测_第十四话/参考/第十二话新手套03.png",
+            "sha256": "ccd10073c94da72080e0deb2bf1410adada96ca624f1179ae22c76caf6994edc",
+            "bytes": 2517700
+          },
+          {
+            "path": "/workspace/绯色难测_第十四话/参考/第十三话校正脸发及爻字20.png",
+            "sha256": "a17311835156279a75fd4a25d66b096891f1b0ab03e797d47d8f030599b30df9",
+            "bytes": 2526433
+          }
+        ],
+        "note": "14章源审15–20通过；原5静态ref保身份/衣手/字，源本话Y象牙大衣+bluegray且pink只雪人，2金属保温杯/原2糖串；不复制11旧伤或13珍珠。"
+      }
+    ],
+    "sha256": "ae9634d0d82cd4e7bcba9bd68c6d0abb9d7ad9046d02ff06b9f2babdd77c1216",
+    "bytes": 3122081,
+    "resolution": [
+      1024,
+      1536
+    ],
+    "decode": "ok",
+    "actual_references": [
+      "/workspace/绯色难测_第十四话/参考/绯英原设.jpg",
+      "/workspace/绯色难测_第十四话/参考/爻光原设近景.jpg",
+      "/workspace/绯色难测_第十四话/参考/第十一话绯英冬装03.png",
+      "/workspace/绯色难测_第十四话/参考/第十二话新手套03.png",
+      "/workspace/绯色难测_第十四话/参考/第十三话校正脸发及爻字20.png"
+    ],
+    "author_actual_view": true,
+    "frozen": true,
+    "visual_review": "author_and_independent_full_page_actual_final_png_view_passed",
+    "qa_approved_sha256": "ae9634d0d82cd4e7bcba9bd68c6d0abb9d7ad9046d02ff06b9f2babdd77c1216",
+    "independent_reviewer": "/root/ep14_visual_qa"
+  },
+  {
+    "page": 16,
+    "file": "page-16.png",
+    "source": "/workspace/generated_images/exec-78815c41-3fd9-4864-a5cc-5b328b7b858c.png",
+    "sources": [
+      "/workspace/generated_images/exec-71bc0811-5439-4de0-a222-af4317deb9d3.png",
+      "/workspace/generated_images/exec-78815c41-3fd9-4864-a5cc-5b328b7b858c.png"
+    ],
+    "history": [
+      "/workspace/generated_images/exec-71bc0811-5439-4de0-a222-af4317deb9d3.png",
+      "/workspace/generated_images/exec-78815c41-3fd9-4864-a5cc-5b328b7b858c.png"
+    ],
+    "steps": [
+      {
+        "source": "/workspace/generated_images/exec-71bc0811-5439-4de0-a222-af4317deb9d3.png",
+        "sha256": "569b0d92d1d96e9a753cd30592fd348fc9d49a464ed5559e44344c3982989fcc",
+        "kind": "generated",
+        "actual_references": [
+          "/workspace/绯色难测_第十四话/参考/绯英原设.jpg",
+          "/workspace/绯色难测_第十四话/参考/爻光原设近景.jpg",
+          "/workspace/绯色难测_第十四话/参考/第十一话绯英冬装03.png",
+          "/workspace/绯色难测_第十四话/参考/第十二话新手套03.png",
+          "/workspace/绯色难测_第十四话/参考/第十三话校正脸发及爻字20.png"
+        ],
+        "actual_reference_assets": [
+          {
+            "path": "/workspace/绯色难测_第十四话/参考/绯英原设.jpg",
+            "sha256": "8ec0576d31814a4f0d54c067b4375b25f5510671823c4d41706cc33b55a346da",
+            "bytes": 134176
+          },
+          {
+            "path": "/workspace/绯色难测_第十四话/参考/爻光原设近景.jpg",
+            "sha256": "1c14724f3bd1ab2f0bbef92ca17250015f810b00d6ed8c72d86e564c2b51c82e",
+            "bytes": 147839
+          },
+          {
+            "path": "/workspace/绯色难测_第十四话/参考/第十一话绯英冬装03.png",
+            "sha256": "0f66eb2412538bd4ea201611739e6193d32fad48cabd5d3b3d790c2143e947da",
+            "bytes": 2482300
+          },
+          {
+            "path": "/workspace/绯色难测_第十四话/参考/第十二话新手套03.png",
+            "sha256": "ccd10073c94da72080e0deb2bf1410adada96ca624f1179ae22c76caf6994edc",
+            "bytes": 2517700
+          },
+          {
+            "path": "/workspace/绯色难测_第十四话/参考/第十三话校正脸发及爻字20.png",
+            "sha256": "a17311835156279a75fd4a25d66b096891f1b0ab03e797d47d8f030599b30df9",
+            "bytes": 2526433
+          }
+        ],
+        "note": "14章源审15–20通过；原5静态ref保身份/衣手/字，源本话Y象牙大衣+bluegray且pink只雪人，2金属保温杯/原2糖串；不复制11旧伤或13珍珠。"
+      },
+      {
+        "source": "/workspace/generated_images/exec-78815c41-3fd9-4864-a5cc-5b328b7b858c.png",
+        "sha256": "29de1b08ad30fef5b34d611c301068eaeef5f7c516607e7996fc27af49b7a1fc",
+        "kind": "edit",
+        "actual_references": [
+          "/workspace/generated_images/exec-71bc0811-5439-4de0-a222-af4317deb9d3.png"
+        ],
+        "actual_reference_assets": [
+          {
+            "path": "/workspace/generated_images/exec-71bc0811-5439-4de0-a222-af4317deb9d3.png",
+            "sha256": "569b0d92d1d96e9a753cd30592fd348fc9d49a464ed5559e44344c3982989fcc",
+            "bytes": 2996382
+          }
+        ],
+        "note": "仅第4格已确定解剖RIGHT腕去玉恢复裸腕，原手/其余3格/源字/所有其它元素保；实际参考是不可变旧raw。"
+      }
+    ],
+    "sha256": "29de1b08ad30fef5b34d611c301068eaeef5f7c516607e7996fc27af49b7a1fc",
+    "bytes": 2901647,
+    "resolution": [
+      1024,
+      1536
+    ],
+    "decode": "ok",
+    "actual_references": [
+      "/workspace/generated_images/exec-71bc0811-5439-4de0-a222-af4317deb9d3.png"
+    ],
+    "author_actual_view": true,
+    "frozen": true,
+    "visual_review": "author_and_independent_full_page_actual_final_png_view_passed",
+    "qa_approved_sha256": "29de1b08ad30fef5b34d611c301068eaeef5f7c516607e7996fc27af49b7a1fc",
+    "independent_reviewer": "/root/ep14_visual_qa"
+  },
+  {
+    "page": 17,
+    "file": "page-17.png",
+    "source": "/workspace/generated_images/exec-f0a6c3d3-dafe-40a2-b2cd-861bc08f2737.png",
+    "sources": [
+      "/workspace/generated_images/exec-8d25986b-3d3f-496d-bd9d-8b60824201c7.png",
+      "/workspace/generated_images/exec-f0a6c3d3-dafe-40a2-b2cd-861bc08f2737.png"
+    ],
+    "history": [
+      "/workspace/generated_images/exec-8d25986b-3d3f-496d-bd9d-8b60824201c7.png",
+      "/workspace/generated_images/exec-f0a6c3d3-dafe-40a2-b2cd-861bc08f2737.png"
+    ],
+    "steps": [
+      {
+        "source": "/workspace/generated_images/exec-8d25986b-3d3f-496d-bd9d-8b60824201c7.png",
+        "sha256": "fecf2279a4a66211a58ba1bb32aa03fd3f161b243587d91d849a035ee2616fe0",
+        "kind": "generated",
+        "actual_references": [
+          "/workspace/绯色难测_第十四话/参考/绯英原设.jpg",
+          "/workspace/绯色难测_第十四话/参考/爻光原设近景.jpg",
+          "/workspace/绯色难测_第十四话/参考/第十一话绯英冬装03.png",
+          "/workspace/绯色难测_第十四话/参考/第十二话新手套03.png",
+          "/workspace/绯色难测_第十四话/参考/第十三话校正脸发及爻字20.png"
+        ],
+        "actual_reference_assets": [
+          {
+            "path": "/workspace/绯色难测_第十四话/参考/绯英原设.jpg",
+            "sha256": "8ec0576d31814a4f0d54c067b4375b25f5510671823c4d41706cc33b55a346da",
+            "bytes": 134176
+          },
+          {
+            "path": "/workspace/绯色难测_第十四话/参考/爻光原设近景.jpg",
+            "sha256": "1c14724f3bd1ab2f0bbef92ca17250015f810b00d6ed8c72d86e564c2b51c82e",
+            "bytes": 147839
+          },
+          {
+            "path": "/workspace/绯色难测_第十四话/参考/第十一话绯英冬装03.png",
+            "sha256": "0f66eb2412538bd4ea201611739e6193d32fad48cabd5d3b3d790c2143e947da",
+            "bytes": 2482300
+          },
+          {
+            "path": "/workspace/绯色难测_第十四话/参考/第十二话新手套03.png",
+            "sha256": "ccd10073c94da72080e0deb2bf1410adada96ca624f1179ae22c76caf6994edc",
+            "bytes": 2517700
+          },
+          {
+            "path": "/workspace/绯色难测_第十四话/参考/第十三话校正脸发及爻字20.png",
+            "sha256": "a17311835156279a75fd4a25d66b096891f1b0ab03e797d47d8f030599b30df9",
+            "bytes": 2526433
+          }
+        ],
+        "note": "14章源审15–20通过；原5静态ref保身份/衣手/字，源本话Y象牙大衣+bluegray且pink只雪人，2金属保温杯/原2糖串；不复制11旧伤或13珍珠。"
+      },
+      {
+        "source": "/workspace/generated_images/exec-f0a6c3d3-dafe-40a2-b2cd-861bc08f2737.png",
+        "sha256": "6fc40d802774fd82281f12c23d70e7e6762f114287979a2867e90a722736a251",
+        "kind": "edit",
+        "actual_references": [
+          "/workspace/generated_images/exec-8d25986b-3d3f-496d-bd9d-8b60824201c7.png"
+        ],
+        "actual_reference_assets": [
+          {
+            "path": "/workspace/generated_images/exec-8d25986b-3d3f-496d-bd9d-8b60824201c7.png",
+            "sha256": "fecf2279a4a66211a58ba1bb32aa03fd3f161b243587d91d849a035ee2616fe0",
+            "bytes": 3023464
+          }
+        ],
+        "note": "经root和独立QA认可仅p1现有同串主读1果补清楚为2果，与p3/4匹配；保原签/握法/姿势/其它4格及正确爻字，非全章计果、绝不增第三串。"
+      }
+    ],
+    "sha256": "6fc40d802774fd82281f12c23d70e7e6762f114287979a2867e90a722736a251",
+    "bytes": 2897096,
+    "resolution": [
+      1024,
+      1536
+    ],
+    "decode": "ok",
+    "actual_references": [
+      "/workspace/generated_images/exec-8d25986b-3d3f-496d-bd9d-8b60824201c7.png"
+    ],
+    "author_actual_view": true,
+    "frozen": true,
+    "visual_review": "author_and_independent_full_page_actual_final_png_view_passed",
+    "qa_approved_sha256": "6fc40d802774fd82281f12c23d70e7e6762f114287979a2867e90a722736a251",
+    "independent_reviewer": "/root/ep14_visual_qa"
+  },
+  {
+    "page": 18,
+    "file": "page-18.png",
+    "source": "/workspace/generated_images/exec-dde2c65c-c3f2-4e8b-9556-5ea4f6cd7a5e.png",
+    "sources": [
+      "/workspace/generated_images/exec-dde2c65c-c3f2-4e8b-9556-5ea4f6cd7a5e.png"
+    ],
+    "history": [
+      "/workspace/generated_images/exec-dde2c65c-c3f2-4e8b-9556-5ea4f6cd7a5e.png"
+    ],
+    "steps": [
+      {
+        "source": "/workspace/generated_images/exec-dde2c65c-c3f2-4e8b-9556-5ea4f6cd7a5e.png",
+        "sha256": "49eb3f66be7a054161c2b94f1d346b1a36c25456a227c76e7cd563deec552ce5",
+        "kind": "generated",
+        "actual_references": [
+          "/workspace/绯色难测_第十四话/参考/绯英原设.jpg",
+          "/workspace/绯色难测_第十四话/参考/爻光原设近景.jpg",
+          "/workspace/绯色难测_第十四话/参考/第十一话绯英冬装03.png",
+          "/workspace/绯色难测_第十四话/参考/第十二话新手套03.png",
+          "/workspace/绯色难测_第十四话/参考/第十三话校正脸发及爻字20.png"
+        ],
+        "actual_reference_assets": [
+          {
+            "path": "/workspace/绯色难测_第十四话/参考/绯英原设.jpg",
+            "sha256": "8ec0576d31814a4f0d54c067b4375b25f5510671823c4d41706cc33b55a346da",
+            "bytes": 134176
+          },
+          {
+            "path": "/workspace/绯色难测_第十四话/参考/爻光原设近景.jpg",
+            "sha256": "1c14724f3bd1ab2f0bbef92ca17250015f810b00d6ed8c72d86e564c2b51c82e",
+            "bytes": 147839
+          },
+          {
+            "path": "/workspace/绯色难测_第十四话/参考/第十一话绯英冬装03.png",
+            "sha256": "0f66eb2412538bd4ea201611739e6193d32fad48cabd5d3b3d790c2143e947da",
+            "bytes": 2482300
+          },
+          {
+            "path": "/workspace/绯色难测_第十四话/参考/第十二话新手套03.png",
+            "sha256": "ccd10073c94da72080e0deb2bf1410adada96ca624f1179ae22c76caf6994edc",
+            "bytes": 2517700
+          },
+          {
+            "path": "/workspace/绯色难测_第十四话/参考/第十三话校正脸发及爻字20.png",
+            "sha256": "a17311835156279a75fd4a25d66b096891f1b0ab03e797d47d8f030599b30df9",
+            "bytes": 2526433
+          }
+        ],
+        "note": "14章源审15–20通过；原5静态ref保身份/衣手/字，源本话Y象牙大衣+bluegray且pink只雪人，2金属保温杯/原2糖串；不复制11旧伤或13珍珠。"
+      }
+    ],
+    "sha256": "49eb3f66be7a054161c2b94f1d346b1a36c25456a227c76e7cd563deec552ce5",
+    "bytes": 3165806,
+    "resolution": [
+      1024,
+      1536
+    ],
+    "decode": "ok",
+    "actual_references": [
+      "/workspace/绯色难测_第十四话/参考/绯英原设.jpg",
+      "/workspace/绯色难测_第十四话/参考/爻光原设近景.jpg",
+      "/workspace/绯色难测_第十四话/参考/第十一话绯英冬装03.png",
+      "/workspace/绯色难测_第十四话/参考/第十二话新手套03.png",
+      "/workspace/绯色难测_第十四话/参考/第十三话校正脸发及爻字20.png"
+    ],
+    "author_actual_view": true,
+    "frozen": true,
+    "visual_review": "author_and_independent_full_page_actual_final_png_view_passed",
+    "qa_approved_sha256": "49eb3f66be7a054161c2b94f1d346b1a36c25456a227c76e7cd563deec552ce5",
+    "independent_reviewer": "/root/ep14_visual_qa"
+  },
+  {
+    "page": 19,
+    "file": "page-19.png",
+    "source": "/workspace/generated_images/exec-dcee5b6c-0d65-4d2d-9641-7817c35760a0.png",
+    "sources": [
+      "/workspace/generated_images/exec-dcee5b6c-0d65-4d2d-9641-7817c35760a0.png"
+    ],
+    "history": [
+      "/workspace/generated_images/exec-dcee5b6c-0d65-4d2d-9641-7817c35760a0.png"
+    ],
+    "steps": [
+      {
+        "source": "/workspace/generated_images/exec-dcee5b6c-0d65-4d2d-9641-7817c35760a0.png",
+        "sha256": "379f1bab230aa7dc3a6774f343a74519c4bfaa35abf0632ca469cea3bcb11dc8",
+        "kind": "generated",
+        "actual_references": [
+          "/workspace/绯色难测_第十四话/参考/绯英原设.jpg",
+          "/workspace/绯色难测_第十四话/参考/爻光原设近景.jpg",
+          "/workspace/绯色难测_第十四话/参考/第十一话绯英冬装03.png",
+          "/workspace/绯色难测_第十四话/参考/第七话歪伞台历07.png",
+          "/workspace/绯色难测_第十四话/参考/第十三话校正脸发及爻字20.png"
+        ],
+        "actual_reference_assets": [
+          {
+            "path": "/workspace/绯色难测_第十四话/参考/绯英原设.jpg",
+            "sha256": "8ec0576d31814a4f0d54c067b4375b25f5510671823c4d41706cc33b55a346da",
+            "bytes": 134176
+          },
+          {
+            "path": "/workspace/绯色难测_第十四话/参考/爻光原设近景.jpg",
+            "sha256": "1c14724f3bd1ab2f0bbef92ca17250015f810b00d6ed8c72d86e564c2b51c82e",
+            "bytes": 147839
+          },
+          {
+            "path": "/workspace/绯色难测_第十四话/参考/第十一话绯英冬装03.png",
+            "sha256": "0f66eb2412538bd4ea201611739e6193d32fad48cabd5d3b3d790c2143e947da",
+            "bytes": 2482300
+          },
+          {
+            "path": "/workspace/绯色难测_第十四话/参考/第七话歪伞台历07.png",
+            "sha256": "813912918e1101bae6bcb12d58e114d3b136b513c8966345d916c2a98510b830",
+            "bytes": 2519131
+          },
+          {
+            "path": "/workspace/绯色难测_第十四话/参考/第十三话校正脸发及爻字20.png",
+            "sha256": "a17311835156279a75fd4a25d66b096891f1b0ab03e797d47d8f030599b30df9",
+            "bytes": 2526433
+          }
+        ],
+        "note": "14章源审15–20通过；原5静态ref保身份/衣手/字，源本话Y象牙大衣+bluegray且pink只雪人，2金属保温杯/原2糖串；不复制11旧伤或13珍珠。"
+      }
+    ],
+    "sha256": "379f1bab230aa7dc3a6774f343a74519c4bfaa35abf0632ca469cea3bcb11dc8",
+    "bytes": 2906982,
+    "resolution": [
+      1024,
+      1536
+    ],
+    "decode": "ok",
+    "actual_references": [
+      "/workspace/绯色难测_第十四话/参考/绯英原设.jpg",
+      "/workspace/绯色难测_第十四话/参考/爻光原设近景.jpg",
+      "/workspace/绯色难测_第十四话/参考/第十一话绯英冬装03.png",
+      "/workspace/绯色难测_第十四话/参考/第七话歪伞台历07.png",
+      "/workspace/绯色难测_第十四话/参考/第十三话校正脸发及爻字20.png"
+    ],
+    "author_actual_view": true,
+    "frozen": true,
+    "visual_review": "author_and_independent_full_page_actual_final_png_view_passed",
+    "qa_approved_sha256": "379f1bab230aa7dc3a6774f343a74519c4bfaa35abf0632ca469cea3bcb11dc8",
+    "independent_reviewer": "/root/ep14_visual_qa"
+  },
+  {
+    "page": 20,
+    "file": "page-20.png",
+    "source": "/workspace/generated_images/exec-2e4593b8-e328-4e98-b971-56aabda6d6cc.png",
+    "sources": [
+      "/workspace/generated_images/exec-969c4eb6-1d0d-4409-b93b-d522ab2bda02.png",
+      "/workspace/generated_images/exec-2e4593b8-e328-4e98-b971-56aabda6d6cc.png"
+    ],
+    "history": [
+      "/workspace/generated_images/exec-969c4eb6-1d0d-4409-b93b-d522ab2bda02.png",
+      "/workspace/generated_images/exec-2e4593b8-e328-4e98-b971-56aabda6d6cc.png"
+    ],
+    "steps": [
+      {
+        "source": "/workspace/generated_images/exec-969c4eb6-1d0d-4409-b93b-d522ab2bda02.png",
+        "sha256": "f09b5d5a31ca5c2983a44ab92163b52e4c303df078e0c57412b398e54ff34f7b",
+        "kind": "generated",
+        "actual_references": [
+          "/workspace/绯色难测_第十四话/参考/绯英原设.jpg",
+          "/workspace/绯色难测_第十四话/参考/爻光原设近景.jpg",
+          "/workspace/绯色难测_第十四话/参考/第十一话绯英冬装03.png",
+          "/workspace/绯色难测_第十四话/参考/第十二话新手套03.png",
+          "/workspace/绯色难测_第十四话/参考/第十三话校正脸发及爻字20.png"
+        ],
+        "actual_reference_assets": [
+          {
+            "path": "/workspace/绯色难测_第十四话/参考/绯英原设.jpg",
+            "sha256": "8ec0576d31814a4f0d54c067b4375b25f5510671823c4d41706cc33b55a346da",
+            "bytes": 134176
+          },
+          {
+            "path": "/workspace/绯色难测_第十四话/参考/爻光原设近景.jpg",
+            "sha256": "1c14724f3bd1ab2f0bbef92ca17250015f810b00d6ed8c72d86e564c2b51c82e",
+            "bytes": 147839
+          },
+          {
+            "path": "/workspace/绯色难测_第十四话/参考/第十一话绯英冬装03.png",
+            "sha256": "0f66eb2412538bd4ea201611739e6193d32fad48cabd5d3b3d790c2143e947da",
+            "bytes": 2482300
+          },
+          {
+            "path": "/workspace/绯色难测_第十四话/参考/第十二话新手套03.png",
+            "sha256": "ccd10073c94da72080e0deb2bf1410adada96ca624f1179ae22c76caf6994edc",
+            "bytes": 2517700
+          },
+          {
+            "path": "/workspace/绯色难测_第十四话/参考/第十三话校正脸发及爻字20.png",
+            "sha256": "a17311835156279a75fd4a25d66b096891f1b0ab03e797d47d8f030599b30df9",
+            "bytes": 2526433
+          }
+        ],
+        "note": "14章源审15–20通过；原5静态ref保身份/衣手/字，源本话Y象牙大衣+bluegray且pink只雪人，2金属保温杯/原2糖串；不复制11旧伤或13珍珠。"
+      },
+      {
+        "source": "/workspace/generated_images/exec-2e4593b8-e328-4e98-b971-56aabda6d6cc.png",
+        "sha256": "2f71f10c5d19228c6e188aebf385ea5d1cea6eb47213619770b494602d5136ba",
+        "kind": "edit",
+        "actual_references": [
+          "/workspace/generated_images/exec-969c4eb6-1d0d-4409-b93b-d522ab2bda02.png"
+        ],
+        "actual_reference_assets": [
+          {
+            "path": "/workspace/generated_images/exec-969c4eb6-1d0d-4409-b93b-d522ab2bda02.png",
+            "sha256": "f09b5d5a31ca5c2983a44ab92163b52e4c303df078e0c57412b398e54ff34f7b",
+            "bytes": 2805251
+          }
+        ],
+        "note": "根/独立QA确证p1远眼多一枚完整白雪晶，仅去远x759/y146保近x600/y184一粒与两虹彩眼内正常高光，脸发和后3格/全部字保；immutable raw唯一输入。"
+      }
+    ],
+    "sha256": "2f71f10c5d19228c6e188aebf385ea5d1cea6eb47213619770b494602d5136ba",
+    "bytes": 2625298,
+    "resolution": [
+      1024,
+      1536
+    ],
+    "decode": "ok",
+    "actual_references": [
+      "/workspace/generated_images/exec-969c4eb6-1d0d-4409-b93b-d522ab2bda02.png"
+    ],
+    "author_actual_view": true,
+    "frozen": true,
+    "visual_review": "author_and_independent_full_page_actual_final_png_view_passed",
+    "qa_approved_sha256": "2f71f10c5d19228c6e188aebf385ea5d1cea6eb47213619770b494602d5136ba",
+    "independent_reviewer": "/root/ep14_visual_qa"
+  },
+  {
+    "page": 21,
+    "file": "page-21.png",
+    "source": "/workspace/generated_images/exec-13cb7357-e2f5-4a26-ad76-16a5541dcc77.png",
+    "sources": [
+      "/workspace/generated_images/exec-13cb7357-e2f5-4a26-ad76-16a5541dcc77.png"
+    ],
+    "history": [
+      "/workspace/generated_images/exec-13cb7357-e2f5-4a26-ad76-16a5541dcc77.png"
+    ],
+    "steps": [
+      {
+        "source": "/workspace/generated_images/exec-13cb7357-e2f5-4a26-ad76-16a5541dcc77.png",
+        "sha256": "a93c6d448172f1da308a3eb9deb4a4173a31838d1a8898bad0fea019a2b83185",
+        "kind": "generated",
+        "actual_references": [
+          "/workspace/绯色难测_第十四话/参考/爻光原设近景.jpg",
+          "/workspace/绯色难测_第十四话/参考/爻光原设全身.jpg",
+          "/workspace/绯色难测_第十四话/参考/第十三话符玄09.png",
+          "/workspace/绯色难测_第十四话/参考/第十三话校正脸发及爻字20.png"
+        ],
+        "actual_reference_assets": [
+          {
+            "path": "/workspace/绯色难测_第十四话/参考/爻光原设近景.jpg",
+            "sha256": "1c14724f3bd1ab2f0bbef92ca17250015f810b00d6ed8c72d86e564c2b51c82e",
+            "bytes": 147839
+          },
+          {
+            "path": "/workspace/绯色难测_第十四话/参考/爻光原设全身.jpg",
+            "sha256": "8222e86042d6637460243ee623098453319f1e679fa64605095ecf0b6d795313",
+            "bytes": 123636
+          },
+          {
+            "path": "/workspace/绯色难测_第十四话/参考/第十三话符玄09.png",
+            "sha256": "977f6207ca37c67d16c819a3767cb1d5f1159fee3a75f3f3cc87666c2110e4f9",
+            "bytes": 2779560
+          },
+          {
+            "path": "/workspace/绯色难测_第十四话/参考/第十三话校正脸发及爻字20.png",
+            "sha256": "a17311835156279a75fd4a25d66b096891f1b0ab03e797d47d8f030599b30df9",
+            "bytes": 2526433
+          }
+        ],
+        "note": "全28源审通过；当页21–23室内Y日装无pink/24同navy伞冬衣bluegray/25–28F宿舍内开衫navy裤一新糖纸，按对应源相位。"
+      }
+    ],
+    "sha256": "a93c6d448172f1da308a3eb9deb4a4173a31838d1a8898bad0fea019a2b83185",
+    "bytes": 2689827,
+    "resolution": [
+      1024,
+      1536
+    ],
+    "decode": "ok",
+    "actual_references": [
+      "/workspace/绯色难测_第十四话/参考/爻光原设近景.jpg",
+      "/workspace/绯色难测_第十四话/参考/爻光原设全身.jpg",
+      "/workspace/绯色难测_第十四话/参考/第十三话符玄09.png",
+      "/workspace/绯色难测_第十四话/参考/第十三话校正脸发及爻字20.png"
+    ],
+    "author_actual_view": true,
+    "frozen": true,
+    "visual_review": "author_and_independent_full_page_actual_final_png_view_passed",
+    "qa_approved_sha256": "a93c6d448172f1da308a3eb9deb4a4173a31838d1a8898bad0fea019a2b83185",
+    "independent_reviewer": "/root/ep14_visual_qa"
+  },
+  {
+    "page": 22,
+    "file": "page-22.png",
+    "source": "/workspace/generated_images/exec-1b4029ee-4794-4388-b02d-05f038cf23ab.png",
+    "sources": [
+      "/workspace/generated_images/exec-1b4029ee-4794-4388-b02d-05f038cf23ab.png"
+    ],
+    "history": [
+      "/workspace/generated_images/exec-1b4029ee-4794-4388-b02d-05f038cf23ab.png"
+    ],
+    "steps": [
+      {
+        "source": "/workspace/generated_images/exec-1b4029ee-4794-4388-b02d-05f038cf23ab.png",
+        "sha256": "2efbe75f8e09f68544e246ee5a18de397898ff1ce5a55bf36ff61b69e1e637e5",
+        "kind": "generated",
+        "actual_references": [
+          "/workspace/绯色难测_第十四话/参考/爻光原设近景.jpg",
+          "/workspace/绯色难测_第十四话/参考/爻光原设全身.jpg",
+          "/workspace/绯色难测_第十四话/参考/第十三话符玄09.png",
+          "/workspace/绯色难测_第十四话/参考/第十三话校正脸发及爻字20.png"
+        ],
+        "actual_reference_assets": [
+          {
+            "path": "/workspace/绯色难测_第十四话/参考/爻光原设近景.jpg",
+            "sha256": "1c14724f3bd1ab2f0bbef92ca17250015f810b00d6ed8c72d86e564c2b51c82e",
+            "bytes": 147839
+          },
+          {
+            "path": "/workspace/绯色难测_第十四话/参考/爻光原设全身.jpg",
+            "sha256": "8222e86042d6637460243ee623098453319f1e679fa64605095ecf0b6d795313",
+            "bytes": 123636
+          },
+          {
+            "path": "/workspace/绯色难测_第十四话/参考/第十三话符玄09.png",
+            "sha256": "977f6207ca37c67d16c819a3767cb1d5f1159fee3a75f3f3cc87666c2110e4f9",
+            "bytes": 2779560
+          },
+          {
+            "path": "/workspace/绯色难测_第十四话/参考/第十三话校正脸发及爻字20.png",
+            "sha256": "a17311835156279a75fd4a25d66b096891f1b0ab03e797d47d8f030599b30df9",
+            "bytes": 2526433
+          }
+        ],
+        "note": "全28源审通过；当页21–23室内Y日装无pink/24同navy伞冬衣bluegray/25–28F宿舍内开衫navy裤一新糖纸，按对应源相位。"
+      }
+    ],
+    "sha256": "2efbe75f8e09f68544e246ee5a18de397898ff1ce5a55bf36ff61b69e1e637e5",
+    "bytes": 2584757,
+    "resolution": [
+      1024,
+      1536
+    ],
+    "decode": "ok",
+    "actual_references": [
+      "/workspace/绯色难测_第十四话/参考/爻光原设近景.jpg",
+      "/workspace/绯色难测_第十四话/参考/爻光原设全身.jpg",
+      "/workspace/绯色难测_第十四话/参考/第十三话符玄09.png",
+      "/workspace/绯色难测_第十四话/参考/第十三话校正脸发及爻字20.png"
+    ],
+    "author_actual_view": true,
+    "frozen": true,
+    "visual_review": "author_and_independent_full_page_actual_final_png_view_passed",
+    "qa_approved_sha256": "2efbe75f8e09f68544e246ee5a18de397898ff1ce5a55bf36ff61b69e1e637e5",
+    "independent_reviewer": "/root/ep14_visual_qa"
+  },
+  {
+    "page": 23,
+    "file": "page-23.png",
+    "source": "/workspace/generated_images/exec-1ad92375-b94f-4873-bce1-c47d886d433c.png",
+    "sources": [
+      "/workspace/generated_images/exec-1ccc970b-17a5-433e-af2d-e34502247641.png",
+      "/workspace/generated_images/exec-1ad92375-b94f-4873-bce1-c47d886d433c.png"
+    ],
+    "history": [
+      "/workspace/generated_images/exec-1ccc970b-17a5-433e-af2d-e34502247641.png",
+      "/workspace/generated_images/exec-1ad92375-b94f-4873-bce1-c47d886d433c.png"
+    ],
+    "steps": [
+      {
+        "source": "/workspace/generated_images/exec-1ccc970b-17a5-433e-af2d-e34502247641.png",
+        "sha256": "6db4fc76800133d6e4852476bf82169615e4549f73f3da0086fd58819b10dbf7",
+        "kind": "generated",
+        "actual_references": [
+          "/workspace/绯色难测_第十四话/参考/爻光原设近景.jpg",
+          "/workspace/绯色难测_第十四话/参考/爻光原设全身.jpg",
+          "/workspace/绯色难测_第十四话/参考/第十三话符玄09.png",
+          "/workspace/绯色难测_第十四话/参考/第十三话校正脸发及爻字20.png"
+        ],
+        "actual_reference_assets": [
+          {
+            "path": "/workspace/绯色难测_第十四话/参考/爻光原设近景.jpg",
+            "sha256": "1c14724f3bd1ab2f0bbef92ca17250015f810b00d6ed8c72d86e564c2b51c82e",
+            "bytes": 147839
+          },
+          {
+            "path": "/workspace/绯色难测_第十四话/参考/爻光原设全身.jpg",
+            "sha256": "8222e86042d6637460243ee623098453319f1e679fa64605095ecf0b6d795313",
+            "bytes": 123636
+          },
+          {
+            "path": "/workspace/绯色难测_第十四话/参考/第十三话符玄09.png",
+            "sha256": "977f6207ca37c67d16c819a3767cb1d5f1159fee3a75f3f3cc87666c2110e4f9",
+            "bytes": 2779560
+          },
+          {
+            "path": "/workspace/绯色难测_第十四话/参考/第十三话校正脸发及爻字20.png",
+            "sha256": "a17311835156279a75fd4a25d66b096891f1b0ab03e797d47d8f030599b30df9",
+            "bytes": 2526433
+          }
+        ],
+        "note": "全28源审通过；当页21–23室内Y日装无pink/24同navy伞冬衣bluegray/25–28F宿舍内开衫navy裤一新糖纸，按对应源相位。"
+      },
+      {
+        "source": "/workspace/generated_images/exec-1ad92375-b94f-4873-bce1-c47d886d433c.png",
+        "sha256": "48aebdf48f2425ed0722c20bd484b2eeb28da3a29db36b5b15a459e4d1f09449",
+        "kind": "edit",
+        "actual_references": [
+          "/workspace/generated_images/exec-1ccc970b-17a5-433e-af2d-e34502247641.png"
+        ],
+        "actual_reference_assets": [
+          {
+            "path": "/workspace/generated_images/exec-1ccc970b-17a5-433e-af2d-e34502247641.png",
+            "sha256": "6db4fc76800133d6e4852476bf82169615e4549f73f3da0086fd58819b10dbf7",
+            "bytes": 2468038
+          }
+        ],
+        "note": "独立QA与作者确证仅p5解剖RIGHT托腮腕去玉，近侧白RIGHT肩肘臂连续/LEFTnavy远右；保手动作、前4格及全源字，不变其它元素。immutable旧raw唯一输入。"
+      }
+    ],
+    "sha256": "48aebdf48f2425ed0722c20bd484b2eeb28da3a29db36b5b15a459e4d1f09449",
+    "bytes": 2342086,
+    "resolution": [
+      1024,
+      1536
+    ],
+    "decode": "ok",
+    "actual_references": [
+      "/workspace/generated_images/exec-1ccc970b-17a5-433e-af2d-e34502247641.png"
+    ],
+    "author_actual_view": true,
+    "frozen": true,
+    "visual_review": "author_and_independent_full_page_actual_final_png_view_passed",
+    "qa_approved_sha256": "48aebdf48f2425ed0722c20bd484b2eeb28da3a29db36b5b15a459e4d1f09449",
+    "independent_reviewer": "/root/ep14_visual_qa"
+  },
+  {
+    "page": 24,
+    "file": "page-24.png",
+    "source": "/workspace/generated_images/exec-7b8846fb-e799-407d-96f0-2fb6acdf8180.png",
+    "sources": [
+      "/workspace/generated_images/exec-7b8846fb-e799-407d-96f0-2fb6acdf8180.png"
+    ],
+    "history": [
+      "/workspace/generated_images/exec-7b8846fb-e799-407d-96f0-2fb6acdf8180.png"
+    ],
+    "steps": [
+      {
+        "source": "/workspace/generated_images/exec-7b8846fb-e799-407d-96f0-2fb6acdf8180.png",
+        "sha256": "f05b28121a0b113398c5a91872a2a6fb9196ab9245eccb26901ac15a827e24d8",
+        "kind": "generated",
+        "actual_references": [
+          "/workspace/generated_images/exec-a95b4548-cfd8-4267-b4b7-4295819bd1ab.png",
+          "/workspace/绯色难测_第十四话/参考/绯英原设.jpg",
+          "/workspace/绯色难测_第十四话/参考/爻光原设近景.jpg"
+        ],
+        "actual_reference_assets": [
+          {
+            "path": "/workspace/generated_images/exec-a95b4548-cfd8-4267-b4b7-4295819bd1ab.png",
+            "sha256": "ae9634d0d82cd4e7bcba9bd68c6d0abb9d7ad9046d02ff06b9f2babdd77c1216",
+            "bytes": 3122081
+          },
+          {
+            "path": "/workspace/绯色难测_第十四话/参考/绯英原设.jpg",
+            "sha256": "8ec0576d31814a4f0d54c067b4375b25f5510671823c4d41706cc33b55a346da",
+            "bytes": 134176
+          },
+          {
+            "path": "/workspace/绯色难测_第十四话/参考/爻光原设近景.jpg",
+            "sha256": "1c14724f3bd1ab2f0bbef92ca17250015f810b00d6ed8c72d86e564c2b51c82e",
+            "bytes": 147839
+          }
+        ],
+        "note": "全28源审通过；当页21–23室内Y日装无pink/24同navy伞冬衣bluegray/25–28F宿舍内开衫navy裤一新糖纸，按对应源相位。 实际采用作者+QA批准15不可变raw锁新冬衣与bluegray，加原F/Y脸3refs。"
+      }
+    ],
+    "sha256": "f05b28121a0b113398c5a91872a2a6fb9196ab9245eccb26901ac15a827e24d8",
+    "bytes": 3180894,
+    "resolution": [
+      1024,
+      1536
+    ],
+    "decode": "ok",
+    "actual_references": [
+      "/workspace/generated_images/exec-a95b4548-cfd8-4267-b4b7-4295819bd1ab.png",
+      "/workspace/绯色难测_第十四话/参考/绯英原设.jpg",
+      "/workspace/绯色难测_第十四话/参考/爻光原设近景.jpg"
+    ],
+    "author_actual_view": true,
+    "frozen": true,
+    "visual_review": "author_and_independent_full_page_actual_final_png_view_passed",
+    "qa_approved_sha256": "f05b28121a0b113398c5a91872a2a6fb9196ab9245eccb26901ac15a827e24d8",
+    "independent_reviewer": "/root/ep14_visual_qa"
+  },
+  {
+    "page": 25,
+    "file": "page-25.png",
+    "source": "/workspace/generated_images/exec-4520b19c-3fc7-4f71-aec6-fa684e5a64c9.png",
+    "sources": [
+      "/workspace/generated_images/exec-4520b19c-3fc7-4f71-aec6-fa684e5a64c9.png"
+    ],
+    "history": [
+      "/workspace/generated_images/exec-4520b19c-3fc7-4f71-aec6-fa684e5a64c9.png"
+    ],
+    "steps": [
+      {
+        "source": "/workspace/generated_images/exec-4520b19c-3fc7-4f71-aec6-fa684e5a64c9.png",
+        "sha256": "ad6edab49902603357499913dea219e4eb79707b78dab6b59f4833accc51f176",
+        "kind": "generated",
+        "actual_references": [
+          "/workspace/绯色难测_第十四话/参考/绯英原设.jpg",
+          "/workspace/绯色难测_第十四话/参考/第十一话绯英冬装03.png",
+          "/workspace/绯色难测_第十四话/参考/第十一话借粉围巾20.png",
+          "/workspace/绯色难测_第十四话/参考/第十一话粉狐糖纸22.png",
+          "/workspace/绯色难测_第十四话/参考/第十三话校正脸发及爻字20.png"
+        ],
+        "actual_reference_assets": [
+          {
+            "path": "/workspace/绯色难测_第十四话/参考/绯英原设.jpg",
+            "sha256": "8ec0576d31814a4f0d54c067b4375b25f5510671823c4d41706cc33b55a346da",
+            "bytes": 134176
+          },
+          {
+            "path": "/workspace/绯色难测_第十四话/参考/第十一话绯英冬装03.png",
+            "sha256": "0f66eb2412538bd4ea201611739e6193d32fad48cabd5d3b3d790c2143e947da",
+            "bytes": 2482300
+          },
+          {
+            "path": "/workspace/绯色难测_第十四话/参考/第十一话借粉围巾20.png",
+            "sha256": "663f612419713ef9d755ce0c00f215669413125aad0d1d495aaa8343f893203e",
+            "bytes": 2769336
+          },
+          {
+            "path": "/workspace/绯色难测_第十四话/参考/第十一话粉狐糖纸22.png",
+            "sha256": "bb45e417db8a8ba1e5f241e3d52df7e2f9be9fb0c6cfe695c79d709fdcf029e0",
+            "bytes": 2230569
+          },
+          {
+            "path": "/workspace/绯色难测_第十四话/参考/第十三话校正脸发及爻字20.png",
+            "sha256": "a17311835156279a75fd4a25d66b096891f1b0ab03e797d47d8f030599b30df9",
+            "bytes": 2526433
+          }
+        ],
+        "note": "全28源审通过；当页21–23室内Y日装无pink/24同navy伞冬衣bluegray/25–28F宿舍内开衫navy裤一新糖纸，按对应源相位。"
+      }
+    ],
+    "sha256": "ad6edab49902603357499913dea219e4eb79707b78dab6b59f4833accc51f176",
+    "bytes": 2719695,
+    "resolution": [
+      1024,
+      1536
+    ],
+    "decode": "ok",
+    "actual_references": [
+      "/workspace/绯色难测_第十四话/参考/绯英原设.jpg",
+      "/workspace/绯色难测_第十四话/参考/第十一话绯英冬装03.png",
+      "/workspace/绯色难测_第十四话/参考/第十一话借粉围巾20.png",
+      "/workspace/绯色难测_第十四话/参考/第十一话粉狐糖纸22.png",
+      "/workspace/绯色难测_第十四话/参考/第十三话校正脸发及爻字20.png"
+    ],
+    "author_actual_view": true,
+    "frozen": true,
+    "visual_review": "author_and_independent_full_page_actual_final_png_view_passed",
+    "qa_approved_sha256": "ad6edab49902603357499913dea219e4eb79707b78dab6b59f4833accc51f176",
+    "independent_reviewer": "/root/ep14_visual_qa"
+  },
+  {
+    "page": 26,
+    "file": "page-26.png",
+    "source": "/workspace/generated_images/exec-91065127-1086-4412-92cb-1e1d4fd12004.png",
+    "sources": [
+      "/workspace/generated_images/exec-91065127-1086-4412-92cb-1e1d4fd12004.png"
+    ],
+    "history": [
+      "/workspace/generated_images/exec-91065127-1086-4412-92cb-1e1d4fd12004.png"
+    ],
+    "steps": [
+      {
+        "source": "/workspace/generated_images/exec-91065127-1086-4412-92cb-1e1d4fd12004.png",
+        "sha256": "3961bc4f857a021ca8838eb3e0e10affbd99895d3077bfdba57de147f31b0a8b",
+        "kind": "generated",
+        "actual_references": [
+          "/workspace/绯色难测_第十四话/参考/绯英原设.jpg",
+          "/workspace/绯色难测_第十四话/参考/第十一话绯英冬装03.png",
+          "/workspace/绯色难测_第十四话/参考/第十一话借粉围巾20.png",
+          "/workspace/绯色难测_第十四话/参考/第十一话粉狐糖纸22.png",
+          "/workspace/绯色难测_第十四话/参考/第十二话新手套03.png"
+        ],
+        "actual_reference_assets": [
+          {
+            "path": "/workspace/绯色难测_第十四话/参考/绯英原设.jpg",
+            "sha256": "8ec0576d31814a4f0d54c067b4375b25f5510671823c4d41706cc33b55a346da",
+            "bytes": 134176
+          },
+          {
+            "path": "/workspace/绯色难测_第十四话/参考/第十一话绯英冬装03.png",
+            "sha256": "0f66eb2412538bd4ea201611739e6193d32fad48cabd5d3b3d790c2143e947da",
+            "bytes": 2482300
+          },
+          {
+            "path": "/workspace/绯色难测_第十四话/参考/第十一话借粉围巾20.png",
+            "sha256": "663f612419713ef9d755ce0c00f215669413125aad0d1d495aaa8343f893203e",
+            "bytes": 2769336
+          },
+          {
+            "path": "/workspace/绯色难测_第十四话/参考/第十一话粉狐糖纸22.png",
+            "sha256": "bb45e417db8a8ba1e5f241e3d52df7e2f9be9fb0c6cfe695c79d709fdcf029e0",
+            "bytes": 2230569
+          },
+          {
+            "path": "/workspace/绯色难测_第十四话/参考/第十二话新手套03.png",
+            "sha256": "ccd10073c94da72080e0deb2bf1410adada96ca624f1179ae22c76caf6994edc",
+            "bytes": 2517700
+          }
+        ],
+        "note": "全28源审通过；当页21–23室内Y日装无pink/24同navy伞冬衣bluegray/25–28F宿舍内开衫navy裤一新糖纸，按对应源相位。"
+      }
+    ],
+    "sha256": "3961bc4f857a021ca8838eb3e0e10affbd99895d3077bfdba57de147f31b0a8b",
+    "bytes": 2400145,
+    "resolution": [
+      1024,
+      1536
+    ],
+    "decode": "ok",
+    "actual_references": [
+      "/workspace/绯色难测_第十四话/参考/绯英原设.jpg",
+      "/workspace/绯色难测_第十四话/参考/第十一话绯英冬装03.png",
+      "/workspace/绯色难测_第十四话/参考/第十一话借粉围巾20.png",
+      "/workspace/绯色难测_第十四话/参考/第十一话粉狐糖纸22.png",
+      "/workspace/绯色难测_第十四话/参考/第十二话新手套03.png"
+    ],
+    "author_actual_view": true,
+    "frozen": true,
+    "visual_review": "author_and_independent_full_page_actual_final_png_view_passed",
+    "qa_approved_sha256": "3961bc4f857a021ca8838eb3e0e10affbd99895d3077bfdba57de147f31b0a8b",
+    "independent_reviewer": "/root/ep14_visual_qa"
+  },
+  {
+    "page": 27,
+    "file": "page-27.png",
+    "source": "/workspace/generated_images/exec-2d1fde52-fd81-45c0-b437-3ee9819d5c8c.png",
+    "sources": [
+      "/workspace/generated_images/exec-2d1fde52-fd81-45c0-b437-3ee9819d5c8c.png"
+    ],
+    "history": [
+      "/workspace/generated_images/exec-2d1fde52-fd81-45c0-b437-3ee9819d5c8c.png"
+    ],
+    "steps": [
+      {
+        "source": "/workspace/generated_images/exec-2d1fde52-fd81-45c0-b437-3ee9819d5c8c.png",
+        "sha256": "47bb4b07ccbbf8087ab00df27aac53cfff4270ed0a07546042846da87949ef27",
+        "kind": "generated",
+        "actual_references": [
+          "/workspace/绯色难测_第十四话/参考/绯英原设.jpg",
+          "/workspace/绯色难测_第十四话/参考/第十一话绯英冬装03.png",
+          "/workspace/绯色难测_第十四话/参考/第十一话粉狐糖纸22.png",
+          "/workspace/绯色难测_第十四话/参考/第十二话新手套03.png",
+          "/workspace/绯色难测_第十四话/参考/第十三话校正脸发及爻字20.png"
+        ],
+        "actual_reference_assets": [
+          {
+            "path": "/workspace/绯色难测_第十四话/参考/绯英原设.jpg",
+            "sha256": "8ec0576d31814a4f0d54c067b4375b25f5510671823c4d41706cc33b55a346da",
+            "bytes": 134176
+          },
+          {
+            "path": "/workspace/绯色难测_第十四话/参考/第十一话绯英冬装03.png",
+            "sha256": "0f66eb2412538bd4ea201611739e6193d32fad48cabd5d3b3d790c2143e947da",
+            "bytes": 2482300
+          },
+          {
+            "path": "/workspace/绯色难测_第十四话/参考/第十一话粉狐糖纸22.png",
+            "sha256": "bb45e417db8a8ba1e5f241e3d52df7e2f9be9fb0c6cfe695c79d709fdcf029e0",
+            "bytes": 2230569
+          },
+          {
+            "path": "/workspace/绯色难测_第十四话/参考/第十二话新手套03.png",
+            "sha256": "ccd10073c94da72080e0deb2bf1410adada96ca624f1179ae22c76caf6994edc",
+            "bytes": 2517700
+          },
+          {
+            "path": "/workspace/绯色难测_第十四话/参考/第十三话校正脸发及爻字20.png",
+            "sha256": "a17311835156279a75fd4a25d66b096891f1b0ab03e797d47d8f030599b30df9",
+            "bytes": 2526433
+          }
+        ],
+        "note": "全28源审通过；当页21–23室内Y日装无pink/24同navy伞冬衣bluegray/25–28F宿舍内开衫navy裤一新糖纸，按对应源相位。"
+      }
+    ],
+    "sha256": "47bb4b07ccbbf8087ab00df27aac53cfff4270ed0a07546042846da87949ef27",
+    "bytes": 2539751,
+    "resolution": [
+      1024,
+      1536
+    ],
+    "decode": "ok",
+    "actual_references": [
+      "/workspace/绯色难测_第十四话/参考/绯英原设.jpg",
+      "/workspace/绯色难测_第十四话/参考/第十一话绯英冬装03.png",
+      "/workspace/绯色难测_第十四话/参考/第十一话粉狐糖纸22.png",
+      "/workspace/绯色难测_第十四话/参考/第十二话新手套03.png",
+      "/workspace/绯色难测_第十四话/参考/第十三话校正脸发及爻字20.png"
+    ],
+    "author_actual_view": true,
+    "frozen": true,
+    "visual_review": "author_and_independent_full_page_actual_final_png_view_passed",
+    "qa_approved_sha256": "47bb4b07ccbbf8087ab00df27aac53cfff4270ed0a07546042846da87949ef27",
+    "independent_reviewer": "/root/ep14_visual_qa"
+  },
+  {
+    "page": 28,
+    "file": "page-28.png",
+    "source": "/workspace/generated_images/exec-38471ee0-0685-44a8-9a22-69da444ef249.png",
+    "sources": [
+      "/workspace/generated_images/exec-38471ee0-0685-44a8-9a22-69da444ef249.png"
+    ],
+    "history": [
+      "/workspace/generated_images/exec-38471ee0-0685-44a8-9a22-69da444ef249.png"
+    ],
+    "steps": [
+      {
+        "source": "/workspace/generated_images/exec-38471ee0-0685-44a8-9a22-69da444ef249.png",
+        "sha256": "c38460d9ba50b18cce73a78c85251af48d16bde0bdc7a5263683837ca15d724d",
+        "kind": "generated",
+        "actual_references": [
+          "/workspace/绯色难测_第十四话/参考/绯英原设.jpg",
+          "/workspace/绯色难测_第十四话/参考/第十一话绯英冬装03.png",
+          "/workspace/绯色难测_第十四话/参考/第十一话粉狐糖纸22.png",
+          "/workspace/绯色难测_第十四话/参考/第十二话新手套03.png",
+          "/workspace/绯色难测_第十四话/参考/第十三话校正脸发及爻字20.png"
+        ],
+        "actual_reference_assets": [
+          {
+            "path": "/workspace/绯色难测_第十四话/参考/绯英原设.jpg",
+            "sha256": "8ec0576d31814a4f0d54c067b4375b25f5510671823c4d41706cc33b55a346da",
+            "bytes": 134176
+          },
+          {
+            "path": "/workspace/绯色难测_第十四话/参考/第十一话绯英冬装03.png",
+            "sha256": "0f66eb2412538bd4ea201611739e6193d32fad48cabd5d3b3d790c2143e947da",
+            "bytes": 2482300
+          },
+          {
+            "path": "/workspace/绯色难测_第十四话/参考/第十一话粉狐糖纸22.png",
+            "sha256": "bb45e417db8a8ba1e5f241e3d52df7e2f9be9fb0c6cfe695c79d709fdcf029e0",
+            "bytes": 2230569
+          },
+          {
+            "path": "/workspace/绯色难测_第十四话/参考/第十二话新手套03.png",
+            "sha256": "ccd10073c94da72080e0deb2bf1410adada96ca624f1179ae22c76caf6994edc",
+            "bytes": 2517700
+          },
+          {
+            "path": "/workspace/绯色难测_第十四话/参考/第十三话校正脸发及爻字20.png",
+            "sha256": "a17311835156279a75fd4a25d66b096891f1b0ab03e797d47d8f030599b30df9",
+            "bytes": 2526433
+          }
+        ],
+        "note": "全28源审通过；当页21–23室内Y日装无pink/24同navy伞冬衣bluegray/25–28F宿舍内开衫navy裤一新糖纸，按对应源相位。"
+      }
+    ],
+    "sha256": "c38460d9ba50b18cce73a78c85251af48d16bde0bdc7a5263683837ca15d724d",
+    "bytes": 2524741,
+    "resolution": [
+      1024,
+      1536
+    ],
+    "decode": "ok",
+    "actual_references": [
+      "/workspace/绯色难测_第十四话/参考/绯英原设.jpg",
+      "/workspace/绯色难测_第十四话/参考/第十一话绯英冬装03.png",
+      "/workspace/绯色难测_第十四话/参考/第十一话粉狐糖纸22.png",
+      "/workspace/绯色难测_第十四话/参考/第十二话新手套03.png",
+      "/workspace/绯色难测_第十四话/参考/第十三话校正脸发及爻字20.png"
+    ],
+    "author_actual_view": true,
+    "frozen": true,
+    "visual_review": "author_and_independent_full_page_actual_final_png_view_passed",
+    "qa_approved_sha256": "c38460d9ba50b18cce73a78c85251af48d16bde0bdc7a5263683837ca15d724d",
+    "independent_reviewer": "/root/ep14_visual_qa"
+  }
+]
