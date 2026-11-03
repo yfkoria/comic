@@ -1,0 +1,2698 @@
+{
+  "episode": 16,
+  "title": "流言",
+  "requested_focus": "对照用户三原图与已确认校园身份，核对春季家长会与职业互信，保持慢热。",
+  "status": "completed_and_frozen",
+  "scope": "28页126格，角色、春装、手套玉镯、家长会样本与授权、报告统计、原稿归还、椅与回执连续性完成并冻结；本人5锚与命名QA全28实际视证分别记录。",
+  "evidence": [
+    {
+      "workspace_path": "/workspace/绯色难测_第十六话/参考/爻光原设全身.jpg",
+      "original_workspace_path": "/workspace/原设参考/爻光原设_全身.jpg",
+      "sha256": "8222e86042d6637460243ee623098453319f1e679fa64605095ecf0b6d795313",
+      "bytes": 123636,
+      "resolution": [
+        591,
+        1280
+      ],
+      "format": "JPEG",
+      "actual_view_completed": true,
+      "viewed_by": "/root/ep16_character_audit_resume",
+      "view_method": "本人本resume实际tools.view_image完整打开包内原字节copy；原件哈希同",
+      "viewed_at_utc": "2026-11-03T19:01:59.610212+00:00"
+    },
+    {
+      "workspace_path": "/workspace/绯色难测_第十六话/参考/爻光原设近景.jpg",
+      "original_workspace_path": "/workspace/原设参考/爻光原设_近景.jpg",
+      "sha256": "1c14724f3bd1ab2f0bbef92ca17250015f810b00d6ed8c72d86e564c2b51c82e",
+      "bytes": 147839,
+      "resolution": [
+        929,
+        1280
+      ],
+      "format": "JPEG",
+      "actual_view_completed": true,
+      "viewed_by": "/root/ep16_character_audit_resume",
+      "view_method": "本人本resume实际tools.view_image完整打开包内原字节copy；原件哈希同",
+      "viewed_at_utc": "2026-11-03T19:01:59.610212+00:00"
+    },
+    {
+      "workspace_path": "/workspace/绯色难测_第十六话/参考/第十三话校园木质教室07.png",
+      "original_workspace_path": "/workspace/绯色难测_第十三话/page-07.png",
+      "sha256": "009391cff9555fbcfa739d7bb68f07ba25f292aaa9f962f1216ea3b844d1e311",
+      "bytes": 2523660,
+      "resolution": [
+        1024,
+        1536
+      ],
+      "format": "PNG",
+      "actual_view_completed": true,
+      "viewed_by": "/root/ep16_character_audit_resume",
+      "view_method": "本人本resume实际tools.view_image完整打开包内原字节copy；原件哈希同",
+      "viewed_at_utc": "2026-11-03T19:01:59.610212+00:00"
+    },
+    {
+      "workspace_path": "/workspace/绯色难测_第十六话/参考/第十三话符玄日装05.png",
+      "original_workspace_path": "/workspace/绯色难测_第十三话/page-05.png",
+      "sha256": "668aaef104791fd51220cd0cd1c1e43d04637f4e3ed42881409d843c68d50954",
+      "bytes": 2375754,
+      "resolution": [
+        1024,
+        1536
+      ],
+      "format": "PNG",
+      "actual_view_completed": true,
+      "viewed_by": "/root/ep16_character_audit_resume",
+      "view_method": "本人本resume实际tools.view_image完整打开包内原字节copy；原件哈希同",
+      "viewed_at_utc": "2026-11-03T19:01:59.610212+00:00"
+    },
+    {
+      "workspace_path": "/workspace/绯色难测_第十六话/参考/第十五话爻光日装24.png",
+      "original_workspace_path": "/workspace/绯色难测_第十五话/page-24.png",
+      "sha256": "f1581fc94c3ea1d11908f475f9ec54f2e126545ea0affa94757464ce06c472a3",
+      "bytes": 2295407,
+      "resolution": [
+        1024,
+        1536
+      ],
+      "format": "PNG",
+      "actual_view_completed": true,
+      "viewed_by": "/root/ep16_character_audit_resume",
+      "view_method": "本人本resume实际tools.view_image完整打开包内原字节copy；原件哈希同",
+      "viewed_at_utc": "2026-11-03T19:01:59.610212+00:00"
+    },
+    {
+      "workspace_path": "/workspace/绯色难测_第十六话/参考/第十四话绯英日装26.png",
+      "original_workspace_path": "/workspace/绯色难测_第十四话/page-26.png",
+      "sha256": "3961bc4f857a021ca8838eb3e0e10affbd99895d3077bfdba57de147f31b0a8b",
+      "bytes": 2400145,
+      "resolution": [
+        1024,
+        1536
+      ],
+      "format": "PNG",
+      "actual_view_completed": true,
+      "viewed_by": "/root/ep16_character_audit_resume",
+      "view_method": "本人本resume实际tools.view_image完整打开包内原字节copy；原件哈希同",
+      "viewed_at_utc": "2026-11-03T19:01:59.610212+00:00"
+    },
+    {
+      "workspace_path": "/workspace/绯色难测_第十六话/参考/绯英原设.jpg",
+      "original_workspace_path": "/workspace/原设参考/绯英原设.jpg",
+      "sha256": "8ec0576d31814a4f0d54c067b4375b25f5510671823c4d41706cc33b55a346da",
+      "bytes": 134176,
+      "resolution": [
+        582,
+        1280
+      ],
+      "format": "JPEG",
+      "actual_view_completed": true,
+      "viewed_by": "/root/ep16_character_audit_resume",
+      "view_method": "本人本resume实际tools.view_image完整打开包内原字节copy；原件哈希同",
+      "viewed_at_utc": "2026-11-03T19:01:59.610212+00:00"
+    }
+  ],
+  "characters": {
+    "绯英": {
+      "identity": "成年美术教师/高二（2）班班主任，不画高中生或兔兽耳。",
+      "head_and_eyes": "短蓬粉冠、外翻短脸层、分离细长后丝，红结樱夹，自然紫瞳；非整幅腰长粉直发幕。",
+      "spring_indoor_outfit": "莓红时髦短开衫/ivory衬衣/navy高腰直筒长裤/完好新black平底鞋；不用吊带背带裙或白工作服。",
+      "hands": "解剖RIGHT白全指手套；LEFT新黑露指薄掌网旧淡痕。旧LEFT腕仅酸，不新流血/白纱布。源木尺固定RIGHT。",
+      "acting": "开场受压的迟疑、后段自主改计划、最后小笑都保留；不通篇强笑或冰脸，也不新添拥抱告白。"
+    },
+    "爻光": {
+      "identity": "成年年级主任/数学教师，不童脸，不金瞳发光/法术。",
+      "head_and_eyes": "银白长后丝冷蓝紫影，分束弯曲碎刘海与外羽鬓束，解剖RIGHT孔雀，自然紫青虹彩。",
+      "spring_indoor_outfit": "白blazer/白立领mididress/青腰带、原navy布仅LEFT肩；室内不继承冬coat或粉/蓝灰颈巾。",
+      "hands": "双裸手，玉镯仅解剖LEFT腕，RIGHT空；不得按写字/拿物习惯猜右手。",
+      "acting": "先递材料给Fu再投影，专业克制并非替F包办；接第3椅、移目对齐椅腿保持原文普通动作。"
+    },
+    "符玄": {
+      "identity": "成年教务主任，沿既有校园版粉紫长发/紫眼/细金框眼镜/淡紫灰西装/米白衬衣/深navy半裙。",
+      "source_presence": "家长会接过Y先递来的材料；不替Y/F新增演说或抹掉17联名信。",
+      "visual_reference": "绯色难测_第十三话/page-05.png，原字节身份参照。"
+    }
+  },
+  "chapter16_continuity": {
+    "time_space": "春季建木新芽、湿外衣与打印纸；普通教室家长会至同一教室夜收尾，无新具体年月日，不提前四月运动会。",
+    "report": "同一30页塑封报告左订，开场翘钉刮指无新血；末页17名字与撤班主任/压活动课/停漫画社；最后钉脚按平、报告封面压在回包木尺上。17名字和联名信始终保留。",
+    "meeting": "54椅坐满成年家长、后添凳；学生画收起以成绩投影替代；两班末端差0.3，不编绝对均分/实际榜单。家长无道歉/全班鼓掌/撤签/被赶走。",
+    "sample": "Z周叙自己保存并给Y的残数学卷；原纸撕裂透明胶黄痕，红评分在胶下，右侧裂星蓝光；展示姓名及分数均遮住，不改为全新画布/奖状/新试卷。",
+    "consent_and_records": "学生与监护人书面同意展示作品与去名样本，签字在背面；正式干预记录从未翻出，仅时间节点与复课安排；近3年长期缺课统计有样本口径/复课日期和缺项，不捏造漂亮率或诊断。",
+    "school_action": "周三下午两小时可在校去处，学校不替医院治疗；删前需可接替安排。F自己删全班统一参展改自选、另列升学方向辅导；期中看数学单科线也看缺课列，无排名保证。",
+    "chairs": "F先搬2椅旧LEFT腕酸，Y接第3椅，不是新受伤救场/抱人；后将最后1椅腿对齐桌边。",
+    "sample_return": "F知道周叙保留并借出原因后不去碰原稿，停看后要求放回他作品夹；不把学生原稿私藏当恋爱礼物。",
+    "quiet_end": "教学计划抱低后只靠近半步；自习辅导下周2次，Y不替F批作业；F末小笑、尺回包和翘钉按平；无接吻/拥抱/确认恋爱/新诊断。",
+    "receipt_exact_lines": [
+      "联名信保留。另列四项答复，家长代表签收。",
+      "活动课实行自选，期中后复盘，未承诺成绩排名。",
+      "请勿将去名样本拍照转入家长群。下一次反馈日期已在回执上圈出。"
+    ],
+    "receipt_boundary": "四项是原文数量，不编四项具体列表或具体反馈日期；画圈可以圈一个不可读日期字段。",
+    "sample_historical_boundary": "历史4话p04是普通完整画纸宇宙，13话获奖行星亦不能冒成本话新揭示的贴胶数学卷原件。数学残卷按本章明确的纸张、红评分与右裂蓝光绘制，不编以前成稿已有同一原件。",
+    "report_copy_clarification": "制作中F原30页塑封左订翘钉本始终留讲台、末由F收起按平；带头家长自持分发本并带走。以副本区分澄清原文报告持续出现，不把F本取走后凭空复活。"
+  },
+  "handedness_geometry_policy": {
+    "basis": "只按实际可见肩肘/掌背/拇指/指轴；不以canvas左右或写字习惯判侧别。",
+    "fingers_up": "LEFT手背thumb在图右，LEFT掌thumb在图左；RIGHT反向。先旋转指轴再用，不把遮挡补成错腕。",
+    "correct_glyph": "爻U+723B两组乂共四斜线，无交的独立顶点与横；缩图疑似交需看实际像素/笔画证据，不因字体相似擅改正确爻。"
+  },
+  "archive_reference_copy_verification": {
+    "status": "verified_current_references",
+    "unique_assets": 7,
+    "prompt_reference_uses": 128,
+    "maximum_per_page": 5,
+    "files": [
+      {
+        "file": "参考/爻光原设全身.jpg",
+        "sha256": "8222e86042d6637460243ee623098453319f1e679fa64605095ecf0b6d795313",
+        "bytes": 123636,
+        "resolution": [
+          591,
+          1280
+        ],
+        "format": "JPEG",
+        "decode_ok": true,
+        "matches_personally_viewed_original_bytes": true,
+        "personally_viewed_original_path": "/workspace/绯色难测_第十六话/参考/爻光原设全身.jpg"
+      },
+      {
+        "file": "参考/爻光原设近景.jpg",
+        "sha256": "1c14724f3bd1ab2f0bbef92ca17250015f810b00d6ed8c72d86e564c2b51c82e",
+        "bytes": 147839,
+        "resolution": [
+          929,
+          1280
+        ],
+        "format": "JPEG",
+        "decode_ok": true,
+        "matches_personally_viewed_original_bytes": true,
+        "personally_viewed_original_path": "/workspace/绯色难测_第十六话/参考/爻光原设近景.jpg"
+      },
+      {
+        "file": "参考/第十三话校园木质教室07.png",
+        "sha256": "009391cff9555fbcfa739d7bb68f07ba25f292aaa9f962f1216ea3b844d1e311",
+        "bytes": 2523660,
+        "resolution": [
+          1024,
+          1536
+        ],
+        "format": "PNG",
+        "decode_ok": true,
+        "matches_personally_viewed_original_bytes": true,
+        "personally_viewed_original_path": "/workspace/绯色难测_第十六话/参考/第十三话校园木质教室07.png"
+      },
+      {
+        "file": "参考/第十三话符玄日装05.png",
+        "sha256": "668aaef104791fd51220cd0cd1c1e43d04637f4e3ed42881409d843c68d50954",
+        "bytes": 2375754,
+        "resolution": [
+          1024,
+          1536
+        ],
+        "format": "PNG",
+        "decode_ok": true,
+        "matches_personally_viewed_original_bytes": true,
+        "personally_viewed_original_path": "/workspace/绯色难测_第十六话/参考/第十三话符玄日装05.png"
+      },
+      {
+        "file": "参考/第十五话爻光日装24.png",
+        "sha256": "f1581fc94c3ea1d11908f475f9ec54f2e126545ea0affa94757464ce06c472a3",
+        "bytes": 2295407,
+        "resolution": [
+          1024,
+          1536
+        ],
+        "format": "PNG",
+        "decode_ok": true,
+        "matches_personally_viewed_original_bytes": true,
+        "personally_viewed_original_path": "/workspace/绯色难测_第十六话/参考/第十五话爻光日装24.png"
+      },
+      {
+        "file": "参考/第十四话绯英日装26.png",
+        "sha256": "3961bc4f857a021ca8838eb3e0e10affbd99895d3077bfdba57de147f31b0a8b",
+        "bytes": 2400145,
+        "resolution": [
+          1024,
+          1536
+        ],
+        "format": "PNG",
+        "decode_ok": true,
+        "matches_personally_viewed_original_bytes": true,
+        "personally_viewed_original_path": "/workspace/绯色难测_第十六话/参考/第十四话绯英日装26.png"
+      },
+      {
+        "file": "参考/绯英原设.jpg",
+        "sha256": "8ec0576d31814a4f0d54c067b4375b25f5510671823c4d41706cc33b55a346da",
+        "bytes": 134176,
+        "resolution": [
+          582,
+          1280
+        ],
+        "format": "JPEG",
+        "decode_ok": true,
+        "matches_personally_viewed_original_bytes": true,
+        "personally_viewed_original_path": "/workspace/绯色难测_第十六话/参考/绯英原设.jpg"
+      }
+    ],
+    "claim_boundary": "未在本轮evidence亲看图未冒认本人亲看；仅检查解码与字节。"
+  },
+  "actual_prompt_reference_copy_verification": {
+    "status": "verified_all_actual_historical_input_bytes",
+    "successful_steps": 44,
+    "actual_reference_uses": 148,
+    "maximum_actual_references_per_step": 5,
+    "all_reference_and_RAW_hashes_verified": true,
+    "all_present_actual_prompt_hashes_verified": true,
+    "all_present_frozen_source_input_hashes_verified": true,
+    "locked_original_author_records": [
+      {
+        "file": "前半生成记录.json",
+        "sha256": "d5600b7dcff6335ce125a823d1c40ee43cf6a1bd7e190fd19a01efb2e1a72855",
+        "bytes": 233766,
+        "rows": 14
+      },
+      {
+        "file": "后半生成记录.json",
+        "sha256": "67532b79648afb9e155d02b24c272ec10d4ac191440a38f4a91668f28684d46b",
+        "bytes": 231684,
+        "rows": 14
+      }
+    ],
+    "claim_boundary": "实际输入bytes验证依原生成记录及其不可变RAW/参考文件；个人亲看范围仍只在evidence与identity_anchor_checks明确列出。"
+  },
+  "source_read": {
+    "path": "/workspace/原作/卷三_心动这门课.txt",
+    "sha256": "66256266e7fd0fe53ac11b8577f044c8e70737783eac1461baaf35a8a80d7e96",
+    "chapter_start": "第十六章 流言",
+    "exclusive_next_chapter": "第十七章 手幅",
+    "actually_read_by": "/root/ep16_character_audit_resume",
+    "read_complete": true,
+    "episode_storyboard_actual_full_read_by": "/root/ep16_character_audit_resume",
+    "episode_storyboard_panels_actual_read": 126,
+    "resume_actual_read_at_utc": "2026-11-03T19:01:59.610212+00:00"
+  },
+  "prior_episode_character_review_document": {
+    "path": "/workspace/绯色难测_第十五话/角色核对.json",
+    "sha256": "30c05400ca1f608bc7ca2cc596650b09b3bf92412ec5162f8bc145374bee559c",
+    "usage": "仅schema与历史canon来源；旧人实看不冒为本审计员本轮视证。"
+  },
+  "working_page_review_matrix": [
+    {
+      "page": 1,
+      "file": "page-01.png",
+      "sha256": "30ca9c85fc7b1c69d5370008e86bb4e19d99778ca57d31d2c7cfb561c7892865",
+      "status": "passed_current_png",
+      "full_page_reviewer": "/root/ep16_visual_qa_resume",
+      "actual_full_page_viewed": true,
+      "actual_panels": 5,
+      "current_source_record_match": true,
+      "author_qa_approved_sha_sync": true,
+      "author_actual_view": true,
+      "author_page_frozen": true,
+      "must_fix": [],
+      "qa_notes": [
+        "Personally full-viewed all5 panels; adult F short fluffy crown and separated long strands, RIGHT white/LEFT black gloves, spring outfit correct.",
+        "Same30-page clear LEFT-stapled bent-foot report, no blood;17 anonymous numbered1–17 signatures and3 original demands retained."
+      ]
+    },
+    {
+      "page": 2,
+      "file": "page-02.png",
+      "sha256": "cba02595e36aa924c0d40e1faef57da4ca15398ee0edf38b88877d26cef0136c",
+      "status": "passed_current_png",
+      "full_page_reviewer": "/root/ep16_visual_qa_resume",
+      "actual_full_page_viewed": true,
+      "actual_panels": 4,
+      "current_source_record_match": true,
+      "author_qa_approved_sha_sync": true,
+      "author_actual_view": true,
+      "author_page_frozen": true,
+      "must_fix": [],
+      "qa_notes": [
+        "Personally full-viewed all4 panels; plan beneath report and ruler resting, spring buds/54 adult parents with extra rear stools/no Y premature.",
+        "Cleared whiteboard/artwork stored; F garment/glove anatomy consistent and all source text legible."
+      ]
+    },
+    {
+      "page": 3,
+      "file": "page-03.png",
+      "sha256": "98fd11faed01b807912456ac61710e224ef0d0f84951efe71b6daf454ff9fa3b",
+      "status": "passed_current_png",
+      "full_page_reviewer": "/root/ep16_visual_qa_resume",
+      "actual_full_page_viewed": true,
+      "actual_panels": 5,
+      "current_source_record_match": true,
+      "author_qa_approved_sha_sync": true,
+      "author_actual_view": true,
+      "author_page_frozen": true,
+      "must_fix": [],
+      "qa_notes": [
+        "Personally full-viewed current corrected5-panel PNG; close trend lines with0.3 only, no invented absolute scores or winner.",
+        "p5 fixed near RIGHT shoulder/arm to WHITE fullfinger hand on lectern and far LEFT raised open palm BLACK fingerless; p4 front-view gloves remain correct; original text/expressions preserved."
+      ]
+    },
+    {
+      "page": 4,
+      "file": "page-04.png",
+      "sha256": "b9b13a3fd07d31c9ae47953cfb1bb46152f8fe87c742438a6020cae30b2948c4",
+      "status": "passed_current_png",
+      "full_page_reviewer": "/root/ep16_visual_qa_resume",
+      "actual_full_page_viewed": true,
+      "actual_panels": 4,
+      "current_source_record_match": true,
+      "author_qa_approved_sha_sync": true,
+      "author_actual_view": true,
+      "author_page_frozen": true,
+      "must_fix": [],
+      "qa_notes": [
+        "Personally whole4 panels viewed; adult parent fox journal and questions; F true RIGHT white holds original ruler, LEFT black on paper, no strike/new injury."
+      ]
+    },
+    {
+      "page": 5,
+      "file": "page-05.png",
+      "sha256": "664c33a872bfc61da45c92f91270f8c2ddff229ce10509c463763ec3ccafc09c",
+      "status": "passed_current_png",
+      "full_page_reviewer": "/root/ep16_visual_qa_resume",
+      "actual_full_page_viewed": true,
+      "actual_panels": 5,
+      "current_source_record_match": true,
+      "author_qa_approved_sha_sync": true,
+      "author_actual_view": true,
+      "author_page_frozen": true,
+      "must_fix": [],
+      "qa_notes": [
+        "Personally REOPENED whole revised5-panel PNG; all3 premature/wrong absence-table projector ROIs are gone, original two close mean lines/gap0.3 remain only.",
+        "Rear door→Y entry→material to Fu→projector order, adult identity/accessories/RIGHT ruler and all original words preserved."
+      ]
+    },
+    {
+      "page": 6,
+      "file": "page-06.png",
+      "sha256": "153d7d2e2ece93485d0c616d5de1b0de8d3a2b26a263f4c0d94b197f1f145eb7",
+      "status": "passed_current_png",
+      "full_page_reviewer": "/root/ep16_visual_qa_resume",
+      "actual_full_page_viewed": true,
+      "actual_panels": 4,
+      "current_source_record_match": true,
+      "author_qa_approved_sha_sync": true,
+      "author_actual_view": true,
+      "author_page_frozen": true,
+      "must_fix": [],
+      "qa_notes": [
+        "Personally REOPENED entire revised4-panel PNG: near true RIGHT sleeve now WHITE fullfinger waist hand, far LEFT remote-holding palm BLACK fingerless; poses/text/face and original3 paper-detail panels retained.",
+        "Two masks/yellow tape/red traces/RIGHT ringless blue-cracked planet correct."
+      ]
+    },
+    {
+      "page": 7,
+      "file": "page-07.png",
+      "sha256": "d9616e806f1371b2bb1e96c1b933843732c885657a3490880292bd2b94a9495a",
+      "status": "passed_current_png",
+      "full_page_reviewer": "/root/ep16_visual_qa_resume",
+      "actual_full_page_viewed": true,
+      "actual_panels": 5,
+      "current_source_record_match": true,
+      "author_qa_approved_sha_sync": true,
+      "author_actual_view": true,
+      "author_page_frozen": true,
+      "must_fix": [],
+      "qa_notes": [
+        "Personally REOPENED whole revised5-panel PNG twice: p2 Saturn ring removed, same ringless RIGHT blue-cracked planet/tape/masks; p3 WRONG RIGHT jade removed; authorization/closed records/text/faces unchanged.",
+        "p5 ORIGINAL LEFT JADE REMAINS, confirmed actual original pixels at[860,1300,985,1435]: old green998/new1052 pixels with same-position band/IoU.739. No second jade needed; suspected deletion was not substantiated. This is analysis only, no image edit."
+      ]
+    },
+    {
+      "page": 8,
+      "file": "page-08.png",
+      "sha256": "ea1f503f364ac78b925a63213c88644d1fa7631060eb90bc03ab9caa48540329",
+      "status": "passed_current_png",
+      "full_page_reviewer": "/root/ep16_visual_qa_resume",
+      "actual_full_page_viewed": true,
+      "actual_panels": 4,
+      "current_source_record_match": true,
+      "author_qa_approved_sha_sync": true,
+      "author_actual_view": true,
+      "author_page_frozen": true,
+      "must_fix": [],
+      "qa_notes": [
+        "Personally REOPENED whole second-revised4-panel PNG. Projected paper p1/p3 no longer contains class blue/pink mean graph/axis/0.3 overlay; only repaired maths paper/indistinct print/masked fields/RIGHT ringless blue-crack planet remain.",
+        "p2 parent report remains generic gray rows, all actors/hands/jade/source dialogue preserved, no new separate chart."
+      ]
+    },
+    {
+      "page": 9,
+      "file": "page-09.png",
+      "sha256": "371576bac90803f4f0cfc64a6ac1a0e2feef3257ec4e17ed6e827a9038ded604",
+      "status": "passed_current_png",
+      "full_page_reviewer": "/root/ep16_visual_qa_resume",
+      "actual_full_page_viewed": true,
+      "actual_panels": 5,
+      "current_source_record_match": true,
+      "author_qa_approved_sha_sync": true,
+      "author_actual_view": true,
+      "author_page_frozen": true,
+      "must_fix": [],
+      "qa_notes": [
+        "Personally whole5 panels viewed; original54-person objection and reply, source title/样本与口径/缺课天数/恢复正常到校日期 and unfilled— correctly shown without invented values.",
+        "F RIGHT white/LEFT black, Y LEFT jade holding paper/p4 true RIGHT open palm empty traced to white shoulder, all mature features/source words correct."
+      ]
+    },
+    {
+      "page": 10,
+      "file": "page-10.png",
+      "sha256": "c425b60d409782b1419c13e21127856e3a1a66ed37efedeb266a430ba6c341ad",
+      "status": "passed_current_png",
+      "full_page_reviewer": "/root/ep16_visual_qa_resume",
+      "actual_full_page_viewed": true,
+      "actual_panels": 4,
+      "current_source_record_match": true,
+      "author_qa_approved_sha_sync": true,
+      "author_actual_view": true,
+      "author_page_frozen": true,
+      "must_fix": [],
+      "qa_notes": [
+        "Personally REOPENED whole revised4-panel PNG. Three projector ROIs consistently retain source 近三年长期缺课统计 / 样本与口径 / 缺课天数 / 恢复正常到校日期 with gray lines and—; no school-year/current-class fabricated fields remain.",
+        "All source cost dialogue, actors/F gloves/Y LEFT jade/RIGHT empty and natural acting unchanged."
+      ]
+    },
+    {
+      "page": 11,
+      "file": "page-11.png",
+      "sha256": "23f2b371d739e47506aa56e2fcc3ec0146c71b1927bf89832a6690b547363480",
+      "status": "passed_current_png",
+      "full_page_reviewer": "/root/ep16_visual_qa_resume",
+      "actual_full_page_viewed": true,
+      "actual_panels": 5,
+      "current_source_record_match": true,
+      "author_qa_approved_sha_sync": true,
+      "author_actual_view": true,
+      "author_page_frozen": true,
+      "must_fix": [],
+      "qa_notes": [
+        "Personally whole5 panels viewed; original school/hospital boundary, 周三下午/两小时 and both仍/source replacement-arrangement question retained, no treatment promise.",
+        "Y p2 LEFT jade partly visible by cuff; p3 back-of-LEFT pointing hand has jade (indexRIGHT/thumbbelow), p5 true RIGHT empty; F/Fu adult identity and no ruler hit/new medical scene correct."
+      ]
+    },
+    {
+      "page": 12,
+      "file": "page-12.png",
+      "sha256": "e1e08f85ed3256011e996681f4e7f58f660d3f8f0844cb0599016a2bff994286",
+      "status": "passed_current_png",
+      "full_page_reviewer": "/root/ep16_visual_qa_resume",
+      "actual_full_page_viewed": true,
+      "actual_panels": 4,
+      "current_source_record_match": true,
+      "author_qa_approved_sha_sync": true,
+      "author_actual_view": true,
+      "author_page_frozen": true,
+      "must_fix": [],
+      "qa_notes": [
+        "Personally REOPENED whole revised4-panel PNG. p1/p2/p4 displays now same source absence table with source fields/—; no mixed original-sheet/floating planet/wrong class-year chart.",
+        "Source silence, halfturn-clock illustration, parent phone directed toward self, report copies, adult actors/gloves and all captions preserved."
+      ]
+    },
+    {
+      "page": 13,
+      "file": "page-13.png",
+      "sha256": "93b31a6b6d3621c21b89dfe1318b71348b6ca9487b47c7f2ec55e93113544e19",
+      "status": "passed_current_png",
+      "full_page_reviewer": "/root/ep16_visual_qa_resume",
+      "actual_full_page_viewed": true,
+      "actual_panels": 5,
+      "current_source_record_match": true,
+      "author_qa_approved_sha_sync": true,
+      "author_actual_view": true,
+      "author_page_frozen": true,
+      "must_fix": [],
+      "qa_notes": [
+        "Personally whole5 panels viewed; F herself brings plan, crosses whole-class compulsory exhibition and writes自选 with RIGHT WHITE pen hand/LEFT BLACK paper support.",
+        "Targeted guidance source item, rear parent notes one line, canonical adult features and all source words correct; no ranking guarantee or letter withdrawal."
+      ]
+    },
+    {
+      "page": 14,
+      "file": "page-14.png",
+      "sha256": "c5cb7b2c42589a3b56ba7b575d429d1861e13cc5e3c7c2bcaecb72e9da1ae56d",
+      "status": "passed_current_png",
+      "full_page_reviewer": "/root/ep16_visual_qa_resume",
+      "actual_full_page_viewed": true,
+      "actual_panels": 4,
+      "current_source_record_match": true,
+      "author_qa_approved_sha_sync": true,
+      "author_actual_view": true,
+      "author_page_frozen": true,
+      "must_fix": [],
+      "qa_notes": [
+        "Personally REOPENED whole revised4-panel PNG. p1 original three demands restored 撤换班主任、压缩活动课、停止漫画社; all17 anonymous numbered signatures/plastic LEFT binding unchanged.",
+        "Other3 original midterm/math-answer dialogues, all faces/F gloves/Y true LEFT jade remain correct."
+      ]
+    },
+    {
+      "page": 15,
+      "file": "page-15.png",
+      "sha256": "d7e2a97b53e8bfedd9c7af3745f3b4b0638861a68697e32dbcffe9393f078e95",
+      "status": "passed_current_png",
+      "full_page_reviewer": "/root/ep16_visual_qa_resume",
+      "actual_full_page_viewed": true,
+      "actual_panels": 5,
+      "current_source_record_match": true,
+      "author_qa_approved_sha_sync": true,
+      "author_actual_view": true,
+      "author_page_frozen": true,
+      "must_fix": [],
+      "qa_notes": [
+        "Personally REOPENED whole revised5-panel PNG. p3 LEFT wrist now has original jade; p1 RIGHT empty/LEFT jade remains correct.",
+        "p2/3/5 now consistently source title/样本与口径/缺课天数/恢复正常到校日期 with gray lines and—, no fabricated current-class/year cells/numeric outcomes. All actor faces/source speech retained."
+      ]
+    },
+    {
+      "page": 16,
+      "file": "page-16.png",
+      "sha256": "b0691780603f623e504271f215966a585f016a09f78645880e6104dff16b7f28",
+      "status": "passed_current_png",
+      "full_page_reviewer": "/root/ep16_visual_qa_resume",
+      "actual_full_page_viewed": true,
+      "actual_panels": 4,
+      "current_source_record_match": true,
+      "author_qa_approved_sha_sync": true,
+      "author_actual_view": true,
+      "author_page_frozen": true,
+      "must_fix": [],
+      "qa_notes": [
+        "Personally whole4 panels viewed; damp coats/paper/ordinary departure without apology, parent folds his copy while F clear left-stapled report/ruler remains front.",
+        "Source pressure dialogue preserved; personally threshold-read original glyph pixels at[476,1204,509,1238], two crosses/no detached dot-bar: correct 爻 kept."
+      ]
+    },
+    {
+      "page": 17,
+      "file": "page-17.png",
+      "sha256": "e2d289e4f42045500fcb33836e1a3c61e11b7837882230614715ffa50ead75c5",
+      "status": "passed_current_png",
+      "full_page_reviewer": "/root/ep16_visual_qa_resume",
+      "actual_full_page_viewed": true,
+      "actual_panels": 5,
+      "current_source_record_match": true,
+      "author_qa_approved_sha_sync": true,
+      "author_actual_view": true,
+      "author_page_frozen": true,
+      "must_fix": [],
+      "qa_notes": [
+        "Personally whole5 panels viewed; F firsttwo chairs and old LEFT-wrist ache with black fingerless glove, RIGHT white supports LEFT, no new wound/brace.",
+        "Teaching papers/original clear report/ruler remain lectern; adult Fu/parents depart, no romantic touching. Personally threshold-read glyph[56,74,85,106]: four diagonal strokes correct 爻, unchanged."
+      ]
+    },
+    {
+      "page": 18,
+      "file": "page-18.png",
+      "sha256": "41d781dd8edefded20a34cefb1e7c547595da4d19bc428fc7e7542579d15bd1c",
+      "status": "passed_current_png",
+      "full_page_reviewer": "/root/ep16_visual_qa_resume",
+      "actual_full_page_viewed": true,
+      "actual_panels": 4,
+      "current_source_record_match": true,
+      "author_qa_approved_sha_sync": true,
+      "author_actual_view": true,
+      "author_page_frozen": true,
+      "must_fix": [],
+      "qa_notes": [
+        "Personally whole4 panels viewed; Y receives THIRD chair not F wrist, LEFT jade/RIGHT bare empty and F RIGHT white/LEFT fingerless correct.",
+        "Old wrist ache not new injury, normal co-worker distance and original question/folder prop correct."
+      ]
+    },
+    {
+      "page": 19,
+      "file": "page-19.png",
+      "sha256": "3f6060124cbb522112a4a1264c61985e482e1ec66ae5ec02307163e06eb9fec9",
+      "status": "passed_current_png",
+      "full_page_reviewer": "/root/ep16_visual_qa_resume",
+      "actual_full_page_viewed": true,
+      "actual_panels": 5,
+      "current_source_record_match": true,
+      "author_qa_approved_sha_sync": true,
+      "author_actual_view": true,
+      "author_page_frozen": true,
+      "must_fix": [],
+      "qa_notes": [
+        "Personally whole5 panels viewed; original Zhou kept/gave permission motive all source dialogue intact, no paper gift or child enters.",
+        "Mature faces/hair/eyes, LEFT jade under navy shoulder and F glove/garment consistency correct."
+      ]
+    },
+    {
+      "page": 20,
+      "file": "page-20.png",
+      "sha256": "9a9d4d80a455b6a85a6be3e62f560aef06cdeec2eb1b77b6134f3116d64cc164",
+      "status": "passed_current_png",
+      "full_page_reviewer": "/root/ep16_visual_qa_resume",
+      "actual_full_page_viewed": true,
+      "actual_panels": 4,
+      "current_source_record_match": true,
+      "author_qa_approved_sha_sync": true,
+      "author_actual_view": true,
+      "author_page_frozen": true,
+      "must_fix": [],
+      "qa_notes": [
+        "Personally whole4 panels viewed; F lowers chair, plastic foot quiet contact/black flats; source text intact.",
+        "Y original two-masked-field repaired math sheet, yellow tape/red traces/RIGHT blue-crack ringless planet match06, LEFT jade/RIGHT empty. F looks without touching."
+      ]
+    },
+    {
+      "page": 21,
+      "file": "page-21.png",
+      "sha256": "cc521eb68a9673e78f6a176c1979be7326fcf64c68b51bf3f5e48a9d45546f35",
+      "status": "passed_current_png",
+      "full_page_reviewer": "/root/ep16_visual_qa_resume",
+      "actual_full_page_viewed": true,
+      "actual_panels": 5,
+      "current_source_record_match": true,
+      "author_qa_approved_sha_sync": true,
+      "author_actual_view": true,
+      "author_page_frozen": true,
+      "must_fix": [],
+      "qa_notes": [
+        "Personally REOPENED complete revised5-panel PNG. Same original paper now RIGHT ringless blue-crack round planet in p1/p2/p4, matching06/20; all masks/yellow tape/red marks and paper remain.",
+        "F still looks without touching or keeping, original portfolio request preserved; Y LEFT jade/RIGHT empty protecting original in folder, same night transition and all faces/source words correct."
+      ]
+    },
+    {
+      "page": 22,
+      "file": "page-22.png",
+      "sha256": "85382a277fdaf46c3dd1294853c8d1d130d8af103509b0c134d368a846a95428",
+      "status": "passed_current_png",
+      "full_page_reviewer": "/root/ep16_visual_qa_resume",
+      "actual_full_page_viewed": true,
+      "actual_panels": 4,
+      "current_source_record_match": true,
+      "author_qa_approved_sha_sync": true,
+      "author_actual_view": true,
+      "author_page_frozen": true,
+      "must_fix": [],
+      "qa_notes": [
+        "Personally whole4 panels viewed; only two adults at night, shoulder reflection and same classroom spring buds, teaching plan lowered and halfstep without contact.",
+        "F RIGHT white/LEFT fingerless, Y RIGHT empty/LEFT jade, mature canonical hair/eyes/ornaments and original text correct."
+      ]
+    },
+    {
+      "page": 23,
+      "file": "page-23.png",
+      "sha256": "cd8d45af193bc4aef4db64850d53871838a30482017c107f61a5431b096c8598",
+      "status": "passed_current_png",
+      "full_page_reviewer": "/root/ep16_visual_qa_resume",
+      "actual_full_page_viewed": true,
+      "actual_panels": 5,
+      "current_source_record_match": true,
+      "author_qa_approved_sha_sync": true,
+      "author_actual_view": true,
+      "author_page_frozen": true,
+      "must_fix": [],
+      "qa_notes": [
+        "Personally REOPENED entire revised5-panel PNG. All visible exterior windows now blue-black spring night matching21/22/28; warm indoor light and all source work banter/two-session offer/actors/hand accessories retained."
+      ]
+    },
+    {
+      "page": 24,
+      "file": "page-24.png",
+      "sha256": "09049bc487c2ab0b91d9f5ec812326a86e98b2ac30351a913523ccb2fac6197c",
+      "status": "passed_current_png",
+      "full_page_reviewer": "/root/ep16_visual_qa_resume",
+      "actual_full_page_viewed": true,
+      "actual_panels": 4,
+      "current_source_record_match": true,
+      "author_qa_approved_sha_sync": true,
+      "author_actual_view": true,
+      "author_page_frozen": true,
+      "must_fix": [],
+      "qa_notes": [
+        "Personally REOPENED entire revised4-panel PNG. Night exterior consistent, original notebook question/averted gaze/chair alignment and canonical face/hair/words untouched.",
+        "Y actual RIGHT chin wrist remains empty/LEFT jade on desk and chair; F RIGHT white/LEFT fingerless correct."
+      ]
+    },
+    {
+      "page": 25,
+      "file": "page-25.png",
+      "sha256": "f3b11ee73057b0341ca13f8d7c7d42d4fd7e13498eef22b0221ff4063a84d7f2",
+      "status": "passed_current_png",
+      "full_page_reviewer": "/root/ep16_visual_qa_resume",
+      "actual_full_page_viewed": true,
+      "actual_panels": 5,
+      "current_source_record_match": true,
+      "author_qa_approved_sha_sync": true,
+      "author_actual_view": true,
+      "author_page_frozen": true,
+      "must_fix": [],
+      "qa_notes": [
+        "Personally REOPENED entire revised5-panel PNG. Exterior night matches same-night sequence; original small smile/RIGHT white ruler→own navy bag/LEFT black support/clear report on top/bent LEFT staple/source words remain correct."
+      ]
+    },
+    {
+      "page": 26,
+      "file": "page-26.png",
+      "sha256": "935264513d76cbb18b33e18c26111166acabc483dabcf05f049a97f689ccabcf",
+      "status": "passed_current_png",
+      "full_page_reviewer": "/root/ep16_visual_qa_resume",
+      "actual_full_page_viewed": true,
+      "actual_panels": 4,
+      "current_source_record_match": true,
+      "author_qa_approved_sha_sync": true,
+      "author_actual_view": true,
+      "author_page_frozen": true,
+      "must_fix": [],
+      "qa_notes": [
+        "Personally REOPENED whole revised4-panel PNG. p4 blue-black spring night and warm wall lamp remove daytime window-grid sunshine; matches21/22 through28.",
+        "Original first3 bent staple→RIGHT WHITE press with LEFT BLACK support→flat foot, same clear report/papers/ruler/navy bag and all actors/words preserved."
+      ]
+    },
+    {
+      "page": 27,
+      "file": "page-27.png",
+      "sha256": "c633a3c9f9c29e0fd1f4ed5b84cc966dcc0e1b667f7139708298070d9291a794",
+      "status": "passed_current_png",
+      "full_page_reviewer": "/root/ep16_visual_qa_resume",
+      "actual_full_page_viewed": true,
+      "actual_panels": 5,
+      "current_source_record_match": true,
+      "author_qa_approved_sha_sync": true,
+      "author_actual_view": true,
+      "author_page_frozen": true,
+      "must_fix": [],
+      "qa_notes": [
+        "Personally whole5 panels viewed; parent-meeting receipt firsttwo original sentences exact: letter retained/four replies number only/signed receipt, optional activities/review after midterm/no ranking promise.",
+        "Unidentifiable signoff hand in document montage, original report separate, circled feedback date indistinct with no new specific date/name/policy contents."
+      ]
+    },
+    {
+      "page": 28,
+      "file": "page-28.png",
+      "sha256": "8766fda0237d6e2a837145bf912ce1be9bc82d971e53ff76e7c268c44250c106",
+      "status": "passed_current_png",
+      "full_page_reviewer": "/root/ep16_visual_qa_resume",
+      "actual_full_page_viewed": true,
+      "actual_panels": 4,
+      "current_source_record_match": true,
+      "author_qa_approved_sha_sync": true,
+      "author_actual_view": true,
+      "author_page_frozen": true,
+      "must_fix": [],
+      "qa_notes": [
+        "Personally REOPENED whole revised4-panel PNG. p4 true RIGHT white shoulder→near folder-holding forearm now empty wrist, no wrong jade; LEFT navy-side wrist naturally hidden, no forced ring.",
+        "First3 receipt exact/indistinct circled date/original flat-stapled clear report/ruler/own navy bag preserved, spring night and chapter16-only ending correct."
+      ]
+    }
+  ],
+  "actual_episode_review": {
+    "stage": "final_actual_png_review_completed",
+    "page_count": 28,
+    "panel_count": 126,
+    "full_page_reviewer": "/root/ep16_visual_qa_resume",
+    "identity_anchor_auditor": "/root/ep16_character_audit_resume",
+    "identity_anchor_checks": [
+      {
+        "page": 1,
+        "file": "page-01.png",
+        "sha256": "30ca9c85fc7b1c69d5370008e86bb4e19d99778ca57d31d2c7cfb561c7892865",
+        "reviewer": "/root/ep16_character_audit_resume",
+        "actually_personally_viewed_final_png": true,
+        "actual_panels": 5,
+        "decision": "passed_on_frozen_final_png",
+        "notes": "本人完整5格亲开；F成年短粉冠外翻层/细长后丝与红结樱夹紫瞳、右白全指左黑露指、莓短开衫；透明左订30页原报告翘钉无血、17行1–17匿名署名和3诉求清楚。",
+        "viewed_at_utc": "2026-11-03T19:01:59.610212+00:00",
+        "all_final_global_locks_confirmed_at_utc": "2026-11-03T19:31:52.205493+00:00"
+      },
+      {
+        "page": 7,
+        "file": "page-07.png",
+        "sha256": "d9616e806f1371b2bb1e96c1b933843732c885657a3490880292bd2b94a9495a",
+        "reviewer": "/root/ep16_character_audit_resume",
+        "actually_personally_viewed_final_png": true,
+        "actual_panels": 5,
+        "decision": "passed_on_frozen_final_png",
+        "notes": "本人完整5格重开修后07并再亲开不可变RAW；p2同原裂蓝行星无多余外环，p3RIGHT玉已去，p5原LEFT玉经实际旧新RGB/mask比对保留，低对比整图误疑已正式撤销不改正确图。源双授权背签/正式记录未公开、头脸与春装保持。",
+        "viewed_at_utc": "2026-11-03T19:24:17.579008+00:00",
+        "all_final_global_locks_confirmed_at_utc": "2026-11-03T19:31:52.205493+00:00"
+      },
+      {
+        "page": 14,
+        "file": "page-14.png",
+        "sha256": "c5cb7b2c42589a3b56ba7b575d429d1861e13cc5e3c7c2bcaecb72e9da1ae56d",
+        "reviewer": "/root/ep16_character_audit_resume",
+        "actually_personally_viewed_final_png": true,
+        "actual_panels": 4,
+        "decision": "passed_on_frozen_final_png",
+        "notes": "本人已完整4格重开修后14：p1三原诉求撤换班主任/压缩活动课/停止漫画社恢复，17匿名签名1–17仍在，塑封左订/对白/成人家长身份稳定；p3Y LEFTnavy肩同LEFT抬掌玉正确RIGHT空，F右白左黑。",
+        "viewed_at_utc": "2026-11-03T19:19:57.124039+00:00",
+        "all_final_global_locks_confirmed_at_utc": "2026-11-03T19:31:52.205493+00:00"
+      },
+      {
+        "page": 24,
+        "file": "page-24.png",
+        "sha256": "09049bc487c2ab0b91d9f5ec812326a86e98b2ac30351a913523ccb2fac6197c",
+        "reviewer": "/root/ep16_character_audit_resume",
+        "actually_personally_viewed_final_png": true,
+        "actual_panels": 4,
+        "decision": "passed_on_frozen_final_png",
+        "notes": "本人完整4格重开夜色修后24；窗外夜蓝/室内工作灯承接22同夜，F短粉冠与右白左黑、Y RIGHT托腮空腕/LEFT桌边玉，末RIGHT椅背空腕/LEFT椅座玉正确，原对白/椅动作与克制表情保持。",
+        "viewed_at_utc": "2026-11-03T19:24:17.579008+00:00",
+        "all_final_global_locks_confirmed_at_utc": "2026-11-03T19:31:52.205493+00:00"
+      },
+      {
+        "page": 28,
+        "file": "page-28.png",
+        "sha256": "8766fda0237d6e2a837145bf912ce1be9bc82d971e53ff76e7c268c44250c106",
+        "reviewer": "/root/ep16_character_audit_resume",
+        "actually_personally_viewed_final_png": true,
+        "actual_panels": 4,
+        "decision": "passed_on_frozen_final_png",
+        "notes": "本人完整4格重开修后28：p4真RIGHT白肩至持夹腕原玉已去，LEFT腕夹/袖遮无需强补；F右白左黑/成人头脸与春衣、同塑封左订报告和木尺在navy包、原回执第三句/不可读圈日期、同春夜与仅第16完全部保持。",
+        "viewed_at_utc": "2026-11-03T19:27:03.462767+00:00",
+        "all_final_global_locks_confirmed_at_utc": "2026-11-03T19:31:52.205493+00:00"
+      }
+    ],
+    "planned_personal_anchor_pages": [
+      1,
+      7,
+      14,
+      24,
+      28
+    ],
+    "final_pages": [
+      {
+        "page": 1,
+        "file": "page-01.png",
+        "sha256": "30ca9c85fc7b1c69d5370008e86bb4e19d99778ca57d31d2c7cfb561c7892865",
+        "status": "passed_on_frozen_final_png",
+        "full_page_reviewer": "/root/ep16_visual_qa_resume",
+        "actual_full_page_viewed": true,
+        "actual_panels": 5,
+        "current_source_record_match": true,
+        "author_qa_approved_sha_sync": true,
+        "author_actual_view": true,
+        "author_page_frozen": true,
+        "must_fix": [],
+        "qa_notes": [
+          "Personally full-viewed all5 panels; adult F short fluffy crown and separated long strands, RIGHT white/LEFT black gloves, spring outfit correct.",
+          "Same30-page clear LEFT-stapled bent-foot report, no blood;17 anonymous numbered1–17 signatures and3 original demands retained."
+        ],
+        "actual_final_png_viewed": true,
+        "decision": "passed_on_frozen_final_png",
+        "character_auditor_personally_viewed_this_final_png": true,
+        "identity_anchor_audit": {
+          "page": 1,
+          "file": "page-01.png",
+          "sha256": "30ca9c85fc7b1c69d5370008e86bb4e19d99778ca57d31d2c7cfb561c7892865",
+          "reviewer": "/root/ep16_character_audit_resume",
+          "actually_personally_viewed_final_png": true,
+          "actual_panels": 5,
+          "decision": "passed_on_frozen_final_png",
+          "notes": "本人完整5格亲开；F成年短粉冠外翻层/细长后丝与红结樱夹紫瞳、右白全指左黑露指、莓短开衫；透明左订30页原报告翘钉无血、17行1–17匿名署名和3诉求清楚。",
+          "viewed_at_utc": "2026-11-03T19:01:59.610212+00:00",
+          "all_final_global_locks_confirmed_at_utc": "2026-11-03T19:31:52.205493+00:00"
+        },
+        "visible_character_identity": "passed_where_visible",
+        "approved_outfits_and_adult_proportions": "passed_where_visible",
+        "glove_healing_and_wrist_sides": "passed_F_RIGHT_white_full_LEFT_black_fingerless_old_healed_Y_bare_LEFT_jade_RIGHT_empty_where_visible",
+        "source_scene_and_relative_time": "passed_spring_parent_meeting_to_same_classroom_evening_no_next_chapter",
+        "report_sample_consent_statistics_and_return": "passed_where_visible_thirty_pages_seventeen_names_0_3_anonymous_taped_original_consent_back_private_record_unshown_three_years_missing_data_original_return_requested_not_gift_receipt_retained",
+        "scene_expression": "passed_source_professional_pressure_autonomous_teaching_adjustment_and_restraint_no_invented_apology_confession_diagnosis",
+        "visibility_qualification": "仅核实际可见，不强数遮挡后椅、不因看不见手或胶痕判缺失，不把命名QA视证冒成本审计员逐页亲看。"
+      },
+      {
+        "page": 2,
+        "file": "page-02.png",
+        "sha256": "cba02595e36aa924c0d40e1faef57da4ca15398ee0edf38b88877d26cef0136c",
+        "status": "passed_on_frozen_final_png",
+        "full_page_reviewer": "/root/ep16_visual_qa_resume",
+        "actual_full_page_viewed": true,
+        "actual_panels": 4,
+        "current_source_record_match": true,
+        "author_qa_approved_sha_sync": true,
+        "author_actual_view": true,
+        "author_page_frozen": true,
+        "must_fix": [],
+        "qa_notes": [
+          "Personally full-viewed all4 panels; plan beneath report and ruler resting, spring buds/54 adult parents with extra rear stools/no Y premature.",
+          "Cleared whiteboard/artwork stored; F garment/glove anatomy consistent and all source text legible."
+        ],
+        "actual_final_png_viewed": true,
+        "decision": "passed_on_frozen_final_png",
+        "character_auditor_personally_viewed_this_final_png": false,
+        "identity_anchor_audit": null,
+        "visible_character_identity": "passed_where_visible",
+        "approved_outfits_and_adult_proportions": "passed_where_visible",
+        "glove_healing_and_wrist_sides": "passed_F_RIGHT_white_full_LEFT_black_fingerless_old_healed_Y_bare_LEFT_jade_RIGHT_empty_where_visible",
+        "source_scene_and_relative_time": "passed_spring_parent_meeting_to_same_classroom_evening_no_next_chapter",
+        "report_sample_consent_statistics_and_return": "passed_where_visible_thirty_pages_seventeen_names_0_3_anonymous_taped_original_consent_back_private_record_unshown_three_years_missing_data_original_return_requested_not_gift_receipt_retained",
+        "scene_expression": "passed_source_professional_pressure_autonomous_teaching_adjustment_and_restraint_no_invented_apology_confession_diagnosis",
+        "visibility_qualification": "仅核实际可见，不强数遮挡后椅、不因看不见手或胶痕判缺失，不把命名QA视证冒成本审计员逐页亲看。"
+      },
+      {
+        "page": 3,
+        "file": "page-03.png",
+        "sha256": "98fd11faed01b807912456ac61710e224ef0d0f84951efe71b6daf454ff9fa3b",
+        "status": "passed_on_frozen_final_png",
+        "full_page_reviewer": "/root/ep16_visual_qa_resume",
+        "actual_full_page_viewed": true,
+        "actual_panels": 5,
+        "current_source_record_match": true,
+        "author_qa_approved_sha_sync": true,
+        "author_actual_view": true,
+        "author_page_frozen": true,
+        "must_fix": [],
+        "qa_notes": [
+          "Personally full-viewed current corrected5-panel PNG; close trend lines with0.3 only, no invented absolute scores or winner.",
+          "p5 fixed near RIGHT shoulder/arm to WHITE fullfinger hand on lectern and far LEFT raised open palm BLACK fingerless; p4 front-view gloves remain correct; original text/expressions preserved."
+        ],
+        "actual_final_png_viewed": true,
+        "decision": "passed_on_frozen_final_png",
+        "character_auditor_personally_viewed_this_final_png": false,
+        "identity_anchor_audit": null,
+        "visible_character_identity": "passed_where_visible",
+        "approved_outfits_and_adult_proportions": "passed_where_visible",
+        "glove_healing_and_wrist_sides": "passed_F_RIGHT_white_full_LEFT_black_fingerless_old_healed_Y_bare_LEFT_jade_RIGHT_empty_where_visible",
+        "source_scene_and_relative_time": "passed_spring_parent_meeting_to_same_classroom_evening_no_next_chapter",
+        "report_sample_consent_statistics_and_return": "passed_where_visible_thirty_pages_seventeen_names_0_3_anonymous_taped_original_consent_back_private_record_unshown_three_years_missing_data_original_return_requested_not_gift_receipt_retained",
+        "scene_expression": "passed_source_professional_pressure_autonomous_teaching_adjustment_and_restraint_no_invented_apology_confession_diagnosis",
+        "visibility_qualification": "仅核实际可见，不强数遮挡后椅、不因看不见手或胶痕判缺失，不把命名QA视证冒成本审计员逐页亲看。"
+      },
+      {
+        "page": 4,
+        "file": "page-04.png",
+        "sha256": "b9b13a3fd07d31c9ae47953cfb1bb46152f8fe87c742438a6020cae30b2948c4",
+        "status": "passed_on_frozen_final_png",
+        "full_page_reviewer": "/root/ep16_visual_qa_resume",
+        "actual_full_page_viewed": true,
+        "actual_panels": 4,
+        "current_source_record_match": true,
+        "author_qa_approved_sha_sync": true,
+        "author_actual_view": true,
+        "author_page_frozen": true,
+        "must_fix": [],
+        "qa_notes": [
+          "Personally whole4 panels viewed; adult parent fox journal and questions; F true RIGHT white holds original ruler, LEFT black on paper, no strike/new injury."
+        ],
+        "actual_final_png_viewed": true,
+        "decision": "passed_on_frozen_final_png",
+        "character_auditor_personally_viewed_this_final_png": false,
+        "identity_anchor_audit": null,
+        "visible_character_identity": "passed_where_visible",
+        "approved_outfits_and_adult_proportions": "passed_where_visible",
+        "glove_healing_and_wrist_sides": "passed_F_RIGHT_white_full_LEFT_black_fingerless_old_healed_Y_bare_LEFT_jade_RIGHT_empty_where_visible",
+        "source_scene_and_relative_time": "passed_spring_parent_meeting_to_same_classroom_evening_no_next_chapter",
+        "report_sample_consent_statistics_and_return": "passed_where_visible_thirty_pages_seventeen_names_0_3_anonymous_taped_original_consent_back_private_record_unshown_three_years_missing_data_original_return_requested_not_gift_receipt_retained",
+        "scene_expression": "passed_source_professional_pressure_autonomous_teaching_adjustment_and_restraint_no_invented_apology_confession_diagnosis",
+        "visibility_qualification": "仅核实际可见，不强数遮挡后椅、不因看不见手或胶痕判缺失，不把命名QA视证冒成本审计员逐页亲看。"
+      },
+      {
+        "page": 5,
+        "file": "page-05.png",
+        "sha256": "664c33a872bfc61da45c92f91270f8c2ddff229ce10509c463763ec3ccafc09c",
+        "status": "passed_on_frozen_final_png",
+        "full_page_reviewer": "/root/ep16_visual_qa_resume",
+        "actual_full_page_viewed": true,
+        "actual_panels": 5,
+        "current_source_record_match": true,
+        "author_qa_approved_sha_sync": true,
+        "author_actual_view": true,
+        "author_page_frozen": true,
+        "must_fix": [],
+        "qa_notes": [
+          "Personally REOPENED whole revised5-panel PNG; all3 premature/wrong absence-table projector ROIs are gone, original two close mean lines/gap0.3 remain only.",
+          "Rear door→Y entry→material to Fu→projector order, adult identity/accessories/RIGHT ruler and all original words preserved."
+        ],
+        "actual_final_png_viewed": true,
+        "decision": "passed_on_frozen_final_png",
+        "character_auditor_personally_viewed_this_final_png": false,
+        "identity_anchor_audit": null,
+        "visible_character_identity": "passed_where_visible",
+        "approved_outfits_and_adult_proportions": "passed_where_visible",
+        "glove_healing_and_wrist_sides": "passed_F_RIGHT_white_full_LEFT_black_fingerless_old_healed_Y_bare_LEFT_jade_RIGHT_empty_where_visible",
+        "source_scene_and_relative_time": "passed_spring_parent_meeting_to_same_classroom_evening_no_next_chapter",
+        "report_sample_consent_statistics_and_return": "passed_where_visible_thirty_pages_seventeen_names_0_3_anonymous_taped_original_consent_back_private_record_unshown_three_years_missing_data_original_return_requested_not_gift_receipt_retained",
+        "scene_expression": "passed_source_professional_pressure_autonomous_teaching_adjustment_and_restraint_no_invented_apology_confession_diagnosis",
+        "visibility_qualification": "仅核实际可见，不强数遮挡后椅、不因看不见手或胶痕判缺失，不把命名QA视证冒成本审计员逐页亲看。"
+      },
+      {
+        "page": 6,
+        "file": "page-06.png",
+        "sha256": "153d7d2e2ece93485d0c616d5de1b0de8d3a2b26a263f4c0d94b197f1f145eb7",
+        "status": "passed_on_frozen_final_png",
+        "full_page_reviewer": "/root/ep16_visual_qa_resume",
+        "actual_full_page_viewed": true,
+        "actual_panels": 4,
+        "current_source_record_match": true,
+        "author_qa_approved_sha_sync": true,
+        "author_actual_view": true,
+        "author_page_frozen": true,
+        "must_fix": [],
+        "qa_notes": [
+          "Personally REOPENED entire revised4-panel PNG: near true RIGHT sleeve now WHITE fullfinger waist hand, far LEFT remote-holding palm BLACK fingerless; poses/text/face and original3 paper-detail panels retained.",
+          "Two masks/yellow tape/red traces/RIGHT ringless blue-cracked planet correct."
+        ],
+        "actual_final_png_viewed": true,
+        "decision": "passed_on_frozen_final_png",
+        "character_auditor_personally_viewed_this_final_png": false,
+        "identity_anchor_audit": null,
+        "visible_character_identity": "passed_where_visible",
+        "approved_outfits_and_adult_proportions": "passed_where_visible",
+        "glove_healing_and_wrist_sides": "passed_F_RIGHT_white_full_LEFT_black_fingerless_old_healed_Y_bare_LEFT_jade_RIGHT_empty_where_visible",
+        "source_scene_and_relative_time": "passed_spring_parent_meeting_to_same_classroom_evening_no_next_chapter",
+        "report_sample_consent_statistics_and_return": "passed_where_visible_thirty_pages_seventeen_names_0_3_anonymous_taped_original_consent_back_private_record_unshown_three_years_missing_data_original_return_requested_not_gift_receipt_retained",
+        "scene_expression": "passed_source_professional_pressure_autonomous_teaching_adjustment_and_restraint_no_invented_apology_confession_diagnosis",
+        "visibility_qualification": "仅核实际可见，不强数遮挡后椅、不因看不见手或胶痕判缺失，不把命名QA视证冒成本审计员逐页亲看。"
+      },
+      {
+        "page": 7,
+        "file": "page-07.png",
+        "sha256": "d9616e806f1371b2bb1e96c1b933843732c885657a3490880292bd2b94a9495a",
+        "status": "passed_on_frozen_final_png",
+        "full_page_reviewer": "/root/ep16_visual_qa_resume",
+        "actual_full_page_viewed": true,
+        "actual_panels": 5,
+        "current_source_record_match": true,
+        "author_qa_approved_sha_sync": true,
+        "author_actual_view": true,
+        "author_page_frozen": true,
+        "must_fix": [],
+        "qa_notes": [
+          "Personally REOPENED whole revised5-panel PNG twice: p2 Saturn ring removed, same ringless RIGHT blue-cracked planet/tape/masks; p3 WRONG RIGHT jade removed; authorization/closed records/text/faces unchanged.",
+          "p5 ORIGINAL LEFT JADE REMAINS, confirmed actual original pixels at[860,1300,985,1435]: old green998/new1052 pixels with same-position band/IoU.739. No second jade needed; suspected deletion was not substantiated. This is analysis only, no image edit."
+        ],
+        "actual_final_png_viewed": true,
+        "decision": "passed_on_frozen_final_png",
+        "character_auditor_personally_viewed_this_final_png": true,
+        "identity_anchor_audit": {
+          "page": 7,
+          "file": "page-07.png",
+          "sha256": "d9616e806f1371b2bb1e96c1b933843732c885657a3490880292bd2b94a9495a",
+          "reviewer": "/root/ep16_character_audit_resume",
+          "actually_personally_viewed_final_png": true,
+          "actual_panels": 5,
+          "decision": "passed_on_frozen_final_png",
+          "notes": "本人完整5格重开修后07并再亲开不可变RAW；p2同原裂蓝行星无多余外环，p3RIGHT玉已去，p5原LEFT玉经实际旧新RGB/mask比对保留，低对比整图误疑已正式撤销不改正确图。源双授权背签/正式记录未公开、头脸与春装保持。",
+          "viewed_at_utc": "2026-11-03T19:24:17.579008+00:00",
+          "all_final_global_locks_confirmed_at_utc": "2026-11-03T19:31:52.205493+00:00"
+        },
+        "visible_character_identity": "passed_where_visible",
+        "approved_outfits_and_adult_proportions": "passed_where_visible",
+        "glove_healing_and_wrist_sides": "passed_F_RIGHT_white_full_LEFT_black_fingerless_old_healed_Y_bare_LEFT_jade_RIGHT_empty_where_visible",
+        "source_scene_and_relative_time": "passed_spring_parent_meeting_to_same_classroom_evening_no_next_chapter",
+        "report_sample_consent_statistics_and_return": "passed_where_visible_thirty_pages_seventeen_names_0_3_anonymous_taped_original_consent_back_private_record_unshown_three_years_missing_data_original_return_requested_not_gift_receipt_retained",
+        "scene_expression": "passed_source_professional_pressure_autonomous_teaching_adjustment_and_restraint_no_invented_apology_confession_diagnosis",
+        "visibility_qualification": "仅核实际可见，不强数遮挡后椅、不因看不见手或胶痕判缺失，不把命名QA视证冒成本审计员逐页亲看。"
+      },
+      {
+        "page": 8,
+        "file": "page-08.png",
+        "sha256": "ea1f503f364ac78b925a63213c88644d1fa7631060eb90bc03ab9caa48540329",
+        "status": "passed_on_frozen_final_png",
+        "full_page_reviewer": "/root/ep16_visual_qa_resume",
+        "actual_full_page_viewed": true,
+        "actual_panels": 4,
+        "current_source_record_match": true,
+        "author_qa_approved_sha_sync": true,
+        "author_actual_view": true,
+        "author_page_frozen": true,
+        "must_fix": [],
+        "qa_notes": [
+          "Personally REOPENED whole second-revised4-panel PNG. Projected paper p1/p3 no longer contains class blue/pink mean graph/axis/0.3 overlay; only repaired maths paper/indistinct print/masked fields/RIGHT ringless blue-crack planet remain.",
+          "p2 parent report remains generic gray rows, all actors/hands/jade/source dialogue preserved, no new separate chart."
+        ],
+        "actual_final_png_viewed": true,
+        "decision": "passed_on_frozen_final_png",
+        "character_auditor_personally_viewed_this_final_png": false,
+        "identity_anchor_audit": null,
+        "visible_character_identity": "passed_where_visible",
+        "approved_outfits_and_adult_proportions": "passed_where_visible",
+        "glove_healing_and_wrist_sides": "passed_F_RIGHT_white_full_LEFT_black_fingerless_old_healed_Y_bare_LEFT_jade_RIGHT_empty_where_visible",
+        "source_scene_and_relative_time": "passed_spring_parent_meeting_to_same_classroom_evening_no_next_chapter",
+        "report_sample_consent_statistics_and_return": "passed_where_visible_thirty_pages_seventeen_names_0_3_anonymous_taped_original_consent_back_private_record_unshown_three_years_missing_data_original_return_requested_not_gift_receipt_retained",
+        "scene_expression": "passed_source_professional_pressure_autonomous_teaching_adjustment_and_restraint_no_invented_apology_confession_diagnosis",
+        "visibility_qualification": "仅核实际可见，不强数遮挡后椅、不因看不见手或胶痕判缺失，不把命名QA视证冒成本审计员逐页亲看。"
+      },
+      {
+        "page": 9,
+        "file": "page-09.png",
+        "sha256": "371576bac90803f4f0cfc64a6ac1a0e2feef3257ec4e17ed6e827a9038ded604",
+        "status": "passed_on_frozen_final_png",
+        "full_page_reviewer": "/root/ep16_visual_qa_resume",
+        "actual_full_page_viewed": true,
+        "actual_panels": 5,
+        "current_source_record_match": true,
+        "author_qa_approved_sha_sync": true,
+        "author_actual_view": true,
+        "author_page_frozen": true,
+        "must_fix": [],
+        "qa_notes": [
+          "Personally whole5 panels viewed; original54-person objection and reply, source title/样本与口径/缺课天数/恢复正常到校日期 and unfilled— correctly shown without invented values.",
+          "F RIGHT white/LEFT black, Y LEFT jade holding paper/p4 true RIGHT open palm empty traced to white shoulder, all mature features/source words correct."
+        ],
+        "actual_final_png_viewed": true,
+        "decision": "passed_on_frozen_final_png",
+        "character_auditor_personally_viewed_this_final_png": false,
+        "identity_anchor_audit": null,
+        "visible_character_identity": "passed_where_visible",
+        "approved_outfits_and_adult_proportions": "passed_where_visible",
+        "glove_healing_and_wrist_sides": "passed_F_RIGHT_white_full_LEFT_black_fingerless_old_healed_Y_bare_LEFT_jade_RIGHT_empty_where_visible",
+        "source_scene_and_relative_time": "passed_spring_parent_meeting_to_same_classroom_evening_no_next_chapter",
+        "report_sample_consent_statistics_and_return": "passed_where_visible_thirty_pages_seventeen_names_0_3_anonymous_taped_original_consent_back_private_record_unshown_three_years_missing_data_original_return_requested_not_gift_receipt_retained",
+        "scene_expression": "passed_source_professional_pressure_autonomous_teaching_adjustment_and_restraint_no_invented_apology_confession_diagnosis",
+        "visibility_qualification": "仅核实际可见，不强数遮挡后椅、不因看不见手或胶痕判缺失，不把命名QA视证冒成本审计员逐页亲看。"
+      },
+      {
+        "page": 10,
+        "file": "page-10.png",
+        "sha256": "c425b60d409782b1419c13e21127856e3a1a66ed37efedeb266a430ba6c341ad",
+        "status": "passed_on_frozen_final_png",
+        "full_page_reviewer": "/root/ep16_visual_qa_resume",
+        "actual_full_page_viewed": true,
+        "actual_panels": 4,
+        "current_source_record_match": true,
+        "author_qa_approved_sha_sync": true,
+        "author_actual_view": true,
+        "author_page_frozen": true,
+        "must_fix": [],
+        "qa_notes": [
+          "Personally REOPENED whole revised4-panel PNG. Three projector ROIs consistently retain source 近三年长期缺课统计 / 样本与口径 / 缺课天数 / 恢复正常到校日期 with gray lines and—; no school-year/current-class fabricated fields remain.",
+          "All source cost dialogue, actors/F gloves/Y LEFT jade/RIGHT empty and natural acting unchanged."
+        ],
+        "actual_final_png_viewed": true,
+        "decision": "passed_on_frozen_final_png",
+        "character_auditor_personally_viewed_this_final_png": false,
+        "identity_anchor_audit": null,
+        "visible_character_identity": "passed_where_visible",
+        "approved_outfits_and_adult_proportions": "passed_where_visible",
+        "glove_healing_and_wrist_sides": "passed_F_RIGHT_white_full_LEFT_black_fingerless_old_healed_Y_bare_LEFT_jade_RIGHT_empty_where_visible",
+        "source_scene_and_relative_time": "passed_spring_parent_meeting_to_same_classroom_evening_no_next_chapter",
+        "report_sample_consent_statistics_and_return": "passed_where_visible_thirty_pages_seventeen_names_0_3_anonymous_taped_original_consent_back_private_record_unshown_three_years_missing_data_original_return_requested_not_gift_receipt_retained",
+        "scene_expression": "passed_source_professional_pressure_autonomous_teaching_adjustment_and_restraint_no_invented_apology_confession_diagnosis",
+        "visibility_qualification": "仅核实际可见，不强数遮挡后椅、不因看不见手或胶痕判缺失，不把命名QA视证冒成本审计员逐页亲看。"
+      },
+      {
+        "page": 11,
+        "file": "page-11.png",
+        "sha256": "23f2b371d739e47506aa56e2fcc3ec0146c71b1927bf89832a6690b547363480",
+        "status": "passed_on_frozen_final_png",
+        "full_page_reviewer": "/root/ep16_visual_qa_resume",
+        "actual_full_page_viewed": true,
+        "actual_panels": 5,
+        "current_source_record_match": true,
+        "author_qa_approved_sha_sync": true,
+        "author_actual_view": true,
+        "author_page_frozen": true,
+        "must_fix": [],
+        "qa_notes": [
+          "Personally whole5 panels viewed; original school/hospital boundary, 周三下午/两小时 and both仍/source replacement-arrangement question retained, no treatment promise.",
+          "Y p2 LEFT jade partly visible by cuff; p3 back-of-LEFT pointing hand has jade (indexRIGHT/thumbbelow), p5 true RIGHT empty; F/Fu adult identity and no ruler hit/new medical scene correct."
+        ],
+        "actual_final_png_viewed": true,
+        "decision": "passed_on_frozen_final_png",
+        "character_auditor_personally_viewed_this_final_png": false,
+        "identity_anchor_audit": null,
+        "visible_character_identity": "passed_where_visible",
+        "approved_outfits_and_adult_proportions": "passed_where_visible",
+        "glove_healing_and_wrist_sides": "passed_F_RIGHT_white_full_LEFT_black_fingerless_old_healed_Y_bare_LEFT_jade_RIGHT_empty_where_visible",
+        "source_scene_and_relative_time": "passed_spring_parent_meeting_to_same_classroom_evening_no_next_chapter",
+        "report_sample_consent_statistics_and_return": "passed_where_visible_thirty_pages_seventeen_names_0_3_anonymous_taped_original_consent_back_private_record_unshown_three_years_missing_data_original_return_requested_not_gift_receipt_retained",
+        "scene_expression": "passed_source_professional_pressure_autonomous_teaching_adjustment_and_restraint_no_invented_apology_confession_diagnosis",
+        "visibility_qualification": "仅核实际可见，不强数遮挡后椅、不因看不见手或胶痕判缺失，不把命名QA视证冒成本审计员逐页亲看。"
+      },
+      {
+        "page": 12,
+        "file": "page-12.png",
+        "sha256": "e1e08f85ed3256011e996681f4e7f58f660d3f8f0844cb0599016a2bff994286",
+        "status": "passed_on_frozen_final_png",
+        "full_page_reviewer": "/root/ep16_visual_qa_resume",
+        "actual_full_page_viewed": true,
+        "actual_panels": 4,
+        "current_source_record_match": true,
+        "author_qa_approved_sha_sync": true,
+        "author_actual_view": true,
+        "author_page_frozen": true,
+        "must_fix": [],
+        "qa_notes": [
+          "Personally REOPENED whole revised4-panel PNG. p1/p2/p4 displays now same source absence table with source fields/—; no mixed original-sheet/floating planet/wrong class-year chart.",
+          "Source silence, halfturn-clock illustration, parent phone directed toward self, report copies, adult actors/gloves and all captions preserved."
+        ],
+        "actual_final_png_viewed": true,
+        "decision": "passed_on_frozen_final_png",
+        "character_auditor_personally_viewed_this_final_png": false,
+        "identity_anchor_audit": null,
+        "visible_character_identity": "passed_where_visible",
+        "approved_outfits_and_adult_proportions": "passed_where_visible",
+        "glove_healing_and_wrist_sides": "passed_F_RIGHT_white_full_LEFT_black_fingerless_old_healed_Y_bare_LEFT_jade_RIGHT_empty_where_visible",
+        "source_scene_and_relative_time": "passed_spring_parent_meeting_to_same_classroom_evening_no_next_chapter",
+        "report_sample_consent_statistics_and_return": "passed_where_visible_thirty_pages_seventeen_names_0_3_anonymous_taped_original_consent_back_private_record_unshown_three_years_missing_data_original_return_requested_not_gift_receipt_retained",
+        "scene_expression": "passed_source_professional_pressure_autonomous_teaching_adjustment_and_restraint_no_invented_apology_confession_diagnosis",
+        "visibility_qualification": "仅核实际可见，不强数遮挡后椅、不因看不见手或胶痕判缺失，不把命名QA视证冒成本审计员逐页亲看。"
+      },
+      {
+        "page": 13,
+        "file": "page-13.png",
+        "sha256": "93b31a6b6d3621c21b89dfe1318b71348b6ca9487b47c7f2ec55e93113544e19",
+        "status": "passed_on_frozen_final_png",
+        "full_page_reviewer": "/root/ep16_visual_qa_resume",
+        "actual_full_page_viewed": true,
+        "actual_panels": 5,
+        "current_source_record_match": true,
+        "author_qa_approved_sha_sync": true,
+        "author_actual_view": true,
+        "author_page_frozen": true,
+        "must_fix": [],
+        "qa_notes": [
+          "Personally whole5 panels viewed; F herself brings plan, crosses whole-class compulsory exhibition and writes自选 with RIGHT WHITE pen hand/LEFT BLACK paper support.",
+          "Targeted guidance source item, rear parent notes one line, canonical adult features and all source words correct; no ranking guarantee or letter withdrawal."
+        ],
+        "actual_final_png_viewed": true,
+        "decision": "passed_on_frozen_final_png",
+        "character_auditor_personally_viewed_this_final_png": false,
+        "identity_anchor_audit": null,
+        "visible_character_identity": "passed_where_visible",
+        "approved_outfits_and_adult_proportions": "passed_where_visible",
+        "glove_healing_and_wrist_sides": "passed_F_RIGHT_white_full_LEFT_black_fingerless_old_healed_Y_bare_LEFT_jade_RIGHT_empty_where_visible",
+        "source_scene_and_relative_time": "passed_spring_parent_meeting_to_same_classroom_evening_no_next_chapter",
+        "report_sample_consent_statistics_and_return": "passed_where_visible_thirty_pages_seventeen_names_0_3_anonymous_taped_original_consent_back_private_record_unshown_three_years_missing_data_original_return_requested_not_gift_receipt_retained",
+        "scene_expression": "passed_source_professional_pressure_autonomous_teaching_adjustment_and_restraint_no_invented_apology_confession_diagnosis",
+        "visibility_qualification": "仅核实际可见，不强数遮挡后椅、不因看不见手或胶痕判缺失，不把命名QA视证冒成本审计员逐页亲看。"
+      },
+      {
+        "page": 14,
+        "file": "page-14.png",
+        "sha256": "c5cb7b2c42589a3b56ba7b575d429d1861e13cc5e3c7c2bcaecb72e9da1ae56d",
+        "status": "passed_on_frozen_final_png",
+        "full_page_reviewer": "/root/ep16_visual_qa_resume",
+        "actual_full_page_viewed": true,
+        "actual_panels": 4,
+        "current_source_record_match": true,
+        "author_qa_approved_sha_sync": true,
+        "author_actual_view": true,
+        "author_page_frozen": true,
+        "must_fix": [],
+        "qa_notes": [
+          "Personally REOPENED whole revised4-panel PNG. p1 original three demands restored 撤换班主任、压缩活动课、停止漫画社; all17 anonymous numbered signatures/plastic LEFT binding unchanged.",
+          "Other3 original midterm/math-answer dialogues, all faces/F gloves/Y true LEFT jade remain correct."
+        ],
+        "actual_final_png_viewed": true,
+        "decision": "passed_on_frozen_final_png",
+        "character_auditor_personally_viewed_this_final_png": true,
+        "identity_anchor_audit": {
+          "page": 14,
+          "file": "page-14.png",
+          "sha256": "c5cb7b2c42589a3b56ba7b575d429d1861e13cc5e3c7c2bcaecb72e9da1ae56d",
+          "reviewer": "/root/ep16_character_audit_resume",
+          "actually_personally_viewed_final_png": true,
+          "actual_panels": 4,
+          "decision": "passed_on_frozen_final_png",
+          "notes": "本人已完整4格重开修后14：p1三原诉求撤换班主任/压缩活动课/停止漫画社恢复，17匿名签名1–17仍在，塑封左订/对白/成人家长身份稳定；p3Y LEFTnavy肩同LEFT抬掌玉正确RIGHT空，F右白左黑。",
+          "viewed_at_utc": "2026-11-03T19:19:57.124039+00:00",
+          "all_final_global_locks_confirmed_at_utc": "2026-11-03T19:31:52.205493+00:00"
+        },
+        "visible_character_identity": "passed_where_visible",
+        "approved_outfits_and_adult_proportions": "passed_where_visible",
+        "glove_healing_and_wrist_sides": "passed_F_RIGHT_white_full_LEFT_black_fingerless_old_healed_Y_bare_LEFT_jade_RIGHT_empty_where_visible",
+        "source_scene_and_relative_time": "passed_spring_parent_meeting_to_same_classroom_evening_no_next_chapter",
+        "report_sample_consent_statistics_and_return": "passed_where_visible_thirty_pages_seventeen_names_0_3_anonymous_taped_original_consent_back_private_record_unshown_three_years_missing_data_original_return_requested_not_gift_receipt_retained",
+        "scene_expression": "passed_source_professional_pressure_autonomous_teaching_adjustment_and_restraint_no_invented_apology_confession_diagnosis",
+        "visibility_qualification": "仅核实际可见，不强数遮挡后椅、不因看不见手或胶痕判缺失，不把命名QA视证冒成本审计员逐页亲看。"
+      },
+      {
+        "page": 15,
+        "file": "page-15.png",
+        "sha256": "d7e2a97b53e8bfedd9c7af3745f3b4b0638861a68697e32dbcffe9393f078e95",
+        "status": "passed_on_frozen_final_png",
+        "full_page_reviewer": "/root/ep16_visual_qa_resume",
+        "actual_full_page_viewed": true,
+        "actual_panels": 5,
+        "current_source_record_match": true,
+        "author_qa_approved_sha_sync": true,
+        "author_actual_view": true,
+        "author_page_frozen": true,
+        "must_fix": [],
+        "qa_notes": [
+          "Personally REOPENED whole revised5-panel PNG. p3 LEFT wrist now has original jade; p1 RIGHT empty/LEFT jade remains correct.",
+          "p2/3/5 now consistently source title/样本与口径/缺课天数/恢复正常到校日期 with gray lines and—, no fabricated current-class/year cells/numeric outcomes. All actor faces/source speech retained."
+        ],
+        "actual_final_png_viewed": true,
+        "decision": "passed_on_frozen_final_png",
+        "character_auditor_personally_viewed_this_final_png": false,
+        "identity_anchor_audit": null,
+        "visible_character_identity": "passed_where_visible",
+        "approved_outfits_and_adult_proportions": "passed_where_visible",
+        "glove_healing_and_wrist_sides": "passed_F_RIGHT_white_full_LEFT_black_fingerless_old_healed_Y_bare_LEFT_jade_RIGHT_empty_where_visible",
+        "source_scene_and_relative_time": "passed_spring_parent_meeting_to_same_classroom_evening_no_next_chapter",
+        "report_sample_consent_statistics_and_return": "passed_where_visible_thirty_pages_seventeen_names_0_3_anonymous_taped_original_consent_back_private_record_unshown_three_years_missing_data_original_return_requested_not_gift_receipt_retained",
+        "scene_expression": "passed_source_professional_pressure_autonomous_teaching_adjustment_and_restraint_no_invented_apology_confession_diagnosis",
+        "visibility_qualification": "仅核实际可见，不强数遮挡后椅、不因看不见手或胶痕判缺失，不把命名QA视证冒成本审计员逐页亲看。"
+      },
+      {
+        "page": 16,
+        "file": "page-16.png",
+        "sha256": "b0691780603f623e504271f215966a585f016a09f78645880e6104dff16b7f28",
+        "status": "passed_on_frozen_final_png",
+        "full_page_reviewer": "/root/ep16_visual_qa_resume",
+        "actual_full_page_viewed": true,
+        "actual_panels": 4,
+        "current_source_record_match": true,
+        "author_qa_approved_sha_sync": true,
+        "author_actual_view": true,
+        "author_page_frozen": true,
+        "must_fix": [],
+        "qa_notes": [
+          "Personally whole4 panels viewed; damp coats/paper/ordinary departure without apology, parent folds his copy while F clear left-stapled report/ruler remains front.",
+          "Source pressure dialogue preserved; personally threshold-read original glyph pixels at[476,1204,509,1238], two crosses/no detached dot-bar: correct 爻 kept."
+        ],
+        "actual_final_png_viewed": true,
+        "decision": "passed_on_frozen_final_png",
+        "character_auditor_personally_viewed_this_final_png": false,
+        "identity_anchor_audit": null,
+        "visible_character_identity": "passed_where_visible",
+        "approved_outfits_and_adult_proportions": "passed_where_visible",
+        "glove_healing_and_wrist_sides": "passed_F_RIGHT_white_full_LEFT_black_fingerless_old_healed_Y_bare_LEFT_jade_RIGHT_empty_where_visible",
+        "source_scene_and_relative_time": "passed_spring_parent_meeting_to_same_classroom_evening_no_next_chapter",
+        "report_sample_consent_statistics_and_return": "passed_where_visible_thirty_pages_seventeen_names_0_3_anonymous_taped_original_consent_back_private_record_unshown_three_years_missing_data_original_return_requested_not_gift_receipt_retained",
+        "scene_expression": "passed_source_professional_pressure_autonomous_teaching_adjustment_and_restraint_no_invented_apology_confession_diagnosis",
+        "visibility_qualification": "仅核实际可见，不强数遮挡后椅、不因看不见手或胶痕判缺失，不把命名QA视证冒成本审计员逐页亲看。"
+      },
+      {
+        "page": 17,
+        "file": "page-17.png",
+        "sha256": "e2d289e4f42045500fcb33836e1a3c61e11b7837882230614715ffa50ead75c5",
+        "status": "passed_on_frozen_final_png",
+        "full_page_reviewer": "/root/ep16_visual_qa_resume",
+        "actual_full_page_viewed": true,
+        "actual_panels": 5,
+        "current_source_record_match": true,
+        "author_qa_approved_sha_sync": true,
+        "author_actual_view": true,
+        "author_page_frozen": true,
+        "must_fix": [],
+        "qa_notes": [
+          "Personally whole5 panels viewed; F firsttwo chairs and old LEFT-wrist ache with black fingerless glove, RIGHT white supports LEFT, no new wound/brace.",
+          "Teaching papers/original clear report/ruler remain lectern; adult Fu/parents depart, no romantic touching. Personally threshold-read glyph[56,74,85,106]: four diagonal strokes correct 爻, unchanged."
+        ],
+        "actual_final_png_viewed": true,
+        "decision": "passed_on_frozen_final_png",
+        "character_auditor_personally_viewed_this_final_png": false,
+        "identity_anchor_audit": null,
+        "visible_character_identity": "passed_where_visible",
+        "approved_outfits_and_adult_proportions": "passed_where_visible",
+        "glove_healing_and_wrist_sides": "passed_F_RIGHT_white_full_LEFT_black_fingerless_old_healed_Y_bare_LEFT_jade_RIGHT_empty_where_visible",
+        "source_scene_and_relative_time": "passed_spring_parent_meeting_to_same_classroom_evening_no_next_chapter",
+        "report_sample_consent_statistics_and_return": "passed_where_visible_thirty_pages_seventeen_names_0_3_anonymous_taped_original_consent_back_private_record_unshown_three_years_missing_data_original_return_requested_not_gift_receipt_retained",
+        "scene_expression": "passed_source_professional_pressure_autonomous_teaching_adjustment_and_restraint_no_invented_apology_confession_diagnosis",
+        "visibility_qualification": "仅核实际可见，不强数遮挡后椅、不因看不见手或胶痕判缺失，不把命名QA视证冒成本审计员逐页亲看。"
+      },
+      {
+        "page": 18,
+        "file": "page-18.png",
+        "sha256": "41d781dd8edefded20a34cefb1e7c547595da4d19bc428fc7e7542579d15bd1c",
+        "status": "passed_on_frozen_final_png",
+        "full_page_reviewer": "/root/ep16_visual_qa_resume",
+        "actual_full_page_viewed": true,
+        "actual_panels": 4,
+        "current_source_record_match": true,
+        "author_qa_approved_sha_sync": true,
+        "author_actual_view": true,
+        "author_page_frozen": true,
+        "must_fix": [],
+        "qa_notes": [
+          "Personally whole4 panels viewed; Y receives THIRD chair not F wrist, LEFT jade/RIGHT bare empty and F RIGHT white/LEFT fingerless correct.",
+          "Old wrist ache not new injury, normal co-worker distance and original question/folder prop correct."
+        ],
+        "actual_final_png_viewed": true,
+        "decision": "passed_on_frozen_final_png",
+        "character_auditor_personally_viewed_this_final_png": false,
+        "identity_anchor_audit": null,
+        "visible_character_identity": "passed_where_visible",
+        "approved_outfits_and_adult_proportions": "passed_where_visible",
+        "glove_healing_and_wrist_sides": "passed_F_RIGHT_white_full_LEFT_black_fingerless_old_healed_Y_bare_LEFT_jade_RIGHT_empty_where_visible",
+        "source_scene_and_relative_time": "passed_spring_parent_meeting_to_same_classroom_evening_no_next_chapter",
+        "report_sample_consent_statistics_and_return": "passed_where_visible_thirty_pages_seventeen_names_0_3_anonymous_taped_original_consent_back_private_record_unshown_three_years_missing_data_original_return_requested_not_gift_receipt_retained",
+        "scene_expression": "passed_source_professional_pressure_autonomous_teaching_adjustment_and_restraint_no_invented_apology_confession_diagnosis",
+        "visibility_qualification": "仅核实际可见，不强数遮挡后椅、不因看不见手或胶痕判缺失，不把命名QA视证冒成本审计员逐页亲看。"
+      },
+      {
+        "page": 19,
+        "file": "page-19.png",
+        "sha256": "3f6060124cbb522112a4a1264c61985e482e1ec66ae5ec02307163e06eb9fec9",
+        "status": "passed_on_frozen_final_png",
+        "full_page_reviewer": "/root/ep16_visual_qa_resume",
+        "actual_full_page_viewed": true,
+        "actual_panels": 5,
+        "current_source_record_match": true,
+        "author_qa_approved_sha_sync": true,
+        "author_actual_view": true,
+        "author_page_frozen": true,
+        "must_fix": [],
+        "qa_notes": [
+          "Personally whole5 panels viewed; original Zhou kept/gave permission motive all source dialogue intact, no paper gift or child enters.",
+          "Mature faces/hair/eyes, LEFT jade under navy shoulder and F glove/garment consistency correct."
+        ],
+        "actual_final_png_viewed": true,
+        "decision": "passed_on_frozen_final_png",
+        "character_auditor_personally_viewed_this_final_png": false,
+        "identity_anchor_audit": null,
+        "visible_character_identity": "passed_where_visible",
+        "approved_outfits_and_adult_proportions": "passed_where_visible",
+        "glove_healing_and_wrist_sides": "passed_F_RIGHT_white_full_LEFT_black_fingerless_old_healed_Y_bare_LEFT_jade_RIGHT_empty_where_visible",
+        "source_scene_and_relative_time": "passed_spring_parent_meeting_to_same_classroom_evening_no_next_chapter",
+        "report_sample_consent_statistics_and_return": "passed_where_visible_thirty_pages_seventeen_names_0_3_anonymous_taped_original_consent_back_private_record_unshown_three_years_missing_data_original_return_requested_not_gift_receipt_retained",
+        "scene_expression": "passed_source_professional_pressure_autonomous_teaching_adjustment_and_restraint_no_invented_apology_confession_diagnosis",
+        "visibility_qualification": "仅核实际可见，不强数遮挡后椅、不因看不见手或胶痕判缺失，不把命名QA视证冒成本审计员逐页亲看。"
+      },
+      {
+        "page": 20,
+        "file": "page-20.png",
+        "sha256": "9a9d4d80a455b6a85a6be3e62f560aef06cdeec2eb1b77b6134f3116d64cc164",
+        "status": "passed_on_frozen_final_png",
+        "full_page_reviewer": "/root/ep16_visual_qa_resume",
+        "actual_full_page_viewed": true,
+        "actual_panels": 4,
+        "current_source_record_match": true,
+        "author_qa_approved_sha_sync": true,
+        "author_actual_view": true,
+        "author_page_frozen": true,
+        "must_fix": [],
+        "qa_notes": [
+          "Personally whole4 panels viewed; F lowers chair, plastic foot quiet contact/black flats; source text intact.",
+          "Y original two-masked-field repaired math sheet, yellow tape/red traces/RIGHT blue-crack ringless planet match06, LEFT jade/RIGHT empty. F looks without touching."
+        ],
+        "actual_final_png_viewed": true,
+        "decision": "passed_on_frozen_final_png",
+        "character_auditor_personally_viewed_this_final_png": false,
+        "identity_anchor_audit": null,
+        "visible_character_identity": "passed_where_visible",
+        "approved_outfits_and_adult_proportions": "passed_where_visible",
+        "glove_healing_and_wrist_sides": "passed_F_RIGHT_white_full_LEFT_black_fingerless_old_healed_Y_bare_LEFT_jade_RIGHT_empty_where_visible",
+        "source_scene_and_relative_time": "passed_spring_parent_meeting_to_same_classroom_evening_no_next_chapter",
+        "report_sample_consent_statistics_and_return": "passed_where_visible_thirty_pages_seventeen_names_0_3_anonymous_taped_original_consent_back_private_record_unshown_three_years_missing_data_original_return_requested_not_gift_receipt_retained",
+        "scene_expression": "passed_source_professional_pressure_autonomous_teaching_adjustment_and_restraint_no_invented_apology_confession_diagnosis",
+        "visibility_qualification": "仅核实际可见，不强数遮挡后椅、不因看不见手或胶痕判缺失，不把命名QA视证冒成本审计员逐页亲看。"
+      },
+      {
+        "page": 21,
+        "file": "page-21.png",
+        "sha256": "cc521eb68a9673e78f6a176c1979be7326fcf64c68b51bf3f5e48a9d45546f35",
+        "status": "passed_on_frozen_final_png",
+        "full_page_reviewer": "/root/ep16_visual_qa_resume",
+        "actual_full_page_viewed": true,
+        "actual_panels": 5,
+        "current_source_record_match": true,
+        "author_qa_approved_sha_sync": true,
+        "author_actual_view": true,
+        "author_page_frozen": true,
+        "must_fix": [],
+        "qa_notes": [
+          "Personally REOPENED complete revised5-panel PNG. Same original paper now RIGHT ringless blue-crack round planet in p1/p2/p4, matching06/20; all masks/yellow tape/red marks and paper remain.",
+          "F still looks without touching or keeping, original portfolio request preserved; Y LEFT jade/RIGHT empty protecting original in folder, same night transition and all faces/source words correct."
+        ],
+        "actual_final_png_viewed": true,
+        "decision": "passed_on_frozen_final_png",
+        "character_auditor_personally_viewed_this_final_png": false,
+        "identity_anchor_audit": null,
+        "visible_character_identity": "passed_where_visible",
+        "approved_outfits_and_adult_proportions": "passed_where_visible",
+        "glove_healing_and_wrist_sides": "passed_F_RIGHT_white_full_LEFT_black_fingerless_old_healed_Y_bare_LEFT_jade_RIGHT_empty_where_visible",
+        "source_scene_and_relative_time": "passed_spring_parent_meeting_to_same_classroom_evening_no_next_chapter",
+        "report_sample_consent_statistics_and_return": "passed_where_visible_thirty_pages_seventeen_names_0_3_anonymous_taped_original_consent_back_private_record_unshown_three_years_missing_data_original_return_requested_not_gift_receipt_retained",
+        "scene_expression": "passed_source_professional_pressure_autonomous_teaching_adjustment_and_restraint_no_invented_apology_confession_diagnosis",
+        "visibility_qualification": "仅核实际可见，不强数遮挡后椅、不因看不见手或胶痕判缺失，不把命名QA视证冒成本审计员逐页亲看。"
+      },
+      {
+        "page": 22,
+        "file": "page-22.png",
+        "sha256": "85382a277fdaf46c3dd1294853c8d1d130d8af103509b0c134d368a846a95428",
+        "status": "passed_on_frozen_final_png",
+        "full_page_reviewer": "/root/ep16_visual_qa_resume",
+        "actual_full_page_viewed": true,
+        "actual_panels": 4,
+        "current_source_record_match": true,
+        "author_qa_approved_sha_sync": true,
+        "author_actual_view": true,
+        "author_page_frozen": true,
+        "must_fix": [],
+        "qa_notes": [
+          "Personally whole4 panels viewed; only two adults at night, shoulder reflection and same classroom spring buds, teaching plan lowered and halfstep without contact.",
+          "F RIGHT white/LEFT fingerless, Y RIGHT empty/LEFT jade, mature canonical hair/eyes/ornaments and original text correct."
+        ],
+        "actual_final_png_viewed": true,
+        "decision": "passed_on_frozen_final_png",
+        "character_auditor_personally_viewed_this_final_png": false,
+        "identity_anchor_audit": null,
+        "visible_character_identity": "passed_where_visible",
+        "approved_outfits_and_adult_proportions": "passed_where_visible",
+        "glove_healing_and_wrist_sides": "passed_F_RIGHT_white_full_LEFT_black_fingerless_old_healed_Y_bare_LEFT_jade_RIGHT_empty_where_visible",
+        "source_scene_and_relative_time": "passed_spring_parent_meeting_to_same_classroom_evening_no_next_chapter",
+        "report_sample_consent_statistics_and_return": "passed_where_visible_thirty_pages_seventeen_names_0_3_anonymous_taped_original_consent_back_private_record_unshown_three_years_missing_data_original_return_requested_not_gift_receipt_retained",
+        "scene_expression": "passed_source_professional_pressure_autonomous_teaching_adjustment_and_restraint_no_invented_apology_confession_diagnosis",
+        "visibility_qualification": "仅核实际可见，不强数遮挡后椅、不因看不见手或胶痕判缺失，不把命名QA视证冒成本审计员逐页亲看。"
+      },
+      {
+        "page": 23,
+        "file": "page-23.png",
+        "sha256": "cd8d45af193bc4aef4db64850d53871838a30482017c107f61a5431b096c8598",
+        "status": "passed_on_frozen_final_png",
+        "full_page_reviewer": "/root/ep16_visual_qa_resume",
+        "actual_full_page_viewed": true,
+        "actual_panels": 5,
+        "current_source_record_match": true,
+        "author_qa_approved_sha_sync": true,
+        "author_actual_view": true,
+        "author_page_frozen": true,
+        "must_fix": [],
+        "qa_notes": [
+          "Personally REOPENED entire revised5-panel PNG. All visible exterior windows now blue-black spring night matching21/22/28; warm indoor light and all source work banter/two-session offer/actors/hand accessories retained."
+        ],
+        "actual_final_png_viewed": true,
+        "decision": "passed_on_frozen_final_png",
+        "character_auditor_personally_viewed_this_final_png": false,
+        "identity_anchor_audit": null,
+        "visible_character_identity": "passed_where_visible",
+        "approved_outfits_and_adult_proportions": "passed_where_visible",
+        "glove_healing_and_wrist_sides": "passed_F_RIGHT_white_full_LEFT_black_fingerless_old_healed_Y_bare_LEFT_jade_RIGHT_empty_where_visible",
+        "source_scene_and_relative_time": "passed_spring_parent_meeting_to_same_classroom_evening_no_next_chapter",
+        "report_sample_consent_statistics_and_return": "passed_where_visible_thirty_pages_seventeen_names_0_3_anonymous_taped_original_consent_back_private_record_unshown_three_years_missing_data_original_return_requested_not_gift_receipt_retained",
+        "scene_expression": "passed_source_professional_pressure_autonomous_teaching_adjustment_and_restraint_no_invented_apology_confession_diagnosis",
+        "visibility_qualification": "仅核实际可见，不强数遮挡后椅、不因看不见手或胶痕判缺失，不把命名QA视证冒成本审计员逐页亲看。"
+      },
+      {
+        "page": 24,
+        "file": "page-24.png",
+        "sha256": "09049bc487c2ab0b91d9f5ec812326a86e98b2ac30351a913523ccb2fac6197c",
+        "status": "passed_on_frozen_final_png",
+        "full_page_reviewer": "/root/ep16_visual_qa_resume",
+        "actual_full_page_viewed": true,
+        "actual_panels": 4,
+        "current_source_record_match": true,
+        "author_qa_approved_sha_sync": true,
+        "author_actual_view": true,
+        "author_page_frozen": true,
+        "must_fix": [],
+        "qa_notes": [
+          "Personally REOPENED entire revised4-panel PNG. Night exterior consistent, original notebook question/averted gaze/chair alignment and canonical face/hair/words untouched.",
+          "Y actual RIGHT chin wrist remains empty/LEFT jade on desk and chair; F RIGHT white/LEFT fingerless correct."
+        ],
+        "actual_final_png_viewed": true,
+        "decision": "passed_on_frozen_final_png",
+        "character_auditor_personally_viewed_this_final_png": true,
+        "identity_anchor_audit": {
+          "page": 24,
+          "file": "page-24.png",
+          "sha256": "09049bc487c2ab0b91d9f5ec812326a86e98b2ac30351a913523ccb2fac6197c",
+          "reviewer": "/root/ep16_character_audit_resume",
+          "actually_personally_viewed_final_png": true,
+          "actual_panels": 4,
+          "decision": "passed_on_frozen_final_png",
+          "notes": "本人完整4格重开夜色修后24；窗外夜蓝/室内工作灯承接22同夜，F短粉冠与右白左黑、Y RIGHT托腮空腕/LEFT桌边玉，末RIGHT椅背空腕/LEFT椅座玉正确，原对白/椅动作与克制表情保持。",
+          "viewed_at_utc": "2026-11-03T19:24:17.579008+00:00",
+          "all_final_global_locks_confirmed_at_utc": "2026-11-03T19:31:52.205493+00:00"
+        },
+        "visible_character_identity": "passed_where_visible",
+        "approved_outfits_and_adult_proportions": "passed_where_visible",
+        "glove_healing_and_wrist_sides": "passed_F_RIGHT_white_full_LEFT_black_fingerless_old_healed_Y_bare_LEFT_jade_RIGHT_empty_where_visible",
+        "source_scene_and_relative_time": "passed_spring_parent_meeting_to_same_classroom_evening_no_next_chapter",
+        "report_sample_consent_statistics_and_return": "passed_where_visible_thirty_pages_seventeen_names_0_3_anonymous_taped_original_consent_back_private_record_unshown_three_years_missing_data_original_return_requested_not_gift_receipt_retained",
+        "scene_expression": "passed_source_professional_pressure_autonomous_teaching_adjustment_and_restraint_no_invented_apology_confession_diagnosis",
+        "visibility_qualification": "仅核实际可见，不强数遮挡后椅、不因看不见手或胶痕判缺失，不把命名QA视证冒成本审计员逐页亲看。"
+      },
+      {
+        "page": 25,
+        "file": "page-25.png",
+        "sha256": "f3b11ee73057b0341ca13f8d7c7d42d4fd7e13498eef22b0221ff4063a84d7f2",
+        "status": "passed_on_frozen_final_png",
+        "full_page_reviewer": "/root/ep16_visual_qa_resume",
+        "actual_full_page_viewed": true,
+        "actual_panels": 5,
+        "current_source_record_match": true,
+        "author_qa_approved_sha_sync": true,
+        "author_actual_view": true,
+        "author_page_frozen": true,
+        "must_fix": [],
+        "qa_notes": [
+          "Personally REOPENED entire revised5-panel PNG. Exterior night matches same-night sequence; original small smile/RIGHT white ruler→own navy bag/LEFT black support/clear report on top/bent LEFT staple/source words remain correct."
+        ],
+        "actual_final_png_viewed": true,
+        "decision": "passed_on_frozen_final_png",
+        "character_auditor_personally_viewed_this_final_png": false,
+        "identity_anchor_audit": null,
+        "visible_character_identity": "passed_where_visible",
+        "approved_outfits_and_adult_proportions": "passed_where_visible",
+        "glove_healing_and_wrist_sides": "passed_F_RIGHT_white_full_LEFT_black_fingerless_old_healed_Y_bare_LEFT_jade_RIGHT_empty_where_visible",
+        "source_scene_and_relative_time": "passed_spring_parent_meeting_to_same_classroom_evening_no_next_chapter",
+        "report_sample_consent_statistics_and_return": "passed_where_visible_thirty_pages_seventeen_names_0_3_anonymous_taped_original_consent_back_private_record_unshown_three_years_missing_data_original_return_requested_not_gift_receipt_retained",
+        "scene_expression": "passed_source_professional_pressure_autonomous_teaching_adjustment_and_restraint_no_invented_apology_confession_diagnosis",
+        "visibility_qualification": "仅核实际可见，不强数遮挡后椅、不因看不见手或胶痕判缺失，不把命名QA视证冒成本审计员逐页亲看。"
+      },
+      {
+        "page": 26,
+        "file": "page-26.png",
+        "sha256": "935264513d76cbb18b33e18c26111166acabc483dabcf05f049a97f689ccabcf",
+        "status": "passed_on_frozen_final_png",
+        "full_page_reviewer": "/root/ep16_visual_qa_resume",
+        "actual_full_page_viewed": true,
+        "actual_panels": 4,
+        "current_source_record_match": true,
+        "author_qa_approved_sha_sync": true,
+        "author_actual_view": true,
+        "author_page_frozen": true,
+        "must_fix": [],
+        "qa_notes": [
+          "Personally REOPENED whole revised4-panel PNG. p4 blue-black spring night and warm wall lamp remove daytime window-grid sunshine; matches21/22 through28.",
+          "Original first3 bent staple→RIGHT WHITE press with LEFT BLACK support→flat foot, same clear report/papers/ruler/navy bag and all actors/words preserved."
+        ],
+        "actual_final_png_viewed": true,
+        "decision": "passed_on_frozen_final_png",
+        "character_auditor_personally_viewed_this_final_png": false,
+        "identity_anchor_audit": null,
+        "visible_character_identity": "passed_where_visible",
+        "approved_outfits_and_adult_proportions": "passed_where_visible",
+        "glove_healing_and_wrist_sides": "passed_F_RIGHT_white_full_LEFT_black_fingerless_old_healed_Y_bare_LEFT_jade_RIGHT_empty_where_visible",
+        "source_scene_and_relative_time": "passed_spring_parent_meeting_to_same_classroom_evening_no_next_chapter",
+        "report_sample_consent_statistics_and_return": "passed_where_visible_thirty_pages_seventeen_names_0_3_anonymous_taped_original_consent_back_private_record_unshown_three_years_missing_data_original_return_requested_not_gift_receipt_retained",
+        "scene_expression": "passed_source_professional_pressure_autonomous_teaching_adjustment_and_restraint_no_invented_apology_confession_diagnosis",
+        "visibility_qualification": "仅核实际可见，不强数遮挡后椅、不因看不见手或胶痕判缺失，不把命名QA视证冒成本审计员逐页亲看。"
+      },
+      {
+        "page": 27,
+        "file": "page-27.png",
+        "sha256": "c633a3c9f9c29e0fd1f4ed5b84cc966dcc0e1b667f7139708298070d9291a794",
+        "status": "passed_on_frozen_final_png",
+        "full_page_reviewer": "/root/ep16_visual_qa_resume",
+        "actual_full_page_viewed": true,
+        "actual_panels": 5,
+        "current_source_record_match": true,
+        "author_qa_approved_sha_sync": true,
+        "author_actual_view": true,
+        "author_page_frozen": true,
+        "must_fix": [],
+        "qa_notes": [
+          "Personally whole5 panels viewed; parent-meeting receipt firsttwo original sentences exact: letter retained/four replies number only/signed receipt, optional activities/review after midterm/no ranking promise.",
+          "Unidentifiable signoff hand in document montage, original report separate, circled feedback date indistinct with no new specific date/name/policy contents."
+        ],
+        "actual_final_png_viewed": true,
+        "decision": "passed_on_frozen_final_png",
+        "character_auditor_personally_viewed_this_final_png": false,
+        "identity_anchor_audit": null,
+        "visible_character_identity": "passed_where_visible",
+        "approved_outfits_and_adult_proportions": "passed_where_visible",
+        "glove_healing_and_wrist_sides": "passed_F_RIGHT_white_full_LEFT_black_fingerless_old_healed_Y_bare_LEFT_jade_RIGHT_empty_where_visible",
+        "source_scene_and_relative_time": "passed_spring_parent_meeting_to_same_classroom_evening_no_next_chapter",
+        "report_sample_consent_statistics_and_return": "passed_where_visible_thirty_pages_seventeen_names_0_3_anonymous_taped_original_consent_back_private_record_unshown_three_years_missing_data_original_return_requested_not_gift_receipt_retained",
+        "scene_expression": "passed_source_professional_pressure_autonomous_teaching_adjustment_and_restraint_no_invented_apology_confession_diagnosis",
+        "visibility_qualification": "仅核实际可见，不强数遮挡后椅、不因看不见手或胶痕判缺失，不把命名QA视证冒成本审计员逐页亲看。"
+      },
+      {
+        "page": 28,
+        "file": "page-28.png",
+        "sha256": "8766fda0237d6e2a837145bf912ce1be9bc82d971e53ff76e7c268c44250c106",
+        "status": "passed_on_frozen_final_png",
+        "full_page_reviewer": "/root/ep16_visual_qa_resume",
+        "actual_full_page_viewed": true,
+        "actual_panels": 4,
+        "current_source_record_match": true,
+        "author_qa_approved_sha_sync": true,
+        "author_actual_view": true,
+        "author_page_frozen": true,
+        "must_fix": [],
+        "qa_notes": [
+          "Personally REOPENED whole revised4-panel PNG. p4 true RIGHT white shoulder→near folder-holding forearm now empty wrist, no wrong jade; LEFT navy-side wrist naturally hidden, no forced ring.",
+          "First3 receipt exact/indistinct circled date/original flat-stapled clear report/ruler/own navy bag preserved, spring night and chapter16-only ending correct."
+        ],
+        "actual_final_png_viewed": true,
+        "decision": "passed_on_frozen_final_png",
+        "character_auditor_personally_viewed_this_final_png": true,
+        "identity_anchor_audit": {
+          "page": 28,
+          "file": "page-28.png",
+          "sha256": "8766fda0237d6e2a837145bf912ce1be9bc82d971e53ff76e7c268c44250c106",
+          "reviewer": "/root/ep16_character_audit_resume",
+          "actually_personally_viewed_final_png": true,
+          "actual_panels": 4,
+          "decision": "passed_on_frozen_final_png",
+          "notes": "本人完整4格重开修后28：p4真RIGHT白肩至持夹腕原玉已去，LEFT腕夹/袖遮无需强补；F右白左黑/成人头脸与春衣、同塑封左订报告和木尺在navy包、原回执第三句/不可读圈日期、同春夜与仅第16完全部保持。",
+          "viewed_at_utc": "2026-11-03T19:27:03.462767+00:00",
+          "all_final_global_locks_confirmed_at_utc": "2026-11-03T19:31:52.205493+00:00"
+        },
+        "visible_character_identity": "passed_where_visible",
+        "approved_outfits_and_adult_proportions": "passed_where_visible",
+        "glove_healing_and_wrist_sides": "passed_F_RIGHT_white_full_LEFT_black_fingerless_old_healed_Y_bare_LEFT_jade_RIGHT_empty_where_visible",
+        "source_scene_and_relative_time": "passed_spring_parent_meeting_to_same_classroom_evening_no_next_chapter",
+        "report_sample_consent_statistics_and_return": "passed_where_visible_thirty_pages_seventeen_names_0_3_anonymous_taped_original_consent_back_private_record_unshown_three_years_missing_data_original_return_requested_not_gift_receipt_retained",
+        "scene_expression": "passed_source_professional_pressure_autonomous_teaching_adjustment_and_restraint_no_invented_apology_confession_diagnosis",
+        "visibility_qualification": "仅核实际可见，不强数遮挡后椅、不因看不见手或胶痕判缺失，不把命名QA视证冒成本审计员逐页亲看。"
+      }
+    ],
+    "final_status": "completed_and_frozen",
+    "artist_records_locked": true,
+    "current_source_records_match_final_png": true,
+    "remaining_must_fix": [],
+    "working_qa_passed_count": 28,
+    "working_passed_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28
+    ],
+    "review_claim_policy": "本人原设/历史参考、未来本人最终锚、独立命名QA全28实际整页分别留真实当前SHA证据，局修必须重开，不冒认旧审计view。",
+    "author_stop_confirmations": [
+      {
+        "half": "A",
+        "author": "/root/ep16_art_a_resume",
+        "record_file": "前半生成记录.json",
+        "record_path": "/workspace/绯色难测_第十六话/前半生成记录.json",
+        "record_sha256": "d5600b7dcff6335ce125a823d1c40ee43cf6a1bd7e190fd19a01efb2e1a72855",
+        "record_bytes": 233766,
+        "pages": 14,
+        "panels": 63,
+        "png_bytes": 32871737,
+        "all_png_and_record_writes_stopped": true,
+        "all_imagegen_cells_closed_no_callbacks_author_confirmed": true,
+        "all_current_imagegen_and_record_writer_calls_completed": true,
+        "closed_current_generation_exec_cells": [
+          "g2:10"
+        ],
+        "last_inline_page08_generation_completed": true,
+        "external_page14_generator_completed_root_confirmed": true,
+        "old_g11_cells_environment_interrupted_not_falsely_completed": true,
+        "author_proof_path": "/tmp/ep16-a-resume-final-proof.json",
+        "author_proof_sha256": "1712908038815b18e8f0f84dedf29cb218b714a32b5e3f6925bd710e707e9668",
+        "QA_path": "/tmp/ep16-final-visual-qa.json",
+        "QA_sha256": "115f5ae042f856b54ea42d08d7216e1a7c1ea371846f1c1605281f3b42254dbc",
+        "stopped": true,
+        "no_background_helper_processes": true,
+        "author_stop_marker_path": "/tmp/ep16-a-resume-author-stop.json",
+        "author_stop_marker_sha256": "1eef608066a93cacba534527d7734b826cae88b233b728b0c73273c0227013f4",
+        "confirmation_received_directly_from_author": "/root/ep16_art_a_resume",
+        "root_confirmation_received": true,
+        "confirmation_basis": "本人接收新作者明确正式停写消息，ROOT亦明确转述；不依inactive推断；新cells完成或明确terminate，旧reset cells只记interrupted。",
+        "recorded_at_utc": "2026-11-03T19:31:52.205493+00:00",
+        "restore_inventory_path": "/tmp/ep16-environment-restore-inventory.json",
+        "restore_inventory_sha256": "98f68419f38d7aa5a5d2d6757d1d692b9d49be8ca90edeb9e243dbfd7f3f43c6"
+      },
+      {
+        "owner": "/root/ep16_art_b_resume",
+        "author": "/root/ep16_art_b_resume",
+        "half": "B",
+        "page_count": 14,
+        "pages": 14,
+        "panel_count": 63,
+        "panels": 63,
+        "stopped": true,
+        "all_png_and_record_writes_stopped": true,
+        "all_imagegen_cells_closed": true,
+        "all_imagegen_cells_closed_no_callbacks_author_confirmed": true,
+        "all_image_generation_exec_cells_completed": true,
+        "all_record_writer_exec_cells_completed_before_final_freeze": true,
+        "closed_current_exec_cells": [
+          "g3:11",
+          "g3:16",
+          "g3:22"
+        ],
+        "closed_final_technical_session": {
+          "session_id": 32670,
+          "exit_code": 0
+        },
+        "no_background_helper_processes": true,
+        "old_generation_cell_g12_14": "interrupted_by_environment_restart_not_claimed_completed; no current orchestrator callback",
+        "old_journal_preserved_unchanged": true,
+        "old_journal_sha256": "4d3fe2fbc3f01660f3040fdd87758df64fee9bd040836063f998b6512673cf4c",
+        "resume_journal_sha256": "def6380eb12b4c2cb510f5b29835e94f7021891c6da4ec470ec7c350b28c15f2",
+        "record_file": "后半生成记录.json",
+        "record_path": "/workspace/绯色难测_第十六话/后半生成记录.json",
+        "record_sha256": "67532b79648afb9e155d02b24c272ec10d4ac191440a38f4a91668f28684d46b",
+        "record_bytes": 231684,
+        "png_total_bytes": 33400508,
+        "png_bytes": 33400508,
+        "QA_path": "/tmp/ep16-final-visual-qa.json",
+        "QA_sha256": "115f5ae042f856b54ea42d08d7216e1a7c1ea371846f1c1605281f3b42254dbc",
+        "QA_bytes": 58186,
+        "author_proof_path": "/tmp/ep16-b-final-technical-resume.json",
+        "author_proof_sha256": "06b214a7bc92b3fe89b3213b83fc984025f31d5ebbacba840539b01c320cf317",
+        "all_current_14_personally_viewed_and_independent_QA_sha_passed": true,
+        "utc": "2026-11-03T19:30:18.608208+00:00",
+        "author_stop_marker_path": "/tmp/ep16-b-resume-author-stop.json",
+        "author_stop_marker_sha256": "c0bfacb52480bbd88d5bacdc9878638d81daa2b2e617534d9b85971e6a4990a4",
+        "confirmation_received_directly_from_author": "/root/ep16_art_b_resume",
+        "root_confirmation_received": true,
+        "confirmation_basis": "本人接收新作者明确正式停写消息，ROOT亦明确转述；不依inactive推断；新cells完成或明确terminate，旧reset cells只记interrupted。",
+        "recorded_at_utc": "2026-11-03T19:31:52.205493+00:00",
+        "restore_inventory_path": "/tmp/ep16-environment-restore-inventory.json",
+        "restore_inventory_sha256": "98f68419f38d7aa5a5d2d6757d1d692b9d49be8ca90edeb9e243dbfd7f3f43c6"
+      }
+    ],
+    "artist_writers_confirmed_stopped": true,
+    "working_source_records_match_for_passed_pages": true,
+    "working_qa_approved_sha_sync_complete": true,
+    "artist_record_lock_state": [
+      {
+        "file": "前半生成记录.json",
+        "sha256": "d5600b7dcff6335ce125a823d1c40ee43cf6a1bd7e190fd19a01efb2e1a72855",
+        "bytes": 233766,
+        "rows": 14
+      },
+      {
+        "file": "后半生成记录.json",
+        "sha256": "67532b79648afb9e155d02b24c272ec10d4ac191440a38f4a91668f28684d46b",
+        "bytes": 231684,
+        "rows": 14
+      }
+    ],
+    "resume_character_auditor": "/root/ep16_character_audit_resume",
+    "current_personal_anchor_pages": [
+      1,
+      7,
+      14,
+      24,
+      28
+    ],
+    "frozen_at_utc": "2026-11-03T19:31:53.436282+00:00"
+  },
+  "overall_finding": "28页角色与物件连续性终审通过，必须修改项0；作者与QA已明确停止写入，当前PNG=RAW=record=QA SHA一致。",
+  "frozen_full_source_verification": {
+    "md_sha256": "64ff4971ed23c025cebc745d1e8991ec833d8db75076fec89024078a7d699304",
+    "json_sha256": "1d1de24e0c7857a58f8ef7bde7a80d1ff3e870b20b58b405e1a03d1543b5d164",
+    "source_proof_path": "/tmp/ep16-source-review.json",
+    "source_proof_sha256": "4e804e809baf4b2992d245edf0fdd2c223ba0dbeffd8c4e06d39370bc002b7b9",
+    "source_proof_bytes": 5351,
+    "explicit_root_freeze_received": true,
+    "source_approval": "approved_for_actual_image_generation",
+    "locked_at_utc": "2026-11-03T18:40:50.432135+00:00",
+    "current_MD_JSON_sha256_match": true,
+    "prompt_pages": 28,
+    "panels": 126
+  },
+  "candidate_personal_rechecks": [
+    {
+      "page": 7,
+      "file": "page-07.png",
+      "sha256": "d0662c708b4161085e95b060f875f77b4f9236392239102dba85d9ecb5aa0504",
+      "reviewer": "/root/ep16_character_audit_resume",
+      "actual_full_page_viewed": true,
+      "actual_panels": 5,
+      "decision": "candidate_must_fix_not_final_anchor",
+      "notes": "p3 front Y：LEFTnavy在图右，图左白RIGHT肩经袖到抬附件手腕有玉，RIGHT应空；p5LEFT玉正确不动。交独立QA追腕确认，只删p3RIGHT玉，不强补不可见LEFT腕。",
+      "viewed_at_utc": "2026-11-03T19:01:59.610212+00:00"
+    },
+    {
+      "page": 14,
+      "file": "page-14.png",
+      "sha256": "282ee0cffd9098518e87e61f17103dd4b26cc43ebf0e98313ca2101ae35588d8",
+      "reviewer": "/root/ep16_character_audit_resume",
+      "actual_full_page_viewed": true,
+      "actual_panels": 4,
+      "decision": "candidate_must_fix_not_final_anchor",
+      "notes": "p1同17签原报告三诉求被生成成新友善内容稳定学习环境/优化作业安排/建立有效沟通机制；只文字ROI应回撤换班主任/压缩活动课/停止漫画社，保17签原封与其余3格。p3Y LEFTnavy及LEFT玉正确。已交独立新QA确认。",
+      "viewed_at_utc": "2026-11-03T19:11:32.687150+00:00"
+    },
+    {
+      "page": 28,
+      "file": "page-28.png",
+      "sha256": "8e0c6d78576450ba1e82470e5b4d7c9e2d348e7d2b8e6abf6bb5b36e72d7824d",
+      "reviewer": "/root/ep16_character_audit_resume",
+      "actual_full_page_viewed": true,
+      "actual_panels": 4,
+      "decision": "candidate_must_fix_not_final_anchor",
+      "notes": "回执第三原句/不可读圈日期、同左订塑封报告尺入navy包、春夜与仅第16完正确。p4Y front图左白RIGHT肩经袖到持夹腕误有jade，图右LEFTnavy同侧腕大部被夹与袖遮；只去RIGHT玉，不强补不可见LEFT，交新QA独立追。",
+      "viewed_at_utc": "2026-11-03T19:14:51.900413+00:00"
+    },
+    {
+      "page": 24,
+      "file": "page-24.png",
+      "sha256": "25d7f4a011c977e461cda4c62759b69ab17d194b931e3cf04457de99964eacec",
+      "reviewer": "/root/ep16_character_audit_resume",
+      "actually_personally_viewed_final_png": true,
+      "actual_panels": 4,
+      "decision": "previous_identity_pass_pending_night_revision_not_final",
+      "notes": "本人完整4格亲开；F小笑与Y移目/对齐椅腿保持工作同事距离无接触升级；Y正面RIGHT托腮空腕、LEFT桌边玉，p4RIGHT椅背/LEFT椅座仅左玉，头脸春装稳定。 全28跨页QA后确定23–26须只窗外/强日照ROI改为22同夜色；此旧24仅作个人身份视证历史，不计最终锚，待新24实际整页重开。",
+      "viewed_at_utc": "2026-11-03T19:01:59.610212+00:00",
+      "actual_full_page_viewed": true,
+      "updated_at_utc": "2026-11-03T19:16:32.481494+00:00"
+    },
+    {
+      "page": 7,
+      "file": "page-07.png",
+      "sha256": "d9616e806f1371b2bb1e96c1b933843732c885657a3490880292bd2b94a9495a",
+      "reviewer": "/root/ep16_character_audit_resume",
+      "actual_full_page_viewed": true,
+      "actual_panels": 5,
+      "decision": "withdrawn_after_actual_pixel_comparison",
+      "notes": "本人全5格重开新修：p2外环已去、p3RIGHT玉已删正确；p5原正确图右LEFT玉被同时删，LEFTnavy肩经白袖至充分可见裸腕现在空，应只p5补回绿玉且p3RIGHT仍空。已交新QA独立核。",
+      "viewed_at_utc": "2026-11-03T19:19:57.124039+00:00",
+      "withdrawal_reason": "低对比整图视觉误疑；实际原PNG=RAW/record d961同SHA且旧新p5绿色mask与同位置RGB证明LEFT原玉保留，无回归错误、不需二次改图。",
+      "withdrawal_evidence": "/tmp/ep16-audit-resume-page07-p5-pixel-evidence.json"
+    }
+  ],
+  "previous_environment_review": {
+    "backup_file": "/tmp/ep16-role-before-resume.json",
+    "backup_sha256": "2192c5c0f8b0c5051a8d53f82cb5e4f13c341afd65df4f7b6a3fb86361369811",
+    "backup_bytes": 35362,
+    "original_reviewer": "/root/ep16_character_audit",
+    "evidence": [
+      {
+        "workspace_path": "/workspace/原设参考/绯英原设.jpg",
+        "sha256": "8ec0576d31814a4f0d54c067b4375b25f5510671823c4d41706cc33b55a346da",
+        "bytes": 134176,
+        "resolution": [
+          582,
+          1280
+        ],
+        "format": "JPEG",
+        "actual_view_completed": true,
+        "viewed_by": "/root/ep16_character_audit",
+        "view_method": "tools.view_image完整原图，本轮审计员亲看",
+        "viewed_at_utc": "2026-11-03T18:31:40.780580+00:00",
+        "usage": "原设F成年头脸/短蓬粉冠/外翻脸周短层/独立细长后丝/紫眼/红结樱夹；幻想衣与耳饰形状不原样搬校园。"
+      },
+      {
+        "workspace_path": "/workspace/原设参考/爻光原设_近景.jpg",
+        "sha256": "1c14724f3bd1ab2f0bbef92ca17250015f810b00d6ed8c72d86e564c2b51c82e",
+        "bytes": 147839,
+        "resolution": [
+          929,
+          1280
+        ],
+        "format": "JPEG",
+        "actual_view_completed": true,
+        "viewed_by": "/root/ep16_character_audit",
+        "view_method": "tools.view_image完整原图，本轮审计员亲看",
+        "viewed_at_utc": "2026-11-03T18:31:40.786827+00:00",
+        "usage": "原设Y成年面部/银白分束弯碎刘海/外翻鬓羽/自然紫青虹彩/右鬓孔雀；不继承魔法丝线与幻想露肩衣。"
+      },
+      {
+        "workspace_path": "/workspace/原设参考/爻光原设_全身.jpg",
+        "sha256": "8222e86042d6637460243ee623098453319f1e679fa64605095ecf0b6d795313",
+        "bytes": 123636,
+        "resolution": [
+          591,
+          1280
+        ],
+        "format": "JPEG",
+        "actual_view_completed": true,
+        "viewed_by": "/root/ep16_character_audit",
+        "view_method": "tools.view_image完整原图，本轮审计员亲看",
+        "viewed_at_utc": "2026-11-03T18:31:40.791915+00:00",
+        "usage": "原设Y长后束、白青配色/孔雀轮廓；校园白blazer/立领dress替代幻想衣。"
+      },
+      {
+        "workspace_path": "/workspace/绯色难测_第十四话/page-26.png",
+        "sha256": "3961bc4f857a021ca8838eb3e0e10affbd99895d3077bfdba57de147f31b0a8b",
+        "bytes": 2400145,
+        "resolution": [
+          1024,
+          1536
+        ],
+        "format": "PNG",
+        "actual_view_completed": true,
+        "viewed_by": "/root/ep16_character_audit",
+        "view_method": "tools.view_image完整原图，本轮审计员亲看",
+        "viewed_at_utc": "2026-11-03T18:31:40.860516+00:00",
+        "usage": "F已确认莓红短开衫与ivory衬衣、正确右白全指左黑露指；只取头脸/衣与手套，不复制雪/粉巾/糖纸。"
+      },
+      {
+        "workspace_path": "/workspace/绯色难测_第十五话/page-24.png",
+        "sha256": "f1581fc94c3ea1d11908f475f9ec54f2e126545ea0affa94757464ce06c472a3",
+        "bytes": 2295407,
+        "resolution": [
+          1024,
+          1536
+        ],
+        "format": "PNG",
+        "actual_view_completed": true,
+        "viewed_by": "/root/ep16_character_audit",
+        "view_method": "tools.view_image完整原图，本轮审计员亲看",
+        "viewed_at_utc": "2026-11-03T18:31:40.921850+00:00",
+        "usage": "Y近景日装/左navy肩布、双裸手左玉右空，头脸与手性清楚；不继承跨章账本/phone/冬雪。"
+      },
+      {
+        "workspace_path": "/workspace/绯色难测_第十三话/page-05.png",
+        "sha256": "668aaef104791fd51220cd0cd1c1e43d04637f4e3ed42881409d843c68d50954",
+        "bytes": 2375754,
+        "resolution": [
+          1024,
+          1536
+        ],
+        "format": "PNG",
+        "actual_view_completed": true,
+        "viewed_by": "/root/ep16_character_audit",
+        "view_method": "tools.view_image完整原图，本轮审计员亲看",
+        "viewed_at_utc": "2026-11-03T18:31:40.982004+00:00",
+        "usage": "Fu玄成人粉紫长发、细金框眼镜、淡紫灰西装与米白衬衣，春季身份适用；也可校F/Y同事身形。"
+      },
+      {
+        "workspace_path": "/workspace/绯色难测_第十四话/page-21.png",
+        "sha256": "a93c6d448172f1da308a3eb9deb4a4173a31838d1a8898bad0fea019a2b83185",
+        "bytes": 2689827,
+        "resolution": [
+          1024,
+          1536
+        ],
+        "format": "PNG",
+        "actual_view_completed": true,
+        "viewed_by": "/root/ep16_character_audit",
+        "view_method": "tools.view_image完整原图，本轮审计员亲看",
+        "viewed_at_utc": "2026-11-03T18:31:41.045706+00:00",
+        "usage": "Fu玄与Y成人近景日装延续；只取身份/职装，不继承冬外衣围巾/课题本/雪与腊月日期。"
+      },
+      {
+        "workspace_path": "/workspace/绯色难测_第四话/page-04.png",
+        "sha256": "480ba5a93881e927f651a0cec2571593d68268ad6b9251f124d24be688cb21e1",
+        "bytes": 2914667,
+        "resolution": [
+          1024,
+          1536
+        ],
+        "format": "PNG",
+        "actual_view_completed": true,
+        "viewed_by": "/root/ep16_character_audit",
+        "view_method": "tools.view_image完整原图，本轮审计员亲看",
+        "viewed_at_utc": "2026-11-03T18:34:01.394512+00:00",
+        "usage": "本人本轮完整亲看：周叙成年前高中生黑短碎发宇宙母题，与F/Y旧校园衣；图中是普通完整画纸，不能冒作本话贴胶数学卷原件或复制旧裙装。"
+      },
+      {
+        "workspace_path": "/workspace/绯色难测_第十三话/page-11.png",
+        "sha256": "f1b9dc22f8f64daeb950c61d3e29da417b41c2226adae819b971b6b4ebafb307",
+        "bytes": 2598126,
+        "resolution": [
+          1024,
+          1536
+        ],
+        "format": "PNG",
+        "actual_view_completed": true,
+        "viewed_by": "/root/ep16_character_audit",
+        "view_method": "tools.view_image完整原图，本轮审计员亲看",
+        "viewed_at_utc": "2026-11-03T18:34:01.461244+00:00",
+        "usage": "本人本轮完整亲看：Fu玄成人粉紫长发/金框镜/紫灰职装与两主角交谈；旧学生欢呼不可复制到本章家长会。"
+      },
+      {
+        "workspace_path": "/workspace/绯色难测_第十三话/page-07.png",
+        "sha256": "009391cff9555fbcfa739d7bb68f07ba25f292aaa9f962f1216ea3b844d1e311",
+        "bytes": 2523660,
+        "resolution": [
+          1024,
+          1536
+        ],
+        "format": "PNG",
+        "actual_view_completed": true,
+        "viewed_by": "/root/ep16_character_audit",
+        "view_method": "tools.view_image完整原图，本轮审计员亲看",
+        "viewed_at_utc": "2026-11-03T18:39:21.273368+00:00",
+        "usage": "只取校园木教室材质/窗/桌椅；此旧图是两班联合班会的报告厅/学生欢呼与旧成绩标签，16不能继承。"
+      }
+    ],
+    "source_read": {
+      "path": "/workspace/原作/卷三_心动这门课.txt",
+      "sha256": "66256266e7fd0fe53ac11b8577f044c8e70737783eac1461baaf35a8a80d7e96",
+      "chapter_start": "第十六章 流言",
+      "exclusive_next_chapter": "第十七章 手幅",
+      "chapter_text_sha256_normalized_newlines": "521d40cba15303ec73c12958dfca50af4bad91973ed7c99c8e93bd95fffe1516",
+      "actually_read_by": "/root/ep16_character_audit",
+      "read_complete": true,
+      "episode_storyboard_actual_full_read_by": "/root/ep16_character_audit",
+      "episode_storyboard_panels_actual_read": 126
+    },
+    "candidate_personal_rechecks": [
+      {
+        "page": 3,
+        "file": "page-03.png",
+        "sha256": "1413a468c28f7f9fc4645eeaf65195b6c13b496c3ca354c8d70549f0f89ee668",
+        "bytes": 2180630,
+        "actually_personally_opened_full_page": true,
+        "actual_panel_count": 5,
+        "reviewer": "/root/ep16_character_audit",
+        "viewed_at_utc": "2026-11-03T18:49:22.288432+00:00",
+        "decision": "must_fix_candidate_only_not_final_personal_anchor",
+        "notes": "本人整页独立确认仅p5手套交换：近RIGHT肩→前莓袖→讲台黑露指应白全指；远LEFT抬掌指向图右thumb上，转指轴为LEFT掌，应黑露指。p4正面正确右白左黑须保留。此为旧版必须修候选，不冒最终PNG实看。"
+      },
+      {
+        "page": 15,
+        "file": "page-15.png",
+        "sha256": "735547e9ffc3756b7c093b9fca149dbf38a954d74cc63408790cab905a53c8ae",
+        "bytes": 2410673,
+        "actually_personally_opened_full_page": true,
+        "actual_panel_count": 5,
+        "reviewer": "/root/ep16_character_audit",
+        "viewed_at_utc": "2026-11-03T18:53:24.762483+00:00",
+        "decision": "must_fix_candidate_only_not_final_personal_anchor",
+        "notes": "本人整页独立确认p3抬臂从LEFTnavy肩连续到露腕，指右thumb上为LEFT掌，确少LEFT玉；p1 RIGHT空LEFT玉正确须保留。p2/3/5错误当届高二1/2×第一至第三学年表与源长期缺课样本口径不一致，缺恢复正常到校日期，应只修表ROI。头脸/春装/Fu成人身份可。此为旧版候选，非本人的最终PNG实看。"
+      }
+    ],
+    "claim_boundary": "旧环境视证只归旧审计员/旧QA，不冒认新resume本人。",
+    "working_page_review_matrix": [
+      {
+        "page": 1,
+        "file": "page-01.png",
+        "sha256": "30ca9c85fc7b1c69d5370008e86bb4e19d99778ca57d31d2c7cfb561c7892865",
+        "status": "passed_current_png",
+        "full_page_reviewer": "/root/ep16_visual_qa",
+        "actual_full_page_viewed": true,
+        "actual_panels": 5,
+        "current_source_record_match": true,
+        "author_qa_approved_sha_sync": false,
+        "author_actual_view": true,
+        "author_page_frozen": false,
+        "must_fix": [],
+        "qa_notes": [
+          "Actually viewed full image and recounted all 5 panels. Adult F keeps short fluffy pink crown/outward cheek layers, separate thin long strands, red bow/sakura/violet irises, berry short cardigan and ivory blouse.",
+          "Front torso confirms anatomical RIGHT white full-finger glove, LEFT black fingerless mesh glove; same pair continues in closeups. Light staple contact has no fresh wound/blood or removed glove.",
+          "One transparent plastic-cover thick report, 30-page caption, LEFT staples, one lifted staple foot. Last page has exactly 17 anonymous signature lines numbered 1–17 and original three demands. Names remain unwithdrawn.",
+          "All listed visible source text, chapter16/title and volume3-opening heading readable; spring leaves, no winter scarf/snow or premature later chapter."
+        ]
+      },
+      {
+        "page": 2,
+        "file": "page-02.png",
+        "sha256": "cba02595e36aa924c0d40e1faef57da4ca15398ee0edf38b88877d26cef0136c",
+        "status": "passed_current_png",
+        "full_page_reviewer": "/root/ep16_visual_qa",
+        "actual_full_page_viewed": true,
+        "actual_panels": 4,
+        "current_source_record_match": true,
+        "author_qa_approved_sha_sync": false,
+        "author_actual_view": true,
+        "author_page_frozen": false,
+        "must_fix": [],
+        "qa_notes": [
+          "Actually viewed full PNG and counted 4 panels. F source teaching-plan sheets under same thick clear-cover report; LEFT staples remain, one wooden ruler beside it. Front-torso gloves correct RIGHT white/LEFT black.",
+          "Spring new leaves without snow/scarves; adult parent seats full with rear stools implied, Fu appears in established pink-lilac hair/gold glasses/lilac-gray suit. Y not present before source entry.",
+          "Student artwork stored safely at side, blank whiteboard readied for grades. All source captions readable, adult F short main crown/outward cheek layers with separate long strands preserved."
+        ]
+      },
+      {
+        "page": 3,
+        "file": "page-03.png",
+        "sha256": "1413a468c28f7f9fc4645eeaf65195b6c13b496c3ca354c8d70549f0f89ee668",
+        "status": "pending_or_must_fix",
+        "full_page_reviewer": "/root/ep16_visual_qa",
+        "actual_full_page_viewed": true,
+        "actual_panels": 5,
+        "current_source_record_match": false,
+        "author_qa_approved_sha_sync": false,
+        "author_actual_view": false,
+        "author_page_frozen": false,
+        "must_fix": [
+          "Panel5 only: F gloves are exchanged between anatomical arms. Her NEAR arm traces continuously from visible near RIGHT shoulder down the foreground berry sleeve to BLACK fingerless hand resting lectern; this should be WHITE full-finger. FAR LEFT arm rises behind front torso to raised WHITE palm; its fingers point image RIGHT and thumb points UP (LEFT palm), should be BLACK fingerless mesh. Swap only these two glove appearances in panel5, retaining poses/hands, text, face, all panels1–4."
+        ],
+        "qa_notes": [
+          "Actually viewed FULL PAGE; counted all 5 panels. Front-facing panel4 has correct anatomical RIGHT white / LEFT black; preserve it.",
+          "Two close class lines, only high2(1)/high2(2) and 0.3 labels, no fabricated absolute grades/dates/rank. Adult parent crowd, source interruption text and spring classroom correct.",
+          "Panel5 hand assignment was checked by continuous near/far shoulder–sleeve path AND raised palm thumb/finger axis, not canvas side or assumed dominant hand."
+        ]
+      },
+      {
+        "page": 4,
+        "file": "page-04.png",
+        "sha256": "b9b13a3fd07d31c9ae47953cfb1bb46152f8fe87c742438a6020cae30b2948c4",
+        "status": "passed_current_png",
+        "full_page_reviewer": "/root/ep16_visual_qa",
+        "actual_full_page_viewed": true,
+        "actual_panels": 4,
+        "current_source_record_match": true,
+        "author_qa_approved_sha_sync": false,
+        "author_actual_view": false,
+        "author_page_frozen": false,
+        "must_fix": [],
+        "qa_notes": [
+          "Actually viewed full PNG; 4 panels recounted. Same adult beige-coated parent presses printed class-journal fox, source higher-education concern is not caricatured into violence.",
+          "F holds sole smooth wooden ruler in true RIGHT white full-finger glove, LEFT black fingerless steadies paper. Ruler does not strike/drop/break; original adult identity, spring room and source captions/dialogue remain correct."
+        ]
+      },
+      {
+        "page": 15,
+        "file": "page-15.png",
+        "sha256": "735547e9ffc3756b7c093b9fca149dbf38a954d74cc63408790cab905a53c8ae",
+        "status": "pending_or_must_fix",
+        "full_page_reviewer": "/root/ep16_visual_qa",
+        "actual_full_page_viewed": true,
+        "actual_panels": 5,
+        "current_source_record_match": true,
+        "author_qa_approved_sha_sync": false,
+        "author_actual_view": true,
+        "author_page_frozen": false,
+        "must_fix": [
+          "Panel3 only: lifted arm traces from original LEFT navy shoulder to fully exposed bare wrist. Open palm fingers image RIGHT/thumb UP also confirms LEFT palm. Add same single jade bangle to this LEFT wrist, preserving pose/skin/hands and panel1 correct RIGHT empty/LEFT jade.",
+          "Panels2/3/5 table ROI only: remove fabricated school-year columns 第一学年/第二学年/第三学年 and current-class rows 高二(1)/(2). Restore same source title 近三年长期缺课统计 and source fields 样本与口径 / 缺课天数 / 恢复正常到校日期; body can gray short rows and occasional — for missing data, no invented dates/names/numbers/percentages. Three table views must be consistent. Preserve every face/dialogue and all other scene pixels."
+        ],
+        "qa_notes": [
+          "Actually viewed full PNG and counted 5 panels. Source dialogue, adult identities, restrained parents/Fu and no applause/apology/withdrawal correct.",
+          "Panel1 Y has true RIGHT bare empty gesture and LEFT jade at torso, both correct. Panel3 specifically uses opposite LEFT arm, so empty wrist there breaks wearable continuity.",
+          "Current table fills cells with missing dashes but adds non-source current-class longitudinal school-year structure and omits required return-date/sample headers. Fix only board/table surfaces."
+        ]
+      },
+      {
+        "page": 16,
+        "file": "page-16.png",
+        "sha256": "b0691780603f623e504271f215966a585f016a09f78645880e6104dff16b7f28",
+        "status": "passed_current_png",
+        "full_page_reviewer": "/root/ep16_visual_qa",
+        "actual_full_page_viewed": true,
+        "actual_panels": 4,
+        "current_source_record_match": true,
+        "author_qa_approved_sha_sync": false,
+        "author_actual_view": false,
+        "author_page_frozen": false,
+        "must_fix": [],
+        "qa_notes": [
+          "Actually viewed full PNG; 4 panels recounted. Wet coats/paper, adult parents leave without apology, leader folds own handout into own bag; original transparent report and ruler stay on F lectern.",
+          "Same dark-short-haired gray-coated leader speaks source challenge to Y at back door. F/Y mature features and normal spring indoor clothes retained, no reply pledge or withdrawal.",
+          "p4 爻主任 actual pixel ROI inspected: upper diagonal cross, not dot+bar; correct rare glyph retained."
+        ]
+      },
+      {
+        "page": 17,
+        "file": "page-17.png",
+        "sha256": "e2d289e4f42045500fcb33836e1a3c61e11b7837882230614715ffa50ead75c5",
+        "status": "passed_current_png",
+        "full_page_reviewer": "/root/ep16_visual_qa",
+        "actual_full_page_viewed": true,
+        "actual_panels": 5,
+        "current_source_record_match": true,
+        "author_qa_approved_sha_sync": false,
+        "author_actual_view": true,
+        "author_page_frozen": false,
+        "must_fix": [],
+        "qa_notes": [
+          "Actually viewed full PNG, recounted 5 panels. Y nod, exiting adult parents/Fu, no apology or victory; transparent original report, F plan, ruler and navy bag remain on lectern.",
+          "F handles first then second ordinary chair; anatomical RIGHT white full-finger / LEFT black fingerless pair follows shoulder–elbow paths in both poses. Final panel old LEFT wrist ache, RIGHT white supports it; no new blood/bandage or collapse.",
+          "F adult short fluffy crown/outward layers plus separate long strands, berry/ivory outfit, navy full-length trousers and natural expression preserved. Spring buds and established classroom remain.",
+          "p1 爻 is correct: inspected original pixels x56:85 y74:106 as ASCII; upper and lower crosses are both diagonal 乂, no detached top dot/horizontal 交 bar. No glyph edit required."
+        ]
+      },
+      {
+        "page": 18,
+        "file": "page-18.png",
+        "sha256": "41d781dd8edefded20a34cefb1e7c547595da4d19bc428fc7e7542579d15bd1c",
+        "status": "passed_current_png",
+        "full_page_reviewer": "/root/ep16_visual_qa",
+        "actual_full_page_viewed": true,
+        "actual_panels": 4,
+        "current_source_record_match": true,
+        "author_qa_approved_sha_sync": false,
+        "author_actual_view": true,
+        "author_page_frozen": false,
+        "must_fix": [],
+        "qa_notes": [
+          "Actually viewed full PNG and counted 4 panels. Y receives THIRD chair by chair back, no grabbing F wrist/touching romance; then moves chair, both continue work at ordinary distance.",
+          "Y RIGHT bare empty at near side/LEFT jade under original LEFT navy shoulder consistently follows shoulder-arm paths. F RIGHT white full-finger and LEFT black fingerless follow both arms, no fresh injury.",
+          "F asks source original question with correct tail; Y navy document folder appears, not time ledger/new phone. Adult original-identity faces/hair and spring classroom remain.",
+          "Caption p1 爻 confirmed correct via original pixel ASCII ROI x53:87/y76:111: two diagonal crosses, no detached dot/top bar. Retain unchanged."
+        ]
+      },
+      {
+        "page": 19,
+        "file": "page-19.png",
+        "sha256": "3f6060124cbb522112a4a1264c61985e482e1ec66ae5ec02307163e06eb9fec9",
+        "status": "passed_current_png",
+        "full_page_reviewer": "/root/ep16_visual_qa",
+        "actual_full_page_viewed": true,
+        "actual_panels": 5,
+        "current_source_record_match": true,
+        "author_qa_approved_sha_sync": false,
+        "author_actual_view": false,
+        "author_page_frozen": false,
+        "must_fix": [],
+        "qa_notes": [
+          "Actually viewed full PNG; 5 panels recounted. All original source dialogue/tails readable: Zhou gave/kept it, F asks permission, Y explains original motive; student does not appear or give F the original as gift.",
+          "Y LEFT jade under LEFT navy shoulder follows visible arm to chair; RIGHT remains empty. F black fingerless LEFT hand stops on chair, no new injury or excess romance.",
+          "Navy folder contains taped original, no time-ledger/phone substitution. Adult original faces and short-main F hair distinction retained."
+        ]
+      },
+      {
+        "page": 20,
+        "file": "page-20.png",
+        "sha256": "9a9d4d80a455b6a85a6be3e62f560aef06cdeec2eb1b77b6134f3116d64cc164",
+        "status": "passed_current_png",
+        "full_page_reviewer": "/root/ep16_visual_qa",
+        "actual_full_page_viewed": true,
+        "actual_panels": 4,
+        "current_source_record_match": true,
+        "author_qa_approved_sha_sync": false,
+        "author_actual_view": false,
+        "author_page_frozen": false,
+        "must_fix": [],
+        "qa_notes": [
+          "Actually viewed full PNG; 4 panels recounted. F slowly lowers chair, plastic foot gentle contact, correct RIGHT white/LEFT black and navy trousers/black intact flats; no fall or new injury.",
+          "Y removes same torn taped original from navy document folder. Name and numeric score opaque-masked, yellow tape and red grading traces, paper RIGHT blue-cracked planet remain. F looks without touching.",
+          "Y true LEFT hand at lower paper edge has sole jade under LEFT navy shoulder; RIGHT hand upper paper edge bare empty. Source captions readable and no extra claim of student diagnosis or healing.",
+          "p3 爻 in caption checked on original pixels/ASCII, two 乂 diagonal crosses, retained unchanged."
+        ]
+      }
+    ]
+  },
+  "source_read_previous_environment": {
+    "path": "/workspace/原作/卷三_心动这门课.txt",
+    "sha256": "66256266e7fd0fe53ac11b8577f044c8e70737783eac1461baaf35a8a80d7e96",
+    "chapter_start": "第十六章 流言",
+    "exclusive_next_chapter": "第十七章 手幅",
+    "chapter_text_sha256_normalized_newlines": "521d40cba15303ec73c12958dfca50af4bad91973ed7c99c8e93bd95fffe1516",
+    "actually_read_by": "/root/ep16_character_audit",
+    "read_complete": true,
+    "episode_storyboard_actual_full_read_by": "/root/ep16_character_audit",
+    "episode_storyboard_panels_actual_read": 126
+  },
+  "historical_generation_input_verification": {
+    "successful_steps": 44,
+    "maximum_reference_count": 5,
+    "all_historical_RAW_and_reference_bytes_verified": true,
+    "steps": [
+      {
+        "page": 1,
+        "kind": "generated",
+        "source": "/workspace/generated_images/exec-f844ffee-6ae6-47b3-a350-699b9f77d9bd.png",
+        "sha256": "30ca9c85fc7b1c69d5370008e86bb4e19d99778ca57d31d2c7cfb561c7892865",
+        "reference_count": 3
+      },
+      {
+        "page": 2,
+        "kind": "generated",
+        "source": "/workspace/generated_images/exec-684ea4df-df1c-4927-abd2-6fda396a2ca7.png",
+        "sha256": "cba02595e36aa924c0d40e1faef57da4ca15398ee0edf38b88877d26cef0136c",
+        "reference_count": 4
+      },
+      {
+        "page": 3,
+        "kind": "generated",
+        "source": "/workspace/generated_images/exec-eefb96da-ac96-45d3-bdf2-f1ca4fa18803.png",
+        "sha256": "1413a468c28f7f9fc4645eeaf65195b6c13b496c3ca354c8d70549f0f89ee668",
+        "reference_count": 3
+      },
+      {
+        "page": 3,
+        "kind": "edited",
+        "source": "/workspace/generated_images/exec-c45989e6-aff5-43b8-8249-004a11931699.png",
+        "sha256": "98fd11faed01b807912456ac61710e224ef0d0f84951efe71b6daf454ff9fa3b",
+        "reference_count": 1
+      },
+      {
+        "page": 4,
+        "kind": "generated",
+        "source": "/workspace/generated_images/exec-40f3c083-29de-4565-8e36-591c7e56f64c.png",
+        "sha256": "b9b13a3fd07d31c9ae47953cfb1bb46152f8fe87c742438a6020cae30b2948c4",
+        "reference_count": 3
+      },
+      {
+        "page": 5,
+        "kind": "generated",
+        "source": "/workspace/generated_images/exec-5010a5fb-db77-43cf-9720-91c32daf906a.png",
+        "sha256": "c9d0f4d12f6b462db44083ac92575ffaa447869ecd87dd1d99d36420f7406e57",
+        "reference_count": 5
+      },
+      {
+        "page": 5,
+        "kind": "generated_after_environment_interruption",
+        "source": "/workspace/generated_images/exec-fd537884-959e-43f0-bb67-91271e955d0f.png",
+        "sha256": "664c33a872bfc61da45c92f91270f8c2ddff229ce10509c463763ec3ccafc09c",
+        "reference_count": 1
+      },
+      {
+        "page": 6,
+        "kind": "generated",
+        "source": "/workspace/generated_images/exec-2186c568-1a5d-4075-9024-570627b85bc7.png",
+        "sha256": "9d7d04ad1a4d785676f16646bc5fa89c3a900a024060bdc8881f338414df3df8",
+        "reference_count": 4
+      },
+      {
+        "page": 6,
+        "kind": "minimal_glove_material_edit_resume",
+        "source": "/workspace/generated_images/exec-aeaa20e1-9001-42bb-a8cb-7c41491fac89.png",
+        "sha256": "153d7d2e2ece93485d0c616d5de1b0de8d3a2b26a263f4c0d94b197f1f145eb7",
+        "reference_count": 1
+      },
+      {
+        "page": 7,
+        "kind": "generated",
+        "source": "/workspace/generated_images/exec-fccbde17-fece-470d-b20e-d13cebaf8eef.png",
+        "sha256": "d0662c708b4161085e95b060f875f77b4f9236392239102dba85d9ecb5aa0504",
+        "reference_count": 5
+      },
+      {
+        "page": 7,
+        "kind": "generated_after_environment_interruption",
+        "source": "/workspace/generated_images/exec-99baad99-a355-477a-97cd-ff79cd59a111.png",
+        "sha256": "d9616e806f1371b2bb1e96c1b933843732c885657a3490880292bd2b94a9495a",
+        "reference_count": 1
+      },
+      {
+        "page": 8,
+        "kind": "generated",
+        "source": "/workspace/generated_images/exec-6c7a22f8-f70c-4e9b-b4a0-157363b348e7.png",
+        "sha256": "dd41d1e11cb091efa42d07e87734e1e6d606f375f21b606ac23d7a7ea1ecd125",
+        "reference_count": 5
+      },
+      {
+        "page": 8,
+        "kind": "generated_after_environment_interruption",
+        "source": "/workspace/generated_images/exec-1a42325f-aeca-4190-9e89-84bbe0458e42.png",
+        "sha256": "e3229324025c1ee383093279e312a8a36b6902b6dcd179b2f404483a5fede441",
+        "reference_count": 1
+      },
+      {
+        "page": 8,
+        "kind": "minimal_paper_overlay_removal",
+        "source": "/workspace/generated_images/exec-a7fac9d4-fa8f-4fb3-93ff-c9d23b61221e.png",
+        "sha256": "ea1f503f364ac78b925a63213c88644d1fa7631060eb90bc03ab9caa48540329",
+        "reference_count": 1
+      },
+      {
+        "page": 9,
+        "kind": "generated_after_environment_interruption",
+        "source": "/workspace/generated_images/exec-207c4049-900f-43b4-871f-4f86ab5a4574.png",
+        "sha256": "371576bac90803f4f0cfc64a6ac1a0e2feef3257ec4e17ed6e827a9038ded604",
+        "reference_count": 5
+      },
+      {
+        "page": 10,
+        "kind": "generated_after_environment_interruption",
+        "source": "/workspace/generated_images/exec-eb49dd4b-9f9e-493e-9556-e080357a3201.png",
+        "sha256": "136a6318f4f46e3639e7c7323152545662b96ab4812a6e2b00b1069915ca8fd3",
+        "reference_count": 5
+      },
+      {
+        "page": 10,
+        "kind": "generated_after_environment_interruption",
+        "source": "/workspace/generated_images/exec-fe81aaf9-c669-4109-b6b6-c12562dc691e.png",
+        "sha256": "c425b60d409782b1419c13e21127856e3a1a66ed37efedeb266a430ba6c341ad",
+        "reference_count": 1
+      },
+      {
+        "page": 11,
+        "kind": "generated_after_environment_interruption",
+        "source": "/workspace/generated_images/exec-edc002cf-4ba3-4f26-a7bd-578ccd014165.png",
+        "sha256": "23f2b371d739e47506aa56e2fcc3ec0146c71b1927bf89832a6690b547363480",
+        "reference_count": 5
+      },
+      {
+        "page": 12,
+        "kind": "generated_after_environment_interruption",
+        "source": "/workspace/generated_images/exec-296d3417-9e13-4acb-bc86-a6c43ce86093.png",
+        "sha256": "faf32b0a9a8215a15995b55f8fb9b538bd89efb83c28b3eba69f73c5ee3df359",
+        "reference_count": 5
+      },
+      {
+        "page": 12,
+        "kind": "generated_after_environment_interruption",
+        "source": "/workspace/generated_images/exec-cca59c1d-fa93-4de0-87c5-efd0e17ab0a6.png",
+        "sha256": "e1e08f85ed3256011e996681f4e7f58f660d3f8f0844cb0599016a2bff994286",
+        "reference_count": 1
+      },
+      {
+        "page": 13,
+        "kind": "generated_after_environment_interruption",
+        "source": "/workspace/generated_images/exec-27abbd25-e295-4f3f-9c46-ff6ec6305fa1.png",
+        "sha256": "93b31a6b6d3621c21b89dfe1318b71348b6ca9487b47c7f2ec55e93113544e19",
+        "reference_count": 5
+      },
+      {
+        "page": 14,
+        "kind": "generated_after_environment_interruption",
+        "source": "/workspace/generated_images/exec-8ea212e1-a2fc-4d20-abf6-4154f9f41de2.png",
+        "sha256": "282ee0cffd9098518e87e61f17103dd4b26cc43ebf0e98313ca2101ae35588d8",
+        "reference_count": 5
+      },
+      {
+        "page": 14,
+        "kind": "minimal_report_demand_text_edit_external_RAW_worker",
+        "source": "/workspace/generated_images/exec-0f422921-8ca1-462f-be0b-ed9b30fee602.png",
+        "sha256": "c5cb7b2c42589a3b56ba7b575d429d1861e13cc5e3c7c2bcaecb72e9da1ae56d",
+        "reference_count": 1
+      },
+      {
+        "page": 15,
+        "kind": "generated",
+        "source": "/workspace/generated_images/exec-8c87882f-d6a9-40ab-b733-8dfce06ff95d.png",
+        "sha256": "735547e9ffc3756b7c093b9fca149dbf38a954d74cc63408790cab905a53c8ae",
+        "reference_count": 5
+      },
+      {
+        "page": 15,
+        "kind": "minimal_QA_continuity_edit",
+        "source": "/workspace/generated_images/exec-7bdef62e-8034-4fe4-9ee6-5ca31c350e69.png",
+        "sha256": "d7e2a97b53e8bfedd9c7af3745f3b4b0638861a68697e32dbcffe9393f078e95",
+        "reference_count": 1
+      },
+      {
+        "page": 16,
+        "kind": "generated",
+        "source": "/workspace/generated_images/exec-71ce08a3-02be-4b85-8366-f1d38f6d017d.png",
+        "sha256": "b0691780603f623e504271f215966a585f016a09f78645880e6104dff16b7f28",
+        "reference_count": 5
+      },
+      {
+        "page": 17,
+        "kind": "generated",
+        "source": "/workspace/generated_images/exec-8bb0c189-d130-4c6f-a116-cd12e2481f24.png",
+        "sha256": "e2d289e4f42045500fcb33836e1a3c61e11b7837882230614715ffa50ead75c5",
+        "reference_count": 5
+      },
+      {
+        "page": 18,
+        "kind": "generated",
+        "source": "/workspace/generated_images/exec-09e46f0e-b69c-4a16-9d20-72fec165104f.png",
+        "sha256": "41d781dd8edefded20a34cefb1e7c547595da4d19bc428fc7e7542579d15bd1c",
+        "reference_count": 5
+      },
+      {
+        "page": 19,
+        "kind": "generated",
+        "source": "/workspace/generated_images/exec-5ea09189-51cb-406b-8fbe-937611f33feb.png",
+        "sha256": "3f6060124cbb522112a4a1264c61985e482e1ec66ae5ec02307163e06eb9fec9",
+        "reference_count": 4
+      },
+      {
+        "page": 20,
+        "kind": "generated",
+        "source": "/workspace/generated_images/exec-9f4c7bae-b249-4674-83a2-9dfb8ba7a12e.png",
+        "sha256": "9a9d4d80a455b6a85a6be3e62f560aef06cdeec2eb1b77b6134f3116d64cc164",
+        "reference_count": 5
+      },
+      {
+        "page": 21,
+        "kind": "generated",
+        "source": "/workspace/generated_images/exec-11c663ba-d3f8-4545-abb3-4988e47ae675.png",
+        "sha256": "52bfc923994506159ab2021f4adfdf3e6039f6af7f690deadf7250482408ba2f",
+        "reference_count": 5
+      },
+      {
+        "page": 21,
+        "kind": "minimal_QA_same_original_artwork_edit",
+        "source": "/workspace/generated_images/exec-76cb146b-a826-4fbe-baec-ae60ff183438.png",
+        "sha256": "cc521eb68a9673e78f6a176c1979be7326fcf64c68b51bf3f5e48a9d45546f35",
+        "reference_count": 1
+      },
+      {
+        "page": 22,
+        "kind": "generated",
+        "source": "/workspace/generated_images/exec-d9201674-b7a8-4a18-bc3b-4f210e234490.png",
+        "sha256": "85382a277fdaf46c3dd1294853c8d1d130d8af103509b0c134d368a846a95428",
+        "reference_count": 5
+      },
+      {
+        "page": 23,
+        "kind": "generated",
+        "source": "/workspace/generated_images/exec-e266b5db-144a-41cc-8067-840d3295c1bc.png",
+        "sha256": "02cf1285f1ab1faddda90403880a98fb1522639cde1b9424ce57b2dedf2318f1",
+        "reference_count": 4
+      },
+      {
+        "page": 23,
+        "kind": "minimal_QA_established_spring_night_background_edit",
+        "source": "/workspace/generated_images/exec-5a98e7b3-dea4-40a4-9738-7fc3bbf64987.png",
+        "sha256": "cd8d45af193bc4aef4db64850d53871838a30482017c107f61a5431b096c8598",
+        "reference_count": 2
+      },
+      {
+        "page": 24,
+        "kind": "generated",
+        "source": "/workspace/generated_images/exec-07bc803b-7cd6-4de2-a482-24a36d81e2e4.png",
+        "sha256": "25d7f4a011c977e461cda4c62759b69ab17d194b931e3cf04457de99964eacec",
+        "reference_count": 5
+      },
+      {
+        "page": 24,
+        "kind": "minimal_QA_established_spring_night_background_edit",
+        "source": "/workspace/generated_images/exec-af541fb4-c385-46fa-8cd4-b8d012f6222f.png",
+        "sha256": "09049bc487c2ab0b91d9f5ec812326a86e98b2ac30351a913523ccb2fac6197c",
+        "reference_count": 2
+      },
+      {
+        "page": 25,
+        "kind": "generated",
+        "source": "/workspace/generated_images/exec-65db2965-54f5-4149-a88d-7797aee3556e.png",
+        "sha256": "02b458003abed076a268a90f7731441d2f8c8255936ff06e61b20fdee80b45f4",
+        "reference_count": 4
+      },
+      {
+        "page": 25,
+        "kind": "minimal_QA_established_spring_night_background_edit",
+        "source": "/workspace/generated_images/exec-6370b058-533f-4cd0-8a1e-0354858409f2.png",
+        "sha256": "f3b11ee73057b0341ca13f8d7c7d42d4fd7e13498eef22b0221ff4063a84d7f2",
+        "reference_count": 2
+      },
+      {
+        "page": 26,
+        "kind": "generated",
+        "source": "/workspace/generated_images/exec-bd1c0a77-5179-4f86-92ca-7df7620ab769.png",
+        "sha256": "828645d3750ad5eb2505285d379de4a9ff19eb20066191f8fdfa98c21790618f",
+        "reference_count": 4
+      },
+      {
+        "page": 26,
+        "kind": "minimal_QA_established_spring_night_background_edit",
+        "source": "/workspace/generated_images/exec-1a5dbc23-4f3e-4a90-b92f-b31d07fefd3d.png",
+        "sha256": "935264513d76cbb18b33e18c26111166acabc483dabcf05f049a97f689ccabcf",
+        "reference_count": 2
+      },
+      {
+        "page": 27,
+        "kind": "generated",
+        "source": "/workspace/generated_images/exec-30ea6008-f9f9-4138-806b-f432eed54235.png",
+        "sha256": "c633a3c9f9c29e0fd1f4ed5b84cc966dcc0e1b667f7139708298070d9291a794",
+        "reference_count": 5
+      },
+      {
+        "page": 28,
+        "kind": "generated",
+        "source": "/workspace/generated_images/exec-e88f9d85-5f78-4527-b276-e4aae5bfa69e.png",
+        "sha256": "8e0c6d78576450ba1e82470e5b4d7c9e2d348e7d2b8e6abf6bb5b36e72d7824d",
+        "reference_count": 5
+      },
+      {
+        "page": 28,
+        "kind": "minimal_QA_RIGHT_wrist_bangle_removal",
+        "source": "/workspace/generated_images/exec-ff5f04ee-f67e-4ae4-9811-f2c67eca9d1c.png",
+        "sha256": "8766fda0237d6e2a837145bf912ce1be9bc82d971e53ff76e7c268c44250c106",
+        "reference_count": 1
+      }
+    ]
+  },
+  "independent_qa_final_proof": {
+    "path": "/tmp/ep16-final-visual-qa.json",
+    "sha256": "115f5ae042f856b54ea42d08d7216e1a7c1ea371846f1c1605281f3b42254dbc",
+    "bytes": 58186,
+    "actual_full_page_views": 28,
+    "actual_panels": 126,
+    "reviewer": "/root/ep16_visual_qa_resume",
+    "final_status": "completed_and_frozen"
+  }
+}
