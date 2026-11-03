@@ -1,0 +1,1356 @@
+{
+  "episode": 10,
+  "title": "救场",
+  "requested_focus": "继续卷二第十章，22页100格；原作救场因果、源情绪与原设身份并重，延续已批准校园装。",
+  "status": "completed_and_frozen",
+  "scope": "仅本话角色、手套伤手、足部、现场道具标准，以及本代理实看锚/命名全页QA最终结论；不改PNG、旧话、rootdocs或Git。",
+  "evidence": [
+    {
+      "id": "original_feiying",
+      "workspace_path": "/workspace/原设参考/绯英原设.jpg",
+      "sha256": "8ec0576d31814a4f0d54c067b4375b25f5510671823c4d41706cc33b55a346da",
+      "actual_view_completed": true,
+      "actual_view_note": "本角色审查代理这轮已真实打开完整图。",
+      "usage": "用户原设：短蓬发冠、外翻脸周层、紫眼、红蝶樱夹",
+      "archive_execution_dependency": true
+    },
+    {
+      "id": "original_yaoguang_closeup",
+      "workspace_path": "/workspace/原设参考/爻光原设_近景.jpg",
+      "sha256": "1c14724f3bd1ab2f0bbef92ca17250015f810b00d6ed8c72d86e564c2b51c82e",
+      "actual_view_completed": true,
+      "actual_view_note": "本角色审查代理这轮已真实打开完整图。",
+      "usage": "用户原设：分束弯刘海、外翘鬓束、自然紫青虹彩",
+      "archive_execution_dependency": true
+    },
+    {
+      "id": "original_yaoguang_fullbody",
+      "workspace_path": "/workspace/原设参考/爻光原设_全身.jpg",
+      "sha256": "8222e86042d6637460243ee623098453319f1e679fa64605095ecf0b6d795313",
+      "actual_view_completed": true,
+      "actual_view_note": "本角色审查代理这轮已真实打开完整图。",
+      "usage": "用户原设：成人整体比例和羽意象",
+      "archive_execution_dependency": true
+    },
+    {
+      "id": "episode9_hanabi_and_leads",
+      "workspace_path": "/workspace/绯色难测_第九话/page-01.png",
+      "sha256": "1a2f92eb9544260f1db314dd10010f7369622cf0dcff67f58d51d4e4e9515800",
+      "actual_view_completed": true,
+      "actual_view_note": "本角色审查代理这轮已真实打开完整图。",
+      "usage": "近期已校正主角及花火成年团长、左白半面外形",
+      "archive_execution_dependency": false
+    },
+    {
+      "id": "episode9_identity_and_hands",
+      "workspace_path": "/workspace/绯色难测_第九话/page-17.png",
+      "sha256": "5f014d38437df7e3e6d119280df0d22b15736e4391f134c0759d5c9bcb64620c",
+      "actual_view_completed": true,
+      "actual_view_note": "本角色审查代理这轮已真实打开完整图。",
+      "usage": "近期已校正主角脸发眼、校园衣装与手腕侧别",
+      "archive_execution_dependency": false
+    },
+    {
+      "id": "episode4_silverwolf",
+      "workspace_path": "/workspace/绯色难测_第四话/page-13.png",
+      "sha256": "0411f3e275a1070acf7f54ad8d402cd45ee3fb96e9a0dedbbaec35435775e759",
+      "actual_view_completed": true,
+      "actual_view_note": "本角色审查代理这轮已真实打开完整图。",
+      "usage": "灰银紫梢发、耳机、深背心白衬学生银狼；只用其侧背而非本页旧主角脸",
+      "archive_execution_dependency": false
+    },
+    {
+      "id": "episode3_bailu",
+      "workspace_path": "/workspace/绯色难测_第三话/page-03.png",
+      "sha256": "e459747aec96c8aba535223b28883d2b9859da052718eb6216ef83440fb0b84f",
+      "actual_view_completed": true,
+      "actual_view_note": "本角色审查代理这轮已真实打开完整图。",
+      "usage": "白露高中保健委员：淡紫双髻、青绿眼、浅蓝背心/白衬/深蓝过膝校裙；只用白露",
+      "archive_execution_dependency": false
+    },
+    {
+      "id": "episode2_fuxuan",
+      "workspace_path": "/workspace/绯色难测_第二话/page-04.png",
+      "sha256": "934b3eab1a5b861bc1c9613924a6ea960f74f4be5df8bcda55597c02f2707cbe",
+      "actual_view_completed": true,
+      "actual_view_note": "本角色审查代理这轮已真实打开完整图。",
+      "usage": "符玄成年教务：粉紫长发、金框眼镜、淡紫灰西装；只用符玄，页上旧主角脸/交错字不是本话依据",
+      "archive_execution_dependency": false
+    }
+  ],
+  "overall_finding": {
+    "current_reference_verdict": "原设头脸发眼用于身份，近期已校正漫画用于校园衣装；既有学生/教务旧页只用于各自配角。",
+    "episode10_png_verdict": "22页100格由ep10_visual_qa真实逐张整页终审及所有局修重开通过；本角色代理亲看5锚，核22源/PNG/记录/QA SHA一致、两半各11作者已冻结，无剩余必修。",
+    "execution_priorities": [
+      "成人主角头脸发眼原设",
+      "左伤剪左包左/右白保持",
+      "脱鞋后裸足与深色无足裤袜",
+      "源救场紧张表演",
+      "三种广播设备与应急流程",
+      "本章新配角如实标适配"
+    ]
+  },
+  "characters": {
+    "绯英": {
+      "original_identity": {
+        "hair": "浅樱粉基色；蓬松短碎发冠；围着脸颊与下颌外翻的尖发束；长鬓发/后侧长束与短头部轮廓分层",
+        "face": "短而利落的成年动漫鹅蛋/微尖下颌脸；清醒的略上挑上眼线；紫罗兰/紫水晶瞳，允许很小暖金高光",
+        "accessories": "红蝴蝶结与樱花形发夹；保留识别位置和形状，不用真兔耳替代发饰",
+        "demeanor": "有机灵和行动感，可笑、可认真、可短暂犹豫，不套固定温婉笑脸",
+        "build": "成年、纤细灵活的动漫比例；服装不把身材再次夸张放大"
+      },
+      "approved_campus_changes": [
+        "莓红短开衫、米白衬衫、独立高腰深蓝A字中长裙；本章足部按原作救场连续性改为同色深灰黑无足/九分打底裤袜，裤脚止于踝上；开场黑便鞋，事故后赤脚。小深蓝工具袋/肩包。",
+        "校园长后束与较现实服装细节保留",
+        "不恢复吊带裙、背带、原幻想披摆和真动物耳尾"
+      ],
+      "hard_constraints": [
+        "头顶短蓬层与脸周外翻轮廓在可见正面/三分之二头像中清楚",
+        "紫水晶瞳在有足够像素的睁眼近景中可辨，不改纯红/纯蓝/灰瞳",
+        "红蝴蝶结、樱花夹保持，不加真实兔耳或动物尾",
+        "事故前解剖右手白色全指、左手黑色露指；伤后及诊疗后按本章分期保持左伤/剪左/包左，右白仍完好。手背露肤必须有合理露指开口/袖腕裁切。",
+        "衣服保持已批分体开衫、衬衣和半裙，不复原吊带裙或学生制服",
+        "本章事故前解剖右手白色全指、左手黑色露指；解剖左掌受伤后不把伤转去右手。",
+        "医务剪开并取下左黑手套后，左掌及手腕附近按伤处缠白纱布；不重新长出完好黑手套，右白全指仍保持。",
+        "先鞋扣脱落并失去一只鞋，鞋跟高低不齐；再踢掉剩下那只。此后踝下裸足、踝上深色无足袜裤，不突然整腿裸肤、不又穿上两鞋。",
+        "本章救场表演以紧张、用力、压痛、事后脱力和短促克制对话为主；不套上一章的羞红/恋爱笑，不加告白、吻、抱或神力。"
+      ],
+      "prior_episode_drift_history": [
+        {
+          "evidence": [
+            "episode6_14",
+            "episode6_16"
+          ],
+          "observation": "长后束、细长垂发占比提高，脸周短碎外翻发束较原设/已批表情图弱；柔和微笑与半垂眼睑令原设的机灵感降低。",
+          "correction": "保留长后束，明确突出短发冠和至少两层脸周外翻发束；按情境画认真/笑意，默认眼型不要全部下垂。"
+        },
+        {
+          "evidence": [
+            "episode6_01",
+            "episode6_14"
+          ],
+          "observation": "暖光中发色比用户原设更艳，部分区域接近玫红；并非整张已变色，但不宜再向开衫的酒红色漂移。",
+          "correction": "把头发基色锁定浅樱粉，保留浅亮发面；暖反光只作为局部受光。"
+        }
+      ],
+      "prior_episode_drift_history_note": "第七话校正时保留的历史偏移记录，非本角色代理本轮亲看旧第六话；第十话当前判断以本话已完成PNG的命名全页QA与本人如实亲看锚为准。",
+      "chapter10_wound_continuity": {
+        "source_confirmation": "第十章未在受伤句标左右；第十一章首句明确“左手敷料干了”，故连续锁定左手。",
+        "before_injury": "右白全指、左黑露指，左掌/指根仍有布覆盖可被倒刺穿过。",
+        "after_splinter_before_treatment": "左掌热辣擦裂，手套大体仍在，可有克制少量血迹；并拢食中指按压，工作尽量用完好右手；不画血浆或巨大开放伤。",
+        "treatment": "刃剪开湿左黑手套并取木屑；左掌/手背伤处包白布，右白套未剪。",
+        "backstage": "白布仍只包左手，尺子在完好右白手；不能用左手毫不费力负重，收旗/起身有停顿，Y接箱后F松手留白压痕。",
+        "memo": "原文第二签名非惯用手只按文字呈现；不无依据指定该签名就是F或Y，不让手势与左手受伤事实冲突。"
+      },
+      "chapter10_shoe_continuity": {
+        "source": "鞋扣掉地→鞋跟一高一低→踢掉剩下那只→医务赤脚→Y带回其中一只鞋放椅旁、鞋扣没找齐→后台仍赤脚。",
+        "adaptation_authority": "根代理已明确授权本章同色深灰黑无足/九分打底裤袜，口止踝上，以兼容已批服装配色和原作赤脚；不要求用户再确认。",
+        "side": "小说未指定先失哪侧鞋，图中若可见具体侧别需本章前后自洽，裁切不凭空补画。",
+        "avoid": [
+          "封闭足尖丝袜下又称裸足",
+          "诊疗后凭空恢复两鞋",
+          "Y带一双完整鞋或鞋扣齐整",
+          "后台突然整条腿无深色打底"
+        ]
+      }
+    },
+    "爻光": {
+      "original_identity": {
+        "hair": "银白基色、冷蓝紫阴影；额前弯曲分开的碎刘海；太阳穴至脸侧有明显向外翘的羽状分层发束；保留长后发",
+        "face": "利落的成年动漫脸，清醒杏眼；虹彩以紫/青为主并有少量暖金；表情克制，原设有一点从容会意，不是全程困倦或慈母式微笑",
+        "accessories": "解剖右太阳穴孔雀羽饰、少量金色垂饰；校园版左肩深蓝披巾",
+        "build": "成年修长比例，不因教师身份加重现实衰老或夸张胸腰"
+      },
+      "approved_campus_changes": [
+        "米白西装、白立领中长裙、青蓝细腰带、左肩深蓝披巾、灰低跟鞋",
+        "原幻想孔雀羽意象压为右侧发饰/披巾配色，不恢复巨大羽尾披摆",
+        "双手裸手，唯一旧玉镯在解剖左腕；右腕空净",
+        "原设长尖甲、层叠臂饰等可因校园工作简化，不要求恢复；身份主要靠头发、虹膜和羽饰识别"
+      ],
+      "hard_constraints": [
+        "可见近景保留独立弯碎刘海与外翘侧束，不画成通用顺滑银白大波浪",
+        "虹彩紫青眼在睁眼近景可辨，不变纯灰、纯红或完全同绯英的单紫瞳",
+        "虹彩是普通虹膜色与反光，不自发光、不画法术光芒或星空投射",
+        "羽饰在解剖右太阳穴，披巾在左肩；不镜像互换",
+        "双手裸手，解剖左腕唯一玉镯，解剖右腕无手镯/手表",
+        "姓名写爻光；旧校园sheet标题交光为错误，不是原设；正文自然叫主任可用，签名可合理裁切但不得写错姓名",
+        "本章可紧张喘息、急切行动、计算时粉笔断后续写、第三遍广播才稳；是克制的成人救场，不固定从容微笑或机械慈母脸，不添恋爱宣告。"
+      ],
+      "prior_episode_drift_history": [
+        {
+          "evidence": [
+            "episode6_14",
+            "episode6_16"
+          ],
+          "observation": "暖光与柔和处理使虹彩层次更接近普通灰紫瞳；大多数表情趋向相同的温柔半垂眼。",
+          "correction": "在近景保留可辨紫青虹彩与少量暖金高光，清醒眼型与克制表情区分于绯英；允许真正低头或静默的情节表情。"
+        },
+        {
+          "evidence": [
+            "episode6_01",
+            "episode6_14",
+            "episode6_16"
+          ],
+          "observation": "弯碎刘海、外翘侧束仍存在，但体积和层次较原设近景及已批表情图更柔，长卷发更抢轮廓。",
+          "correction": "强化额前独立弯束与脸侧两三层外翘尖束，不能只靠银白长发和孔雀夹认人。"
+        }
+      ],
+      "prior_episode_drift_history_note": "第七话校正时保留的历史偏移记录，非本角色代理本轮亲看旧第六话；第十话当前判断以本话已完成PNG的命名全页QA与本人如实亲看锚为准。",
+      "chapter10_work_props": {
+        "initial_badge": "将自己的执祭证交给丢册子的孩子握着，不是狐面具。",
+        "broadcast": "舞台话筒/扩音器失声，转手持喇叭效果不足，进主控后改应急话筒走消防辅助信道；不画同时拿三套设备的三手。",
+        "authority": "原有章保留；停新关卡、旧兑换不重复开口；补偿票单列每人一张，不叠加，只兑小礼物或差一档补一档；应急预算签字。",
+        "physical_acting": "手臂与裸双手按实际动作，两孩子拉到侧边，写黑板可用右空腕手；唯一玉镯仍左腕。"
+      }
+    },
+    "银狼": {
+      "source_presence": "祭典前夜集章系统上线测试。",
+      "continuity_reference": "episode4_13_silverwolf",
+      "actual_reference_viewed": true,
+      "visual_lock": "灰银发带淡紫梢、耳机、白衬衫与深色校服背心的学生；可沿参考侧背处理，电脑测试画面。",
+      "avoid": "不改成年老师，不套游戏裸腹机车装，不凭此建立用户未给的正面原设。"
+    },
+    "花火": {
+      "original_reference_available": false,
+      "user_approved_original_design": false,
+      "authority": "小说第九章明确外观约束 + 本话为校园剧团团长制作的改编便服设计",
+      "source_constraints": {
+        "age_and_role": "成年、身材矮小的假面剧团团长，不幼儿化；本团一行9人。",
+        "hair": "发尾深红并弯卷；原文未明确发根颜色。",
+        "mask": "解剖左半脸原覆素白半面，本章下午三点源明确把半张面具掀起来，可见掀起动作/局部额侧；不是上一话“本章不摘”限制。不变Y白狐全脸。",
+        "face_and_demeanor": "开场随意宣布改动，后台冷淡无热气笑；成年团长、不是幼童。"
+      },
+      "episode_adaptation_design": {
+        "outfit": "深红短外套、米白内衫、黑色长裤、短靴，演出人便服。",
+        "accessories": "仅少量低调金配件，不加狐狸耳/尾，不套暴露和服；校园冷晴天气适合。",
+        "continuity": "沿第九话已完成p01/p02同一深红短外套/米白内衫/黑长裤/短靴/深红卷发尾；半面掀起但形制不换。",
+        "approval_status": "沿第九话已完成漫画的本作适配造型，不等于用户提供或批准原设。",
+        "hair_root_color": "发根可用深黑红/深红渐变衔接深红卷曲发尾；属于本话改编选择，非原文明示。"
+      },
+      "distinction_from_gift_masks": "花火自有左白半面不是白狐全脸礼物；不复制礼物额心红点/狐耳毛流完整外观。"
+    },
+    "白露": {
+      "source_role": "卷一第三章安静小姑娘、高中保健委员；第十章替F拾马克笔并叫刃医生。",
+      "original_reference_available": false,
+      "continuity_reference": "episode3_bailu",
+      "actual_reference_viewed": true,
+      "visual_lock": "淡紫双小髻与较长侧束、青绿眼、白衬浅蓝针织背心和深蓝过膝裙；娇小高中生而非幼童，无角尾。",
+      "avoid": "不得改成成人医生/护士，不套龙角尾、幼儿身形或游戏幻想服。"
+    },
+    "符玄": {
+      "source_role": "成年教务主任，本章在校门外向家长说明情况。",
+      "original_reference_available": false,
+      "continuity_reference": "episode2_fuxuan",
+      "actual_reference_viewed": true,
+      "visual_lock": "粉紫长发、短侧束、紫眼、细金框眼镜，米白衬衣/淡紫灰西装/深蓝半裙；成人职业比例。",
+      "avoid": "不可混作Y或学生；旧2p04仅Fx形象辅助，不复制旧主角脸或“交”错姓名。"
+    },
+    "刃": {
+      "source_role": "成年校医，受叫来处理伤口并取木屑。",
+      "original_reference_available": false,
+      "user_approved_original_design": false,
+      "authority": "小说校医角色加根代理已授权的本话校园适配；非用户原设。",
+      "visual_plan": "成年男子、深色束发、白大褂；用侧背、袖口和诊疗手部为主，朴素专业，白医用手套若用则连续。",
+      "avoid": "无武器、战斗装、夸张伤痕；不把白露换成医生，不制造与F/Y亲密支线。"
+    },
+    "现场学生及志愿者": {
+      "visual_lock": "校园为高中：近景可辨的低年级学生按高中低年级体型，可比教师矮，不能明显小学低龄化/幼童化；校服/志愿者袖章与成人教师分开。白露仍高中保健委员。远景/景深遮挡已通过页不因年龄猜测泛修。",
+      "source_specific": "两个起初摔倒孩子；丢册子孩子拿Y执祭证站安全侧边；纸册手绘月亮工号为F补证；冰袋孩子接回夹画通关册。不得擅自将这些镜头合计成额外伤亡统计。",
+      "drawing_only": "“女孩子戴歪兔耳，妈妈今天不加班”只在孩子的画纸内，不在现实增兔耳人或额外亲子戏。"
+    }
+  },
+  "prompt_inserts": {
+    "feiying": "Adult Feiying: light cherry-pink hair, SHORT FLUFFY LAYERED CROWN and jagged outward-flipped cheek/jaw framing locks; the approved longer nape/side ribbons remain separate behind that short head silhouette. Do not turn all face-framing hair into smooth waist-length tresses. Bright amethyst-violet eyes, alert slightly upturned upper lids, short youthful ADULT pointed-oval face, lively perceptive expression when appropriate. Red bow and blossom clip; no real rabbit ears or tail. Keep the approved modern school-teacher outfit with the phase-specific glove state defined below. CHAPTER 10: dark charcoal FOOTLESS ankle-length leggings/tights ending ABOVE ankle, bare feet only after lost shoe then kicking remaining shoe. Injury is anatomical LEFT PALM under black fingerless glove. After treatment LEFT glove is removed/cut, white gauze on LEFT; RIGHT white full glove stays. No closed-toe hosiery, no magically restored shoes.",
+    "yaoguang": "Adult Yaoguang: silver-white crown and long back hair in cool blue-lilac shadows, distinct CURVED SEPARATED FOREHEAD BANGS and outward-flipped feather-like cheek/temple side tufts, not generic smooth silver waves. Clearly colored violet/cyan iris with restrained warm-gold highlights; these are natural iris pigments and reflections, NOT self-emitting or magical glowing eyes, almond alert eyes, composed subtly knowing expression when appropriate, not a fixed droopy sleepy maternal smile. Right-temple peacock clasp and left-shoulder navy scarf. Bare hands; jade LEFT wrist only, RIGHT wrist empty. CHAPTER 10: urgent focused rescue, breathing tension and restrained exhaustion; never a fixed smiling face during crowd danger. LEFT wrist only jade, RIGHT empty, both hands bare. No magical action.",
+    "hanabi": "Same adult short-stature dark-red curly-ended troupe leader as episode9 page01, deep-red cropped jacket/ivory shirt/black trousers/boots. Plain white HUMAN-face HALF MASK on anatomical LEFT face is LIFTED at 15:00 per this chapter. This is not Yaoguang white full fox gift mask. No child proportions or animal ears.",
+    "scene_permission": "Source tension, pain, shaking breath, fatigue and practical care are allowed. Slight palm injury and restrained blood on glove/paper, clinical non-graphic dressing. No romance escalation or smiling heroic glamour through crowd danger."
+  },
+  "qa_rules": [
+    "每张最终PNG必须由ep10_visual_qa真实打开整页后登记最终SHA；提示词、作者自报与文件存在均不代替全页审。",
+    "本角色审查代理仅登记自己实际亲看的锚，不冒称全22页亲看；局修后旧SHA不沿用，新版需重开。",
+    "闭眼、背面、裁切、未出镜以可见范围判断，不为看不见的饰物返工；小受光/远景简化不自动必修。",
+    "每次图像调用最多5张参考；原设身份与已批校园装优先，不仅让近期漫画互相抄脸。",
+    "可见F左伤/剪左黑套/包左，右白完整；Y裸双手、左玉右空、右羽左披。",
+    "F本话踝上深灰黑无足裤袜的源驱动适配已由root授权；脱鞋后踝下裸足，医务/后台不恢复鞋或整腿裸肤。",
+    "救场不固定微笑，不添神力/告白/亲吻/拥抱；F接受诊疗不额外逞强，Y带鞋不说笑。",
+    "花火源本章掀半面，别继承第九话不摘的旧限制；与白狐礼物形制区分。",
+    "被拔线有剧团红签是现场证据；不加未明示拔线者镜头、恶意内心或技术入侵步骤。",
+    "显示网页凭证失效与数据库原记录未丢分开；紧急广播流程/每人一张不可叠加补偿按原作，源明确三遍路径第三遍才稳。",
+    "16:18备忘逐字保留三人医疗/两擦伤一手腕扭伤/联系家长；画面不擅自判断其中是否含F，不另加汇总伤亡数字。",
+    "手绘女孩子歪兔耳和“妈妈今天不加班”仅纸上图画；现实不增兽耳/家属支线。"
+  ],
+  "actual_episode_review": {
+    "stage": "最终22页100格已由命名全页审阅者逐张实看通过；A/B各11来源记录均冻结并停止写入，当前PNG/源/记录/QA批准SHA全同。",
+    "page_count": 22,
+    "panel_count": 100,
+    "full_page_reviewer": "/root/ep10_visual_qa",
+    "identity_anchor_auditor": "/root/ep10_character_audit",
+    "identity_anchor_checks": [
+      {
+        "page": 2,
+        "file": "page-02.png",
+        "current_source": "/workspace/generated_images/exec-fcc60eac-6c32-4829-8f01-5b28ac8092a3.png",
+        "sha256": "733c341295f70ec3e3d15e9abfd90be3ccd6d3d4ba7eba428bb95bde60731b9c",
+        "auditor": "/root/ep10_character_audit",
+        "actual_png_viewed": true,
+        "identity_decision": "passed",
+        "scope": "本代理这轮实际打开完整当前PNG；仅身份/侧别/源情境锚，不冒称已完成全话。",
+        "observations": {
+          "爻光": "冬日舞台急切侧脸仍有银白冷蓝紫发色、分束弯刘海和外翘鬓束、右羽饰与自然紫青眼；紧绷嘴线符合应急情境。左玉腕按开关并持喇叭，右空腕另一手撑台，解剖侧别合理。"
+        },
+        "remaining_identity_must_fix": [],
+        "full_page_review_status": "passed_by_ep10_visual_qa",
+        "known_content_must_fix": [],
+        "final_full_page_review": "passed_by_ep10_visual_qa",
+        "final_png_sha_matches_personal_identity_recheck": true
+      },
+      {
+        "page": 11,
+        "file": "page-11.png",
+        "current_source": "/workspace/generated_images/exec-be64d0d2-8fc5-4bdc-b567-212bdba7d9a9.png",
+        "sha256": "0ed78ba884dec1e448370e01a0ba282eaf41ed55a6270a544f70fd5d05195313",
+        "auditor": "/root/ep10_character_audit",
+        "actual_png_viewed": true,
+        "identity_decision": "passed",
+        "scope": "本代理实际打开完整当前PNG的受伤/脱鞋阶段锚；另有命名全页QA对应同SHA通过，不冒称亲看全22页。",
+        "observations": {
+          "绯英": "短蓬浅粉冠、外翻脸周层、独立长后束、紫晶眼/红结樱夹可辨，紧张疼痛但仍成人教师。左黑手套掌部倒刺轻伤、右白全指两指按压；右白随后推纸月亮和持尺，手侧别自洽。踢掉剩鞋后深色无足裤袜止踝上、双足裸露，不重新穿鞋或突然整腿裸肤。",
+          "学生": "近景为高中制服学生，体型与成人教师区别且不明显小学幼童化。"
+        },
+        "remaining_identity_must_fix": [],
+        "full_page_review_status": "passed_by_ep10_visual_qa",
+        "known_content_must_fix": [],
+        "final_full_page_review": "passed_by_ep10_visual_qa",
+        "final_png_sha_matches_personal_identity_recheck": true
+      },
+      {
+        "page": 17,
+        "file": "page-17.png",
+        "current_source": "/workspace/generated_images/exec-03b4e21c-e71d-41f7-9260-e21e03dd56b2.png",
+        "sha256": "75bf09339044803e46ffe88ddc5dbef76c4c6d1e655ece05b8d8d2fd4f6fbe09",
+        "auditor": "/root/ep10_character_audit",
+        "actual_png_viewed": true,
+        "identity_decision": "passed",
+        "scope": "文字局修后本人真实重开完整新PNG，现另获命名全页reviewer同SHA独立终审通过。",
+        "observations": {
+          "绯英": "短蓬粉冠/脸周外翻层与独立长后束、紫晶眼、红结樱夹清楚，成人教师裙衫不变。疲态与诊疗肩绷符合源；右白全指完好、左黑套被剪，末格左套在托盘且白布为医疗保护。深色无足袜口踝上，裸足可见。",
+          "白露": "淡紫双髻/长侧束、青绿眼与蓝背心白衬保持第三话高中保健委员形象，非幼童或医生。",
+          "刃": "成年深发束、白大褂、戴医用手套的侧背校医，属小说约束校园适配，未冒称用户原设。"
+        },
+        "remaining_identity_must_fix": [],
+        "full_page_review_status": "passed_by_ep10_visual_qa",
+        "known_content_must_fix": [],
+        "identity_review_history": [
+          {
+            "source": "/workspace/generated_images/exec-8a833c7b-8916-475e-8b1c-a24d0fc056b9.png",
+            "sha256": "24cd6bdf26ddcfb4e1b7e8cc8bde4b02415186575be8b0f8b344a05dd14552fe",
+            "actual_png_viewed": true,
+            "identity_decision": "passed",
+            "version": "initial_generation_before_physician_label_local_revision",
+            "content_note": "初稿刀字缺刃点；后改自然医生，旧身份审查不直接沿用于新SHA。"
+          }
+        ],
+        "post_local_revision_identity_rechecked": true,
+        "latest_recheck_note": "首格已自然医生！；人物头脸发眼及左黑剪/右白/赤脚、白露与校医均保持。",
+        "final_full_page_review": "passed_by_ep10_visual_qa",
+        "final_png_sha_matches_personal_identity_recheck": true
+      },
+      {
+        "page": 19,
+        "file": "page-19.png",
+        "current_source": "/workspace/generated_images/exec-788ac903-4c37-4ec9-845a-13ab39b9c27c.png",
+        "sha256": "4d12653ee123af50ceddf8801d618c288f9c5ffc50e0662a014cd5b58fd0642d",
+        "auditor": "/root/ep10_character_audit",
+        "actual_png_viewed": true,
+        "identity_decision": "passed",
+        "scope": "本人实际打开完整当前PNG的包扎后双主角/后台身份锚；另获命名全页QA对应同SHA通过。",
+        "observations": {
+          "绯英": "浅粉短蓬冠/脸周外翻层、独立长后束、紫眼/红结樱夹保持；左白纱包掌腕且裸指可辨，右仍白全指，未恢复黑左套。闭眼歇息和微弱问句符合源；深色无足裤袜踝上、裸足，椅旁仅一只鞋，金框不推定鞋扣已修齐。",
+          "爻光": "银白冷蓝紫发、分束弯刘海外翘层、右羽饰和自然紫青虹彩；裸双手左腕玉右空，严肃关切源情境不固定温柔笑。放马克笔回工具袋无三手或额外笔。",
+          "刃": "成年束深发白大褂医务侧背，诊疗动作专业，沿本话适配不加武器。"
+        },
+        "remaining_identity_must_fix": [],
+        "full_page_review_status": "passed_by_ep10_visual_qa",
+        "known_content_must_fix": [],
+        "final_full_page_review": "passed_by_ep10_visual_qa",
+        "final_png_sha_matches_personal_identity_recheck": true
+      },
+      {
+        "page": 20,
+        "file": "page-20.png",
+        "current_source": "/workspace/generated_images/exec-cafc2099-e4cc-4f2b-8217-9e908ece7341.png",
+        "sha256": "c58518b6906c9d2f9289b5a025bbeaac939794b6756b43e8626603ac7809b64e",
+        "auditor": "/root/ep10_character_audit",
+        "actual_png_viewed": true,
+        "identity_decision": "passed",
+        "scope": "本人实际打开完整当前PNG的包扎后双主角/后台身份锚；另获命名全页QA对应同SHA通过。",
+        "observations": {
+          "绯英": "后台左白布包扎裸指、右白全指持尺，既定短蓬粉发/紫眼与深色踝上无足裤袜、裸足连续。",
+          "爻光": "首次全身可见左腕唯一玉，第三格右肩连续伸出递记录的解剖右腕已空净；原设脸发眼与右羽左披清楚。",
+          "花火": "成年矮团长，深红卷发尾/深红便服、解剖左半素白面具仍为既定人面半面，不变狐面礼物；冷笑与拒签符合源。"
+        },
+        "remaining_identity_must_fix": [],
+        "full_page_review_status": "passed_by_ep10_visual_qa",
+        "known_content_must_fix": [],
+        "final_full_page_review": "passed_by_ep10_visual_qa",
+        "final_png_sha_matches_personal_identity_recheck": true
+      }
+    ],
+    "final_pages": [
+      {
+        "page": 1,
+        "file": "page-01.png",
+        "current_source": "/workspace/generated_images/exec-ae2d8ed6-3869-4600-98af-a9b5967a0370.png",
+        "sha256": "225a461ab13e48689e6a0f35fc0748108b2e7edec5a5dee8c2dbe727b229bac1",
+        "actual_final_png_viewed": true,
+        "full_page_reviewer": "/root/ep10_visual_qa",
+        "review_basis": "用户三张原设、既定校园造型与本章已授权足部适配、卷二第十章救场情境；命名全页审阅者真实逐页打开22最终PNG并重开每一局修。",
+        "visible_character_identity": "passed_where_visible",
+        "approved_campus_outfits_and_adult_proportions": "passed_where_visible",
+        "glove_and_wrist_sides": "passed_where_visible_in_source_specific_injury_phase",
+        "injury_and_footwear_continuity": "passed_source_phase_left_palm_cut_left_glove_bandaged_left_right_white_retained_footless_ankle_tights_barefeet_after_shoe_loss_where_visible",
+        "scene_expression": "passed_source_tension_pain_exhaustion_and_restrained_practical_care",
+        "visibility_qualification": "仅对可见范围判断，闭眼、背面、裁切和未出镜不凭空补画。ep10_visual_qa实际逐张整页检查，本角色审查代理亲看范围仅02/11/17最终修版/19/20，不冒称亲看全部22页。",
+        "character_auditor_personally_viewed_this_final_png": false,
+        "identity_anchor_basis": [
+          2,
+          11,
+          17,
+          19,
+          20
+        ],
+        "must_fix": [],
+        "decision": "passed_on_frozen_final_png"
+      },
+      {
+        "page": 2,
+        "file": "page-02.png",
+        "current_source": "/workspace/generated_images/exec-fcc60eac-6c32-4829-8f01-5b28ac8092a3.png",
+        "sha256": "733c341295f70ec3e3d15e9abfd90be3ccd6d3d4ba7eba428bb95bde60731b9c",
+        "actual_final_png_viewed": true,
+        "full_page_reviewer": "/root/ep10_visual_qa",
+        "review_basis": "用户三张原设、既定校园造型与本章已授权足部适配、卷二第十章救场情境；命名全页审阅者真实逐页打开22最终PNG并重开每一局修。",
+        "visible_character_identity": "passed_where_visible",
+        "approved_campus_outfits_and_adult_proportions": "passed_where_visible",
+        "glove_and_wrist_sides": "passed_where_visible_in_source_specific_injury_phase",
+        "injury_and_footwear_continuity": "passed_source_phase_left_palm_cut_left_glove_bandaged_left_right_white_retained_footless_ankle_tights_barefeet_after_shoe_loss_where_visible",
+        "scene_expression": "passed_source_tension_pain_exhaustion_and_restrained_practical_care",
+        "visibility_qualification": "仅对可见范围判断，闭眼、背面、裁切和未出镜不凭空补画。ep10_visual_qa实际逐张整页检查，本角色审查代理亲看范围仅02/11/17最终修版/19/20，不冒称亲看全部22页。",
+        "character_auditor_personally_viewed_this_final_png": true,
+        "identity_anchor_basis": [
+          2,
+          11,
+          17,
+          19,
+          20
+        ],
+        "must_fix": [],
+        "decision": "passed_on_frozen_final_png"
+      },
+      {
+        "page": 3,
+        "file": "page-03.png",
+        "current_source": "/workspace/generated_images/exec-48b01011-ce41-47ef-95b1-aaec949591f4.png",
+        "sha256": "e422c009da8cdc09527c45d5b840af5018acdd82c7843925c806e17c3e61ca3e",
+        "actual_final_png_viewed": true,
+        "full_page_reviewer": "/root/ep10_visual_qa",
+        "review_basis": "用户三张原设、既定校园造型与本章已授权足部适配、卷二第十章救场情境；命名全页审阅者真实逐页打开22最终PNG并重开每一局修。",
+        "visible_character_identity": "passed_where_visible",
+        "approved_campus_outfits_and_adult_proportions": "passed_where_visible",
+        "glove_and_wrist_sides": "passed_where_visible_in_source_specific_injury_phase",
+        "injury_and_footwear_continuity": "passed_source_phase_left_palm_cut_left_glove_bandaged_left_right_white_retained_footless_ankle_tights_barefeet_after_shoe_loss_where_visible",
+        "scene_expression": "passed_source_tension_pain_exhaustion_and_restrained_practical_care",
+        "visibility_qualification": "仅对可见范围判断，闭眼、背面、裁切和未出镜不凭空补画。ep10_visual_qa实际逐张整页检查，本角色审查代理亲看范围仅02/11/17最终修版/19/20，不冒称亲看全部22页。",
+        "character_auditor_personally_viewed_this_final_png": false,
+        "identity_anchor_basis": [
+          2,
+          11,
+          17,
+          19,
+          20
+        ],
+        "must_fix": [],
+        "decision": "passed_on_frozen_final_png"
+      },
+      {
+        "page": 4,
+        "file": "page-04.png",
+        "current_source": "/workspace/generated_images/exec-6cad0453-9a0e-450e-9632-8680f9d5544b.png",
+        "sha256": "763ee05c76acadc84aa5b88626e2527ef1cd64d238c4ed5e473d20e5ccb920c0",
+        "actual_final_png_viewed": true,
+        "full_page_reviewer": "/root/ep10_visual_qa",
+        "review_basis": "用户三张原设、既定校园造型与本章已授权足部适配、卷二第十章救场情境；命名全页审阅者真实逐页打开22最终PNG并重开每一局修。",
+        "visible_character_identity": "passed_where_visible",
+        "approved_campus_outfits_and_adult_proportions": "passed_where_visible",
+        "glove_and_wrist_sides": "passed_where_visible_in_source_specific_injury_phase",
+        "injury_and_footwear_continuity": "passed_source_phase_left_palm_cut_left_glove_bandaged_left_right_white_retained_footless_ankle_tights_barefeet_after_shoe_loss_where_visible",
+        "scene_expression": "passed_source_tension_pain_exhaustion_and_restrained_practical_care",
+        "visibility_qualification": "仅对可见范围判断，闭眼、背面、裁切和未出镜不凭空补画。ep10_visual_qa实际逐张整页检查，本角色审查代理亲看范围仅02/11/17最终修版/19/20，不冒称亲看全部22页。",
+        "character_auditor_personally_viewed_this_final_png": false,
+        "identity_anchor_basis": [
+          2,
+          11,
+          17,
+          19,
+          20
+        ],
+        "must_fix": [],
+        "decision": "passed_on_frozen_final_png"
+      },
+      {
+        "page": 5,
+        "file": "page-05.png",
+        "current_source": "/workspace/generated_images/exec-31957139-f7d9-4609-bb03-9198b37d9898.png",
+        "sha256": "80bfc57b839fd404b2c7168e49a3875c8464226bb0d382c4cb470846cea5ed72",
+        "actual_final_png_viewed": true,
+        "full_page_reviewer": "/root/ep10_visual_qa",
+        "review_basis": "用户三张原设、既定校园造型与本章已授权足部适配、卷二第十章救场情境；命名全页审阅者真实逐页打开22最终PNG并重开每一局修。",
+        "visible_character_identity": "passed_where_visible",
+        "approved_campus_outfits_and_adult_proportions": "passed_where_visible",
+        "glove_and_wrist_sides": "passed_where_visible_in_source_specific_injury_phase",
+        "injury_and_footwear_continuity": "passed_source_phase_left_palm_cut_left_glove_bandaged_left_right_white_retained_footless_ankle_tights_barefeet_after_shoe_loss_where_visible",
+        "scene_expression": "passed_source_tension_pain_exhaustion_and_restrained_practical_care",
+        "visibility_qualification": "仅对可见范围判断，闭眼、背面、裁切和未出镜不凭空补画。ep10_visual_qa实际逐张整页检查，本角色审查代理亲看范围仅02/11/17最终修版/19/20，不冒称亲看全部22页。",
+        "character_auditor_personally_viewed_this_final_png": false,
+        "identity_anchor_basis": [
+          2,
+          11,
+          17,
+          19,
+          20
+        ],
+        "must_fix": [],
+        "decision": "passed_on_frozen_final_png"
+      },
+      {
+        "page": 6,
+        "file": "page-06.png",
+        "current_source": "/workspace/generated_images/exec-7fb4aafa-a799-4d6f-b8f6-e29063caeeea.png",
+        "sha256": "5f45f3f209e39a3360cac00706baa2120dff148ea40feb0b4e24f9c0864dd174",
+        "actual_final_png_viewed": true,
+        "full_page_reviewer": "/root/ep10_visual_qa",
+        "review_basis": "用户三张原设、既定校园造型与本章已授权足部适配、卷二第十章救场情境；命名全页审阅者真实逐页打开22最终PNG并重开每一局修。",
+        "visible_character_identity": "passed_where_visible",
+        "approved_campus_outfits_and_adult_proportions": "passed_where_visible",
+        "glove_and_wrist_sides": "passed_where_visible_in_source_specific_injury_phase",
+        "injury_and_footwear_continuity": "passed_source_phase_left_palm_cut_left_glove_bandaged_left_right_white_retained_footless_ankle_tights_barefeet_after_shoe_loss_where_visible",
+        "scene_expression": "passed_source_tension_pain_exhaustion_and_restrained_practical_care",
+        "visibility_qualification": "仅对可见范围判断，闭眼、背面、裁切和未出镜不凭空补画。ep10_visual_qa实际逐张整页检查，本角色审查代理亲看范围仅02/11/17最终修版/19/20，不冒称亲看全部22页。",
+        "character_auditor_personally_viewed_this_final_png": false,
+        "identity_anchor_basis": [
+          2,
+          11,
+          17,
+          19,
+          20
+        ],
+        "must_fix": [],
+        "decision": "passed_on_frozen_final_png"
+      },
+      {
+        "page": 7,
+        "file": "page-07.png",
+        "current_source": "/workspace/generated_images/exec-6321e59c-8ad5-4187-846d-cc700a6217bb.png",
+        "sha256": "b248b26c716c077023d179283cf2292a571c3b26f3519986d72b8ae091c00621",
+        "actual_final_png_viewed": true,
+        "full_page_reviewer": "/root/ep10_visual_qa",
+        "review_basis": "用户三张原设、既定校园造型与本章已授权足部适配、卷二第十章救场情境；命名全页审阅者真实逐页打开22最终PNG并重开每一局修。",
+        "visible_character_identity": "passed_where_visible",
+        "approved_campus_outfits_and_adult_proportions": "passed_where_visible",
+        "glove_and_wrist_sides": "passed_where_visible_in_source_specific_injury_phase",
+        "injury_and_footwear_continuity": "passed_source_phase_left_palm_cut_left_glove_bandaged_left_right_white_retained_footless_ankle_tights_barefeet_after_shoe_loss_where_visible",
+        "scene_expression": "passed_source_tension_pain_exhaustion_and_restrained_practical_care",
+        "visibility_qualification": "仅对可见范围判断，闭眼、背面、裁切和未出镜不凭空补画。ep10_visual_qa实际逐张整页检查，本角色审查代理亲看范围仅02/11/17最终修版/19/20，不冒称亲看全部22页。",
+        "character_auditor_personally_viewed_this_final_png": false,
+        "identity_anchor_basis": [
+          2,
+          11,
+          17,
+          19,
+          20
+        ],
+        "must_fix": [],
+        "decision": "passed_on_frozen_final_png"
+      },
+      {
+        "page": 8,
+        "file": "page-08.png",
+        "current_source": "/workspace/generated_images/exec-1a868ff7-6732-4b44-8d7a-4daa014a72bd.png",
+        "sha256": "98baa526064369bca3e8aaf2925ff05b76119e26f5a4ba6a5ca3c824c5df7b85",
+        "actual_final_png_viewed": true,
+        "full_page_reviewer": "/root/ep10_visual_qa",
+        "review_basis": "用户三张原设、既定校园造型与本章已授权足部适配、卷二第十章救场情境；命名全页审阅者真实逐页打开22最终PNG并重开每一局修。",
+        "visible_character_identity": "passed_where_visible",
+        "approved_campus_outfits_and_adult_proportions": "passed_where_visible",
+        "glove_and_wrist_sides": "passed_where_visible_in_source_specific_injury_phase",
+        "injury_and_footwear_continuity": "passed_source_phase_left_palm_cut_left_glove_bandaged_left_right_white_retained_footless_ankle_tights_barefeet_after_shoe_loss_where_visible",
+        "scene_expression": "passed_source_tension_pain_exhaustion_and_restrained_practical_care",
+        "visibility_qualification": "仅对可见范围判断，闭眼、背面、裁切和未出镜不凭空补画。ep10_visual_qa实际逐张整页检查，本角色审查代理亲看范围仅02/11/17最终修版/19/20，不冒称亲看全部22页。",
+        "character_auditor_personally_viewed_this_final_png": false,
+        "identity_anchor_basis": [
+          2,
+          11,
+          17,
+          19,
+          20
+        ],
+        "must_fix": [],
+        "decision": "passed_on_frozen_final_png"
+      },
+      {
+        "page": 9,
+        "file": "page-09.png",
+        "current_source": "/workspace/generated_images/exec-af6e6ad3-691e-47c0-b1e1-2938d5faabdb.png",
+        "sha256": "cdc947d16b41f1d6dd8043765918b868a047b16974ecafefe788d204d3d6ee9e",
+        "actual_final_png_viewed": true,
+        "full_page_reviewer": "/root/ep10_visual_qa",
+        "review_basis": "用户三张原设、既定校园造型与本章已授权足部适配、卷二第十章救场情境；命名全页审阅者真实逐页打开22最终PNG并重开每一局修。",
+        "visible_character_identity": "passed_where_visible",
+        "approved_campus_outfits_and_adult_proportions": "passed_where_visible",
+        "glove_and_wrist_sides": "passed_where_visible_in_source_specific_injury_phase",
+        "injury_and_footwear_continuity": "passed_source_phase_left_palm_cut_left_glove_bandaged_left_right_white_retained_footless_ankle_tights_barefeet_after_shoe_loss_where_visible",
+        "scene_expression": "passed_source_tension_pain_exhaustion_and_restrained_practical_care",
+        "visibility_qualification": "仅对可见范围判断，闭眼、背面、裁切和未出镜不凭空补画。ep10_visual_qa实际逐张整页检查，本角色审查代理亲看范围仅02/11/17最终修版/19/20，不冒称亲看全部22页。",
+        "character_auditor_personally_viewed_this_final_png": false,
+        "identity_anchor_basis": [
+          2,
+          11,
+          17,
+          19,
+          20
+        ],
+        "must_fix": [],
+        "decision": "passed_on_frozen_final_png"
+      },
+      {
+        "page": 10,
+        "file": "page-10.png",
+        "current_source": "/workspace/generated_images/exec-c3cdfd44-c61b-4e16-95e4-e2cd28ed1595.png",
+        "sha256": "af97087d4a0cd25af7f3be7cd642247bc93b73cd813825cd456f449ebab0f228",
+        "actual_final_png_viewed": true,
+        "full_page_reviewer": "/root/ep10_visual_qa",
+        "review_basis": "用户三张原设、既定校园造型与本章已授权足部适配、卷二第十章救场情境；命名全页审阅者真实逐页打开22最终PNG并重开每一局修。",
+        "visible_character_identity": "passed_where_visible",
+        "approved_campus_outfits_and_adult_proportions": "passed_where_visible",
+        "glove_and_wrist_sides": "passed_where_visible_in_source_specific_injury_phase",
+        "injury_and_footwear_continuity": "passed_source_phase_left_palm_cut_left_glove_bandaged_left_right_white_retained_footless_ankle_tights_barefeet_after_shoe_loss_where_visible",
+        "scene_expression": "passed_source_tension_pain_exhaustion_and_restrained_practical_care",
+        "visibility_qualification": "仅对可见范围判断，闭眼、背面、裁切和未出镜不凭空补画。ep10_visual_qa实际逐张整页检查，本角色审查代理亲看范围仅02/11/17最终修版/19/20，不冒称亲看全部22页。",
+        "character_auditor_personally_viewed_this_final_png": false,
+        "identity_anchor_basis": [
+          2,
+          11,
+          17,
+          19,
+          20
+        ],
+        "must_fix": [],
+        "decision": "passed_on_frozen_final_png"
+      },
+      {
+        "page": 11,
+        "file": "page-11.png",
+        "current_source": "/workspace/generated_images/exec-be64d0d2-8fc5-4bdc-b567-212bdba7d9a9.png",
+        "sha256": "0ed78ba884dec1e448370e01a0ba282eaf41ed55a6270a544f70fd5d05195313",
+        "actual_final_png_viewed": true,
+        "full_page_reviewer": "/root/ep10_visual_qa",
+        "review_basis": "用户三张原设、既定校园造型与本章已授权足部适配、卷二第十章救场情境；命名全页审阅者真实逐页打开22最终PNG并重开每一局修。",
+        "visible_character_identity": "passed_where_visible",
+        "approved_campus_outfits_and_adult_proportions": "passed_where_visible",
+        "glove_and_wrist_sides": "passed_where_visible_in_source_specific_injury_phase",
+        "injury_and_footwear_continuity": "passed_source_phase_left_palm_cut_left_glove_bandaged_left_right_white_retained_footless_ankle_tights_barefeet_after_shoe_loss_where_visible",
+        "scene_expression": "passed_source_tension_pain_exhaustion_and_restrained_practical_care",
+        "visibility_qualification": "仅对可见范围判断，闭眼、背面、裁切和未出镜不凭空补画。ep10_visual_qa实际逐张整页检查，本角色审查代理亲看范围仅02/11/17最终修版/19/20，不冒称亲看全部22页。",
+        "character_auditor_personally_viewed_this_final_png": true,
+        "identity_anchor_basis": [
+          2,
+          11,
+          17,
+          19,
+          20
+        ],
+        "must_fix": [],
+        "decision": "passed_on_frozen_final_png"
+      },
+      {
+        "page": 12,
+        "file": "page-12.png",
+        "current_source": "/workspace/generated_images/exec-3ea0107b-d5a3-407c-9241-a701115ff5b4.png",
+        "sha256": "f10df826e28773e7c48d8758f90c64590679ef556a5ced0ecb82319aa16b9f7b",
+        "actual_final_png_viewed": true,
+        "full_page_reviewer": "/root/ep10_visual_qa",
+        "review_basis": "用户三张原设、既定校园造型与本章已授权足部适配、卷二第十章救场情境；命名全页审阅者真实逐页打开22最终PNG并重开每一局修。",
+        "visible_character_identity": "passed_where_visible",
+        "approved_campus_outfits_and_adult_proportions": "passed_where_visible",
+        "glove_and_wrist_sides": "passed_where_visible_in_source_specific_injury_phase",
+        "injury_and_footwear_continuity": "passed_source_phase_left_palm_cut_left_glove_bandaged_left_right_white_retained_footless_ankle_tights_barefeet_after_shoe_loss_where_visible",
+        "scene_expression": "passed_source_tension_pain_exhaustion_and_restrained_practical_care",
+        "visibility_qualification": "仅对可见范围判断，闭眼、背面、裁切和未出镜不凭空补画。ep10_visual_qa实际逐张整页检查，本角色审查代理亲看范围仅02/11/17最终修版/19/20，不冒称亲看全部22页。",
+        "character_auditor_personally_viewed_this_final_png": false,
+        "identity_anchor_basis": [
+          2,
+          11,
+          17,
+          19,
+          20
+        ],
+        "must_fix": [],
+        "decision": "passed_on_frozen_final_png"
+      },
+      {
+        "page": 13,
+        "file": "page-13.png",
+        "current_source": "/workspace/generated_images/exec-515d7da6-8aa4-4464-b3fb-f1b6e7cdef90.png",
+        "sha256": "0c4e4f066d52dde0275909e22fdbdba29ff75acac1cfff7249db5e64a428288e",
+        "actual_final_png_viewed": true,
+        "full_page_reviewer": "/root/ep10_visual_qa",
+        "review_basis": "用户三张原设、既定校园造型与本章已授权足部适配、卷二第十章救场情境；命名全页审阅者真实逐页打开22最终PNG并重开每一局修。",
+        "visible_character_identity": "passed_where_visible",
+        "approved_campus_outfits_and_adult_proportions": "passed_where_visible",
+        "glove_and_wrist_sides": "passed_where_visible_in_source_specific_injury_phase",
+        "injury_and_footwear_continuity": "passed_source_phase_left_palm_cut_left_glove_bandaged_left_right_white_retained_footless_ankle_tights_barefeet_after_shoe_loss_where_visible",
+        "scene_expression": "passed_source_tension_pain_exhaustion_and_restrained_practical_care",
+        "visibility_qualification": "仅对可见范围判断，闭眼、背面、裁切和未出镜不凭空补画。ep10_visual_qa实际逐张整页检查，本角色审查代理亲看范围仅02/11/17最终修版/19/20，不冒称亲看全部22页。",
+        "character_auditor_personally_viewed_this_final_png": false,
+        "identity_anchor_basis": [
+          2,
+          11,
+          17,
+          19,
+          20
+        ],
+        "must_fix": [],
+        "decision": "passed_on_frozen_final_png"
+      },
+      {
+        "page": 14,
+        "file": "page-14.png",
+        "current_source": "/workspace/generated_images/exec-767d71c1-4b1d-4de9-a31a-7483e6dd2ef5.png",
+        "sha256": "f7a7e74dc4583f7633a871bb1f96f99db3e2f93dc3e391153ad9ce58f3b5289c",
+        "actual_final_png_viewed": true,
+        "full_page_reviewer": "/root/ep10_visual_qa",
+        "review_basis": "用户三张原设、既定校园造型与本章已授权足部适配、卷二第十章救场情境；命名全页审阅者真实逐页打开22最终PNG并重开每一局修。",
+        "visible_character_identity": "passed_where_visible",
+        "approved_campus_outfits_and_adult_proportions": "passed_where_visible",
+        "glove_and_wrist_sides": "passed_where_visible_in_source_specific_injury_phase",
+        "injury_and_footwear_continuity": "passed_source_phase_left_palm_cut_left_glove_bandaged_left_right_white_retained_footless_ankle_tights_barefeet_after_shoe_loss_where_visible",
+        "scene_expression": "passed_source_tension_pain_exhaustion_and_restrained_practical_care",
+        "visibility_qualification": "仅对可见范围判断，闭眼、背面、裁切和未出镜不凭空补画。ep10_visual_qa实际逐张整页检查，本角色审查代理亲看范围仅02/11/17最终修版/19/20，不冒称亲看全部22页。",
+        "character_auditor_personally_viewed_this_final_png": false,
+        "identity_anchor_basis": [
+          2,
+          11,
+          17,
+          19,
+          20
+        ],
+        "must_fix": [],
+        "decision": "passed_on_frozen_final_png"
+      },
+      {
+        "page": 15,
+        "file": "page-15.png",
+        "current_source": "/workspace/generated_images/exec-b6ee98d2-a338-4507-816d-3953fad36227.png",
+        "sha256": "367345a6dbe79a8ae20f05c89525f2693f45c605b4efbdfc30d8cbc7cb010c46",
+        "actual_final_png_viewed": true,
+        "full_page_reviewer": "/root/ep10_visual_qa",
+        "review_basis": "用户三张原设、既定校园造型与本章已授权足部适配、卷二第十章救场情境；命名全页审阅者真实逐页打开22最终PNG并重开每一局修。",
+        "visible_character_identity": "passed_where_visible",
+        "approved_campus_outfits_and_adult_proportions": "passed_where_visible",
+        "glove_and_wrist_sides": "passed_where_visible_in_source_specific_injury_phase",
+        "injury_and_footwear_continuity": "passed_source_phase_left_palm_cut_left_glove_bandaged_left_right_white_retained_footless_ankle_tights_barefeet_after_shoe_loss_where_visible",
+        "scene_expression": "passed_source_tension_pain_exhaustion_and_restrained_practical_care",
+        "visibility_qualification": "仅对可见范围判断，闭眼、背面、裁切和未出镜不凭空补画。ep10_visual_qa实际逐张整页检查，本角色审查代理亲看范围仅02/11/17最终修版/19/20，不冒称亲看全部22页。",
+        "character_auditor_personally_viewed_this_final_png": false,
+        "identity_anchor_basis": [
+          2,
+          11,
+          17,
+          19,
+          20
+        ],
+        "must_fix": [],
+        "decision": "passed_on_frozen_final_png"
+      },
+      {
+        "page": 16,
+        "file": "page-16.png",
+        "current_source": "/workspace/generated_images/exec-10481965-c78a-4215-aa45-cbb97377bbb9.png",
+        "sha256": "8088734f1ced14c295c6d6083eeffadc1734a519a70212a288932c9f1e3928b3",
+        "actual_final_png_viewed": true,
+        "full_page_reviewer": "/root/ep10_visual_qa",
+        "review_basis": "用户三张原设、既定校园造型与本章已授权足部适配、卷二第十章救场情境；命名全页审阅者真实逐页打开22最终PNG并重开每一局修。",
+        "visible_character_identity": "passed_where_visible",
+        "approved_campus_outfits_and_adult_proportions": "passed_where_visible",
+        "glove_and_wrist_sides": "passed_where_visible_in_source_specific_injury_phase",
+        "injury_and_footwear_continuity": "passed_source_phase_left_palm_cut_left_glove_bandaged_left_right_white_retained_footless_ankle_tights_barefeet_after_shoe_loss_where_visible",
+        "scene_expression": "passed_source_tension_pain_exhaustion_and_restrained_practical_care",
+        "visibility_qualification": "仅对可见范围判断，闭眼、背面、裁切和未出镜不凭空补画。ep10_visual_qa实际逐张整页检查，本角色审查代理亲看范围仅02/11/17最终修版/19/20，不冒称亲看全部22页。",
+        "character_auditor_personally_viewed_this_final_png": false,
+        "identity_anchor_basis": [
+          2,
+          11,
+          17,
+          19,
+          20
+        ],
+        "must_fix": [],
+        "decision": "passed_on_frozen_final_png"
+      },
+      {
+        "page": 17,
+        "file": "page-17.png",
+        "current_source": "/workspace/generated_images/exec-03b4e21c-e71d-41f7-9260-e21e03dd56b2.png",
+        "sha256": "75bf09339044803e46ffe88ddc5dbef76c4c6d1e655ece05b8d8d2fd4f6fbe09",
+        "actual_final_png_viewed": true,
+        "full_page_reviewer": "/root/ep10_visual_qa",
+        "review_basis": "用户三张原设、既定校园造型与本章已授权足部适配、卷二第十章救场情境；命名全页审阅者真实逐页打开22最终PNG并重开每一局修。",
+        "visible_character_identity": "passed_where_visible",
+        "approved_campus_outfits_and_adult_proportions": "passed_where_visible",
+        "glove_and_wrist_sides": "passed_where_visible_in_source_specific_injury_phase",
+        "injury_and_footwear_continuity": "passed_source_phase_left_palm_cut_left_glove_bandaged_left_right_white_retained_footless_ankle_tights_barefeet_after_shoe_loss_where_visible",
+        "scene_expression": "passed_source_tension_pain_exhaustion_and_restrained_practical_care",
+        "visibility_qualification": "仅对可见范围判断，闭眼、背面、裁切和未出镜不凭空补画。ep10_visual_qa实际逐张整页检查，本角色审查代理亲看范围仅02/11/17最终修版/19/20，不冒称亲看全部22页。",
+        "character_auditor_personally_viewed_this_final_png": true,
+        "identity_anchor_basis": [
+          2,
+          11,
+          17,
+          19,
+          20
+        ],
+        "must_fix": [],
+        "decision": "passed_on_frozen_final_png"
+      },
+      {
+        "page": 18,
+        "file": "page-18.png",
+        "current_source": "/workspace/generated_images/exec-2dddcd89-8ebb-4c6c-b4cd-0badf7322746.png",
+        "sha256": "a9d74b896ba3e9d4f5606d696ed2b5606190a44c74ba224183efdc048c9433ca",
+        "actual_final_png_viewed": true,
+        "full_page_reviewer": "/root/ep10_visual_qa",
+        "review_basis": "用户三张原设、既定校园造型与本章已授权足部适配、卷二第十章救场情境；命名全页审阅者真实逐页打开22最终PNG并重开每一局修。",
+        "visible_character_identity": "passed_where_visible",
+        "approved_campus_outfits_and_adult_proportions": "passed_where_visible",
+        "glove_and_wrist_sides": "passed_where_visible_in_source_specific_injury_phase",
+        "injury_and_footwear_continuity": "passed_source_phase_left_palm_cut_left_glove_bandaged_left_right_white_retained_footless_ankle_tights_barefeet_after_shoe_loss_where_visible",
+        "scene_expression": "passed_source_tension_pain_exhaustion_and_restrained_practical_care",
+        "visibility_qualification": "仅对可见范围判断，闭眼、背面、裁切和未出镜不凭空补画。ep10_visual_qa实际逐张整页检查，本角色审查代理亲看范围仅02/11/17最终修版/19/20，不冒称亲看全部22页。",
+        "character_auditor_personally_viewed_this_final_png": false,
+        "identity_anchor_basis": [
+          2,
+          11,
+          17,
+          19,
+          20
+        ],
+        "must_fix": [],
+        "decision": "passed_on_frozen_final_png"
+      },
+      {
+        "page": 19,
+        "file": "page-19.png",
+        "current_source": "/workspace/generated_images/exec-788ac903-4c37-4ec9-845a-13ab39b9c27c.png",
+        "sha256": "4d12653ee123af50ceddf8801d618c288f9c5ffc50e0662a014cd5b58fd0642d",
+        "actual_final_png_viewed": true,
+        "full_page_reviewer": "/root/ep10_visual_qa",
+        "review_basis": "用户三张原设、既定校园造型与本章已授权足部适配、卷二第十章救场情境；命名全页审阅者真实逐页打开22最终PNG并重开每一局修。",
+        "visible_character_identity": "passed_where_visible",
+        "approved_campus_outfits_and_adult_proportions": "passed_where_visible",
+        "glove_and_wrist_sides": "passed_where_visible_in_source_specific_injury_phase",
+        "injury_and_footwear_continuity": "passed_source_phase_left_palm_cut_left_glove_bandaged_left_right_white_retained_footless_ankle_tights_barefeet_after_shoe_loss_where_visible",
+        "scene_expression": "passed_source_tension_pain_exhaustion_and_restrained_practical_care",
+        "visibility_qualification": "仅对可见范围判断，闭眼、背面、裁切和未出镜不凭空补画。ep10_visual_qa实际逐张整页检查，本角色审查代理亲看范围仅02/11/17最终修版/19/20，不冒称亲看全部22页。",
+        "character_auditor_personally_viewed_this_final_png": true,
+        "identity_anchor_basis": [
+          2,
+          11,
+          17,
+          19,
+          20
+        ],
+        "must_fix": [],
+        "decision": "passed_on_frozen_final_png"
+      },
+      {
+        "page": 20,
+        "file": "page-20.png",
+        "current_source": "/workspace/generated_images/exec-cafc2099-e4cc-4f2b-8217-9e908ece7341.png",
+        "sha256": "c58518b6906c9d2f9289b5a025bbeaac939794b6756b43e8626603ac7809b64e",
+        "actual_final_png_viewed": true,
+        "full_page_reviewer": "/root/ep10_visual_qa",
+        "review_basis": "用户三张原设、既定校园造型与本章已授权足部适配、卷二第十章救场情境；命名全页审阅者真实逐页打开22最终PNG并重开每一局修。",
+        "visible_character_identity": "passed_where_visible",
+        "approved_campus_outfits_and_adult_proportions": "passed_where_visible",
+        "glove_and_wrist_sides": "passed_where_visible_in_source_specific_injury_phase",
+        "injury_and_footwear_continuity": "passed_source_phase_left_palm_cut_left_glove_bandaged_left_right_white_retained_footless_ankle_tights_barefeet_after_shoe_loss_where_visible",
+        "scene_expression": "passed_source_tension_pain_exhaustion_and_restrained_practical_care",
+        "visibility_qualification": "仅对可见范围判断，闭眼、背面、裁切和未出镜不凭空补画。ep10_visual_qa实际逐张整页检查，本角色审查代理亲看范围仅02/11/17最终修版/19/20，不冒称亲看全部22页。",
+        "character_auditor_personally_viewed_this_final_png": true,
+        "identity_anchor_basis": [
+          2,
+          11,
+          17,
+          19,
+          20
+        ],
+        "must_fix": [],
+        "decision": "passed_on_frozen_final_png"
+      },
+      {
+        "page": 21,
+        "file": "page-21.png",
+        "current_source": "/workspace/generated_images/exec-2f2dcafc-9a2c-4ef4-865b-b6ab364b44d9.png",
+        "sha256": "47254dcc1a772b823070f2a2c35a661b915b7824feec465089b13dbe0e02aa84",
+        "actual_final_png_viewed": true,
+        "full_page_reviewer": "/root/ep10_visual_qa",
+        "review_basis": "用户三张原设、既定校园造型与本章已授权足部适配、卷二第十章救场情境；命名全页审阅者真实逐页打开22最终PNG并重开每一局修。",
+        "visible_character_identity": "passed_where_visible",
+        "approved_campus_outfits_and_adult_proportions": "passed_where_visible",
+        "glove_and_wrist_sides": "passed_where_visible_in_source_specific_injury_phase",
+        "injury_and_footwear_continuity": "passed_source_phase_left_palm_cut_left_glove_bandaged_left_right_white_retained_footless_ankle_tights_barefeet_after_shoe_loss_where_visible",
+        "scene_expression": "passed_source_tension_pain_exhaustion_and_restrained_practical_care",
+        "visibility_qualification": "仅对可见范围判断，闭眼、背面、裁切和未出镜不凭空补画。ep10_visual_qa实际逐张整页检查，本角色审查代理亲看范围仅02/11/17最终修版/19/20，不冒称亲看全部22页。",
+        "character_auditor_personally_viewed_this_final_png": false,
+        "identity_anchor_basis": [
+          2,
+          11,
+          17,
+          19,
+          20
+        ],
+        "must_fix": [],
+        "decision": "passed_on_frozen_final_png"
+      },
+      {
+        "page": 22,
+        "file": "page-22.png",
+        "current_source": "/workspace/generated_images/exec-2e6ea6b1-c098-4411-8050-82162eab3520.png",
+        "sha256": "21183fbcca1ee4d4ed442f1cd28e34fe15475b1c47faa6058c1d79387bc6f60f",
+        "actual_final_png_viewed": true,
+        "full_page_reviewer": "/root/ep10_visual_qa",
+        "review_basis": "用户三张原设、既定校园造型与本章已授权足部适配、卷二第十章救场情境；命名全页审阅者真实逐页打开22最终PNG并重开每一局修。",
+        "visible_character_identity": "passed_where_visible",
+        "approved_campus_outfits_and_adult_proportions": "passed_where_visible",
+        "glove_and_wrist_sides": "passed_where_visible_in_source_specific_injury_phase",
+        "injury_and_footwear_continuity": "passed_source_phase_left_palm_cut_left_glove_bandaged_left_right_white_retained_footless_ankle_tights_barefeet_after_shoe_loss_where_visible",
+        "scene_expression": "passed_source_tension_pain_exhaustion_and_restrained_practical_care",
+        "visibility_qualification": "仅对可见范围判断，闭眼、背面、裁切和未出镜不凭空补画。ep10_visual_qa实际逐张整页检查，本角色审查代理亲看范围仅02/11/17最终修版/19/20，不冒称亲看全部22页。",
+        "character_auditor_personally_viewed_this_final_png": false,
+        "identity_anchor_basis": [
+          2,
+          11,
+          17,
+          19,
+          20
+        ],
+        "must_fix": [],
+        "decision": "passed_on_frozen_final_png"
+      }
+    ],
+    "final_status": "completed_and_frozen",
+    "artist_records_locked": true,
+    "current_source_records_match_final_png": true,
+    "remaining_must_fix": [],
+    "review_claim_policy": "全22页的实际整页查看由ep10_visual_qa完成并回报完整通过SHA矩阵；本角色审查代理亲看5锚及核对22最终文件与作者来源记录，二者范围分开如实登记。",
+    "artist_record_lock_state": {
+      "front_01_11": {
+        "record_file": "前半生成记录.json",
+        "record_sha256": "d3fbc484e4df0b54848443991d3e855d468a549de4cae6eb3a48aed497450926",
+        "page_count": 11,
+        "frozen": true,
+        "author_stopped_writing_confirmed": true,
+        "all_current_source_png_record_qa_sha_match": true
+      },
+      "back_12_22": {
+        "record_file": "后半生成记录.json",
+        "record_sha256": "feb1df40c5753dfe6ad14b646fbb33755fb5beb46b50224c2724627f94562646",
+        "page_count": 11,
+        "frozen": true,
+        "author_stopped_writing_confirmed": true,
+        "all_current_source_png_record_qa_sha_match": true
+      }
+    },
+    "working_qa_passed_count": 22,
+    "character_identity_correction_sustained": true,
+    "frozen_at_utc": "2026-11-03T05:05:08.310789+00:00"
+  },
+  "in_package_original_references": [
+    {
+      "original_id": "original_feiying",
+      "package_file": "参考/绯英原设.jpg",
+      "sha256": "8ec0576d31814a4f0d54c067b4375b25f5510671823c4d41706cc33b55a346da",
+      "original_bytes_preserved": true,
+      "copy_verification_state": "verified_equal_at_final_freeze"
+    },
+    {
+      "original_id": "original_yaoguang_closeup",
+      "package_file": "参考/爻光原设近景.jpg",
+      "sha256": "1c14724f3bd1ab2f0bbef92ca17250015f810b00d6ed8c72d86e564c2b51c82e",
+      "original_bytes_preserved": true,
+      "copy_verification_state": "verified_equal_at_final_freeze"
+    },
+    {
+      "original_id": "original_yaoguang_fullbody",
+      "package_file": "参考/爻光原设全身.jpg",
+      "sha256": "8222e86042d6637460243ee623098453319f1e679fa64605095ecf0b6d795313",
+      "original_bytes_preserved": true,
+      "copy_verification_state": "verified_equal_at_final_freeze"
+    }
+  ],
+  "per_page_qa_fields": {
+    "actual_final_png_viewed": "命名全页reviewer实际打开此SHA完整PNG，不代表角色审查代理亲看全部22。",
+    "character_auditor_personally_viewed_this_final_png": "仅本人实际view且SHA与最终冻结图一致才true。",
+    "passed_where_visible": "仅对可见范围判断，不补裁切物。",
+    "sha256": "最终冻结PNG完整SHA-256，与命名全页QA已实际通过版本和作者来源记录逐页核同，不以历史末项猜测。"
+  },
+  "prior_episode_character_review_document": {
+    "workspace_path": "/workspace/绯色难测_第九话/角色核对.json",
+    "sha256": "108c7f3eb12158f23230f8a9833790ffca96fb90b0160e7a5f54c1366deeff9b",
+    "actual_read_completed": true,
+    "usage": "沿原设校正身份/批准衣装，旧章羞红和杯面具道具规则不机械套救场。",
+    "archive_execution_dependency": false
+  },
+  "source_read": {
+    "workspace_path": "/workspace/原作/卷二_卦象紊乱.txt",
+    "sha256": "bd4a562260e338ef499ba9a37ae01f86b48be7c717f8d1dd7f007d02560e56bb",
+    "chapter": "第十章 救场",
+    "read_completed": true,
+    "continuity_cross_read": "第十一章左手敷料、换新平底鞋仅核后续；不提前画借时内容。"
+  },
+  "chapter10_prop_continuity": {
+    "moon_stage": "十二个月亮装置；撞歪支架、F撑梁指路，后来两个倒地金粉路；不把巨大月亮画成砸伤/死亡事实。",
+    "ruler": "F完好右手持尺，铁栏敲两下；伤后同完好手；无第三只手或尺变武器。",
+    "certificates": "原章记录保留；Y执祭证给丢册子孩子；F画月亮+工号为临时补证，沾血纸角撕去；不让学生被迫重新跑全关。",
+    "backstage_box": "Hanabi拒签拍回记录并拉箱走；F不追，收纸旗、断杆另放，起身左手抬不高；Y接箱，非抱人。",
+    "fox_masks": "若开头值班出现前章狐面具，白归Y红归F；简洁侧置或按分镜安全解下，危险救援不遮眼；不增丢面具支线。"
+  },
+  "working_page_review_matrix": [
+    {
+      "page": 1,
+      "file": "page-01.png",
+      "current_png_exists": true,
+      "current_png_sha256": "225a461ab13e48689e6a0f35fc0748108b2e7edec5a5dee8c2dbe727b229bac1",
+      "current_source": "/workspace/generated_images/exec-ae2d8ed6-3869-4600-98af-a9b5967a0370.png",
+      "full_page_reviewer": "/root/ep10_visual_qa",
+      "independent_full_page_passed_current_sha": true,
+      "independent_full_page_passed_sha256": "225a461ab13e48689e6a0f35fc0748108b2e7edec5a5dee8c2dbe727b229bac1",
+      "character_auditor_personally_viewed_current_png": false,
+      "identity_anchor_current_sha": null,
+      "current_state": "frozen_final_full_page_passed",
+      "known_must_fix": []
+    },
+    {
+      "page": 2,
+      "file": "page-02.png",
+      "current_png_exists": true,
+      "current_png_sha256": "733c341295f70ec3e3d15e9abfd90be3ccd6d3d4ba7eba428bb95bde60731b9c",
+      "current_source": "/workspace/generated_images/exec-fcc60eac-6c32-4829-8f01-5b28ac8092a3.png",
+      "full_page_reviewer": "/root/ep10_visual_qa",
+      "independent_full_page_passed_current_sha": true,
+      "independent_full_page_passed_sha256": "733c341295f70ec3e3d15e9abfd90be3ccd6d3d4ba7eba428bb95bde60731b9c",
+      "character_auditor_personally_viewed_current_png": true,
+      "identity_anchor_current_sha": "733c341295f70ec3e3d15e9abfd90be3ccd6d3d4ba7eba428bb95bde60731b9c",
+      "current_state": "frozen_final_full_page_passed",
+      "known_must_fix": []
+    },
+    {
+      "page": 3,
+      "file": "page-03.png",
+      "current_png_exists": true,
+      "current_png_sha256": "e422c009da8cdc09527c45d5b840af5018acdd82c7843925c806e17c3e61ca3e",
+      "current_source": "/workspace/generated_images/exec-48b01011-ce41-47ef-95b1-aaec949591f4.png",
+      "full_page_reviewer": "/root/ep10_visual_qa",
+      "independent_full_page_passed_current_sha": true,
+      "independent_full_page_passed_sha256": "e422c009da8cdc09527c45d5b840af5018acdd82c7843925c806e17c3e61ca3e",
+      "character_auditor_personally_viewed_current_png": false,
+      "identity_anchor_current_sha": null,
+      "current_state": "frozen_final_full_page_passed",
+      "known_must_fix": []
+    },
+    {
+      "page": 4,
+      "file": "page-04.png",
+      "current_png_exists": true,
+      "current_png_sha256": "763ee05c76acadc84aa5b88626e2527ef1cd64d238c4ed5e473d20e5ccb920c0",
+      "current_source": "/workspace/generated_images/exec-6cad0453-9a0e-450e-9632-8680f9d5544b.png",
+      "full_page_reviewer": "/root/ep10_visual_qa",
+      "independent_full_page_passed_current_sha": true,
+      "independent_full_page_passed_sha256": "763ee05c76acadc84aa5b88626e2527ef1cd64d238c4ed5e473d20e5ccb920c0",
+      "character_auditor_personally_viewed_current_png": false,
+      "identity_anchor_current_sha": null,
+      "current_state": "frozen_final_full_page_passed",
+      "known_must_fix": []
+    },
+    {
+      "page": 5,
+      "file": "page-05.png",
+      "current_png_exists": true,
+      "current_png_sha256": "80bfc57b839fd404b2c7168e49a3875c8464226bb0d382c4cb470846cea5ed72",
+      "current_source": "/workspace/generated_images/exec-31957139-f7d9-4609-bb03-9198b37d9898.png",
+      "full_page_reviewer": "/root/ep10_visual_qa",
+      "independent_full_page_passed_current_sha": true,
+      "independent_full_page_passed_sha256": "80bfc57b839fd404b2c7168e49a3875c8464226bb0d382c4cb470846cea5ed72",
+      "character_auditor_personally_viewed_current_png": false,
+      "identity_anchor_current_sha": null,
+      "current_state": "frozen_final_full_page_passed",
+      "known_must_fix": []
+    },
+    {
+      "page": 6,
+      "file": "page-06.png",
+      "current_png_exists": true,
+      "current_png_sha256": "5f45f3f209e39a3360cac00706baa2120dff148ea40feb0b4e24f9c0864dd174",
+      "current_source": "/workspace/generated_images/exec-7fb4aafa-a799-4d6f-b8f6-e29063caeeea.png",
+      "full_page_reviewer": "/root/ep10_visual_qa",
+      "independent_full_page_passed_current_sha": true,
+      "independent_full_page_passed_sha256": "5f45f3f209e39a3360cac00706baa2120dff148ea40feb0b4e24f9c0864dd174",
+      "character_auditor_personally_viewed_current_png": false,
+      "identity_anchor_current_sha": null,
+      "current_state": "frozen_final_full_page_passed",
+      "known_must_fix": []
+    },
+    {
+      "page": 7,
+      "file": "page-07.png",
+      "current_png_exists": true,
+      "current_png_sha256": "b248b26c716c077023d179283cf2292a571c3b26f3519986d72b8ae091c00621",
+      "current_source": "/workspace/generated_images/exec-6321e59c-8ad5-4187-846d-cc700a6217bb.png",
+      "full_page_reviewer": "/root/ep10_visual_qa",
+      "independent_full_page_passed_current_sha": true,
+      "independent_full_page_passed_sha256": "b248b26c716c077023d179283cf2292a571c3b26f3519986d72b8ae091c00621",
+      "character_auditor_personally_viewed_current_png": false,
+      "identity_anchor_current_sha": null,
+      "current_state": "frozen_final_full_page_passed",
+      "known_must_fix": []
+    },
+    {
+      "page": 8,
+      "file": "page-08.png",
+      "current_png_exists": true,
+      "current_png_sha256": "98baa526064369bca3e8aaf2925ff05b76119e26f5a4ba6a5ca3c824c5df7b85",
+      "current_source": "/workspace/generated_images/exec-1a868ff7-6732-4b44-8d7a-4daa014a72bd.png",
+      "full_page_reviewer": "/root/ep10_visual_qa",
+      "independent_full_page_passed_current_sha": true,
+      "independent_full_page_passed_sha256": "98baa526064369bca3e8aaf2925ff05b76119e26f5a4ba6a5ca3c824c5df7b85",
+      "character_auditor_personally_viewed_current_png": false,
+      "identity_anchor_current_sha": null,
+      "current_state": "frozen_final_full_page_passed",
+      "known_must_fix": []
+    },
+    {
+      "page": 9,
+      "file": "page-09.png",
+      "current_png_exists": true,
+      "current_png_sha256": "cdc947d16b41f1d6dd8043765918b868a047b16974ecafefe788d204d3d6ee9e",
+      "current_source": "/workspace/generated_images/exec-af6e6ad3-691e-47c0-b1e1-2938d5faabdb.png",
+      "full_page_reviewer": "/root/ep10_visual_qa",
+      "independent_full_page_passed_current_sha": true,
+      "independent_full_page_passed_sha256": "cdc947d16b41f1d6dd8043765918b868a047b16974ecafefe788d204d3d6ee9e",
+      "character_auditor_personally_viewed_current_png": false,
+      "identity_anchor_current_sha": null,
+      "current_state": "frozen_final_full_page_passed",
+      "known_must_fix": []
+    },
+    {
+      "page": 10,
+      "file": "page-10.png",
+      "current_png_exists": true,
+      "current_png_sha256": "af97087d4a0cd25af7f3be7cd642247bc93b73cd813825cd456f449ebab0f228",
+      "current_source": "/workspace/generated_images/exec-c3cdfd44-c61b-4e16-95e4-e2cd28ed1595.png",
+      "full_page_reviewer": "/root/ep10_visual_qa",
+      "independent_full_page_passed_current_sha": true,
+      "independent_full_page_passed_sha256": "af97087d4a0cd25af7f3be7cd642247bc93b73cd813825cd456f449ebab0f228",
+      "character_auditor_personally_viewed_current_png": false,
+      "identity_anchor_current_sha": null,
+      "current_state": "frozen_final_full_page_passed",
+      "known_must_fix": []
+    },
+    {
+      "page": 11,
+      "file": "page-11.png",
+      "current_png_exists": true,
+      "current_png_sha256": "0ed78ba884dec1e448370e01a0ba282eaf41ed55a6270a544f70fd5d05195313",
+      "current_source": "/workspace/generated_images/exec-be64d0d2-8fc5-4bdc-b567-212bdba7d9a9.png",
+      "full_page_reviewer": "/root/ep10_visual_qa",
+      "independent_full_page_passed_current_sha": true,
+      "independent_full_page_passed_sha256": "0ed78ba884dec1e448370e01a0ba282eaf41ed55a6270a544f70fd5d05195313",
+      "character_auditor_personally_viewed_current_png": true,
+      "identity_anchor_current_sha": "0ed78ba884dec1e448370e01a0ba282eaf41ed55a6270a544f70fd5d05195313",
+      "current_state": "frozen_final_full_page_passed",
+      "known_must_fix": []
+    },
+    {
+      "page": 12,
+      "file": "page-12.png",
+      "current_png_exists": true,
+      "current_png_sha256": "f10df826e28773e7c48d8758f90c64590679ef556a5ced0ecb82319aa16b9f7b",
+      "current_source": "/workspace/generated_images/exec-3ea0107b-d5a3-407c-9241-a701115ff5b4.png",
+      "full_page_reviewer": "/root/ep10_visual_qa",
+      "independent_full_page_passed_current_sha": true,
+      "independent_full_page_passed_sha256": "f10df826e28773e7c48d8758f90c64590679ef556a5ced0ecb82319aa16b9f7b",
+      "character_auditor_personally_viewed_current_png": false,
+      "identity_anchor_current_sha": null,
+      "current_state": "frozen_final_full_page_passed",
+      "known_must_fix": []
+    },
+    {
+      "page": 13,
+      "file": "page-13.png",
+      "current_png_exists": true,
+      "current_png_sha256": "0c4e4f066d52dde0275909e22fdbdba29ff75acac1cfff7249db5e64a428288e",
+      "current_source": "/workspace/generated_images/exec-515d7da6-8aa4-4464-b3fb-f1b6e7cdef90.png",
+      "full_page_reviewer": "/root/ep10_visual_qa",
+      "independent_full_page_passed_current_sha": true,
+      "independent_full_page_passed_sha256": "0c4e4f066d52dde0275909e22fdbdba29ff75acac1cfff7249db5e64a428288e",
+      "character_auditor_personally_viewed_current_png": false,
+      "identity_anchor_current_sha": null,
+      "current_state": "frozen_final_full_page_passed",
+      "known_must_fix": []
+    },
+    {
+      "page": 14,
+      "file": "page-14.png",
+      "current_png_exists": true,
+      "current_png_sha256": "f7a7e74dc4583f7633a871bb1f96f99db3e2f93dc3e391153ad9ce58f3b5289c",
+      "current_source": "/workspace/generated_images/exec-767d71c1-4b1d-4de9-a31a-7483e6dd2ef5.png",
+      "full_page_reviewer": "/root/ep10_visual_qa",
+      "independent_full_page_passed_current_sha": true,
+      "independent_full_page_passed_sha256": "f7a7e74dc4583f7633a871bb1f96f99db3e2f93dc3e391153ad9ce58f3b5289c",
+      "character_auditor_personally_viewed_current_png": false,
+      "identity_anchor_current_sha": null,
+      "current_state": "frozen_final_full_page_passed",
+      "known_must_fix": []
+    },
+    {
+      "page": 15,
+      "file": "page-15.png",
+      "current_png_exists": true,
+      "current_png_sha256": "367345a6dbe79a8ae20f05c89525f2693f45c605b4efbdfc30d8cbc7cb010c46",
+      "current_source": "/workspace/generated_images/exec-b6ee98d2-a338-4507-816d-3953fad36227.png",
+      "full_page_reviewer": "/root/ep10_visual_qa",
+      "independent_full_page_passed_current_sha": true,
+      "independent_full_page_passed_sha256": "367345a6dbe79a8ae20f05c89525f2693f45c605b4efbdfc30d8cbc7cb010c46",
+      "character_auditor_personally_viewed_current_png": false,
+      "identity_anchor_current_sha": null,
+      "current_state": "frozen_final_full_page_passed",
+      "known_must_fix": []
+    },
+    {
+      "page": 16,
+      "file": "page-16.png",
+      "current_png_exists": true,
+      "current_png_sha256": "8088734f1ced14c295c6d6083eeffadc1734a519a70212a288932c9f1e3928b3",
+      "current_source": "/workspace/generated_images/exec-10481965-c78a-4215-aa45-cbb97377bbb9.png",
+      "full_page_reviewer": "/root/ep10_visual_qa",
+      "independent_full_page_passed_current_sha": true,
+      "independent_full_page_passed_sha256": "8088734f1ced14c295c6d6083eeffadc1734a519a70212a288932c9f1e3928b3",
+      "character_auditor_personally_viewed_current_png": false,
+      "identity_anchor_current_sha": null,
+      "current_state": "frozen_final_full_page_passed",
+      "known_must_fix": []
+    },
+    {
+      "page": 17,
+      "file": "page-17.png",
+      "current_png_exists": true,
+      "current_png_sha256": "75bf09339044803e46ffe88ddc5dbef76c4c6d1e655ece05b8d8d2fd4f6fbe09",
+      "current_source": "/workspace/generated_images/exec-03b4e21c-e71d-41f7-9260-e21e03dd56b2.png",
+      "full_page_reviewer": "/root/ep10_visual_qa",
+      "independent_full_page_passed_current_sha": true,
+      "independent_full_page_passed_sha256": "75bf09339044803e46ffe88ddc5dbef76c4c6d1e655ece05b8d8d2fd4f6fbe09",
+      "character_auditor_personally_viewed_current_png": true,
+      "identity_anchor_current_sha": "75bf09339044803e46ffe88ddc5dbef76c4c6d1e655ece05b8d8d2fd4f6fbe09",
+      "current_state": "frozen_final_full_page_passed",
+      "known_must_fix": []
+    },
+    {
+      "page": 18,
+      "file": "page-18.png",
+      "current_png_exists": true,
+      "current_png_sha256": "a9d74b896ba3e9d4f5606d696ed2b5606190a44c74ba224183efdc048c9433ca",
+      "current_source": "/workspace/generated_images/exec-2dddcd89-8ebb-4c6c-b4cd-0badf7322746.png",
+      "full_page_reviewer": "/root/ep10_visual_qa",
+      "independent_full_page_passed_current_sha": true,
+      "independent_full_page_passed_sha256": "a9d74b896ba3e9d4f5606d696ed2b5606190a44c74ba224183efdc048c9433ca",
+      "character_auditor_personally_viewed_current_png": false,
+      "identity_anchor_current_sha": null,
+      "current_state": "frozen_final_full_page_passed",
+      "known_must_fix": []
+    },
+    {
+      "page": 19,
+      "file": "page-19.png",
+      "current_png_exists": true,
+      "current_png_sha256": "4d12653ee123af50ceddf8801d618c288f9c5ffc50e0662a014cd5b58fd0642d",
+      "current_source": "/workspace/generated_images/exec-788ac903-4c37-4ec9-845a-13ab39b9c27c.png",
+      "full_page_reviewer": "/root/ep10_visual_qa",
+      "independent_full_page_passed_current_sha": true,
+      "independent_full_page_passed_sha256": "4d12653ee123af50ceddf8801d618c288f9c5ffc50e0662a014cd5b58fd0642d",
+      "character_auditor_personally_viewed_current_png": true,
+      "identity_anchor_current_sha": "4d12653ee123af50ceddf8801d618c288f9c5ffc50e0662a014cd5b58fd0642d",
+      "current_state": "frozen_final_full_page_passed",
+      "known_must_fix": []
+    },
+    {
+      "page": 20,
+      "file": "page-20.png",
+      "current_png_exists": true,
+      "current_png_sha256": "c58518b6906c9d2f9289b5a025bbeaac939794b6756b43e8626603ac7809b64e",
+      "current_source": "/workspace/generated_images/exec-cafc2099-e4cc-4f2b-8217-9e908ece7341.png",
+      "full_page_reviewer": "/root/ep10_visual_qa",
+      "independent_full_page_passed_current_sha": true,
+      "independent_full_page_passed_sha256": "c58518b6906c9d2f9289b5a025bbeaac939794b6756b43e8626603ac7809b64e",
+      "character_auditor_personally_viewed_current_png": true,
+      "identity_anchor_current_sha": "c58518b6906c9d2f9289b5a025bbeaac939794b6756b43e8626603ac7809b64e",
+      "current_state": "frozen_final_full_page_passed",
+      "known_must_fix": []
+    },
+    {
+      "page": 21,
+      "file": "page-21.png",
+      "current_png_exists": true,
+      "current_png_sha256": "47254dcc1a772b823070f2a2c35a661b915b7824feec465089b13dbe0e02aa84",
+      "current_source": "/workspace/generated_images/exec-2f2dcafc-9a2c-4ef4-865b-b6ab364b44d9.png",
+      "full_page_reviewer": "/root/ep10_visual_qa",
+      "independent_full_page_passed_current_sha": true,
+      "independent_full_page_passed_sha256": "47254dcc1a772b823070f2a2c35a661b915b7824feec465089b13dbe0e02aa84",
+      "character_auditor_personally_viewed_current_png": false,
+      "identity_anchor_current_sha": null,
+      "current_state": "frozen_final_full_page_passed",
+      "known_must_fix": []
+    },
+    {
+      "page": 22,
+      "file": "page-22.png",
+      "current_png_exists": true,
+      "current_png_sha256": "21183fbcca1ee4d4ed442f1cd28e34fe15475b1c47faa6058c1d79387bc6f60f",
+      "current_source": "/workspace/generated_images/exec-2e6ea6b1-c098-4411-8050-82162eab3520.png",
+      "full_page_reviewer": "/root/ep10_visual_qa",
+      "independent_full_page_passed_current_sha": true,
+      "independent_full_page_passed_sha256": "21183fbcca1ee4d4ed442f1cd28e34fe15475b1c47faa6058c1d79387bc6f60f",
+      "character_auditor_personally_viewed_current_png": false,
+      "identity_anchor_current_sha": null,
+      "current_state": "frozen_final_full_page_passed",
+      "known_must_fix": []
+    }
+  ],
+  "visibility_rulings": [
+    {
+      "page": 8,
+      "source": "根代理实际打开08并裁定，非本角色代理亲看该页。",
+      "ruling": "首格写板上臂与肘被书遮挡，不能连续判断为右臂；远侧解剖左玉腕从书后伸写板可以成立。第三格右空腕、末格左玉擦板自洽，不因默认写字手为右而去玉。",
+      "full_page_qa_sha256": "98baa526064369bca3e8aaf2925ff05b76119e26f5a4ba6a5ca3c824c5df7b85",
+      "apply_only_when_geometry_visible": "可见连续肩肘腕可据实判断，裁切/遮挡不补假设。"
+    }
+  ],
+  "final_review_notes": {
+    "page08_wrist_geometry": "已按根代理真实查看裁定保留首格被书遮上臂/肘的可成立左玉写板，不凭默认写字手为右去玉；该页另有全页QA同SHA通过。",
+    "page09_signature": "命名全页QA实际重开签名局修，最终为自然爻斜笔，不再沿初稿交字点横误写。",
+    "page17_physician_label": "最终采用源审及根代理许可的自然“医生！”；治疗者仍为刃，人物与医疗阶段保持。本人已重开最终75bf…，初24cd错字稿仅亲看历史。",
+    "page19_shoe": "仅一只找回鞋放椅旁，金框局部可见不推定鞋扣修齐，F仍裸足，不为未显示缺扣进行额外返工。",
+    "page21_light_box": "命名全页QA已实际查看，F伤后左纱仅短托轻纸旗箱非大力负重，Y接箱属于源，不为假想重量返工。",
+    "original_references": "3张包内JPG逐字节等于用户原图，未转码；其余既有配角参考不冒称用户原设。",
+    "stop_writing": "本角色JSON终表已冻结；后续不再写入，已交导出代理做PDF/ZIP，避免包内支持文件陈旧。"
+  }
+}
