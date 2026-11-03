@@ -1,0 +1,1471 @@
+{
+  "episode": "第十一话",
+  "title": "借时",
+  "requested_focus": "在已校正原设身份上保持冬夜救援、伤手与衣物物件的完整连续性；情绪按原作，不推进到告白或吻。",
+  "status": "completed_and_frozen",
+  "scope": "22页100格本话最终角色/衣物/手相位/物件连续核对已完成。用户原3定头脸身份；既有校正漫画定校园与伤后连续；棉裤与冬装为源驱动并经根代理批准的实施适配。最终22页实看与个人3锚范围明确分开。",
+  "evidence": [
+    {
+      "id": "original_feiying",
+      "workspace_path": "/workspace/原设参考/绯英原设.jpg",
+      "sha256": "8ec0576d31814a4f0d54c067b4375b25f5510671823c4d41706cc33b55a346da",
+      "bytes": 134176,
+      "actual_view_completed": true,
+      "actual_view_note": "本角色审查代理这轮已真实打开完整原图。",
+      "usage": "用户绯英原设：短蓬粉冠、外翻短脸周层、紫晶眼、红结樱夹",
+      "archive_execution_dependency": true
+    },
+    {
+      "id": "original_yaoguang_closeup",
+      "workspace_path": "/workspace/原设参考/爻光原设_近景.jpg",
+      "sha256": "1c14724f3bd1ab2f0bbef92ca17250015f810b00d6ed8c72d86e564c2b51c82e",
+      "bytes": 147839,
+      "actual_view_completed": true,
+      "actual_view_note": "本角色审查代理这轮已真实打开完整原图。",
+      "usage": "用户爻光原设近景：分束弯刘海、外翘鬓束、自然紫青虹彩、右羽饰",
+      "archive_execution_dependency": true
+    },
+    {
+      "id": "original_yaoguang_fullbody",
+      "workspace_path": "/workspace/原设参考/爻光原设_全身.jpg",
+      "sha256": "8222e86042d6637460243ee623098453319f1e679fa64605095ecf0b6d795313",
+      "bytes": 123636,
+      "actual_view_completed": true,
+      "actual_view_note": "本角色审查代理这轮已真实打开完整原图。",
+      "usage": "用户爻光原设全身：成人比例、银白长后发与羽意象，幻想服不直接恢复",
+      "archive_execution_dependency": true
+    },
+    {
+      "id": "episode10_left_injury",
+      "workspace_path": "/workspace/绯色难测_第十话/page-11.png",
+      "sha256": "0ed78ba884dec1e448370e01a0ba282eaf41ed55a6270a544f70fd5d05195313",
+      "bytes": 2878385,
+      "actual_view_completed": true,
+      "actual_view_note": "本角色审查代理这轮已真实打开完整原图。",
+      "usage": "上一话左掌受伤、右白全指及救场动作；仅作伤侧与脸发身份依据，不复制本话已换掉的日间裙装",
+      "archive_execution_dependency": false
+    },
+    {
+      "id": "episode10_doctor",
+      "workspace_path": "/workspace/绯色难测_第十话/page-17.png",
+      "sha256": "75bf09339044803e46ffe88ddc5dbef76c4c6d1e655ece05b8d8d2fd4f6fbe09",
+      "bytes": 2432168,
+      "actual_view_completed": true,
+      "actual_view_note": "本角色审查代理这轮已真实打开完整原图。",
+      "usage": "刃成年深色束发白褂校医、F左黑套被剪的前史；本话不新增此页白露或回到尚未剪套阶段",
+      "archive_execution_dependency": false
+    },
+    {
+      "id": "episode10_dressed_left_hand",
+      "workspace_path": "/workspace/绯色难测_第十话/page-19.png",
+      "sha256": "4d12653ee123af50ceddf8801d618c288f9c5ffc50e0662a014cd5b58fd0642d",
+      "bytes": 2649985,
+      "actual_view_completed": true,
+      "actual_view_note": "本角色审查代理这轮已真实打开完整原图。",
+      "usage": "前话最终F左白纱布露指、右白全指、Y裸双手左玉右空及校正头脸",
+      "archive_execution_dependency": false
+    },
+    {
+      "id": "episode2_fuxuan",
+      "workspace_path": "/workspace/绯色难测_第二话/page-04.png",
+      "sha256": "934b3eab1a5b861bc1c9613924a6ea960f74f4be5df8bcda55597c02f2707cbe",
+      "bytes": 2621039,
+      "actual_view_completed": true,
+      "actual_view_note": "本角色审查代理这轮已真实打开完整原图。",
+      "usage": "只参考符玄成年粉紫长发、金框眼镜、紫灰职业服；不取此页早期主角脸与交错名",
+      "archive_execution_dependency": false
+    },
+    {
+      "id": "episode9_shared_wall",
+      "workspace_path": "/workspace/绯色难测_第九话/page-19.png",
+      "sha256": "c3ac4744fee0e53b4ef67c17a05347b0de35612b99d5e2155238b886fd4fa3d9",
+      "bytes": 2231017,
+      "actual_view_completed": true,
+      "actual_view_note": "本角色审查代理这轮已真实打开完整原图。",
+      "usage": "301左/302右同墙邻室与共享内窗；只作办公室格局依据，不把内通气窗改外廊窗",
+      "archive_execution_dependency": false
+    }
+  ],
+  "overall_finding": {
+    "identity_baseline": "沿用原设与第七至十话校正后的头脸、发型、虹膜及成人教师身份。",
+    "current_episode_result": "22页最终实图独立逐张整页QA与局修重开通过；作者11+11来源/PNG/记录/批准SHA核同并冻结，个人亲看01/08/21身份锚维持。本角色终表已冻结，后续不再写入。",
+    "clothing_authority": "本话换冬夜长裤及冬衣为原作与根代理的实施选择，不冒称用户另发了新立绘。"
+  },
+  "characters": {
+    "绯英": {
+      "original_identity": {
+        "hair": "浅樱粉基色；蓬松短碎发冠；围着脸颊与下颌外翻的尖发束；长鬓发/后侧长束与短头部轮廓分层",
+        "face": "短而利落的成年动漫鹅蛋/微尖下颌脸；清醒的略上挑上眼线；紫罗兰/紫水晶瞳，允许很小暖金高光",
+        "accessories": "红蝴蝶结与樱花形发夹；保留识别位置和形状，不用真兔耳替代发饰",
+        "demeanor": "有机灵和行动感，可笑、可认真、可短暂犹豫，不套固定温婉笑脸",
+        "build": "成年、纤细灵活的动漫比例；服装不把身材再次夸张放大"
+      },
+      "night_outfit_authority": "源明确棉裤与湿裤脚、新换平底鞋；根代理已统一批准本话冬装。",
+      "night_outfit": {
+        "outerwear": "唯一枣红短棉夹克；里面可见原酒红开衫与米白内搭。整章F自己穿，不脱给Y。",
+        "bottoms": "深海军蓝保暖直筒棉长裤，非第十话中裙+踝上无足裤袜；户外膝部被冰水浸湿，医务走廊同一裤脚卷起。",
+        "footwear": "普通深色袜与新换黑色平底鞋，无金色方扣，硬鞋口可磨后跟；不是第十话坏扣失鞋修复，也不重新赤脚跑雪路。",
+        "scarf": "F唯一暖樱粉/暖粉针织围巾，简单流苏，无硬造狐纹；诊所前归F，诊所绕给Y后Y寝室仍同条。",
+        "bag": "沿原深蓝小肩包/工具包及低调金扣，里面有上一话马克笔；树下暂塞尖冰与Y衣下皮肤之间，离树时最简取回/由同伴递回后归F，走廊始终攥着它。"
+      },
+      "hard_constraints": [
+        "浅樱粉短蓬主发冠与颊侧锐外翻短层清楚，独立长后束另外分层，不变成通用通顶长直粉发。",
+        "紫水晶眼、红蝶结与樱夹保持，成人美术教师，不能套学生制服或动物真耳尾。",
+        "本话从开场就左手白纱布包伤露指，不重新出现完整黑色左露指手套。",
+        "出门前/最初寻人阶段右手是白色全指手套；树下明确脱下右白套并收外衣兜，随后右裸触颊、抠雪、交糖与托腕，直到结尾不凭空长回手套。",
+        "左伤手只能轻辅助；托糖/扶住可用露出的手指和包扎手轻托，不能变健康裸左掌、主动用左伤手去抠冰或灵巧剥糖。",
+        "医务走廊更换的仍是左手敷料，右手冷但无源新增的右手绷带。",
+        "F平声、手抖、喊这里破嗓、膝软扶墙、避目均按源；加班费玩笑掩恐慌，非轻佻约会嬉笑。"
+      ]
+    },
+    "爻光": {
+      "original_identity": {
+        "hair": "银白基色、冷蓝紫阴影；额前弯曲分开的碎刘海；太阳穴至脸侧有明显向外翘的羽状分层发束；保留长后发",
+        "face": "利落的成年动漫脸，清醒杏眼；虹彩以紫/青为主并有少量暖金；表情克制，原设有一点从容会意，不是全程困倦或慈母式微笑",
+        "accessories": "解剖右太阳穴孔雀羽饰、少量金色垂饰；校园版左肩深蓝披巾",
+        "build": "成年修长比例，不因教师身份加重现实衰老或夸张胸腰"
+      },
+      "winter_outfit": {
+        "base": "沿白西装/白立领中长裙与青蓝腰带，校园服不恢复幻想羽尾。",
+        "overcoat": "唯一深藏蓝长大衣；树下滑半边落雪，F拉回的是Y这件本有大衣，后由符玄再裹紧。",
+        "own_scarf": "原深蓝肩巾与源垂一边的围巾统一为同一条navy肩颈长巾；可露左肩/领侧，不另造第二条Y蓝巾。",
+        "borrowed_scarf": "诊所后F暖樱粉围巾绕在Y颈上；与Y本有深蓝巾区分，末宿舍同一条暖粉巾线头碰下巴。",
+        "hands": "裸双手；唯一玉镯在解剖左腕，右腕空，无手表/手套。冷时肤色可灰白，但不能把手灰白误画成白布手套。"
+      },
+      "hard_constraints": [
+        "银白基色冷蓝紫阴影、分束弯刘海和两三层羽状外翘鬓束，保留长后发与右鬓孔雀羽饰。",
+        "自然紫青虹彩仅在足够像素睁眼近景可见；低温半闭/慢聚焦允许，不能用发光眼、灵魂游离或法术红灯替代。",
+        "玉镯仍只左腕；红光只是远处红灯反射，不是镯子施法。按肩肘腕几何判断，不能因拿物/写字就默认右手；遮挡不强补。",
+        "树下冷白、迟钝、指灰白微动、缩向树干、试坐肩抖与转脸按源，不画成娇羞红脸或同前章一贯温柔笑。",
+        "专业救援与医务检查后才回到宿舍；糖不作为神奇治愈，未写停止心跳、失去呼吸、醉酒或确诊信息。",
+        "姓名写爻光。旧sheet/早期页交光错误不沿用；必要用自然主任称呼，小签名可以真实手写但不能改成别的名字。"
+      ]
+    },
+    "符玄": {
+      "source_role": "成年教务主任；接到电话、到树下、联系刃和医院、裹紧衣物、医务陪医院人员后续。",
+      "visual_lock": "沿第二话p04粉紫长发、金框眼镜、紫灰职装、成人比例；夜间可外加普通深紫灰冬大衣。",
+      "original_reference_available": false,
+      "reference_is_previous_manga_not_user_original": true,
+      "avoid": "不是高中生/医生/神谕施法者，不追问羞辱低温Y。"
+    },
+    "刃": {
+      "source_role": "成年校医检查，医院人员接上后续安排；本话不重新剪F尚不存在的左黑手套。",
+      "visual_lock": "沿第十话p17成年深色低束发、朴素白大褂、医用手套/诊疗手势；可侧背和手部。",
+      "original_reference_available": false,
+      "reference_is_previous_manga_adaptation_not_user_original": true,
+      "avoid": "不复制同页白露为本话新护士，不套游戏武器战斗装，不增未写输液/口服强喂/医学教学。"
+    },
+    "值夜保安及医院人员": {
+      "source_role": "F先找保安，保安拿灯到树边蹲下并递毯；医院人员后续由符玄陪同。",
+      "visual_plan": "普通成年深制服保安带普通手电与钥匙环，一条中性灰/米灰毯；医院人员成人、普通医疗工作装，简化侧背即可。",
+      "user_original_available": false,
+      "avoid": "不换成学生义医，不加突击队/多人逮捕/无源直升机与独救抱回戏。"
+    }
+  },
+  "prompt_inserts": {
+    "identity": "FEIYING is an adult art teacher with a short fluffy pale-pink crown, sharp outward short cheek tufts plus separately layered long rear strands, crystal-violet eyes, red bow and sakura clip. YAOGUANG is an adult teacher/director with silver-white rear hair, separated curved fringe and outward feather side tufts, RIGHT-temple peacock accessory and natural violet-cyan iridescent eyes. Do not borrow fantasy clothes or animal ears.",
+    "night_clothing": "F wears one jujube-red short padded jacket over berry cardigan/ivory top, navy insulated straight cotton trousers, dark socks and NEW BLACK FLAT SHOES WITHOUT GOLD BUCKLES. F owns ONE WARM PINK simple fringed scarf. Y wears her white campus suit under ONE DEEP NAVY LONG OVERCOAT and her own single navy shoulder/neck scarf. F only pulls Y own slipped coat back onto Y shoulder. F never lends/duplicates her padded jacket.",
+    "hands": "F anatomical LEFT is exposed-finger WHITE GAUZE BANDAGE throughout; no black left glove. RIGHT starts in white full-finger glove but explicitly removes it at the tree and pockets it; afterwards RIGHT IS BARE and left remains bandaged. Y is BARE BOTH HANDS, jade only anatomical LEFT wrist, RIGHT wrist empty. Use current-page phase, not the daytime reference costume.",
+    "acting": "Follow the source cold, shock, tremor, flat voice masking fear, broken shout and tired avoidance. Do not romanticize dangerous cold as blushing cuddles, magic sleep or a smiling date. No kiss, confession or miraculous candy cure.",
+    "candy": "Exactly ONE pink hard candy and ONE pink fox wrapper. F peels with her bare right while injured left lightly supports; keep wrapper near candy so Y can crinkle it and later save it. Put candy into Y HAND, never mouth or forced feeding. Do not invent a prior gift scene or turn former sugar cubes into this candy.",
+    "visibility_policy": "Review only visible anatomy and objects. Covered shoulders, elbows and wrists do not justify inferring wrong sides. A hand holding/writing is not automatically right. Do not require hidden fingertips or bracelet to be invented."
+  },
+  "qa_rules": [
+    "先实际打开整张本话PNG，不能以提示、源审、PIL解码或缩略图代替整页内容/身份审阅。所有局修最终图也重新实看并核当前SHA。",
+    "用户原设定头脸身份；校正后的既有漫画定校园形象。本话冬装与新鞋为根代理批准的源驱动变化，不拿旧日间裙装覆盖棉裤。",
+    "手套分期以树下脱右套为界；左纱布全话保持。右皮肤灰白冷不等于白手套，左纱布要有缠绕与露指可见区别。",
+    "Y左玉右空按实际可追肩肘腕的几何核；无法追时可左手跨身/遮挡，不默认写字右手而泛改，不为被遮的左腕补镯。",
+    "源定颜色以固有色/可见情况判断，夜蓝光及医院暖光可有受光变化，不因色温小差重绘无误画面。",
+    "只修明确原作、角色身份、伤侧、数量归属、可读台词/气泡或连续性错误；不为衣边、杯沿、装饰简化、遮挡或极小形状差无限返工。",
+    "源危机表演允许迟钝闭眼、恐慌僵住、疲态及不笑，不把不同状态错判为必须恢复笑脸。",
+    "无源医学诊断与奇迹疗法不加，救援有符玄/保安/刃/医院接续，不把F一个人浪漫抱回当完成源事件。",
+    "22页实际最终SHA、作者显式source、生成记录与QA批准SHA对应后，且作者全部冻停写，角色终表才写completed_and_frozen。"
+  ],
+  "actual_episode_review": {
+    "stage": "22页100格全部最终实图整页QA通过；A/B前后各11作者来源记录全冻结停写；本角色最终22表已完成并停止写入。",
+    "page_count": 22,
+    "panel_count": 100,
+    "full_page_reviewer": "/root/ep11_visual_qa",
+    "identity_anchor_auditor": "/root/ep11_character_audit",
+    "identity_anchor_checks": [
+      {
+        "page": 1,
+        "file": "page-01.png",
+        "current_source": "/workspace/generated_images/exec-9b839914-99af-4ca5-8c19-805d553f075e.png",
+        "sha256": "781fc42ffc940574a9853d2b040e9888b4371d5f29fb19cac3e3a197ef3b4001",
+        "auditor": "/root/ep11_character_audit",
+        "actual_png_viewed": true,
+        "identity_decision": "passed",
+        "scope": "本代理实际整页打开01冬装/伤后身份锚；整页内容另由命名ep11_visual_qa实审通过。",
+        "observations": {
+          "绯英头脸": "浅樱粉短蓬主冠、颊侧外翻短束与独立长后束清楚；紫眼、红蝶结和樱花夹准确，睡醒疲态不判为身份漂移。",
+          "冬装与伤手": "枣红短冬夹克、原开衫/米白内搭、暖樱粉针织流苏巾、navy保暖长裤与新黑平底鞋均明确；左白纱布露指，右白全指扣衣/提水器。",
+          "可见性": "新鞋远景细小反光不凭金点推定上一话坏鞋修好；11:00有补休夜字幕和夜景，是12时制晚十一点，不改成23:00。镜中人物是反射非复制包/巾。"
+        },
+        "remaining_identity_must_fix": [],
+        "final_full_page_review": "passed_by_ep11_visual_qa_on_frozen_final_png",
+        "final_png_sha_matches_personal_identity_recheck": true
+      },
+      {
+        "page": 8,
+        "file": "page-08.png",
+        "current_source": "/workspace/generated_images/exec-ceb5fb15-75a1-45b8-9c4e-6dca152b0d14.png",
+        "sha256": "1abfb40be45d024e370b0ebb4fd42c0b95b8d5b9774dabf988a62f0b74eac623",
+        "auditor": "/root/ep11_character_audit",
+        "actual_png_viewed": true,
+        "identity_decision": "passed",
+        "scope": "本代理在ep11_visual_qa实际全页终审通过后，亲自打开08冷态双主角身份/手套相位锚；与01出门和21医务后寝室形成不同情境核对。",
+        "observations": {
+          "绯英身份和动作": "短蓬粉主冠/外翻短脸周束/独立长后束、紫晶眼、红结樱夹保持；枣红夹克和暖樱粉围巾仍自己穿戴。右裸手触Y颊侧、左白纱露指轻搭肩正确，没有长回右白套或左黑套。",
+          "爻光身份和冷态": "分束弯刘海、羽状外翘鬓束、右羽饰和自然紫青虹彩保持；银白亮面在冷蓝紫夜阴影中可辨。源低温迟缓、半闭慢聚焦、缩坐与唇微张允许，不强制温婉笑/羞红。",
+          "物件和文字": "Y自己的深藏蓝大衣落雪、原navy肩颈巾仍在；F粉巾未提前借出。亥时、凌晨一点零四分十二月二十二与声平手抖均按源；手抖以细线表现，非握脸/吻或神力。"
+        },
+        "remaining_identity_must_fix": [],
+        "final_full_page_review": "passed_by_ep11_visual_qa_on_frozen_final_png",
+        "final_png_sha_matches_personal_identity_recheck": true
+      },
+      {
+        "page": 21,
+        "file": "page-21.png",
+        "current_source": "/workspace/generated_images/exec-a84c8124-37b7-4fd4-87e8-ff7962c69887.png",
+        "sha256": "8056435b44e2ea6c0c703e30409d63f862b95b74bf490878b9fef5c7b4693a8b",
+        "auditor": "/root/ep11_character_audit",
+        "actual_png_viewed": true,
+        "identity_decision": "passed",
+        "scope": "本代理实际整页打开21借粉巾后Y寝室身份锚；本页另已由ep11_visual_qa实际整页通过。",
+        "observations": {
+          "爻光头脸": "银白亮面冷蓝紫阴影、独立弯刘海与颊侧羽状外翻短束、右鬓羽饰均清楚；自然紫青/暖金细反光虹膜及医务后安静疲态符合源，不强迫冷症状继续到清醒后。",
+          "手与衣物": "裸双手，正面及俯视均左玉右空；保留白校园套青腰带/左navy肩巾，唯一借来暖樱粉针织流苏巾围颈，深藏蓝大衣挂椅而非复制新衣。",
+          "物件文字": "日期12月22日、三小时、笔尖压出小洞准确；同张粉狐糖纸已到Y桌上，仍未提前复制纸或新增糖入口。"
+        },
+        "remaining_identity_must_fix": [],
+        "final_full_page_review": "passed_by_ep11_visual_qa_on_frozen_final_png",
+        "final_png_sha_matches_personal_identity_recheck": true
+      }
+    ],
+    "final_pages": [
+      {
+        "page": 1,
+        "file": "page-01.png",
+        "current_source": "/workspace/generated_images/exec-9b839914-99af-4ca5-8c19-805d553f075e.png",
+        "sha256": "781fc42ffc940574a9853d2b040e9888b4371d5f29fb19cac3e3a197ef3b4001",
+        "actual_final_png_viewed": true,
+        "full_page_reviewer": "/root/ep11_visual_qa",
+        "review_basis": "用户三张原设、既有校正角色与根批准源驱动冬装、卷二第十一章；命名全页QA真实逐张打开22最终PNG并重开全部局修，最后磁盘SHA22/22等于批准矩阵。",
+        "visible_character_identity": "passed_where_visible",
+        "approved_winter_outfits_and_adult_proportions": "passed_where_visible",
+        "glove_bandage_and_wrist_sides": "passed_source_phases_left_gauze_exposed_fingers_right_white_until_tree_removal_then_bare_Y_bare_left_jade_right_empty_where_visible",
+        "cold_rescue_and_clinical_continuity": "passed_source_cold_delayed_response_call_backup_guard_Fuxuan_clinical_and_hospital_followup_before_dorm_where_applicable",
+        "scarf_coat_bag_candy_ownership": "passed_source_phase_one_F_warm_pink_scarf_lent_at_clinic_one_Y_navy_scarf_own_overcoats_single_bag_single_candy_and_retained_fox_wrapper_where_visible",
+        "time_text_and_story_continuity": "passed_source_times_and_scene_visible_text_where_applicable",
+        "scene_expression": "passed_source_flat_voice_hand_tremor_cold_slowness_tired_care_and_quiet_recovery_without_added_confession",
+        "visibility_qualification": "只判断可见范围，闭眼/背面/遮挡不假补；不把持物默认右手或袖内窄阴影当第二玉。全22实看由ep11_visual_qa负责，本角色代理亲看范围严格仅01/08/21，未冒称亲看其余19页。",
+        "character_auditor_personally_viewed_this_final_png": true,
+        "identity_anchor_basis": [
+          1,
+          8,
+          21
+        ],
+        "author_page_frozen": true,
+        "must_fix": [],
+        "decision": "passed_on_frozen_final_png"
+      },
+      {
+        "page": 2,
+        "file": "page-02.png",
+        "current_source": "/workspace/generated_images/exec-f535d4c0-c9a1-43b5-ad59-490103d566d6.png",
+        "sha256": "17bce13d7c033cc81f4118d6dc63b46d7506c6a3523f598913194fe40f1ee8c4",
+        "actual_final_png_viewed": true,
+        "full_page_reviewer": "/root/ep11_visual_qa",
+        "review_basis": "用户三张原设、既有校正角色与根批准源驱动冬装、卷二第十一章；命名全页QA真实逐张打开22最终PNG并重开全部局修，最后磁盘SHA22/22等于批准矩阵。",
+        "visible_character_identity": "passed_where_visible",
+        "approved_winter_outfits_and_adult_proportions": "passed_where_visible",
+        "glove_bandage_and_wrist_sides": "passed_source_phases_left_gauze_exposed_fingers_right_white_until_tree_removal_then_bare_Y_bare_left_jade_right_empty_where_visible",
+        "cold_rescue_and_clinical_continuity": "passed_source_cold_delayed_response_call_backup_guard_Fuxuan_clinical_and_hospital_followup_before_dorm_where_applicable",
+        "scarf_coat_bag_candy_ownership": "passed_source_phase_one_F_warm_pink_scarf_lent_at_clinic_one_Y_navy_scarf_own_overcoats_single_bag_single_candy_and_retained_fox_wrapper_where_visible",
+        "time_text_and_story_continuity": "passed_source_times_and_scene_visible_text_where_applicable",
+        "scene_expression": "passed_source_flat_voice_hand_tremor_cold_slowness_tired_care_and_quiet_recovery_without_added_confession",
+        "visibility_qualification": "只判断可见范围，闭眼/背面/遮挡不假补；不把持物默认右手或袖内窄阴影当第二玉。全22实看由ep11_visual_qa负责，本角色代理亲看范围严格仅01/08/21，未冒称亲看其余19页。",
+        "character_auditor_personally_viewed_this_final_png": false,
+        "identity_anchor_basis": [
+          1,
+          8,
+          21
+        ],
+        "author_page_frozen": true,
+        "must_fix": [],
+        "decision": "passed_on_frozen_final_png"
+      },
+      {
+        "page": 3,
+        "file": "page-03.png",
+        "current_source": "/workspace/generated_images/exec-e3970a53-01f4-45bd-a0bb-123d5457ff0a.png",
+        "sha256": "0f66eb2412538bd4ea201611739e6193d32fad48cabd5d3b3d790c2143e947da",
+        "actual_final_png_viewed": true,
+        "full_page_reviewer": "/root/ep11_visual_qa",
+        "review_basis": "用户三张原设、既有校正角色与根批准源驱动冬装、卷二第十一章；命名全页QA真实逐张打开22最终PNG并重开全部局修，最后磁盘SHA22/22等于批准矩阵。",
+        "visible_character_identity": "passed_where_visible",
+        "approved_winter_outfits_and_adult_proportions": "passed_where_visible",
+        "glove_bandage_and_wrist_sides": "passed_source_phases_left_gauze_exposed_fingers_right_white_until_tree_removal_then_bare_Y_bare_left_jade_right_empty_where_visible",
+        "cold_rescue_and_clinical_continuity": "passed_source_cold_delayed_response_call_backup_guard_Fuxuan_clinical_and_hospital_followup_before_dorm_where_applicable",
+        "scarf_coat_bag_candy_ownership": "passed_source_phase_one_F_warm_pink_scarf_lent_at_clinic_one_Y_navy_scarf_own_overcoats_single_bag_single_candy_and_retained_fox_wrapper_where_visible",
+        "time_text_and_story_continuity": "passed_source_times_and_scene_visible_text_where_applicable",
+        "scene_expression": "passed_source_flat_voice_hand_tremor_cold_slowness_tired_care_and_quiet_recovery_without_added_confession",
+        "visibility_qualification": "只判断可见范围，闭眼/背面/遮挡不假补；不把持物默认右手或袖内窄阴影当第二玉。全22实看由ep11_visual_qa负责，本角色代理亲看范围严格仅01/08/21，未冒称亲看其余19页。",
+        "character_auditor_personally_viewed_this_final_png": false,
+        "identity_anchor_basis": [
+          1,
+          8,
+          21
+        ],
+        "author_page_frozen": true,
+        "must_fix": [],
+        "decision": "passed_on_frozen_final_png"
+      },
+      {
+        "page": 4,
+        "file": "page-04.png",
+        "current_source": "/workspace/generated_images/exec-841e6ed7-1644-4f95-81ff-ede3ce130ed7.png",
+        "sha256": "12175d60fd6361649ddfaea2b51805184d7bec2621f38383a831d51602f26aef",
+        "actual_final_png_viewed": true,
+        "full_page_reviewer": "/root/ep11_visual_qa",
+        "review_basis": "用户三张原设、既有校正角色与根批准源驱动冬装、卷二第十一章；命名全页QA真实逐张打开22最终PNG并重开全部局修，最后磁盘SHA22/22等于批准矩阵。",
+        "visible_character_identity": "passed_where_visible",
+        "approved_winter_outfits_and_adult_proportions": "passed_where_visible",
+        "glove_bandage_and_wrist_sides": "passed_source_phases_left_gauze_exposed_fingers_right_white_until_tree_removal_then_bare_Y_bare_left_jade_right_empty_where_visible",
+        "cold_rescue_and_clinical_continuity": "passed_source_cold_delayed_response_call_backup_guard_Fuxuan_clinical_and_hospital_followup_before_dorm_where_applicable",
+        "scarf_coat_bag_candy_ownership": "passed_source_phase_one_F_warm_pink_scarf_lent_at_clinic_one_Y_navy_scarf_own_overcoats_single_bag_single_candy_and_retained_fox_wrapper_where_visible",
+        "time_text_and_story_continuity": "passed_source_times_and_scene_visible_text_where_applicable",
+        "scene_expression": "passed_source_flat_voice_hand_tremor_cold_slowness_tired_care_and_quiet_recovery_without_added_confession",
+        "visibility_qualification": "只判断可见范围，闭眼/背面/遮挡不假补；不把持物默认右手或袖内窄阴影当第二玉。全22实看由ep11_visual_qa负责，本角色代理亲看范围严格仅01/08/21，未冒称亲看其余19页。",
+        "character_auditor_personally_viewed_this_final_png": false,
+        "identity_anchor_basis": [
+          1,
+          8,
+          21
+        ],
+        "author_page_frozen": true,
+        "must_fix": [],
+        "decision": "passed_on_frozen_final_png"
+      },
+      {
+        "page": 5,
+        "file": "page-05.png",
+        "current_source": "/workspace/generated_images/exec-f565a413-c2f9-48c4-8471-cfbd2b9273e4.png",
+        "sha256": "dbd6220998bf2ff9594ab8e59326d07d908e2119a8793bad78cde18926ad6cfe",
+        "actual_final_png_viewed": true,
+        "full_page_reviewer": "/root/ep11_visual_qa",
+        "review_basis": "用户三张原设、既有校正角色与根批准源驱动冬装、卷二第十一章；命名全页QA真实逐张打开22最终PNG并重开全部局修，最后磁盘SHA22/22等于批准矩阵。",
+        "visible_character_identity": "passed_where_visible",
+        "approved_winter_outfits_and_adult_proportions": "passed_where_visible",
+        "glove_bandage_and_wrist_sides": "passed_source_phases_left_gauze_exposed_fingers_right_white_until_tree_removal_then_bare_Y_bare_left_jade_right_empty_where_visible",
+        "cold_rescue_and_clinical_continuity": "passed_source_cold_delayed_response_call_backup_guard_Fuxuan_clinical_and_hospital_followup_before_dorm_where_applicable",
+        "scarf_coat_bag_candy_ownership": "passed_source_phase_one_F_warm_pink_scarf_lent_at_clinic_one_Y_navy_scarf_own_overcoats_single_bag_single_candy_and_retained_fox_wrapper_where_visible",
+        "time_text_and_story_continuity": "passed_source_times_and_scene_visible_text_where_applicable",
+        "scene_expression": "passed_source_flat_voice_hand_tremor_cold_slowness_tired_care_and_quiet_recovery_without_added_confession",
+        "visibility_qualification": "只判断可见范围，闭眼/背面/遮挡不假补；不把持物默认右手或袖内窄阴影当第二玉。全22实看由ep11_visual_qa负责，本角色代理亲看范围严格仅01/08/21，未冒称亲看其余19页。",
+        "character_auditor_personally_viewed_this_final_png": false,
+        "identity_anchor_basis": [
+          1,
+          8,
+          21
+        ],
+        "author_page_frozen": true,
+        "must_fix": [],
+        "decision": "passed_on_frozen_final_png"
+      },
+      {
+        "page": 6,
+        "file": "page-06.png",
+        "current_source": "/workspace/generated_images/exec-5e70d059-f938-4867-90c7-1a4511186778.png",
+        "sha256": "14afaf624ae4776401124f9956ac81f9991f119aac21fa7fdf13217a70ed813b",
+        "actual_final_png_viewed": true,
+        "full_page_reviewer": "/root/ep11_visual_qa",
+        "review_basis": "用户三张原设、既有校正角色与根批准源驱动冬装、卷二第十一章；命名全页QA真实逐张打开22最终PNG并重开全部局修，最后磁盘SHA22/22等于批准矩阵。",
+        "visible_character_identity": "passed_where_visible",
+        "approved_winter_outfits_and_adult_proportions": "passed_where_visible",
+        "glove_bandage_and_wrist_sides": "passed_source_phases_left_gauze_exposed_fingers_right_white_until_tree_removal_then_bare_Y_bare_left_jade_right_empty_where_visible",
+        "cold_rescue_and_clinical_continuity": "passed_source_cold_delayed_response_call_backup_guard_Fuxuan_clinical_and_hospital_followup_before_dorm_where_applicable",
+        "scarf_coat_bag_candy_ownership": "passed_source_phase_one_F_warm_pink_scarf_lent_at_clinic_one_Y_navy_scarf_own_overcoats_single_bag_single_candy_and_retained_fox_wrapper_where_visible",
+        "time_text_and_story_continuity": "passed_source_times_and_scene_visible_text_where_applicable",
+        "scene_expression": "passed_source_flat_voice_hand_tremor_cold_slowness_tired_care_and_quiet_recovery_without_added_confession",
+        "visibility_qualification": "只判断可见范围，闭眼/背面/遮挡不假补；不把持物默认右手或袖内窄阴影当第二玉。全22实看由ep11_visual_qa负责，本角色代理亲看范围严格仅01/08/21，未冒称亲看其余19页。",
+        "character_auditor_personally_viewed_this_final_png": false,
+        "identity_anchor_basis": [
+          1,
+          8,
+          21
+        ],
+        "author_page_frozen": true,
+        "must_fix": [],
+        "decision": "passed_on_frozen_final_png"
+      },
+      {
+        "page": 7,
+        "file": "page-07.png",
+        "current_source": "/workspace/generated_images/exec-cd42aa83-4d54-4948-86f0-b314440e5d98.png",
+        "sha256": "2f04aab2e6a3b7046d0d5128611edc28c252738e77f3cb905a0c316c7c413aa9",
+        "actual_final_png_viewed": true,
+        "full_page_reviewer": "/root/ep11_visual_qa",
+        "review_basis": "用户三张原设、既有校正角色与根批准源驱动冬装、卷二第十一章；命名全页QA真实逐张打开22最终PNG并重开全部局修，最后磁盘SHA22/22等于批准矩阵。",
+        "visible_character_identity": "passed_where_visible",
+        "approved_winter_outfits_and_adult_proportions": "passed_where_visible",
+        "glove_bandage_and_wrist_sides": "passed_source_phases_left_gauze_exposed_fingers_right_white_until_tree_removal_then_bare_Y_bare_left_jade_right_empty_where_visible",
+        "cold_rescue_and_clinical_continuity": "passed_source_cold_delayed_response_call_backup_guard_Fuxuan_clinical_and_hospital_followup_before_dorm_where_applicable",
+        "scarf_coat_bag_candy_ownership": "passed_source_phase_one_F_warm_pink_scarf_lent_at_clinic_one_Y_navy_scarf_own_overcoats_single_bag_single_candy_and_retained_fox_wrapper_where_visible",
+        "time_text_and_story_continuity": "passed_source_times_and_scene_visible_text_where_applicable",
+        "scene_expression": "passed_source_flat_voice_hand_tremor_cold_slowness_tired_care_and_quiet_recovery_without_added_confession",
+        "visibility_qualification": "只判断可见范围，闭眼/背面/遮挡不假补；不把持物默认右手或袖内窄阴影当第二玉。全22实看由ep11_visual_qa负责，本角色代理亲看范围严格仅01/08/21，未冒称亲看其余19页。",
+        "character_auditor_personally_viewed_this_final_png": false,
+        "identity_anchor_basis": [
+          1,
+          8,
+          21
+        ],
+        "author_page_frozen": true,
+        "must_fix": [],
+        "decision": "passed_on_frozen_final_png"
+      },
+      {
+        "page": 8,
+        "file": "page-08.png",
+        "current_source": "/workspace/generated_images/exec-ceb5fb15-75a1-45b8-9c4e-6dca152b0d14.png",
+        "sha256": "1abfb40be45d024e370b0ebb4fd42c0b95b8d5b9774dabf988a62f0b74eac623",
+        "actual_final_png_viewed": true,
+        "full_page_reviewer": "/root/ep11_visual_qa",
+        "review_basis": "用户三张原设、既有校正角色与根批准源驱动冬装、卷二第十一章；命名全页QA真实逐张打开22最终PNG并重开全部局修，最后磁盘SHA22/22等于批准矩阵。",
+        "visible_character_identity": "passed_where_visible",
+        "approved_winter_outfits_and_adult_proportions": "passed_where_visible",
+        "glove_bandage_and_wrist_sides": "passed_source_phases_left_gauze_exposed_fingers_right_white_until_tree_removal_then_bare_Y_bare_left_jade_right_empty_where_visible",
+        "cold_rescue_and_clinical_continuity": "passed_source_cold_delayed_response_call_backup_guard_Fuxuan_clinical_and_hospital_followup_before_dorm_where_applicable",
+        "scarf_coat_bag_candy_ownership": "passed_source_phase_one_F_warm_pink_scarf_lent_at_clinic_one_Y_navy_scarf_own_overcoats_single_bag_single_candy_and_retained_fox_wrapper_where_visible",
+        "time_text_and_story_continuity": "passed_source_times_and_scene_visible_text_where_applicable",
+        "scene_expression": "passed_source_flat_voice_hand_tremor_cold_slowness_tired_care_and_quiet_recovery_without_added_confession",
+        "visibility_qualification": "只判断可见范围，闭眼/背面/遮挡不假补；不把持物默认右手或袖内窄阴影当第二玉。全22实看由ep11_visual_qa负责，本角色代理亲看范围严格仅01/08/21，未冒称亲看其余19页。",
+        "character_auditor_personally_viewed_this_final_png": true,
+        "identity_anchor_basis": [
+          1,
+          8,
+          21
+        ],
+        "author_page_frozen": true,
+        "must_fix": [],
+        "decision": "passed_on_frozen_final_png"
+      },
+      {
+        "page": 9,
+        "file": "page-09.png",
+        "current_source": "/workspace/generated_images/exec-975b6b98-eaaa-423c-94a7-292bd84ffeab.png",
+        "sha256": "36980c3cda5f17739db5538d8b1e33a070d1932f9935497bf36e2e9290d05a0e",
+        "actual_final_png_viewed": true,
+        "full_page_reviewer": "/root/ep11_visual_qa",
+        "review_basis": "用户三张原设、既有校正角色与根批准源驱动冬装、卷二第十一章；命名全页QA真实逐张打开22最终PNG并重开全部局修，最后磁盘SHA22/22等于批准矩阵。",
+        "visible_character_identity": "passed_where_visible",
+        "approved_winter_outfits_and_adult_proportions": "passed_where_visible",
+        "glove_bandage_and_wrist_sides": "passed_source_phases_left_gauze_exposed_fingers_right_white_until_tree_removal_then_bare_Y_bare_left_jade_right_empty_where_visible",
+        "cold_rescue_and_clinical_continuity": "passed_source_cold_delayed_response_call_backup_guard_Fuxuan_clinical_and_hospital_followup_before_dorm_where_applicable",
+        "scarf_coat_bag_candy_ownership": "passed_source_phase_one_F_warm_pink_scarf_lent_at_clinic_one_Y_navy_scarf_own_overcoats_single_bag_single_candy_and_retained_fox_wrapper_where_visible",
+        "time_text_and_story_continuity": "passed_source_times_and_scene_visible_text_where_applicable",
+        "scene_expression": "passed_source_flat_voice_hand_tremor_cold_slowness_tired_care_and_quiet_recovery_without_added_confession",
+        "visibility_qualification": "只判断可见范围，闭眼/背面/遮挡不假补；不把持物默认右手或袖内窄阴影当第二玉。全22实看由ep11_visual_qa负责，本角色代理亲看范围严格仅01/08/21，未冒称亲看其余19页。",
+        "character_auditor_personally_viewed_this_final_png": false,
+        "identity_anchor_basis": [
+          1,
+          8,
+          21
+        ],
+        "author_page_frozen": true,
+        "must_fix": [],
+        "decision": "passed_on_frozen_final_png"
+      },
+      {
+        "page": 10,
+        "file": "page-10.png",
+        "current_source": "/workspace/generated_images/exec-3aef6166-ea4c-4ea6-a3de-c244387458ed.png",
+        "sha256": "d0c6067896653ac7a194e27f17fa1655f874d3f6ac09dd4fd61d19835241932d",
+        "actual_final_png_viewed": true,
+        "full_page_reviewer": "/root/ep11_visual_qa",
+        "review_basis": "用户三张原设、既有校正角色与根批准源驱动冬装、卷二第十一章；命名全页QA真实逐张打开22最终PNG并重开全部局修，最后磁盘SHA22/22等于批准矩阵。",
+        "visible_character_identity": "passed_where_visible",
+        "approved_winter_outfits_and_adult_proportions": "passed_where_visible",
+        "glove_bandage_and_wrist_sides": "passed_source_phases_left_gauze_exposed_fingers_right_white_until_tree_removal_then_bare_Y_bare_left_jade_right_empty_where_visible",
+        "cold_rescue_and_clinical_continuity": "passed_source_cold_delayed_response_call_backup_guard_Fuxuan_clinical_and_hospital_followup_before_dorm_where_applicable",
+        "scarf_coat_bag_candy_ownership": "passed_source_phase_one_F_warm_pink_scarf_lent_at_clinic_one_Y_navy_scarf_own_overcoats_single_bag_single_candy_and_retained_fox_wrapper_where_visible",
+        "time_text_and_story_continuity": "passed_source_times_and_scene_visible_text_where_applicable",
+        "scene_expression": "passed_source_flat_voice_hand_tremor_cold_slowness_tired_care_and_quiet_recovery_without_added_confession",
+        "visibility_qualification": "只判断可见范围，闭眼/背面/遮挡不假补；不把持物默认右手或袖内窄阴影当第二玉。全22实看由ep11_visual_qa负责，本角色代理亲看范围严格仅01/08/21，未冒称亲看其余19页。",
+        "character_auditor_personally_viewed_this_final_png": false,
+        "identity_anchor_basis": [
+          1,
+          8,
+          21
+        ],
+        "author_page_frozen": true,
+        "must_fix": [],
+        "decision": "passed_on_frozen_final_png"
+      },
+      {
+        "page": 11,
+        "file": "page-11.png",
+        "current_source": "/workspace/generated_images/exec-ba374bfa-8ac8-4d05-8fb4-ccff66a4bd60.png",
+        "sha256": "090366425a7413bb1eedb1f1f5e26cd0b7bde94142bde6bbf6227d4d1c9f1394",
+        "actual_final_png_viewed": true,
+        "full_page_reviewer": "/root/ep11_visual_qa",
+        "review_basis": "用户三张原设、既有校正角色与根批准源驱动冬装、卷二第十一章；命名全页QA真实逐张打开22最终PNG并重开全部局修，最后磁盘SHA22/22等于批准矩阵。",
+        "visible_character_identity": "passed_where_visible",
+        "approved_winter_outfits_and_adult_proportions": "passed_where_visible",
+        "glove_bandage_and_wrist_sides": "passed_source_phases_left_gauze_exposed_fingers_right_white_until_tree_removal_then_bare_Y_bare_left_jade_right_empty_where_visible",
+        "cold_rescue_and_clinical_continuity": "passed_source_cold_delayed_response_call_backup_guard_Fuxuan_clinical_and_hospital_followup_before_dorm_where_applicable",
+        "scarf_coat_bag_candy_ownership": "passed_source_phase_one_F_warm_pink_scarf_lent_at_clinic_one_Y_navy_scarf_own_overcoats_single_bag_single_candy_and_retained_fox_wrapper_where_visible",
+        "time_text_and_story_continuity": "passed_source_times_and_scene_visible_text_where_applicable",
+        "scene_expression": "passed_source_flat_voice_hand_tremor_cold_slowness_tired_care_and_quiet_recovery_without_added_confession",
+        "visibility_qualification": "只判断可见范围，闭眼/背面/遮挡不假补；不把持物默认右手或袖内窄阴影当第二玉。全22实看由ep11_visual_qa负责，本角色代理亲看范围严格仅01/08/21，未冒称亲看其余19页。",
+        "character_auditor_personally_viewed_this_final_png": false,
+        "identity_anchor_basis": [
+          1,
+          8,
+          21
+        ],
+        "author_page_frozen": true,
+        "must_fix": [],
+        "decision": "passed_on_frozen_final_png"
+      },
+      {
+        "page": 12,
+        "file": "page-12.png",
+        "current_source": "/workspace/generated_images/exec-55fbc2ea-8d99-4df1-ab51-01dea3579c60.png",
+        "sha256": "69517ec54b9693af61a5007422199e2e214afe9504aba1c135b689bb89a1635a",
+        "actual_final_png_viewed": true,
+        "full_page_reviewer": "/root/ep11_visual_qa",
+        "review_basis": "用户三张原设、既有校正角色与根批准源驱动冬装、卷二第十一章；命名全页QA真实逐张打开22最终PNG并重开全部局修，最后磁盘SHA22/22等于批准矩阵。",
+        "visible_character_identity": "passed_where_visible",
+        "approved_winter_outfits_and_adult_proportions": "passed_where_visible",
+        "glove_bandage_and_wrist_sides": "passed_source_phases_left_gauze_exposed_fingers_right_white_until_tree_removal_then_bare_Y_bare_left_jade_right_empty_where_visible",
+        "cold_rescue_and_clinical_continuity": "passed_source_cold_delayed_response_call_backup_guard_Fuxuan_clinical_and_hospital_followup_before_dorm_where_applicable",
+        "scarf_coat_bag_candy_ownership": "passed_source_phase_one_F_warm_pink_scarf_lent_at_clinic_one_Y_navy_scarf_own_overcoats_single_bag_single_candy_and_retained_fox_wrapper_where_visible",
+        "time_text_and_story_continuity": "passed_source_times_and_scene_visible_text_where_applicable",
+        "scene_expression": "passed_source_flat_voice_hand_tremor_cold_slowness_tired_care_and_quiet_recovery_without_added_confession",
+        "visibility_qualification": "只判断可见范围，闭眼/背面/遮挡不假补；不把持物默认右手或袖内窄阴影当第二玉。全22实看由ep11_visual_qa负责，本角色代理亲看范围严格仅01/08/21，未冒称亲看其余19页。",
+        "character_auditor_personally_viewed_this_final_png": false,
+        "identity_anchor_basis": [
+          1,
+          8,
+          21
+        ],
+        "author_page_frozen": true,
+        "must_fix": [],
+        "decision": "passed_on_frozen_final_png"
+      },
+      {
+        "page": 13,
+        "file": "page-13.png",
+        "current_source": "/workspace/generated_images/exec-3ac076b0-b57c-4855-98f7-9801f3be7adb.png",
+        "sha256": "74ccf20ae3f223f12ad38803ad3e2037c25a29e119a538cb3417aac05c25eef8",
+        "actual_final_png_viewed": true,
+        "full_page_reviewer": "/root/ep11_visual_qa",
+        "review_basis": "用户三张原设、既有校正角色与根批准源驱动冬装、卷二第十一章；命名全页QA真实逐张打开22最终PNG并重开全部局修，最后磁盘SHA22/22等于批准矩阵。",
+        "visible_character_identity": "passed_where_visible",
+        "approved_winter_outfits_and_adult_proportions": "passed_where_visible",
+        "glove_bandage_and_wrist_sides": "passed_source_phases_left_gauze_exposed_fingers_right_white_until_tree_removal_then_bare_Y_bare_left_jade_right_empty_where_visible",
+        "cold_rescue_and_clinical_continuity": "passed_source_cold_delayed_response_call_backup_guard_Fuxuan_clinical_and_hospital_followup_before_dorm_where_applicable",
+        "scarf_coat_bag_candy_ownership": "passed_source_phase_one_F_warm_pink_scarf_lent_at_clinic_one_Y_navy_scarf_own_overcoats_single_bag_single_candy_and_retained_fox_wrapper_where_visible",
+        "time_text_and_story_continuity": "passed_source_times_and_scene_visible_text_where_applicable",
+        "scene_expression": "passed_source_flat_voice_hand_tremor_cold_slowness_tired_care_and_quiet_recovery_without_added_confession",
+        "visibility_qualification": "只判断可见范围，闭眼/背面/遮挡不假补；不把持物默认右手或袖内窄阴影当第二玉。全22实看由ep11_visual_qa负责，本角色代理亲看范围严格仅01/08/21，未冒称亲看其余19页。",
+        "character_auditor_personally_viewed_this_final_png": false,
+        "identity_anchor_basis": [
+          1,
+          8,
+          21
+        ],
+        "author_page_frozen": true,
+        "must_fix": [],
+        "decision": "passed_on_frozen_final_png"
+      },
+      {
+        "page": 14,
+        "file": "page-14.png",
+        "current_source": "/workspace/generated_images/exec-29d9b2c0-5929-48bb-90b2-c3f470d3e9b8.png",
+        "sha256": "ab7f3b80b37bcb366d59c981ead66a050c27e15f40a2838f4366df267005544c",
+        "actual_final_png_viewed": true,
+        "full_page_reviewer": "/root/ep11_visual_qa",
+        "review_basis": "用户三张原设、既有校正角色与根批准源驱动冬装、卷二第十一章；命名全页QA真实逐张打开22最终PNG并重开全部局修，最后磁盘SHA22/22等于批准矩阵。",
+        "visible_character_identity": "passed_where_visible",
+        "approved_winter_outfits_and_adult_proportions": "passed_where_visible",
+        "glove_bandage_and_wrist_sides": "passed_source_phases_left_gauze_exposed_fingers_right_white_until_tree_removal_then_bare_Y_bare_left_jade_right_empty_where_visible",
+        "cold_rescue_and_clinical_continuity": "passed_source_cold_delayed_response_call_backup_guard_Fuxuan_clinical_and_hospital_followup_before_dorm_where_applicable",
+        "scarf_coat_bag_candy_ownership": "passed_source_phase_one_F_warm_pink_scarf_lent_at_clinic_one_Y_navy_scarf_own_overcoats_single_bag_single_candy_and_retained_fox_wrapper_where_visible",
+        "time_text_and_story_continuity": "passed_source_times_and_scene_visible_text_where_applicable",
+        "scene_expression": "passed_source_flat_voice_hand_tremor_cold_slowness_tired_care_and_quiet_recovery_without_added_confession",
+        "visibility_qualification": "只判断可见范围，闭眼/背面/遮挡不假补；不把持物默认右手或袖内窄阴影当第二玉。全22实看由ep11_visual_qa负责，本角色代理亲看范围严格仅01/08/21，未冒称亲看其余19页。",
+        "character_auditor_personally_viewed_this_final_png": false,
+        "identity_anchor_basis": [
+          1,
+          8,
+          21
+        ],
+        "author_page_frozen": true,
+        "must_fix": [],
+        "decision": "passed_on_frozen_final_png"
+      },
+      {
+        "page": 15,
+        "file": "page-15.png",
+        "current_source": "/workspace/generated_images/exec-9e9ba9cc-4c65-496b-80e3-f817ae61c5f7.png",
+        "sha256": "f0bfa7c30d10d0ce775af14c5be93fbf9293d36a9e69c7dddc44d9a8914e9fd5",
+        "actual_final_png_viewed": true,
+        "full_page_reviewer": "/root/ep11_visual_qa",
+        "review_basis": "用户三张原设、既有校正角色与根批准源驱动冬装、卷二第十一章；命名全页QA真实逐张打开22最终PNG并重开全部局修，最后磁盘SHA22/22等于批准矩阵。",
+        "visible_character_identity": "passed_where_visible",
+        "approved_winter_outfits_and_adult_proportions": "passed_where_visible",
+        "glove_bandage_and_wrist_sides": "passed_source_phases_left_gauze_exposed_fingers_right_white_until_tree_removal_then_bare_Y_bare_left_jade_right_empty_where_visible",
+        "cold_rescue_and_clinical_continuity": "passed_source_cold_delayed_response_call_backup_guard_Fuxuan_clinical_and_hospital_followup_before_dorm_where_applicable",
+        "scarf_coat_bag_candy_ownership": "passed_source_phase_one_F_warm_pink_scarf_lent_at_clinic_one_Y_navy_scarf_own_overcoats_single_bag_single_candy_and_retained_fox_wrapper_where_visible",
+        "time_text_and_story_continuity": "passed_source_times_and_scene_visible_text_where_applicable",
+        "scene_expression": "passed_source_flat_voice_hand_tremor_cold_slowness_tired_care_and_quiet_recovery_without_added_confession",
+        "visibility_qualification": "只判断可见范围，闭眼/背面/遮挡不假补；不把持物默认右手或袖内窄阴影当第二玉。全22实看由ep11_visual_qa负责，本角色代理亲看范围严格仅01/08/21，未冒称亲看其余19页。",
+        "character_auditor_personally_viewed_this_final_png": false,
+        "identity_anchor_basis": [
+          1,
+          8,
+          21
+        ],
+        "author_page_frozen": true,
+        "must_fix": [],
+        "decision": "passed_on_frozen_final_png"
+      },
+      {
+        "page": 16,
+        "file": "page-16.png",
+        "current_source": "/workspace/generated_images/exec-ff799a69-4151-447b-b348-ba2043a46007.png",
+        "sha256": "4f8f5c00bcae31246894f22630b08cdbbfe9da4b2434d32603dbd4487fdca33a",
+        "actual_final_png_viewed": true,
+        "full_page_reviewer": "/root/ep11_visual_qa",
+        "review_basis": "用户三张原设、既有校正角色与根批准源驱动冬装、卷二第十一章；命名全页QA真实逐张打开22最终PNG并重开全部局修，最后磁盘SHA22/22等于批准矩阵。",
+        "visible_character_identity": "passed_where_visible",
+        "approved_winter_outfits_and_adult_proportions": "passed_where_visible",
+        "glove_bandage_and_wrist_sides": "passed_source_phases_left_gauze_exposed_fingers_right_white_until_tree_removal_then_bare_Y_bare_left_jade_right_empty_where_visible",
+        "cold_rescue_and_clinical_continuity": "passed_source_cold_delayed_response_call_backup_guard_Fuxuan_clinical_and_hospital_followup_before_dorm_where_applicable",
+        "scarf_coat_bag_candy_ownership": "passed_source_phase_one_F_warm_pink_scarf_lent_at_clinic_one_Y_navy_scarf_own_overcoats_single_bag_single_candy_and_retained_fox_wrapper_where_visible",
+        "time_text_and_story_continuity": "passed_source_times_and_scene_visible_text_where_applicable",
+        "scene_expression": "passed_source_flat_voice_hand_tremor_cold_slowness_tired_care_and_quiet_recovery_without_added_confession",
+        "visibility_qualification": "只判断可见范围，闭眼/背面/遮挡不假补；不把持物默认右手或袖内窄阴影当第二玉。全22实看由ep11_visual_qa负责，本角色代理亲看范围严格仅01/08/21，未冒称亲看其余19页。",
+        "character_auditor_personally_viewed_this_final_png": false,
+        "identity_anchor_basis": [
+          1,
+          8,
+          21
+        ],
+        "author_page_frozen": true,
+        "must_fix": [],
+        "decision": "passed_on_frozen_final_png"
+      },
+      {
+        "page": 17,
+        "file": "page-17.png",
+        "current_source": "/workspace/generated_images/exec-646ebae2-1297-4740-b2cc-8a06bc9e0d28.png",
+        "sha256": "dc19aca7312ab6628cfcac3956f65c5c20f8b7a0e1fbdea78d025423e97bf918",
+        "actual_final_png_viewed": true,
+        "full_page_reviewer": "/root/ep11_visual_qa",
+        "review_basis": "用户三张原设、既有校正角色与根批准源驱动冬装、卷二第十一章；命名全页QA真实逐张打开22最终PNG并重开全部局修，最后磁盘SHA22/22等于批准矩阵。",
+        "visible_character_identity": "passed_where_visible",
+        "approved_winter_outfits_and_adult_proportions": "passed_where_visible",
+        "glove_bandage_and_wrist_sides": "passed_source_phases_left_gauze_exposed_fingers_right_white_until_tree_removal_then_bare_Y_bare_left_jade_right_empty_where_visible",
+        "cold_rescue_and_clinical_continuity": "passed_source_cold_delayed_response_call_backup_guard_Fuxuan_clinical_and_hospital_followup_before_dorm_where_applicable",
+        "scarf_coat_bag_candy_ownership": "passed_source_phase_one_F_warm_pink_scarf_lent_at_clinic_one_Y_navy_scarf_own_overcoats_single_bag_single_candy_and_retained_fox_wrapper_where_visible",
+        "time_text_and_story_continuity": "passed_source_times_and_scene_visible_text_where_applicable",
+        "scene_expression": "passed_source_flat_voice_hand_tremor_cold_slowness_tired_care_and_quiet_recovery_without_added_confession",
+        "visibility_qualification": "只判断可见范围，闭眼/背面/遮挡不假补；不把持物默认右手或袖内窄阴影当第二玉。全22实看由ep11_visual_qa负责，本角色代理亲看范围严格仅01/08/21，未冒称亲看其余19页。",
+        "character_auditor_personally_viewed_this_final_png": false,
+        "identity_anchor_basis": [
+          1,
+          8,
+          21
+        ],
+        "author_page_frozen": true,
+        "must_fix": [],
+        "decision": "passed_on_frozen_final_png"
+      },
+      {
+        "page": 18,
+        "file": "page-18.png",
+        "current_source": "/workspace/generated_images/exec-7633efaf-5a74-4aff-98d4-70bddb357e53.png",
+        "sha256": "b1fb0afd53f34f55518a8e2648fd67babe3d701eca6126b81d9531c16c57ff17",
+        "actual_final_png_viewed": true,
+        "full_page_reviewer": "/root/ep11_visual_qa",
+        "review_basis": "用户三张原设、既有校正角色与根批准源驱动冬装、卷二第十一章；命名全页QA真实逐张打开22最终PNG并重开全部局修，最后磁盘SHA22/22等于批准矩阵。",
+        "visible_character_identity": "passed_where_visible",
+        "approved_winter_outfits_and_adult_proportions": "passed_where_visible",
+        "glove_bandage_and_wrist_sides": "passed_source_phases_left_gauze_exposed_fingers_right_white_until_tree_removal_then_bare_Y_bare_left_jade_right_empty_where_visible",
+        "cold_rescue_and_clinical_continuity": "passed_source_cold_delayed_response_call_backup_guard_Fuxuan_clinical_and_hospital_followup_before_dorm_where_applicable",
+        "scarf_coat_bag_candy_ownership": "passed_source_phase_one_F_warm_pink_scarf_lent_at_clinic_one_Y_navy_scarf_own_overcoats_single_bag_single_candy_and_retained_fox_wrapper_where_visible",
+        "time_text_and_story_continuity": "passed_source_times_and_scene_visible_text_where_applicable",
+        "scene_expression": "passed_source_flat_voice_hand_tremor_cold_slowness_tired_care_and_quiet_recovery_without_added_confession",
+        "visibility_qualification": "只判断可见范围，闭眼/背面/遮挡不假补；不把持物默认右手或袖内窄阴影当第二玉。全22实看由ep11_visual_qa负责，本角色代理亲看范围严格仅01/08/21，未冒称亲看其余19页。",
+        "character_auditor_personally_viewed_this_final_png": false,
+        "identity_anchor_basis": [
+          1,
+          8,
+          21
+        ],
+        "author_page_frozen": true,
+        "must_fix": [],
+        "decision": "passed_on_frozen_final_png"
+      },
+      {
+        "page": 19,
+        "file": "page-19.png",
+        "current_source": "/workspace/generated_images/exec-c762fa6b-426a-4848-917b-2561cea35659.png",
+        "sha256": "ccfb09f3f7844c15dea3d2d161bc12c9fcfc7bb11d37e26e5240dd46ac5a9982",
+        "actual_final_png_viewed": true,
+        "full_page_reviewer": "/root/ep11_visual_qa",
+        "review_basis": "用户三张原设、既有校正角色与根批准源驱动冬装、卷二第十一章；命名全页QA真实逐张打开22最终PNG并重开全部局修，最后磁盘SHA22/22等于批准矩阵。",
+        "visible_character_identity": "passed_where_visible",
+        "approved_winter_outfits_and_adult_proportions": "passed_where_visible",
+        "glove_bandage_and_wrist_sides": "passed_source_phases_left_gauze_exposed_fingers_right_white_until_tree_removal_then_bare_Y_bare_left_jade_right_empty_where_visible",
+        "cold_rescue_and_clinical_continuity": "passed_source_cold_delayed_response_call_backup_guard_Fuxuan_clinical_and_hospital_followup_before_dorm_where_applicable",
+        "scarf_coat_bag_candy_ownership": "passed_source_phase_one_F_warm_pink_scarf_lent_at_clinic_one_Y_navy_scarf_own_overcoats_single_bag_single_candy_and_retained_fox_wrapper_where_visible",
+        "time_text_and_story_continuity": "passed_source_times_and_scene_visible_text_where_applicable",
+        "scene_expression": "passed_source_flat_voice_hand_tremor_cold_slowness_tired_care_and_quiet_recovery_without_added_confession",
+        "visibility_qualification": "只判断可见范围，闭眼/背面/遮挡不假补；不把持物默认右手或袖内窄阴影当第二玉。全22实看由ep11_visual_qa负责，本角色代理亲看范围严格仅01/08/21，未冒称亲看其余19页。",
+        "character_auditor_personally_viewed_this_final_png": false,
+        "identity_anchor_basis": [
+          1,
+          8,
+          21
+        ],
+        "author_page_frozen": true,
+        "must_fix": [],
+        "decision": "passed_on_frozen_final_png"
+      },
+      {
+        "page": 20,
+        "file": "page-20.png",
+        "current_source": "/workspace/generated_images/exec-6c35f810-d5fe-4297-923e-c852470204ab.png",
+        "sha256": "663f612419713ef9d755ce0c00f215669413125aad0d1d495aaa8343f893203e",
+        "actual_final_png_viewed": true,
+        "full_page_reviewer": "/root/ep11_visual_qa",
+        "review_basis": "用户三张原设、既有校正角色与根批准源驱动冬装、卷二第十一章；命名全页QA真实逐张打开22最终PNG并重开全部局修，最后磁盘SHA22/22等于批准矩阵。",
+        "visible_character_identity": "passed_where_visible",
+        "approved_winter_outfits_and_adult_proportions": "passed_where_visible",
+        "glove_bandage_and_wrist_sides": "passed_source_phases_left_gauze_exposed_fingers_right_white_until_tree_removal_then_bare_Y_bare_left_jade_right_empty_where_visible",
+        "cold_rescue_and_clinical_continuity": "passed_source_cold_delayed_response_call_backup_guard_Fuxuan_clinical_and_hospital_followup_before_dorm_where_applicable",
+        "scarf_coat_bag_candy_ownership": "passed_source_phase_one_F_warm_pink_scarf_lent_at_clinic_one_Y_navy_scarf_own_overcoats_single_bag_single_candy_and_retained_fox_wrapper_where_visible",
+        "time_text_and_story_continuity": "passed_source_times_and_scene_visible_text_where_applicable",
+        "scene_expression": "passed_source_flat_voice_hand_tremor_cold_slowness_tired_care_and_quiet_recovery_without_added_confession",
+        "visibility_qualification": "只判断可见范围，闭眼/背面/遮挡不假补；不把持物默认右手或袖内窄阴影当第二玉。全22实看由ep11_visual_qa负责，本角色代理亲看范围严格仅01/08/21，未冒称亲看其余19页。",
+        "character_auditor_personally_viewed_this_final_png": false,
+        "identity_anchor_basis": [
+          1,
+          8,
+          21
+        ],
+        "author_page_frozen": true,
+        "must_fix": [],
+        "decision": "passed_on_frozen_final_png"
+      },
+      {
+        "page": 21,
+        "file": "page-21.png",
+        "current_source": "/workspace/generated_images/exec-a84c8124-37b7-4fd4-87e8-ff7962c69887.png",
+        "sha256": "8056435b44e2ea6c0c703e30409d63f862b95b74bf490878b9fef5c7b4693a8b",
+        "actual_final_png_viewed": true,
+        "full_page_reviewer": "/root/ep11_visual_qa",
+        "review_basis": "用户三张原设、既有校正角色与根批准源驱动冬装、卷二第十一章；命名全页QA真实逐张打开22最终PNG并重开全部局修，最后磁盘SHA22/22等于批准矩阵。",
+        "visible_character_identity": "passed_where_visible",
+        "approved_winter_outfits_and_adult_proportions": "passed_where_visible",
+        "glove_bandage_and_wrist_sides": "passed_source_phases_left_gauze_exposed_fingers_right_white_until_tree_removal_then_bare_Y_bare_left_jade_right_empty_where_visible",
+        "cold_rescue_and_clinical_continuity": "passed_source_cold_delayed_response_call_backup_guard_Fuxuan_clinical_and_hospital_followup_before_dorm_where_applicable",
+        "scarf_coat_bag_candy_ownership": "passed_source_phase_one_F_warm_pink_scarf_lent_at_clinic_one_Y_navy_scarf_own_overcoats_single_bag_single_candy_and_retained_fox_wrapper_where_visible",
+        "time_text_and_story_continuity": "passed_source_times_and_scene_visible_text_where_applicable",
+        "scene_expression": "passed_source_flat_voice_hand_tremor_cold_slowness_tired_care_and_quiet_recovery_without_added_confession",
+        "visibility_qualification": "只判断可见范围，闭眼/背面/遮挡不假补；不把持物默认右手或袖内窄阴影当第二玉。全22实看由ep11_visual_qa负责，本角色代理亲看范围严格仅01/08/21，未冒称亲看其余19页。",
+        "character_auditor_personally_viewed_this_final_png": true,
+        "identity_anchor_basis": [
+          1,
+          8,
+          21
+        ],
+        "author_page_frozen": true,
+        "must_fix": [],
+        "decision": "passed_on_frozen_final_png"
+      },
+      {
+        "page": 22,
+        "file": "page-22.png",
+        "current_source": "/workspace/generated_images/exec-ed0dea5f-d309-4058-a658-c1b77a633377.png",
+        "sha256": "bb45e417db8a8ba1e5f241e3d52df7e2f9be9fb0c6cfe695c79d709fdcf029e0",
+        "actual_final_png_viewed": true,
+        "full_page_reviewer": "/root/ep11_visual_qa",
+        "review_basis": "用户三张原设、既有校正角色与根批准源驱动冬装、卷二第十一章；命名全页QA真实逐张打开22最终PNG并重开全部局修，最后磁盘SHA22/22等于批准矩阵。",
+        "visible_character_identity": "passed_where_visible",
+        "approved_winter_outfits_and_adult_proportions": "passed_where_visible",
+        "glove_bandage_and_wrist_sides": "passed_source_phases_left_gauze_exposed_fingers_right_white_until_tree_removal_then_bare_Y_bare_left_jade_right_empty_where_visible",
+        "cold_rescue_and_clinical_continuity": "passed_source_cold_delayed_response_call_backup_guard_Fuxuan_clinical_and_hospital_followup_before_dorm_where_applicable",
+        "scarf_coat_bag_candy_ownership": "passed_source_phase_one_F_warm_pink_scarf_lent_at_clinic_one_Y_navy_scarf_own_overcoats_single_bag_single_candy_and_retained_fox_wrapper_where_visible",
+        "time_text_and_story_continuity": "passed_source_times_and_scene_visible_text_where_applicable",
+        "scene_expression": "passed_source_flat_voice_hand_tremor_cold_slowness_tired_care_and_quiet_recovery_without_added_confession",
+        "visibility_qualification": "只判断可见范围，闭眼/背面/遮挡不假补；不把持物默认右手或袖内窄阴影当第二玉。全22实看由ep11_visual_qa负责，本角色代理亲看范围严格仅01/08/21，未冒称亲看其余19页。",
+        "character_auditor_personally_viewed_this_final_png": false,
+        "identity_anchor_basis": [
+          1,
+          8,
+          21
+        ],
+        "author_page_frozen": true,
+        "must_fix": [],
+        "decision": "passed_on_frozen_final_png"
+      }
+    ],
+    "final_status": "completed_and_frozen",
+    "artist_records_locked": true,
+    "current_source_records_match_final_png": true,
+    "remaining_must_fix": [],
+    "review_claim_policy": "本角色代理本人真实整页打开的本话锚为01/08/21，原3与旧5参考另单独登记；命名ep11_visual_qa真实逐张打开全部22最终PNG并重开各局修。最终22行actual_final_png_viewed指该命名全页审核者已实看，不能误读为角色代理亲看全22。每行个人亲看布尔严格分开。",
+    "artist_record_lock_state": {
+      "front_01_11": "frozen_and_stopped_writing",
+      "back_12_22": "frozen_and_stopped_writing"
+    },
+    "working_qa_passed_count": 22,
+    "working_source_records_match_for_passed_pages": true,
+    "artist_record_lock_details": {
+      "front_01_11": {
+        "historical_split_record_file": "前半生成记录.json",
+        "historical_split_record_sha256": "6fa3bdf51f8d9eff60ed9d9d801c57ac4b00e2b3427b71690645e5cdbccff295",
+        "record_count": 11,
+        "png_bytes": 30468449,
+        "all_source_png_record_and_qa_sha_equal": true,
+        "all_author_actual_view_and_frozen": true,
+        "stopped_writing_report_authority": "作者直接正式停写报告与root转达，非仅凭字段推定",
+        "merge_note": "导出代理获准在本角色终表冻结后把两半合并为生成记录.json并删除暂存两半；此处保留冻结时历史SHA，不是要求读者依赖已合并文件。"
+      },
+      "back_12_22": {
+        "historical_split_record_file": "后半生成记录.json",
+        "historical_split_record_sha256": "85adfada98a680f49f6cd3e2f19df92ec853ce2f0c5aca668cc72db38025a186",
+        "record_count": 11,
+        "png_bytes": 29934227,
+        "all_source_png_record_and_qa_sha_equal": true,
+        "all_author_actual_view_and_frozen": true,
+        "stopped_writing_report_authority": "作者直接正式停写报告与root转达，非仅凭字段推定",
+        "merge_note": "导出代理获准在本角色终表冻结后把两半合并为生成记录.json并删除暂存两半；此处保留冻结时历史SHA，不是要求读者依赖已合并文件。"
+      }
+    },
+    "character_identity_correction_sustained": true,
+    "frozen_at_utc": "2026-11-03T06:04:36.666265+00:00"
+  },
+  "in_package_original_references": [
+    {
+      "original_id": "original_feiying",
+      "package_file": "参考/绯英原设.jpg",
+      "sha256": "8ec0576d31814a4f0d54c067b4375b25f5510671823c4d41706cc33b55a346da",
+      "original_bytes_preserved": true,
+      "copy_verification_state": "verified_equal_at_final_freeze"
+    },
+    {
+      "original_id": "original_yaoguang_closeup",
+      "package_file": "参考/爻光原设近景.jpg",
+      "sha256": "1c14724f3bd1ab2f0bbef92ca17250015f810b00d6ed8c72d86e564c2b51c82e",
+      "original_bytes_preserved": true,
+      "copy_verification_state": "verified_equal_at_final_freeze"
+    },
+    {
+      "original_id": "original_yaoguang_fullbody",
+      "package_file": "参考/爻光原设全身.jpg",
+      "sha256": "8222e86042d6637460243ee623098453319f1e679fa64605095ecf0b6d795313",
+      "original_bytes_preserved": true,
+      "copy_verification_state": "verified_equal_at_final_freeze"
+    }
+  ],
+  "per_page_qa_fields": [
+    "page",
+    "file",
+    "current_source",
+    "sha256",
+    "actual_final_png_viewed",
+    "full_page_reviewer",
+    "visible_character_identity",
+    "approved_winter_outfits_and_adult_proportions",
+    "glove_bandage_and_wrist_sides",
+    "cold_rescue_and_clinical_continuity",
+    "scarf_coat_bag_candy_ownership",
+    "time_text_and_story_continuity",
+    "scene_expression",
+    "must_fix",
+    "decision"
+  ],
+  "prior_episode_character_review_document": {
+    "workspace_path": "/workspace/绯色难测_第十话/角色核对.json",
+    "usage": "已完成前史，仅定上一话身份及伤后状态，不冒称本话已完成。",
+    "historical_context_not_required_for_reading": true
+  },
+  "source_read": {
+    "workspace_file": "/workspace/原作/卷二_卦象紊乱.txt",
+    "section": "第十一章 借时（到第十二章前）",
+    "chapter_characters": 1597,
+    "chapter_sha256": "66acc234a0a49a9f1d24302a39c7fc1f0870f818160944c5747c90362fd9055f",
+    "additional_read": "第十章及卷二后文粉色围巾归还/粉狐糖包装行625–635、697–701",
+    "source_quote_scope": "仅记录与本话关键身份/衣物连续性相关的源事实，不凭后文提前演赠糖或还巾。",
+    "current_frozen_storyboard_content": {
+      "md_file": "第十一话分镜.md",
+      "production_json_file": "逐页制作提示.json",
+      "production_json_sha256_before_export_status_only_update": "6f941cf07530f4bfc4c7f7b3688c4e263fc9dc794c18c7c975f680523594ff14",
+      "visible_text_strings": 75,
+      "note": "19628f42等为独立源审正文/内容冻结时历史raw SHA，不是要求交付MD字节永不变。root已授权导出在全22/作者/角色冻后，仅将MD开头固定制作状态引用段改为完成事实，并核其余正文/画面/75台词/refs未变；JSON同样只更新22status。最终交付MD/JSON当前SHA由导出检查报告记录，角色JSON本身此后不可再写。",
+      "md_sha256_at_source_content_freeze": "19628f429f973b66b620ccabcc6228d8f7c74553334cbcdf5a8e56550e179700",
+      "allowed_export_metadata_mutations": {
+        "md": "仅开头固定制作状态元段；正文/100格图面/75可见串/refs不变",
+        "json": "仅22条制作status；内容不变"
+      }
+    }
+  },
+  "chapter11_continuity": {
+    "authoritative_winter_outfit_ruling": {
+      "by": "/root",
+      "state": "approved_for_execution",
+      "coat": "F始终自穿枣红冬夹克；树下拉正的是Y自身深藏蓝大衣。覆写早期F脱外套转借推测。",
+      "scarf": "唯一F暖粉针织简单流苏，源后文明确粉色围巾；不采初拟莓红。Y原navy肩巾/围巾同一件，F医务给巾后到Y寝室同件，合计两条。",
+      "shoes": "F新黑无金扣平底鞋，不是上一话坏鞋修复。",
+      "pants": "源棉裤→navy保暖棉长裤，非裙或九分打底。",
+      "reference_status": "实施选择，非用户另发冬装立绘。"
+    },
+    "hand_phases": [
+      {
+        "phase": "wake_to_search_before_tree_touch",
+        "F_left": "白纱布包掌/近腕，露指；敷料先干痒",
+        "F_right": "白全指手套",
+        "Y_hands": "裸手，左玉右空"
+      },
+      {
+        "phase": "tree_glove_removal_to_medical_corridor",
+        "F_left": "同左伤白纱，轻托，不抠雪",
+        "F_right": "摘右白入兜后的裸手；触颊/抠雪写字/剥糖放掌/托腕",
+        "Y_hands": "裸手冷灰白，指头逐步能蜷起握糖；不是戴灰手套"
+      },
+      {
+        "phase": "clinic_and_end",
+        "F_left": "换左敷料后仍白纱露指",
+        "F_right": "保持裸手，未写重新戴套不自长回",
+        "Y_hands": "裸手，左玉右空，后持笔/手机/展纸"
+      }
+    ],
+    "time_lock": {
+      "wake": "补休夜十一点醒，源不硬要求醒后立刻显示00:46；镜头可省略，不硬编这段经过。",
+      "desk_note": "22:01",
+      "phone_discovery": "00:46",
+      "tree_verbal_time": "凌晨一点零四分。十二月二十二。",
+      "Y_confusion": "亥时；时间……没接上。",
+      "duration": "坐了三个钟头；雪字原样三小时。",
+      "bill_joke": "明早八点之前不结账。保留不字；后明早八点来说明/晚一分钟另外算。",
+      "last_phone_photo": "02:38",
+      "last_reply": "收",
+      "notebook_date": "12月22日，可正常日期格式，不代入执行环境今天日期。"
+    },
+    "property_counts": {
+      "F_jacket": 1,
+      "Y_overcoat": 1,
+      "F_warm_pink_scarf": 1,
+      "Y_navy_shoulder_neck_cloth": 1,
+      "guard_blanket": 1,
+      "F_dark_blue_bag": 1,
+      "pink_hard_candy": 1,
+      "pink_fox_wrapper": 1,
+      "new_notebook": 1
+    },
+    "coat_and_scarf_timeline": [
+      "F出门穿枣红冬夹克、暖粉巾；Y深藏蓝大衣与原navy巾已在树下身上。",
+      "F把Y滑下大衣拉回Y肩，自己的枣红夹克不脱；符玄后来将两人各自外衣裹紧，保安另递中性毯。",
+      "树下交糖时F粉巾仍归F，不能提前赠巾又在医务第二次复制送。",
+      "医务Y原navy巾垂一边，F取自己唯一粉巾绕给Y并塞领口，Y寝室仍这条粉巾，线头可见。"
+    ],
+    "bag_timeline": [
+      "F深蓝包出门随身带马克笔",
+      "树下包垫在尖冰/衣摆下保护Y，只暂借用途",
+      "离树/医务前最简取回包或同伴递回，来源不复制",
+      "F在医务外走廊一直攥同包，笔在内顶掌；进出医务时袋仍归F"
+    ],
+    "candy_and_wrapper_timeline": [
+      "F兜里一颗粉硬糖及一张粉狐包装；不从第七章两块方糖接回忆",
+      "右裸剥开/半剥，左包伤不能利索打开；纸仍保留在糖边，不扔在雪地",
+      "只将糖放入Y掌，左包手轻托或以露指辅助，等Y真握住才移到腕下面",
+      "握糖时纸能响，晚些只见Y展平同张皱粉狐纸夹/压新本，不画喂口或凭空新增糖纸"
+    ],
+    "rescue_and_cold_acting": [
+      "F先联系符玄并找保安，不单独隐瞒。",
+      "路面雪压薄冰、新鞋磨后跟；Y树根里大衣滑、肩雪粒、手灰白微动、眼聚焦慢。",
+      "包隔尖冰与衣下皮肤可由衣/包遮掉具体裸皮，无须为了核源硬露大腿或腰。",
+      "手电扫路后F喊这里破嗓；F膝挡滑落身体，棉裤湿，Y尝试坐起肩抖。",
+      "符玄联系刃和医院，保安毯；校医检查与医院后续安排都有，之后才宿舍新本，不增确诊或治好字幕。"
+    ],
+    "room_and_text_locks": [
+      "发现处绘世楼302亮灯/窗帘未拉/凭证未清/灯朝下/空杯/椅向门转半；相邻办公室仍同墙301左302右，不对门。",
+      "末宿舍按源只画寝室桌椅新本，不无依据硬混成仍在空办公室没有经过医务。",
+      "雪字三小时为F右裸指划，不写成3h；最后一划可较长带碎冰。",
+      "新本日期和三小时，笔压出小洞；手机照片02:38，Y只回收；糖纸粉狐展平压页下，页角手掌覆住。",
+      "开头办公室空杯与医务空杯可作为不同处功能相似杯，不强造F沿全程搬同一杯；医务杯沿水热只源感受，不当强喂热水画。"
+    ],
+    "approved_typography_adjustments": {
+      "page18": "正式校医检查字幕已出修版b1fb0afd…并获独立全页QA，角色仍成年刃校医。",
+      "page02": "最终17bce13d保留完整呼名爻光；命名QA与root实际图及原像素确认上/下斜交笔、非交的点横。角色代理不冒称本人亲看该字。"
+    },
+    "approved_non_source_pose_alignment": {
+      "page05": "源未限定拨枝手，MD/JSON/prompt已对齐左包纱轻触枝/右白平衡；实际覆盖待局修重开，不把左手轻辅助判成健康裸手或重负。",
+      "page12": "首格Y右抓衣玉删除、F近右lap手改裸/远左轻搭肩改纱；第三格近膝裸手可为右，不违原文，不要求复原纱。源审/根/全页QA已补确认，采用69517ec5最终版。",
+      "page10_bag": "为保持同一包塞冰前后不复制，正式文稿将包位置从肩泛化至身边；三处MD/JSON/prompt已补审，台词数75未改。"
+    }
+  },
+  "working_page_review_matrix": [
+    {
+      "page": 1,
+      "file": "page-01.png",
+      "actual_final_png_viewed": true,
+      "source_record_checked": true,
+      "decision": "passed_on_frozen_final_png",
+      "must_fix": [],
+      "current_png_exists": true,
+      "current_png_sha256": "781fc42ffc940574a9853d2b040e9888b4371d5f29fb19cac3e3a197ef3b4001",
+      "current_source": "/workspace/generated_images/exec-9b839914-99af-4ca5-8c19-805d553f075e.png",
+      "sha256": "781fc42ffc940574a9853d2b040e9888b4371d5f29fb19cac3e3a197ef3b4001",
+      "full_page_reviewer": "/root/ep11_visual_qa",
+      "character_auditor_personally_viewed_this_final_png": true,
+      "author_page_frozen": true,
+      "note": "最终SHA与作者冻结记录、命名全页QA批准一致；本人亲看本页。"
+    },
+    {
+      "page": 2,
+      "file": "page-02.png",
+      "actual_final_png_viewed": true,
+      "source_record_checked": true,
+      "decision": "passed_on_frozen_final_png",
+      "must_fix": [],
+      "current_png_exists": true,
+      "current_png_sha256": "17bce13d7c033cc81f4118d6dc63b46d7506c6a3523f598913194fe40f1ee8c4",
+      "note": "命名全页QA实际整页通过，本角色代理未亲看本页；此处来源/SHA已现场核同。",
+      "current_source": "/workspace/generated_images/exec-f535d4c0-c9a1-43b5-ad59-490103d566d6.png",
+      "sha256": "17bce13d7c033cc81f4118d6dc63b46d7506c6a3523f598913194fe40f1ee8c4",
+      "full_page_reviewer": "/root/ep11_visual_qa",
+      "character_auditor_personally_viewed_this_final_png": false,
+      "author_page_frozen": true,
+      "historical_working_review_notes": [
+        {
+          "reported_initial_issues": [
+            "初稿名字交光错字，改自然主任或正确爻光",
+            "末格左伤手须纱布露指而非平滑白手套",
+            "办公室杯须空，不应明确琥珀液面"
+          ],
+          "scope": "初稿/工作阶段历史，不是最终未解决问题。"
+        },
+        {
+          "pending_notes": "早前左纱露指与空杯已修正，当前只等名字爻/交字形最终局修，不把中间17bce13d当终版。",
+          "scope": "初稿/工作阶段历史，不是最终未解决问题。"
+        },
+        {
+          "issue_reporter": "/root/ep11_visual_qa",
+          "scope": "初稿/工作阶段历史，不是最终未解决问题。"
+        }
+      ],
+      "resolved_revision_note": "完整呼名保留，17bce13d手写首字经QA/root实际图与只读像素确认上/下两斜交、无交的独立点横，正确爻光；左纱露指和空杯也正确，不改称谓。"
+    },
+    {
+      "page": 3,
+      "file": "page-03.png",
+      "actual_final_png_viewed": true,
+      "source_record_checked": true,
+      "decision": "passed_on_frozen_final_png",
+      "must_fix": [],
+      "current_png_exists": true,
+      "current_png_sha256": "0f66eb2412538bd4ea201611739e6193d32fad48cabd5d3b3d790c2143e947da",
+      "current_source": "/workspace/generated_images/exec-e3970a53-01f4-45bd-a0bb-123d5457ff0a.png",
+      "sha256": "0f66eb2412538bd4ea201611739e6193d32fad48cabd5d3b3d790c2143e947da",
+      "full_page_reviewer": "/root/ep11_visual_qa",
+      "character_auditor_personally_viewed_this_final_png": false,
+      "author_page_frozen": true,
+      "note": "命名全页QA实际整页通过，本角色代理未亲看本页；此处来源/SHA已现场核同。"
+    },
+    {
+      "page": 4,
+      "file": "page-04.png",
+      "actual_final_png_viewed": true,
+      "source_record_checked": true,
+      "decision": "passed_on_frozen_final_png",
+      "must_fix": [],
+      "current_png_exists": true,
+      "current_png_sha256": "12175d60fd6361649ddfaea2b51805184d7bec2621f38383a831d51602f26aef",
+      "current_source": "/workspace/generated_images/exec-841e6ed7-1644-4f95-81ff-ede3ce130ed7.png",
+      "sha256": "12175d60fd6361649ddfaea2b51805184d7bec2621f38383a831d51602f26aef",
+      "full_page_reviewer": "/root/ep11_visual_qa",
+      "character_auditor_personally_viewed_this_final_png": false,
+      "author_page_frozen": true,
+      "note": "命名全页QA实际整页通过，本角色代理未亲看本页；此处来源/SHA已现场核同。"
+    },
+    {
+      "page": 5,
+      "file": "page-05.png",
+      "actual_final_png_viewed": true,
+      "source_record_checked": true,
+      "decision": "passed_on_frozen_final_png",
+      "must_fix": [],
+      "current_png_exists": true,
+      "current_png_sha256": "dbd6220998bf2ff9594ab8e59326d07d908e2119a8793bad78cde18926ad6cfe",
+      "note": "命名全页QA实际整页通过，本角色代理未亲看本页；此处来源/SHA已现场核同。",
+      "current_source": "/workspace/generated_images/exec-f565a413-c2f9-48c4-8471-cfbd2b9273e4.png",
+      "sha256": "dbd6220998bf2ff9594ab8e59326d07d908e2119a8793bad78cde18926ad6cfe",
+      "full_page_reviewer": "/root/ep11_visual_qa",
+      "character_auditor_personally_viewed_this_final_png": false,
+      "author_page_frozen": true,
+      "review_history_notes": [
+        {
+          "reported_initial_issues": [
+            "第2格近右纱/远左白手套覆盖镜像，只恢复正确右白全指/左纱露指；不重摆轻扶枝动作"
+          ]
+        },
+        {
+          "issue_reporter": "/root/ep11_visual_qa"
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "file": "page-06.png",
+      "actual_final_png_viewed": true,
+      "source_record_checked": true,
+      "decision": "passed_on_frozen_final_png",
+      "must_fix": [],
+      "current_png_exists": true,
+      "current_png_sha256": "14afaf624ae4776401124f9956ac81f9991f119aac21fa7fdf13217a70ed813b",
+      "current_source": "/workspace/generated_images/exec-5e70d059-f938-4867-90c7-1a4511186778.png",
+      "sha256": "14afaf624ae4776401124f9956ac81f9991f119aac21fa7fdf13217a70ed813b",
+      "full_page_reviewer": "/root/ep11_visual_qa",
+      "character_auditor_personally_viewed_this_final_png": false,
+      "author_page_frozen": true,
+      "note": "命名全页QA实际整页通过，本角色代理未亲看本页；此处来源/SHA已现场核同。"
+    },
+    {
+      "page": 7,
+      "file": "page-07.png",
+      "actual_final_png_viewed": true,
+      "source_record_checked": true,
+      "decision": "passed_on_frozen_final_png",
+      "must_fix": [],
+      "current_png_exists": true,
+      "current_png_sha256": "2f04aab2e6a3b7046d0d5128611edc28c252738e77f3cb905a0c316c7c413aa9",
+      "current_source": "/workspace/generated_images/exec-cd42aa83-4d54-4948-86f0-b314440e5d98.png",
+      "sha256": "2f04aab2e6a3b7046d0d5128611edc28c252738e77f3cb905a0c316c7c413aa9",
+      "full_page_reviewer": "/root/ep11_visual_qa",
+      "character_auditor_personally_viewed_this_final_png": false,
+      "author_page_frozen": true,
+      "note": "命名全页QA实际整页通过，本角色代理未亲看本页；此处来源/SHA已现场核同。"
+    },
+    {
+      "page": 8,
+      "file": "page-08.png",
+      "actual_final_png_viewed": true,
+      "source_record_checked": true,
+      "decision": "passed_on_frozen_final_png",
+      "must_fix": [],
+      "current_png_exists": true,
+      "current_png_sha256": "1abfb40be45d024e370b0ebb4fd42c0b95b8d5b9774dabf988a62f0b74eac623",
+      "current_source": "/workspace/generated_images/exec-ceb5fb15-75a1-45b8-9c4e-6dca152b0d14.png",
+      "sha256": "1abfb40be45d024e370b0ebb4fd42c0b95b8d5b9774dabf988a62f0b74eac623",
+      "full_page_reviewer": "/root/ep11_visual_qa",
+      "character_auditor_personally_viewed_this_final_png": true,
+      "author_page_frozen": true,
+      "note": "最终SHA与作者冻结记录、命名全页QA批准一致；本人亲看本页。"
+    },
+    {
+      "page": 9,
+      "file": "page-09.png",
+      "actual_final_png_viewed": true,
+      "source_record_checked": true,
+      "decision": "passed_on_frozen_final_png",
+      "must_fix": [],
+      "current_png_exists": true,
+      "current_png_sha256": "36980c3cda5f17739db5538d8b1e33a070d1932f9935497bf36e2e9290d05a0e",
+      "current_source": "/workspace/generated_images/exec-975b6b98-eaaa-423c-94a7-292bd84ffeab.png",
+      "sha256": "36980c3cda5f17739db5538d8b1e33a070d1932f9935497bf36e2e9290d05a0e",
+      "full_page_reviewer": "/root/ep11_visual_qa",
+      "character_auditor_personally_viewed_this_final_png": false,
+      "author_page_frozen": true,
+      "note": "命名全页QA实际整页通过，本角色代理未亲看本页；此处来源/SHA已现场核同。"
+    },
+    {
+      "page": 10,
+      "file": "page-10.png",
+      "actual_final_png_viewed": true,
+      "source_record_checked": true,
+      "decision": "passed_on_frozen_final_png",
+      "must_fix": [],
+      "current_png_exists": true,
+      "current_png_sha256": "d0c6067896653ac7a194e27f17fa1655f874d3f6ac09dd4fd61d19835241932d",
+      "current_source": "/workspace/generated_images/exec-3aef6166-ea4c-4ea6-a3de-c244387458ed.png",
+      "sha256": "d0c6067896653ac7a194e27f17fa1655f874d3f6ac09dd4fd61d19835241932d",
+      "full_page_reviewer": "/root/ep11_visual_qa",
+      "character_auditor_personally_viewed_this_final_png": false,
+      "author_page_frozen": true,
+      "historical_working_review_notes": [
+        {
+          "pending_notes": "源符玄在保安到后另路赶到，初图提前出现Fu需局部去除，保留保安/手电按源，不加新人物。",
+          "scope": "初稿/工作阶段历史，不是最终未解决问题。"
+        }
+      ],
+      "note": "命名全页QA实际整页通过，本角色代理未亲看本页；此处来源/SHA已现场核同。",
+      "resolved_revision_note": "d0c60678最终末格仅保安灯、无提前出现的符玄；包位置从肩到身边为非源构图窄对齐，正文/台词未改。"
+    },
+    {
+      "page": 11,
+      "file": "page-11.png",
+      "actual_final_png_viewed": true,
+      "source_record_checked": true,
+      "decision": "passed_on_frozen_final_png",
+      "must_fix": [],
+      "current_png_exists": true,
+      "current_png_sha256": "090366425a7413bb1eedb1f1f5e26cd0b7bde94142bde6bbf6227d4d1c9f1394",
+      "current_source": "/workspace/generated_images/exec-ba374bfa-8ac8-4d05-8fb4-ccff66a4bd60.png",
+      "sha256": "090366425a7413bb1eedb1f1f5e26cd0b7bde94142bde6bbf6227d4d1c9f1394",
+      "full_page_reviewer": "/root/ep11_visual_qa",
+      "character_auditor_personally_viewed_this_final_png": false,
+      "author_page_frozen": true,
+      "historical_working_review_notes": [
+        {
+          "pending_notes": "第三格明确解剖右手不应覆纱，F树下右套已摘后裸手，左纱保持。",
+          "scope": "初稿/工作阶段历史，不是最终未解决问题。"
+        }
+      ],
+      "note": "命名全页QA实际整页通过，本角色代理未亲看本页；此处来源/SHA已现场核同。",
+      "resolved_revision_note": "09036642第三格明确右地边手为裸手，远左纱布保持，原错误右纱已局部改正。"
+    },
+    {
+      "page": 12,
+      "file": "page-12.png",
+      "actual_final_png_viewed": true,
+      "source_record_checked": true,
+      "decision": "passed_on_frozen_final_png",
+      "must_fix": [],
+      "current_png_exists": true,
+      "current_png_sha256": "69517ec54b9693af61a5007422199e2e214afe9504aba1c135b689bb89a1635a",
+      "current_source": "/workspace/generated_images/exec-55fbc2ea-8d99-4df1-ab51-01dea3579c60.png",
+      "sha256": "69517ec54b9693af61a5007422199e2e214afe9504aba1c135b689bb89a1635a",
+      "full_page_reviewer": "/root/ep11_visual_qa",
+      "character_auditor_personally_viewed_this_final_png": false,
+      "author_page_frozen": true,
+      "historical_working_review_notes": [
+        {
+          "pending_notes": "首格root裁定三处均按69517ec5修后独立重开过；第三格工具连带改近膝裸手可属右不违源，不还原。",
+          "scope": "初稿/工作阶段历史，不是最终未解决问题。"
+        }
+      ],
+      "note": "命名全页QA实际整页通过，本角色代理未亲看本页；此处来源/SHA已现场核同。",
+      "resolved_revision_note": "69517ec5首格右玉删/F近右lap改裸/远左肩改纱，第三格工具连改近膝裸手可属右不违源；root与QA真实看后裁定，无未解疑义。"
+    },
+    {
+      "page": 13,
+      "file": "page-13.png",
+      "actual_final_png_viewed": true,
+      "source_record_checked": true,
+      "decision": "passed_on_frozen_final_png",
+      "must_fix": [],
+      "current_png_exists": true,
+      "current_png_sha256": "74ccf20ae3f223f12ad38803ad3e2037c25a29e119a538cb3417aac05c25eef8",
+      "current_source": "/workspace/generated_images/exec-3ac076b0-b57c-4855-98f7-9801f3be7adb.png",
+      "sha256": "74ccf20ae3f223f12ad38803ad3e2037c25a29e119a538cb3417aac05c25eef8",
+      "full_page_reviewer": "/root/ep11_visual_qa",
+      "character_auditor_personally_viewed_this_final_png": false,
+      "author_page_frozen": true,
+      "note": "命名全页QA实际整页通过，本角色代理未亲看本页；此处来源/SHA已现场核同。"
+    },
+    {
+      "page": 14,
+      "file": "page-14.png",
+      "actual_final_png_viewed": true,
+      "source_record_checked": true,
+      "decision": "passed_on_frozen_final_png",
+      "must_fix": [],
+      "current_png_exists": true,
+      "current_png_sha256": "ab7f3b80b37bcb366d59c981ead66a050c27e15f40a2838f4366df267005544c",
+      "current_source": "/workspace/generated_images/exec-29d9b2c0-5929-48bb-90b2-c3f470d3e9b8.png",
+      "sha256": "ab7f3b80b37bcb366d59c981ead66a050c27e15f40a2838f4366df267005544c",
+      "full_page_reviewer": "/root/ep11_visual_qa",
+      "character_auditor_personally_viewed_this_final_png": false,
+      "author_page_frozen": true,
+      "note": "命名全页QA实际整页通过，本角色代理未亲看本页；此处来源/SHA已现场核同。"
+    },
+    {
+      "page": 15,
+      "file": "page-15.png",
+      "actual_final_png_viewed": true,
+      "source_record_checked": true,
+      "decision": "passed_on_frozen_final_png",
+      "must_fix": [],
+      "current_png_exists": true,
+      "current_png_sha256": "f0bfa7c30d10d0ce775af14c5be93fbf9293d36a9e69c7dddc44d9a8914e9fd5",
+      "current_source": "/workspace/generated_images/exec-9e9ba9cc-4c65-496b-80e3-f817ae61c5f7.png",
+      "sha256": "f0bfa7c30d10d0ce775af14c5be93fbf9293d36a9e69c7dddc44d9a8914e9fd5",
+      "full_page_reviewer": "/root/ep11_visual_qa",
+      "character_auditor_personally_viewed_this_final_png": false,
+      "author_page_frozen": true,
+      "note": "命名全页QA实际整页通过，本角色代理未亲看本页；此处来源/SHA已现场核同。"
+    },
+    {
+      "page": 16,
+      "file": "page-16.png",
+      "actual_final_png_viewed": true,
+      "source_record_checked": true,
+      "decision": "passed_on_frozen_final_png",
+      "must_fix": [],
+      "current_png_exists": true,
+      "current_png_sha256": "4f8f5c00bcae31246894f22630b08cdbbfe9da4b2434d32603dbd4487fdca33a",
+      "current_source": "/workspace/generated_images/exec-ff799a69-4151-447b-b348-ba2043a46007.png",
+      "sha256": "4f8f5c00bcae31246894f22630b08cdbbfe9da4b2434d32603dbd4487fdca33a",
+      "full_page_reviewer": "/root/ep11_visual_qa",
+      "character_auditor_personally_viewed_this_final_png": false,
+      "author_page_frozen": true,
+      "note": "命名全页QA实际整页通过，本角色代理未亲看本页；此处来源/SHA已现场核同。"
+    },
+    {
+      "page": 17,
+      "file": "page-17.png",
+      "actual_final_png_viewed": true,
+      "source_record_checked": true,
+      "decision": "passed_on_frozen_final_png",
+      "must_fix": [],
+      "current_png_exists": true,
+      "current_png_sha256": "dc19aca7312ab6628cfcac3956f65c5c20f8b7a0e1fbdea78d025423e97bf918",
+      "current_source": "/workspace/generated_images/exec-646ebae2-1297-4740-b2cc-8a06bc9e0d28.png",
+      "sha256": "dc19aca7312ab6628cfcac3956f65c5c20f8b7a0e1fbdea78d025423e97bf918",
+      "full_page_reviewer": "/root/ep11_visual_qa",
+      "character_auditor_personally_viewed_this_final_png": false,
+      "author_page_frozen": true,
+      "note": "命名全页QA实际整页通过，本角色代理未亲看本页；此处来源/SHA已现场核同。"
+    },
+    {
+      "page": 18,
+      "file": "page-18.png",
+      "actual_final_png_viewed": true,
+      "source_record_checked": true,
+      "decision": "passed_on_frozen_final_png",
+      "must_fix": [],
+      "current_png_exists": true,
+      "current_png_sha256": "b1fb0afd53f34f55518a8e2648fd67babe3d701eca6126b81d9531c16c57ff17",
+      "note": "命名全页QA实际整页通过，本角色代理未亲看本页；此处来源/SHA已现场核同。",
+      "current_source": "/workspace/generated_images/exec-7633efaf-5a74-4aff-98d4-70bddb357e53.png",
+      "sha256": "b1fb0afd53f34f55518a8e2648fd67babe3d701eca6126b81d9531c16c57ff17",
+      "full_page_reviewer": "/root/ep11_visual_qa",
+      "character_auditor_personally_viewed_this_final_png": false,
+      "author_page_frozen": true,
+      "review_history_notes": [
+        {
+          "reported_initial_issues": [
+            "医生称呼/名字字形局修，正式分镜已改校医检查，治疗者仍为刃"
+          ]
+        },
+        {
+          "issue_reporter": "/root"
+        }
+      ]
+    },
+    {
+      "page": 19,
+      "file": "page-19.png",
+      "actual_final_png_viewed": true,
+      "source_record_checked": true,
+      "decision": "passed_on_frozen_final_png",
+      "must_fix": [],
+      "current_png_exists": true,
+      "current_png_sha256": "ccfb09f3f7844c15dea3d2d161bc12c9fcfc7bb11d37e26e5240dd46ac5a9982",
+      "current_source": "/workspace/generated_images/exec-c762fa6b-426a-4848-917b-2561cea35659.png",
+      "sha256": "ccfb09f3f7844c15dea3d2d161bc12c9fcfc7bb11d37e26e5240dd46ac5a9982",
+      "full_page_reviewer": "/root/ep11_visual_qa",
+      "character_auditor_personally_viewed_this_final_png": false,
+      "author_page_frozen": true,
+      "note": "命名全页QA实际整页通过，本角色代理未亲看本页；此处来源/SHA已现场核同。"
+    },
+    {
+      "page": 20,
+      "file": "page-20.png",
+      "actual_final_png_viewed": true,
+      "source_record_checked": true,
+      "decision": "passed_on_frozen_final_png",
+      "must_fix": [],
+      "current_png_exists": true,
+      "current_png_sha256": "663f612419713ef9d755ce0c00f215669413125aad0d1d495aaa8343f893203e",
+      "current_source": "/workspace/generated_images/exec-6c35f810-d5fe-4297-923e-c852470204ab.png",
+      "sha256": "663f612419713ef9d755ce0c00f215669413125aad0d1d495aaa8343f893203e",
+      "full_page_reviewer": "/root/ep11_visual_qa",
+      "character_auditor_personally_viewed_this_final_png": false,
+      "author_page_frozen": true,
+      "note": "命名全页QA实际整页通过，本角色代理未亲看本页；此处来源/SHA已现场核同。"
+    },
+    {
+      "page": 21,
+      "file": "page-21.png",
+      "actual_final_png_viewed": true,
+      "source_record_checked": true,
+      "decision": "passed_on_frozen_final_png",
+      "must_fix": [],
+      "current_png_exists": true,
+      "current_png_sha256": "8056435b44e2ea6c0c703e30409d63f862b95b74bf490878b9fef5c7b4693a8b",
+      "current_source": "/workspace/generated_images/exec-a84c8124-37b7-4fd4-87e8-ff7962c69887.png",
+      "sha256": "8056435b44e2ea6c0c703e30409d63f862b95b74bf490878b9fef5c7b4693a8b",
+      "full_page_reviewer": "/root/ep11_visual_qa",
+      "character_auditor_personally_viewed_this_final_png": true,
+      "author_page_frozen": true,
+      "note": "最终SHA与作者冻结记录、命名全页QA批准一致；本人亲看本页。"
+    },
+    {
+      "page": 22,
+      "file": "page-22.png",
+      "actual_final_png_viewed": true,
+      "source_record_checked": true,
+      "decision": "passed_on_frozen_final_png",
+      "must_fix": [],
+      "current_png_exists": true,
+      "current_png_sha256": "bb45e417db8a8ba1e5f241e3d52df7e2f9be9fb0c6cfe695c79d709fdcf029e0",
+      "current_source": "/workspace/generated_images/exec-ed0dea5f-d309-4058-a658-c1b77a633377.png",
+      "sha256": "bb45e417db8a8ba1e5f241e3d52df7e2f9be9fb0c6cfe695c79d709fdcf029e0",
+      "full_page_reviewer": "/root/ep11_visual_qa",
+      "character_auditor_personally_viewed_this_final_png": false,
+      "author_page_frozen": true,
+      "historical_working_review_notes": [
+        {
+          "pending_notes": "根已真实看并裁定右袖窄灰绿为贴袖内缘色/阴影、无玉环独立体积高光，不是第二玉；命名QA据此整页通过，非本角色代理亲看22。",
+          "scope": "初稿/工作阶段历史，不是最终未解决问题。"
+        }
+      ],
+      "note": "命名全页QA实际整页通过，本角色代理未亲看本页；此处来源/SHA已现场核同。"
+    }
+  ],
+  "visibility_rulings": [
+    "判手腕先追肩肘腕几何，不因写字/持物默认右手。几何被书/衣/包遮挡时可有左臂跨身，未见左腕不另补玉。",
+    "已知右套摘后可被衣袖遮的右手不假补手套；全局相位仍右裸，左纱布露指与冷灰白Y皮肤分别判断。",
+    "围巾和外套受光小色差允许，不把被裹衣/毯遮挡误判丢失或要求复制。",
+    {
+      "page": 22,
+      "authority": "/root actual full page view + ep11_visual_qa full page review",
+      "ruling": "第4格右腕窄灰绿贴白袖内缘，无独立玉环体积和高光，判袖缘/阴影，不判第二镯；保留正确左玉，不泛修。",
+      "character_auditor_personally_viewed": false
+    }
+  ],
+  "final_review_notes": {
+    "final_pages": 22,
+    "panel_count": 100,
+    "visible_text_strings": 75,
+    "named_full_page_reviewer": "/root/ep11_visual_qa",
+    "all_final_pngs_actually_viewed_by_named_full_page_reviewer": true,
+    "all_local_revisions_reopened_by_named_full_page_reviewer": true,
+    "personal_identity_anchor_auditor": "/root/ep11_character_audit",
+    "personal_episode_pngs_viewed": [
+      1,
+      8,
+      21
+    ],
+    "personal_other_reference_views": {
+      "originals": 3,
+      "prior_manga_pages": 5
+    },
+    "all22_source_record_qa_png_sha_match": true,
+    "all22_original_png_total_bytes": 60402676,
+    "original_jpg_copies_byte_equal": true,
+    "remaining_must_fix": [],
+    "frozen_no_more_writes": true,
+    "export_handoff": "角色终表此版本冻结后交export合并两半、仅同步允许的制作元状态后导出，禁止打包后再改角色JSON。"
+  }
+}
