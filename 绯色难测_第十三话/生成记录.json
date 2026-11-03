@@ -1,0 +1,1869 @@
+[
+  {
+    "page": 1,
+    "file": "page-01.png",
+    "source": "/workspace/generated_images/exec-76d0bace-a113-4583-8a41-f5564c26d9a6.png",
+    "sources": [
+      "/workspace/generated_images/exec-76d0bace-a113-4583-8a41-f5564c26d9a6.png"
+    ],
+    "history": [
+      "/workspace/generated_images/exec-76d0bace-a113-4583-8a41-f5564c26d9a6.png"
+    ],
+    "steps": [
+      {
+        "reference_assets": [
+          {
+            "file": "/workspace/绯色难测_第十三话/参考/绯英原设.jpg",
+            "sha256": "8ec0576d31814a4f0d54c067b4375b25f5510671823c4d41706cc33b55a346da",
+            "bytes": 134176
+          },
+          {
+            "file": "/workspace/绯色难测_第十三话/参考/第十二话校正日装03.png",
+            "sha256": "ccd10073c94da72080e0deb2bf1410adada96ca624f1179ae22c76caf6994edc",
+            "bytes": 2517700
+          },
+          {
+            "file": "/workspace/绯色难测_第十三话/参考/第十二话相邻办公室24.png",
+            "sha256": "f161ff2369b056eb50a0c3896b87d665323ee846d86c288a51453ba0a2562f22",
+            "bytes": 2356559
+          }
+        ],
+        "source": "/workspace/generated_images/exec-76d0bace-a113-4583-8a41-f5564c26d9a6.png",
+        "sha256": "f00caf4059856b5ad45fa7e3f89d9bd131dce5040216b36ecd0f559386745367",
+        "kind": "generated",
+        "actual_references": [
+          "/workspace/绯色难测_第十三话/参考/绯英原设.jpg",
+          "/workspace/绯色难测_第十三话/参考/第十二话校正日装03.png",
+          "/workspace/绯色难测_第十三话/参考/第十二话相邻办公室24.png"
+        ],
+        "note": "原作前6正式独立源审放行；采用完整冻结prompt与包内参考，真实生成原PNG字节直存"
+      }
+    ],
+    "sha256": "f00caf4059856b5ad45fa7e3f89d9bd131dce5040216b36ecd0f559386745367",
+    "bytes": 2537564,
+    "resolution": [
+      1024,
+      1536
+    ],
+    "decode": "ok",
+    "actual_references": [
+      "/workspace/绯色难测_第十三话/参考/绯英原设.jpg",
+      "/workspace/绯色难测_第十三话/参考/第十二话校正日装03.png",
+      "/workspace/绯色难测_第十三话/参考/第十二话相邻办公室24.png"
+    ],
+    "author_actual_view": true,
+    "frozen": true,
+    "visual_review": "author_and_independent_full_page_actual_final_png_view_passed",
+    "qa_approved_sha256": "f00caf4059856b5ad45fa7e3f89d9bd131dce5040216b36ecd0f559386745367",
+    "independent_reviewer": "/root/ep13_visual_qa"
+  },
+  {
+    "page": 2,
+    "file": "page-02.png",
+    "source": "/workspace/generated_images/exec-5d877517-adcb-4709-a2b6-d963840808a0.png",
+    "sources": [
+      "/workspace/generated_images/exec-72d61c62-e128-4187-93e0-b08aa9f65dd1.png",
+      "/workspace/generated_images/exec-5d877517-adcb-4709-a2b6-d963840808a0.png"
+    ],
+    "history": [
+      "/workspace/generated_images/exec-72d61c62-e128-4187-93e0-b08aa9f65dd1.png",
+      "/workspace/generated_images/exec-5d877517-adcb-4709-a2b6-d963840808a0.png"
+    ],
+    "steps": [
+      {
+        "reference_assets": [
+          {
+            "file": "/workspace/绯色难测_第十三话/参考/绯英原设.jpg",
+            "sha256": "8ec0576d31814a4f0d54c067b4375b25f5510671823c4d41706cc33b55a346da",
+            "bytes": 134176
+          },
+          {
+            "file": "/workspace/绯色难测_第十三话/参考/爻光原设近景.jpg",
+            "sha256": "1c14724f3bd1ab2f0bbef92ca17250015f810b00d6ed8c72d86e564c2b51c82e",
+            "bytes": 147839
+          },
+          {
+            "file": "/workspace/绯色难测_第十三话/参考/第十二话校正日装03.png",
+            "sha256": "ccd10073c94da72080e0deb2bf1410adada96ca624f1179ae22c76caf6994edc",
+            "bytes": 2517700
+          },
+          {
+            "file": "/workspace/绯色难测_第十三话/参考/第十二话爻光日装22.png",
+            "sha256": "dee45ac074392b0665ebfa039f8651f747ca8c52334ed4fbf233b239eabc17d6",
+            "bytes": 2435228
+          },
+          {
+            "file": "/workspace/绯色难测_第十三话/参考/第十二话相邻办公室24.png",
+            "sha256": "f161ff2369b056eb50a0c3896b87d665323ee846d86c288a51453ba0a2562f22",
+            "bytes": 2356559
+          }
+        ],
+        "source": "/workspace/generated_images/exec-72d61c62-e128-4187-93e0-b08aa9f65dd1.png",
+        "sha256": "df9f3339a06e2c7215a06637965c6b67b74069d9ae37bf3060a949822acdcb7d",
+        "kind": "generated",
+        "actual_references": [
+          "/workspace/绯色难测_第十三话/参考/绯英原设.jpg",
+          "/workspace/绯色难测_第十三话/参考/爻光原设近景.jpg",
+          "/workspace/绯色难测_第十三话/参考/第十二话校正日装03.png",
+          "/workspace/绯色难测_第十三话/参考/第十二话爻光日装22.png",
+          "/workspace/绯色难测_第十三话/参考/第十二话相邻办公室24.png"
+        ],
+        "note": "完整冻结prompt；等义明确第2格六列九行54学生进步卡，不添额外卡/实体楼梯/新可见文字"
+      },
+      {
+        "reference_assets": [
+          {
+            "file": "/workspace/绯色难测_第十三话/page-02.png",
+            "sha256": "df9f3339a06e2c7215a06637965c6b67b74069d9ae37bf3060a949822acdcb7d",
+            "bytes": 2538165,
+            "immutable_snapshot_source": "/workspace/generated_images/exec-72d61c62-e128-4187-93e0-b08aa9f65dd1.png",
+            "input_path_is_replaced_after_generation": true
+          }
+        ],
+        "source": "/workspace/generated_images/exec-5d877517-adcb-4709-a2b6-d963840808a0.png",
+        "sha256": "8936900b19c282706d521a788d03cc9074297de3b816691404e939c4f271e22b",
+        "kind": "local_count_correction",
+        "actual_references": [
+          "/workspace/绯色难测_第十三话/page-02.png"
+        ],
+        "note": "root与独立QA确认第2格全景6列7行42错误；仅第2格画框内纸面改六列九行54个人进步卡，不动其他格/人物/文本"
+      }
+    ],
+    "sha256": "8936900b19c282706d521a788d03cc9074297de3b816691404e939c4f271e22b",
+    "bytes": 2365440,
+    "resolution": [
+      1024,
+      1536
+    ],
+    "decode": "ok",
+    "actual_references": [
+      "/workspace/绯色难测_第十三话/page-02.png"
+    ],
+    "author_actual_view": true,
+    "frozen": true,
+    "visual_review": "author_and_independent_full_page_actual_final_png_view_passed",
+    "qa_approved_sha256": "8936900b19c282706d521a788d03cc9074297de3b816691404e939c4f271e22b",
+    "independent_reviewer": "/root/ep13_visual_qa"
+  },
+  {
+    "page": 3,
+    "file": "page-03.png",
+    "source": "/workspace/generated_images/exec-aeee574a-e581-4a92-8a5f-d5618fb1c5e6.png",
+    "sources": [
+      "/workspace/generated_images/exec-aeee574a-e581-4a92-8a5f-d5618fb1c5e6.png"
+    ],
+    "history": [
+      "/workspace/generated_images/exec-aeee574a-e581-4a92-8a5f-d5618fb1c5e6.png"
+    ],
+    "steps": [
+      {
+        "reference_assets": [
+          {
+            "file": "/workspace/绯色难测_第十三话/参考/爻光原设近景.jpg",
+            "sha256": "1c14724f3bd1ab2f0bbef92ca17250015f810b00d6ed8c72d86e564c2b51c82e",
+            "bytes": 147839
+          },
+          {
+            "file": "/workspace/绯色难测_第十三话/参考/爻光原设全身.jpg",
+            "sha256": "8222e86042d6637460243ee623098453319f1e679fa64605095ecf0b6d795313",
+            "bytes": 123636
+          },
+          {
+            "file": "/workspace/绯色难测_第十三话/参考/第十二话爻光日装22.png",
+            "sha256": "dee45ac074392b0665ebfa039f8651f747ca8c52334ed4fbf233b239eabc17d6",
+            "bytes": 2435228
+          },
+          {
+            "file": "/workspace/绯色难测_第十三话/参考/第十二话相邻办公室24.png",
+            "sha256": "f161ff2369b056eb50a0c3896b87d665323ee846d86c288a51453ba0a2562f22",
+            "bytes": 2356559
+          }
+        ],
+        "source": "/workspace/generated_images/exec-aeee574a-e581-4a92-8a5f-d5618fb1c5e6.png",
+        "sha256": "f5ccc3e93a80e34d4a94623d9fd9662917bad055cf743235cc5f96be6c9cb641",
+        "kind": "generated",
+        "actual_references": [
+          "/workspace/绯色难测_第十三话/参考/爻光原设近景.jpg",
+          "/workspace/绯色难测_第十三话/参考/爻光原设全身.jpg",
+          "/workspace/绯色难测_第十三话/参考/第十二话爻光日装22.png",
+          "/workspace/绯色难测_第十三话/参考/第十二话相邻办公室24.png"
+        ],
+        "note": "原作前6正式独立源审放行；采用完整冻结prompt与包内参考，真实生成原PNG字节直存"
+      }
+    ],
+    "sha256": "f5ccc3e93a80e34d4a94623d9fd9662917bad055cf743235cc5f96be6c9cb641",
+    "bytes": 2385766,
+    "resolution": [
+      1024,
+      1536
+    ],
+    "decode": "ok",
+    "actual_references": [
+      "/workspace/绯色难测_第十三话/参考/爻光原设近景.jpg",
+      "/workspace/绯色难测_第十三话/参考/爻光原设全身.jpg",
+      "/workspace/绯色难测_第十三话/参考/第十二话爻光日装22.png",
+      "/workspace/绯色难测_第十三话/参考/第十二话相邻办公室24.png"
+    ],
+    "author_actual_view": true,
+    "frozen": true,
+    "visual_review": "author_and_independent_full_page_actual_final_png_view_passed",
+    "qa_approved_sha256": "f5ccc3e93a80e34d4a94623d9fd9662917bad055cf743235cc5f96be6c9cb641",
+    "independent_reviewer": "/root/ep13_visual_qa"
+  },
+  {
+    "page": 4,
+    "file": "page-04.png",
+    "source": "/workspace/generated_images/exec-7290ceab-67e4-41fd-b64d-a74656efec6b.png",
+    "sources": [
+      "/workspace/generated_images/exec-7290ceab-67e4-41fd-b64d-a74656efec6b.png"
+    ],
+    "history": [
+      "/workspace/generated_images/exec-7290ceab-67e4-41fd-b64d-a74656efec6b.png"
+    ],
+    "steps": [
+      {
+        "reference_assets": [
+          {
+            "file": "/workspace/绯色难测_第十三话/参考/爻光原设近景.jpg",
+            "sha256": "1c14724f3bd1ab2f0bbef92ca17250015f810b00d6ed8c72d86e564c2b51c82e",
+            "bytes": 147839
+          },
+          {
+            "file": "/workspace/绯色难测_第十三话/参考/爻光原设全身.jpg",
+            "sha256": "8222e86042d6637460243ee623098453319f1e679fa64605095ecf0b6d795313",
+            "bytes": 123636
+          },
+          {
+            "file": "/workspace/绯色难测_第十三话/参考/第十二话爻光日装22.png",
+            "sha256": "dee45ac074392b0665ebfa039f8651f747ca8c52334ed4fbf233b239eabc17d6",
+            "bytes": 2435228
+          },
+          {
+            "file": "/workspace/绯色难测_第十三话/参考/第十二话相邻办公室24.png",
+            "sha256": "f161ff2369b056eb50a0c3896b87d665323ee846d86c288a51453ba0a2562f22",
+            "bytes": 2356559
+          }
+        ],
+        "source": "/workspace/generated_images/exec-7290ceab-67e4-41fd-b64d-a74656efec6b.png",
+        "sha256": "26e6419efe9dd1da5a7c59c08a29c0ecf6762ccd7eb36ba67aa9fd696be207d4",
+        "kind": "generated",
+        "actual_references": [
+          "/workspace/绯色难测_第十三话/参考/爻光原设近景.jpg",
+          "/workspace/绯色难测_第十三话/参考/爻光原设全身.jpg",
+          "/workspace/绯色难测_第十三话/参考/第十二话爻光日装22.png",
+          "/workspace/绯色难测_第十三话/参考/第十二话相邻办公室24.png"
+        ],
+        "note": "前12完整冻结分镜源审通过后真实生成，原始PNG字节直存"
+      }
+    ],
+    "sha256": "26e6419efe9dd1da5a7c59c08a29c0ecf6762ccd7eb36ba67aa9fd696be207d4",
+    "bytes": 2120660,
+    "resolution": [
+      1024,
+      1536
+    ],
+    "decode": "ok",
+    "actual_references": [
+      "/workspace/绯色难测_第十三话/参考/爻光原设近景.jpg",
+      "/workspace/绯色难测_第十三话/参考/爻光原设全身.jpg",
+      "/workspace/绯色难测_第十三话/参考/第十二话爻光日装22.png",
+      "/workspace/绯色难测_第十三话/参考/第十二话相邻办公室24.png"
+    ],
+    "author_actual_view": true,
+    "frozen": true,
+    "visual_review": "author_and_independent_full_page_actual_final_png_view_passed",
+    "qa_approved_sha256": "26e6419efe9dd1da5a7c59c08a29c0ecf6762ccd7eb36ba67aa9fd696be207d4",
+    "independent_reviewer": "/root/ep13_visual_qa"
+  },
+  {
+    "page": 5,
+    "file": "page-05.png",
+    "source": "/workspace/generated_images/exec-61a4b080-76e3-4356-9405-b39d70bd7350.png",
+    "sources": [
+      "/workspace/generated_images/exec-61a4b080-76e3-4356-9405-b39d70bd7350.png"
+    ],
+    "history": [
+      "/workspace/generated_images/exec-61a4b080-76e3-4356-9405-b39d70bd7350.png"
+    ],
+    "steps": [
+      {
+        "reference_assets": [
+          {
+            "file": "/workspace/绯色难测_第十三话/参考/绯英原设.jpg",
+            "sha256": "8ec0576d31814a4f0d54c067b4375b25f5510671823c4d41706cc33b55a346da",
+            "bytes": 134176
+          },
+          {
+            "file": "/workspace/绯色难测_第十三话/参考/爻光原设近景.jpg",
+            "sha256": "1c14724f3bd1ab2f0bbef92ca17250015f810b00d6ed8c72d86e564c2b51c82e",
+            "bytes": 147839
+          },
+          {
+            "file": "/workspace/绯色难测_第十三话/参考/第十二话校正日装03.png",
+            "sha256": "ccd10073c94da72080e0deb2bf1410adada96ca624f1179ae22c76caf6994edc",
+            "bytes": 2517700
+          },
+          {
+            "file": "/workspace/绯色难测_第十三话/参考/第二话符玄04.png",
+            "sha256": "934b3eab1a5b861bc1c9613924a6ea960f74f4be5df8bcda55597c02f2707cbe",
+            "bytes": 2621039
+          },
+          {
+            "file": "/workspace/绯色难测_第十三话/参考/第十二话相邻办公室24.png",
+            "sha256": "f161ff2369b056eb50a0c3896b87d665323ee846d86c288a51453ba0a2562f22",
+            "bytes": 2356559
+          }
+        ],
+        "source": "/workspace/generated_images/exec-61a4b080-76e3-4356-9405-b39d70bd7350.png",
+        "sha256": "668aaef104791fd51220cd0cd1c1e43d04637f4e3ed42881409d843c68d50954",
+        "kind": "generated",
+        "actual_references": [
+          "/workspace/绯色难测_第十三话/参考/绯英原设.jpg",
+          "/workspace/绯色难测_第十三话/参考/爻光原设近景.jpg",
+          "/workspace/绯色难测_第十三话/参考/第十二话校正日装03.png",
+          "/workspace/绯色难测_第十三话/参考/第二话符玄04.png",
+          "/workspace/绯色难测_第十三话/参考/第十二话相邻办公室24.png"
+        ],
+        "note": "原作前6正式独立源审放行；采用完整冻结prompt与包内参考，真实生成原PNG字节直存"
+      }
+    ],
+    "sha256": "668aaef104791fd51220cd0cd1c1e43d04637f4e3ed42881409d843c68d50954",
+    "bytes": 2375754,
+    "resolution": [
+      1024,
+      1536
+    ],
+    "decode": "ok",
+    "actual_references": [
+      "/workspace/绯色难测_第十三话/参考/绯英原设.jpg",
+      "/workspace/绯色难测_第十三话/参考/爻光原设近景.jpg",
+      "/workspace/绯色难测_第十三话/参考/第十二话校正日装03.png",
+      "/workspace/绯色难测_第十三话/参考/第二话符玄04.png",
+      "/workspace/绯色难测_第十三话/参考/第十二话相邻办公室24.png"
+    ],
+    "author_actual_view": true,
+    "frozen": true,
+    "visual_review": "author_and_independent_full_page_actual_final_png_view_passed",
+    "qa_approved_sha256": "668aaef104791fd51220cd0cd1c1e43d04637f4e3ed42881409d843c68d50954",
+    "independent_reviewer": "/root/ep13_visual_qa"
+  },
+  {
+    "page": 6,
+    "file": "page-06.png",
+    "source": "/workspace/generated_images/exec-3ef5c5ec-a4de-48fe-936e-38fd41c19230.png",
+    "sources": [
+      "/workspace/generated_images/exec-3ef5c5ec-a4de-48fe-936e-38fd41c19230.png"
+    ],
+    "history": [
+      "/workspace/generated_images/exec-3ef5c5ec-a4de-48fe-936e-38fd41c19230.png"
+    ],
+    "steps": [
+      {
+        "reference_assets": [
+          {
+            "file": "/workspace/绯色难测_第十三话/参考/绯英原设.jpg",
+            "sha256": "8ec0576d31814a4f0d54c067b4375b25f5510671823c4d41706cc33b55a346da",
+            "bytes": 134176
+          },
+          {
+            "file": "/workspace/绯色难测_第十三话/参考/爻光原设近景.jpg",
+            "sha256": "1c14724f3bd1ab2f0bbef92ca17250015f810b00d6ed8c72d86e564c2b51c82e",
+            "bytes": 147839
+          },
+          {
+            "file": "/workspace/绯色难测_第十三话/参考/第十二话校正日装03.png",
+            "sha256": "ccd10073c94da72080e0deb2bf1410adada96ca624f1179ae22c76caf6994edc",
+            "bytes": 2517700
+          },
+          {
+            "file": "/workspace/绯色难测_第十三话/参考/第二话符玄04.png",
+            "sha256": "934b3eab1a5b861bc1c9613924a6ea960f74f4be5df8bcda55597c02f2707cbe",
+            "bytes": 2621039
+          },
+          {
+            "file": "/workspace/绯色难测_第十三话/参考/第十二话相邻办公室24.png",
+            "sha256": "f161ff2369b056eb50a0c3896b87d665323ee846d86c288a51453ba0a2562f22",
+            "bytes": 2356559
+          }
+        ],
+        "source": "/workspace/generated_images/exec-3ef5c5ec-a4de-48fe-936e-38fd41c19230.png",
+        "sha256": "2d0e35e80ace3fd67f64730f4dee29ef162546a77e31c5873ef33cdcbd745951",
+        "kind": "generated",
+        "actual_references": [
+          "/workspace/绯色难测_第十三话/参考/绯英原设.jpg",
+          "/workspace/绯色难测_第十三话/参考/爻光原设近景.jpg",
+          "/workspace/绯色难测_第十三话/参考/第十二话校正日装03.png",
+          "/workspace/绯色难测_第十三话/参考/第二话符玄04.png",
+          "/workspace/绯色难测_第十三话/参考/第十二话相邻办公室24.png"
+        ],
+        "note": "前12完整冻结分镜源审通过后真实生成，原始PNG字节直存"
+      }
+    ],
+    "sha256": "2d0e35e80ace3fd67f64730f4dee29ef162546a77e31c5873ef33cdcbd745951",
+    "bytes": 2644461,
+    "resolution": [
+      1024,
+      1536
+    ],
+    "decode": "ok",
+    "actual_references": [
+      "/workspace/绯色难测_第十三话/参考/绯英原设.jpg",
+      "/workspace/绯色难测_第十三话/参考/爻光原设近景.jpg",
+      "/workspace/绯色难测_第十三话/参考/第十二话校正日装03.png",
+      "/workspace/绯色难测_第十三话/参考/第二话符玄04.png",
+      "/workspace/绯色难测_第十三话/参考/第十二话相邻办公室24.png"
+    ],
+    "author_actual_view": true,
+    "frozen": true,
+    "visual_review": "author_and_independent_full_page_actual_final_png_view_passed",
+    "qa_approved_sha256": "2d0e35e80ace3fd67f64730f4dee29ef162546a77e31c5873ef33cdcbd745951",
+    "independent_reviewer": "/root/ep13_visual_qa"
+  },
+  {
+    "page": 7,
+    "file": "page-07.png",
+    "source": "/workspace/generated_images/exec-efe414f6-76c7-433b-95ca-65499b886d8b.png",
+    "sources": [
+      "/workspace/generated_images/exec-e349fda1-b115-4aec-a9fd-047a01acb482.png",
+      "/workspace/generated_images/exec-efe414f6-76c7-433b-95ca-65499b886d8b.png"
+    ],
+    "history": [
+      "/workspace/generated_images/exec-e349fda1-b115-4aec-a9fd-047a01acb482.png",
+      "/workspace/generated_images/exec-efe414f6-76c7-433b-95ca-65499b886d8b.png"
+    ],
+    "steps": [
+      {
+        "reference_assets": [
+          {
+            "file": "/workspace/绯色难测_第十三话/参考/绯英原设.jpg",
+            "sha256": "8ec0576d31814a4f0d54c067b4375b25f5510671823c4d41706cc33b55a346da",
+            "bytes": 134176
+          },
+          {
+            "file": "/workspace/绯色难测_第十三话/参考/爻光原设近景.jpg",
+            "sha256": "1c14724f3bd1ab2f0bbef92ca17250015f810b00d6ed8c72d86e564c2b51c82e",
+            "bytes": 147839
+          },
+          {
+            "file": "/workspace/绯色难测_第十三话/参考/第十二话校正日装03.png",
+            "sha256": "ccd10073c94da72080e0deb2bf1410adada96ca624f1179ae22c76caf6994edc",
+            "bytes": 2517700
+          },
+          {
+            "file": "/workspace/绯色难测_第十三话/参考/第二话符玄04.png",
+            "sha256": "934b3eab1a5b861bc1c9613924a6ea960f74f4be5df8bcda55597c02f2707cbe",
+            "bytes": 2621039
+          },
+          {
+            "file": "/workspace/绯色难测_第十三话/参考/第五话青雀02.png",
+            "sha256": "1be5db2df56919fa3e04c24f79b0409f33549c07107e3b7114647ea99945d072",
+            "bytes": 2578645
+          }
+        ],
+        "source": "/workspace/generated_images/exec-e349fda1-b115-4aec-a9fd-047a01acb482.png",
+        "sha256": "9dcaa3305760449279b153fe9c2321b0fa6ee912de00dae91774c79c2381a477",
+        "kind": "generated",
+        "actual_references": [
+          "/workspace/绯色难测_第十三话/参考/绯英原设.jpg",
+          "/workspace/绯色难测_第十三话/参考/爻光原设近景.jpg",
+          "/workspace/绯色难测_第十三话/参考/第十二话校正日装03.png",
+          "/workspace/绯色难测_第十三话/参考/第二话符玄04.png",
+          "/workspace/绯色难测_第十三话/参考/第五话青雀02.png"
+        ],
+        "note": "前12完整冻结分镜源审通过后真实生成，原始PNG字节直存"
+      },
+      {
+        "reference_assets": [
+          {
+            "file": "/workspace/generated_images/exec-e349fda1-b115-4aec-a9fd-047a01acb482.png",
+            "sha256": "9dcaa3305760449279b153fe9c2321b0fa6ee912de00dae91774c79c2381a477",
+            "bytes": 2641047
+          }
+        ],
+        "source": "/workspace/generated_images/exec-efe414f6-76c7-433b-95ca-65499b886d8b.png",
+        "sha256": "009391cff9555fbcfa739d7bb68f07ba25f292aaa9f962f1216ea3b844d1e311",
+        "kind": "local_identity_and_wrist_correction",
+        "actual_references": [
+          "/workspace/generated_images/exec-e349fda1-b115-4aec-a9fd-047a01acb482.png"
+        ],
+        "note": "作者/root/独立QA三方确认：仅p3解剖RIGHT腕多余玉圈删除、末格1班欢呼区粉发March错班换匿名深棕发女生，p3中性联合观众March保留"
+      }
+    ],
+    "sha256": "009391cff9555fbcfa739d7bb68f07ba25f292aaa9f962f1216ea3b844d1e311",
+    "bytes": 2523660,
+    "resolution": [
+      1024,
+      1536
+    ],
+    "decode": "ok",
+    "actual_references": [
+      "/workspace/generated_images/exec-e349fda1-b115-4aec-a9fd-047a01acb482.png"
+    ],
+    "author_actual_view": true,
+    "frozen": true,
+    "visual_review": "author_and_independent_full_page_actual_final_png_view_passed",
+    "qa_approved_sha256": "009391cff9555fbcfa739d7bb68f07ba25f292aaa9f962f1216ea3b844d1e311",
+    "independent_reviewer": "/root/ep13_visual_qa"
+  },
+  {
+    "page": 8,
+    "file": "page-08.png",
+    "source": "/workspace/generated_images/exec-5a011685-7551-4a24-a1be-9004d73a8835.png",
+    "sources": [
+      "/workspace/generated_images/exec-2ad09ced-4271-4774-a022-fbd6d4cbb9f1.png",
+      "/workspace/generated_images/exec-5a011685-7551-4a24-a1be-9004d73a8835.png"
+    ],
+    "history": [
+      "/workspace/generated_images/exec-2ad09ced-4271-4774-a022-fbd6d4cbb9f1.png",
+      "/workspace/generated_images/exec-5a011685-7551-4a24-a1be-9004d73a8835.png"
+    ],
+    "steps": [
+      {
+        "reference_assets": [
+          {
+            "file": "/workspace/绯色难测_第十三话/参考/爻光原设近景.jpg",
+            "sha256": "1c14724f3bd1ab2f0bbef92ca17250015f810b00d6ed8c72d86e564c2b51c82e",
+            "bytes": 147839
+          },
+          {
+            "file": "/workspace/绯色难测_第十三话/参考/爻光原设全身.jpg",
+            "sha256": "8222e86042d6637460243ee623098453319f1e679fa64605095ecf0b6d795313",
+            "bytes": 123636
+          },
+          {
+            "file": "/workspace/绯色难测_第十三话/参考/第十二话爻光日装22.png",
+            "sha256": "dee45ac074392b0665ebfa039f8651f747ca8c52334ed4fbf233b239eabc17d6",
+            "bytes": 2435228
+          },
+          {
+            "file": "/workspace/绯色难测_第十三话/参考/第二话符玄04.png",
+            "sha256": "934b3eab1a5b861bc1c9613924a6ea960f74f4be5df8bcda55597c02f2707cbe",
+            "bytes": 2621039
+          },
+          {
+            "file": "/workspace/绯色难测_第十三话/参考/第五话青雀02.png",
+            "sha256": "1be5db2df56919fa3e04c24f79b0409f33549c07107e3b7114647ea99945d072",
+            "bytes": 2578645
+          }
+        ],
+        "source": "/workspace/generated_images/exec-2ad09ced-4271-4774-a022-fbd6d4cbb9f1.png",
+        "sha256": "88357f8f85235b8017659487533c810a50ea8bd9c944fdae2ccffd95b2d25033",
+        "kind": "generated",
+        "actual_references": [
+          "/workspace/绯色难测_第十三话/参考/爻光原设近景.jpg",
+          "/workspace/绯色难测_第十三话/参考/爻光原设全身.jpg",
+          "/workspace/绯色难测_第十三话/参考/第十二话爻光日装22.png",
+          "/workspace/绯色难测_第十三话/参考/第二话符玄04.png",
+          "/workspace/绯色难测_第十三话/参考/第五话青雀02.png"
+        ],
+        "note": "完整冻结分镜源审通过后真实生成，原始PNG字节直存"
+      },
+      {
+        "reference_assets": [
+          {
+            "file": "/workspace/generated_images/exec-2ad09ced-4271-4774-a022-fbd6d4cbb9f1.png",
+            "sha256": "88357f8f85235b8017659487533c810a50ea8bd9c944fdae2ccffd95b2d25033",
+            "bytes": 2608119
+          }
+        ],
+        "source": "/workspace/generated_images/exec-5a011685-7551-4a24-a1be-9004d73a8835.png",
+        "sha256": "5e5a047c334c8a6d32807e03a0d4b0380dd28cf8dd3450171ab150f42416067c",
+        "kind": "local_background_identity_correction",
+        "actual_references": [
+          "/workspace/generated_images/exec-2ad09ced-4271-4774-a022-fbd6d4cbb9f1.png"
+        ],
+        "note": "作者与QA同意仅第一格错班粉发/误孔雀羽夹学生换匿名深棕短发，保姿态校服双拳与其它全部"
+      }
+    ],
+    "sha256": "5e5a047c334c8a6d32807e03a0d4b0380dd28cf8dd3450171ab150f42416067c",
+    "bytes": 2581389,
+    "resolution": [
+      1024,
+      1536
+    ],
+    "decode": "ok",
+    "actual_references": [
+      "/workspace/generated_images/exec-2ad09ced-4271-4774-a022-fbd6d4cbb9f1.png"
+    ],
+    "author_actual_view": true,
+    "frozen": true,
+    "visual_review": "author_and_independent_full_page_actual_final_png_view_passed",
+    "qa_approved_sha256": "5e5a047c334c8a6d32807e03a0d4b0380dd28cf8dd3450171ab150f42416067c",
+    "independent_reviewer": "/root/ep13_visual_qa"
+  },
+  {
+    "page": 9,
+    "file": "page-09.png",
+    "source": "/workspace/generated_images/exec-ceb244fe-0569-4828-b156-b5e821255aad.png",
+    "sources": [
+      "/workspace/generated_images/exec-ceb244fe-0569-4828-b156-b5e821255aad.png"
+    ],
+    "history": [
+      "/workspace/generated_images/exec-ceb244fe-0569-4828-b156-b5e821255aad.png"
+    ],
+    "steps": [
+      {
+        "reference_assets": [
+          {
+            "file": "/workspace/绯色难测_第十三话/参考/爻光原设近景.jpg",
+            "sha256": "1c14724f3bd1ab2f0bbef92ca17250015f810b00d6ed8c72d86e564c2b51c82e",
+            "bytes": 147839
+          },
+          {
+            "file": "/workspace/绯色难测_第十三话/参考/第十二话校正日装03.png",
+            "sha256": "ccd10073c94da72080e0deb2bf1410adada96ca624f1179ae22c76caf6994edc",
+            "bytes": 2517700
+          },
+          {
+            "file": "/workspace/绯色难测_第十三话/参考/第二话符玄04.png",
+            "sha256": "934b3eab1a5b861bc1c9613924a6ea960f74f4be5df8bcda55597c02f2707cbe",
+            "bytes": 2621039
+          },
+          {
+            "file": "/workspace/绯色难测_第十三话/参考/第四话宇宙画学生04.png",
+            "sha256": "480ba5a93881e927f651a0cec2571593d68268ad6b9251f124d24be688cb21e1",
+            "bytes": 2914667
+          },
+          {
+            "file": "/workspace/绯色难测_第十三话/参考/第五话青雀02.png",
+            "sha256": "1be5db2df56919fa3e04c24f79b0409f33549c07107e3b7114647ea99945d072",
+            "bytes": 2578645
+          }
+        ],
+        "source": "/workspace/generated_images/exec-ceb244fe-0569-4828-b156-b5e821255aad.png",
+        "sha256": "977f6207ca37c67d16c819a3767cb1d5f1159fee3a75f3f3cc87666c2110e4f9",
+        "kind": "generated",
+        "actual_references": [
+          "/workspace/绯色难测_第十三话/参考/爻光原设近景.jpg",
+          "/workspace/绯色难测_第十三话/参考/第十二话校正日装03.png",
+          "/workspace/绯色难测_第十三话/参考/第二话符玄04.png",
+          "/workspace/绯色难测_第十三话/参考/第四话宇宙画学生04.png",
+          "/workspace/绯色难测_第十三话/参考/第五话青雀02.png"
+        ],
+        "note": "完整冻结分镜源审通过后真实生成，原始PNG字节直存"
+      }
+    ],
+    "sha256": "977f6207ca37c67d16c819a3767cb1d5f1159fee3a75f3f3cc87666c2110e4f9",
+    "bytes": 2779560,
+    "resolution": [
+      1024,
+      1536
+    ],
+    "decode": "ok",
+    "actual_references": [
+      "/workspace/绯色难测_第十三话/参考/爻光原设近景.jpg",
+      "/workspace/绯色难测_第十三话/参考/第十二话校正日装03.png",
+      "/workspace/绯色难测_第十三话/参考/第二话符玄04.png",
+      "/workspace/绯色难测_第十三话/参考/第四话宇宙画学生04.png",
+      "/workspace/绯色难测_第十三话/参考/第五话青雀02.png"
+    ],
+    "author_actual_view": true,
+    "frozen": true,
+    "visual_review": "author_and_independent_full_page_actual_final_png_view_passed",
+    "qa_approved_sha256": "977f6207ca37c67d16c819a3767cb1d5f1159fee3a75f3f3cc87666c2110e4f9",
+    "independent_reviewer": "/root/ep13_visual_qa"
+  },
+  {
+    "page": 10,
+    "file": "page-10.png",
+    "source": "/workspace/generated_images/exec-ea9cd6ad-2302-4c7c-84d1-25a894698d7e.png",
+    "sources": [
+      "/workspace/generated_images/exec-ea9cd6ad-2302-4c7c-84d1-25a894698d7e.png"
+    ],
+    "history": [
+      "/workspace/generated_images/exec-ea9cd6ad-2302-4c7c-84d1-25a894698d7e.png"
+    ],
+    "steps": [
+      {
+        "reference_assets": [
+          {
+            "file": "/workspace/绯色难测_第十三话/参考/爻光原设近景.jpg",
+            "sha256": "1c14724f3bd1ab2f0bbef92ca17250015f810b00d6ed8c72d86e564c2b51c82e",
+            "bytes": 147839
+          },
+          {
+            "file": "/workspace/绯色难测_第十三话/参考/第十二话校正日装03.png",
+            "sha256": "ccd10073c94da72080e0deb2bf1410adada96ca624f1179ae22c76caf6994edc",
+            "bytes": 2517700
+          },
+          {
+            "file": "/workspace/绯色难测_第十三话/参考/第二话符玄04.png",
+            "sha256": "934b3eab1a5b861bc1c9613924a6ea960f74f4be5df8bcda55597c02f2707cbe",
+            "bytes": 2621039
+          },
+          {
+            "file": "/workspace/绯色难测_第十三话/参考/第五话青雀02.png",
+            "sha256": "1be5db2df56919fa3e04c24f79b0409f33549c07107e3b7114647ea99945d072",
+            "bytes": 2578645
+          },
+          {
+            "file": "/workspace/绯色难测_第十三话/参考/第四话宇宙画学生04.png",
+            "sha256": "480ba5a93881e927f651a0cec2571593d68268ad6b9251f124d24be688cb21e1",
+            "bytes": 2914667
+          }
+        ],
+        "source": "/workspace/generated_images/exec-ea9cd6ad-2302-4c7c-84d1-25a894698d7e.png",
+        "sha256": "d5dd79c89967ce7bcb72f75e3646c779b4eafbdfad13a7508bbceedc7289a9e3",
+        "kind": "generated",
+        "actual_references": [
+          "/workspace/绯色难测_第十三话/参考/爻光原设近景.jpg",
+          "/workspace/绯色难测_第十三话/参考/第十二话校正日装03.png",
+          "/workspace/绯色难测_第十三话/参考/第二话符玄04.png",
+          "/workspace/绯色难测_第十三话/参考/第五话青雀02.png",
+          "/workspace/绯色难测_第十三话/参考/第四话宇宙画学生04.png"
+        ],
+        "note": "完整冻结分镜源审通过后真实生成，原始PNG字节直存"
+      }
+    ],
+    "sha256": "d5dd79c89967ce7bcb72f75e3646c779b4eafbdfad13a7508bbceedc7289a9e3",
+    "bytes": 2572502,
+    "resolution": [
+      1024,
+      1536
+    ],
+    "decode": "ok",
+    "actual_references": [
+      "/workspace/绯色难测_第十三话/参考/爻光原设近景.jpg",
+      "/workspace/绯色难测_第十三话/参考/第十二话校正日装03.png",
+      "/workspace/绯色难测_第十三话/参考/第二话符玄04.png",
+      "/workspace/绯色难测_第十三话/参考/第五话青雀02.png",
+      "/workspace/绯色难测_第十三话/参考/第四话宇宙画学生04.png"
+    ],
+    "author_actual_view": true,
+    "frozen": true,
+    "visual_review": "author_and_independent_full_page_actual_final_png_view_passed",
+    "qa_approved_sha256": "d5dd79c89967ce7bcb72f75e3646c779b4eafbdfad13a7508bbceedc7289a9e3",
+    "independent_reviewer": "/root/ep13_visual_qa"
+  },
+  {
+    "page": 11,
+    "file": "page-11.png",
+    "source": "/workspace/generated_images/exec-5c8e5453-778e-4893-a8e4-5fdcf58a7763.png",
+    "sources": [
+      "/workspace/generated_images/exec-532641fe-b0b4-44e1-95a9-de393155e28e.png",
+      "/workspace/generated_images/exec-5c8e5453-778e-4893-a8e4-5fdcf58a7763.png"
+    ],
+    "history": [
+      "/workspace/generated_images/exec-532641fe-b0b4-44e1-95a9-de393155e28e.png",
+      "/workspace/generated_images/exec-5c8e5453-778e-4893-a8e4-5fdcf58a7763.png"
+    ],
+    "steps": [
+      {
+        "reference_assets": [
+          {
+            "file": "/workspace/绯色难测_第十三话/参考/绯英原设.jpg",
+            "sha256": "8ec0576d31814a4f0d54c067b4375b25f5510671823c4d41706cc33b55a346da",
+            "bytes": 134176
+          },
+          {
+            "file": "/workspace/绯色难测_第十三话/参考/爻光原设近景.jpg",
+            "sha256": "1c14724f3bd1ab2f0bbef92ca17250015f810b00d6ed8c72d86e564c2b51c82e",
+            "bytes": 147839
+          },
+          {
+            "file": "/workspace/绯色难测_第十三话/参考/第十二话校正日装03.png",
+            "sha256": "ccd10073c94da72080e0deb2bf1410adada96ca624f1179ae22c76caf6994edc",
+            "bytes": 2517700
+          },
+          {
+            "file": "/workspace/绯色难测_第十三话/参考/第二话符玄04.png",
+            "sha256": "934b3eab1a5b861bc1c9613924a6ea960f74f4be5df8bcda55597c02f2707cbe",
+            "bytes": 2621039
+          },
+          {
+            "file": "/workspace/绯色难测_第十三话/参考/第三话三月七02.png",
+            "sha256": "31a7f723e11a8c6d69e58960cc4f551f9ec8d4841e0e5d5c911bf30e8f6db971",
+            "bytes": 2512194
+          }
+        ],
+        "source": "/workspace/generated_images/exec-532641fe-b0b4-44e1-95a9-de393155e28e.png",
+        "sha256": "768b128d7be25f5b670333dca3489d40560f72bc1fd00d3ecdd8210cf151ccba",
+        "kind": "generated",
+        "actual_references": [
+          "/workspace/绯色难测_第十三话/参考/绯英原设.jpg",
+          "/workspace/绯色难测_第十三话/参考/爻光原设近景.jpg",
+          "/workspace/绯色难测_第十三话/参考/第十二话校正日装03.png",
+          "/workspace/绯色难测_第十三话/参考/第二话符玄04.png",
+          "/workspace/绯色难测_第十三话/参考/第三话三月七02.png"
+        ],
+        "note": "完整冻结分镜源审通过后真实生成，原始PNG字节直存"
+      },
+      {
+        "reference_assets": [
+          {
+            "file": "/workspace/generated_images/exec-532641fe-b0b4-44e1-95a9-de393155e28e.png",
+            "sha256": "768b128d7be25f5b670333dca3489d40560f72bc1fd00d3ecdd8210cf151ccba",
+            "bytes": 2666574
+          }
+        ],
+        "source": "/workspace/generated_images/exec-5c8e5453-778e-4893-a8e4-5fdcf58a7763.png",
+        "sha256": "f1b9dc22f8f64daeb950c61d3e29da417b41c2226adae819b971b6b4ebafb307",
+        "kind": "local_single_detail_correction",
+        "actual_references": [
+          "/workspace/generated_images/exec-532641fe-b0b4-44e1-95a9-de393155e28e.png"
+        ],
+        "note": "作者/root/QA确认源稿p3应合文件夹，仅把V形开folder合成一扇闭合navy封面，不动人物文字/比分板/其它格"
+      }
+    ],
+    "sha256": "f1b9dc22f8f64daeb950c61d3e29da417b41c2226adae819b971b6b4ebafb307",
+    "bytes": 2598126,
+    "resolution": [
+      1024,
+      1536
+    ],
+    "decode": "ok",
+    "actual_references": [
+      "/workspace/generated_images/exec-532641fe-b0b4-44e1-95a9-de393155e28e.png"
+    ],
+    "author_actual_view": true,
+    "frozen": true,
+    "visual_review": "author_and_independent_full_page_actual_final_png_view_passed",
+    "qa_approved_sha256": "f1b9dc22f8f64daeb950c61d3e29da417b41c2226adae819b971b6b4ebafb307",
+    "independent_reviewer": "/root/ep13_visual_qa"
+  },
+  {
+    "page": 12,
+    "file": "page-12.png",
+    "source": "/workspace/generated_images/exec-53e3f990-81ec-42f1-8612-f9a0e0dfe821.png",
+    "sources": [
+      "/workspace/generated_images/exec-25b49cb6-1612-4eaa-a947-027b834bc072.png",
+      "/workspace/generated_images/exec-53e3f990-81ec-42f1-8612-f9a0e0dfe821.png"
+    ],
+    "history": [
+      "/workspace/generated_images/exec-25b49cb6-1612-4eaa-a947-027b834bc072.png",
+      "/workspace/generated_images/exec-53e3f990-81ec-42f1-8612-f9a0e0dfe821.png"
+    ],
+    "steps": [
+      {
+        "reference_assets": [
+          {
+            "file": "/workspace/绯色难测_第十三话/参考/爻光原设近景.jpg",
+            "sha256": "1c14724f3bd1ab2f0bbef92ca17250015f810b00d6ed8c72d86e564c2b51c82e",
+            "bytes": 147839
+          },
+          {
+            "file": "/workspace/绯色难测_第十三话/参考/爻光原设全身.jpg",
+            "sha256": "8222e86042d6637460243ee623098453319f1e679fa64605095ecf0b6d795313",
+            "bytes": 123636
+          },
+          {
+            "file": "/workspace/绯色难测_第十三话/参考/第十二话爻光日装22.png",
+            "sha256": "dee45ac074392b0665ebfa039f8651f747ca8c52334ed4fbf233b239eabc17d6",
+            "bytes": 2435228
+          },
+          {
+            "file": "/workspace/绯色难测_第十三话/参考/第十二话相邻办公室24.png",
+            "sha256": "f161ff2369b056eb50a0c3896b87d665323ee846d86c288a51453ba0a2562f22",
+            "bytes": 2356559
+          }
+        ],
+        "source": "/workspace/generated_images/exec-25b49cb6-1612-4eaa-a947-027b834bc072.png",
+        "sha256": "28d0eb6cf02c509399a6af60f9142e1002b18f998550d4a50520f015f9eab937",
+        "kind": "generated",
+        "actual_references": [
+          "/workspace/绯色难测_第十三话/参考/爻光原设近景.jpg",
+          "/workspace/绯色难测_第十三话/参考/爻光原设全身.jpg",
+          "/workspace/绯色难测_第十三话/参考/第十二话爻光日装22.png",
+          "/workspace/绯色难测_第十三话/参考/第十二话相邻办公室24.png"
+        ],
+        "note": "完整冻结分镜源审通过后真实生成，原始PNG字节直存"
+      },
+      {
+        "reference_assets": [
+          {
+            "file": "/workspace/generated_images/exec-25b49cb6-1612-4eaa-a947-027b834bc072.png",
+            "sha256": "28d0eb6cf02c509399a6af60f9142e1002b18f998550d4a50520f015f9eab937",
+            "bytes": 2454172
+          }
+        ],
+        "source": "/workspace/generated_images/exec-53e3f990-81ec-42f1-8612-f9a0e0dfe821.png",
+        "sha256": "60d00756eadad99ceafe3c0deb1f8b00772b1720de4f1db7b2a9cfe370001202",
+        "kind": "local_single_detail_correction",
+        "actual_references": [
+          "/workspace/generated_images/exec-25b49cb6-1612-4eaa-a947-027b834bc072.png"
+        ],
+        "note": "作者/root/QA按实际拇指手背确认末格插纸RIGHT腕误玉，只删末格一圈；p3明确LEFT玉不动"
+      }
+    ],
+    "sha256": "60d00756eadad99ceafe3c0deb1f8b00772b1720de4f1db7b2a9cfe370001202",
+    "bytes": 2385312,
+    "resolution": [
+      1024,
+      1536
+    ],
+    "decode": "ok",
+    "actual_references": [
+      "/workspace/generated_images/exec-25b49cb6-1612-4eaa-a947-027b834bc072.png"
+    ],
+    "author_actual_view": true,
+    "frozen": true,
+    "visual_review": "author_and_independent_full_page_actual_final_png_view_passed",
+    "qa_approved_sha256": "60d00756eadad99ceafe3c0deb1f8b00772b1720de4f1db7b2a9cfe370001202",
+    "independent_reviewer": "/root/ep13_visual_qa"
+  },
+  {
+    "page": 13,
+    "file": "page-13.png",
+    "source": "/workspace/generated_images/exec-4a036a1b-1e42-4e04-8386-d38d21828bdd.png",
+    "sources": [
+      "/workspace/generated_images/exec-4a036a1b-1e42-4e04-8386-d38d21828bdd.png"
+    ],
+    "history": [
+      "/workspace/generated_images/exec-4a036a1b-1e42-4e04-8386-d38d21828bdd.png"
+    ],
+    "steps": [
+      {
+        "source": "/workspace/generated_images/exec-4a036a1b-1e42-4e04-8386-d38d21828bdd.png",
+        "sha256": "e8c1f2da05e10a95608e4b5222cf0ce3a6d61885378b0b781ae0e8ba51b5d243",
+        "kind": "generated",
+        "actual_references": [
+          "/workspace/绯色难测_第十三话/参考/绯英原设.jpg",
+          "/workspace/绯色难测_第十三话/参考/爻光原设近景.jpg",
+          "/workspace/绯色难测_第十三话/参考/爻光原设全身.jpg",
+          "/workspace/绯色难测_第十三话/参考/第十二话校正日装03.png",
+          "/workspace/绯色难测_第十三话/参考/第十二话爻光日装22.png"
+        ],
+        "actual_reference_assets": [
+          {
+            "path": "/workspace/绯色难测_第十三话/参考/绯英原设.jpg",
+            "sha256": "8ec0576d31814a4f0d54c067b4375b25f5510671823c4d41706cc33b55a346da",
+            "bytes": 134176
+          },
+          {
+            "path": "/workspace/绯色难测_第十三话/参考/爻光原设近景.jpg",
+            "sha256": "1c14724f3bd1ab2f0bbef92ca17250015f810b00d6ed8c72d86e564c2b51c82e",
+            "bytes": 147839
+          },
+          {
+            "path": "/workspace/绯色难测_第十三话/参考/爻光原设全身.jpg",
+            "sha256": "8222e86042d6637460243ee623098453319f1e679fa64605095ecf0b6d795313",
+            "bytes": 123636
+          },
+          {
+            "path": "/workspace/绯色难测_第十三话/参考/第十二话校正日装03.png",
+            "sha256": "ccd10073c94da72080e0deb2bf1410adada96ca624f1179ae22c76caf6994edc",
+            "bytes": 2517700
+          },
+          {
+            "path": "/workspace/绯色难测_第十三话/参考/第十二话爻光日装22.png",
+            "sha256": "dee45ac074392b0665ebfa039f8651f747ca8c52334ed4fbf233b239eabc17d6",
+            "bytes": 2435228
+          }
+        ],
+        "note": "13–18已独立源审放行；原图作者已实际view；本页首次真实生成。"
+      }
+    ],
+    "sha256": "e8c1f2da05e10a95608e4b5222cf0ce3a6d61885378b0b781ae0e8ba51b5d243",
+    "bytes": 2533740,
+    "resolution": [
+      1024,
+      1536
+    ],
+    "decode": "ok",
+    "actual_references": [
+      "/workspace/绯色难测_第十三话/参考/绯英原设.jpg",
+      "/workspace/绯色难测_第十三话/参考/爻光原设近景.jpg",
+      "/workspace/绯色难测_第十三话/参考/爻光原设全身.jpg",
+      "/workspace/绯色难测_第十三话/参考/第十二话校正日装03.png",
+      "/workspace/绯色难测_第十三话/参考/第十二话爻光日装22.png"
+    ],
+    "author_actual_view": true,
+    "frozen": true,
+    "visual_review": "author_and_independent_full_page_actual_final_png_view_passed",
+    "qa_approved_sha256": "e8c1f2da05e10a95608e4b5222cf0ce3a6d61885378b0b781ae0e8ba51b5d243",
+    "independent_reviewer": "/root/ep13_visual_qa"
+  },
+  {
+    "page": 14,
+    "file": "page-14.png",
+    "source": "/workspace/generated_images/exec-8e51424c-9d36-4b60-b55b-c338b698540e.png",
+    "sources": [
+      "/workspace/generated_images/exec-e1be9714-a0ff-481b-ae71-a91699b5d23b.png",
+      "/workspace/generated_images/exec-8e51424c-9d36-4b60-b55b-c338b698540e.png"
+    ],
+    "history": [
+      "/workspace/generated_images/exec-e1be9714-a0ff-481b-ae71-a91699b5d23b.png",
+      "/workspace/generated_images/exec-8e51424c-9d36-4b60-b55b-c338b698540e.png"
+    ],
+    "steps": [
+      {
+        "source": "/workspace/generated_images/exec-e1be9714-a0ff-481b-ae71-a91699b5d23b.png",
+        "sha256": "1ca7e19cd7ca31368c5dcf21cb60b727a0d913d2e81c4f42b0a4a819d5934aec",
+        "kind": "generated",
+        "actual_references": [
+          "/workspace/绯色难测_第十三话/参考/绯英原设.jpg",
+          "/workspace/绯色难测_第十三话/参考/爻光原设近景.jpg",
+          "/workspace/绯色难测_第十三话/参考/第十二话校正日装03.png",
+          "/workspace/绯色难测_第十三话/参考/第十二话爻光日装22.png",
+          "/workspace/绯色难测_第十三话/参考/第六话银狼09.png"
+        ],
+        "actual_reference_assets": [
+          {
+            "path": "/workspace/绯色难测_第十三话/参考/绯英原设.jpg",
+            "sha256": "8ec0576d31814a4f0d54c067b4375b25f5510671823c4d41706cc33b55a346da",
+            "bytes": 134176
+          },
+          {
+            "path": "/workspace/绯色难测_第十三话/参考/爻光原设近景.jpg",
+            "sha256": "1c14724f3bd1ab2f0bbef92ca17250015f810b00d6ed8c72d86e564c2b51c82e",
+            "bytes": 147839
+          },
+          {
+            "path": "/workspace/绯色难测_第十三话/参考/第十二话校正日装03.png",
+            "sha256": "ccd10073c94da72080e0deb2bf1410adada96ca624f1179ae22c76caf6994edc",
+            "bytes": 2517700
+          },
+          {
+            "path": "/workspace/绯色难测_第十三话/参考/第十二话爻光日装22.png",
+            "sha256": "dee45ac074392b0665ebfa039f8651f747ca8c52334ed4fbf233b239eabc17d6",
+            "bytes": 2435228
+          },
+          {
+            "path": "/workspace/绯色难测_第十三话/参考/第六话银狼09.png",
+            "sha256": "45ecb187a89dc3570c4cb4a455f74f807cfb7ca88c4e864659c7681319166424",
+            "bytes": 2485330
+          }
+        ],
+        "note": "13–18已独立源审放行；原图作者已实际view；本页首次真实生成。"
+      },
+      {
+        "source": "/workspace/generated_images/exec-8e51424c-9d36-4b60-b55b-c338b698540e.png",
+        "sha256": "670ec26fce94bcb2ffea47661daf781c32e66f988f9ba689933fefbe2497b76e",
+        "kind": "local_edit",
+        "actual_references": [
+          "/workspace/generated_images/exec-e1be9714-a0ff-481b-ae71-a91699b5d23b.png"
+        ],
+        "actual_reference_assets": [
+          {
+            "path": "/workspace/generated_images/exec-e1be9714-a0ff-481b-ae71-a91699b5d23b.png",
+            "sha256": "1ca7e19cd7ca31368c5dcf21cb60b727a0d913d2e81c4f42b0a4a819d5934aec",
+            "bytes": 2406045
+          }
+        ],
+        "note": "作者及QA实际view确认14p2 RIGHT误玉；仅删该腕圈，首格LEFT玉保留。"
+      }
+    ],
+    "sha256": "670ec26fce94bcb2ffea47661daf781c32e66f988f9ba689933fefbe2497b76e",
+    "bytes": 2275758,
+    "resolution": [
+      1024,
+      1536
+    ],
+    "decode": "ok",
+    "actual_references": [
+      "/workspace/generated_images/exec-e1be9714-a0ff-481b-ae71-a91699b5d23b.png"
+    ],
+    "author_actual_view": true,
+    "frozen": true,
+    "visual_review": "author_and_independent_full_page_actual_final_png_view_passed",
+    "qa_approved_sha256": "670ec26fce94bcb2ffea47661daf781c32e66f988f9ba689933fefbe2497b76e",
+    "independent_reviewer": "/root/ep13_visual_qa"
+  },
+  {
+    "page": 15,
+    "file": "page-15.png",
+    "source": "/workspace/generated_images/exec-05c585fa-6f26-4aef-9c45-06bba24ecd99.png",
+    "sources": [
+      "/workspace/generated_images/exec-05c585fa-6f26-4aef-9c45-06bba24ecd99.png"
+    ],
+    "history": [
+      "/workspace/generated_images/exec-05c585fa-6f26-4aef-9c45-06bba24ecd99.png"
+    ],
+    "steps": [
+      {
+        "source": "/workspace/generated_images/exec-05c585fa-6f26-4aef-9c45-06bba24ecd99.png",
+        "sha256": "2541d09159c84fd504e7788ce91f0200d58d3bdd61ee4e88b5c70d92dc449baa",
+        "kind": "generated",
+        "actual_references": [
+          "/workspace/绯色难测_第十三话/参考/第五话青雀02.png",
+          "/workspace/绯色难测_第十三话/参考/第六话银狼09.png"
+        ],
+        "actual_reference_assets": [
+          {
+            "path": "/workspace/绯色难测_第十三话/参考/第五话青雀02.png",
+            "sha256": "1be5db2df56919fa3e04c24f79b0409f33549c07107e3b7114647ea99945d072",
+            "bytes": 2578645
+          },
+          {
+            "path": "/workspace/绯色难测_第十三话/参考/第六话银狼09.png",
+            "sha256": "45ecb187a89dc3570c4cb4a455f74f807cfb7ca88c4e864659c7681319166424",
+            "bytes": 2485330
+          }
+        ],
+        "note": "13–18已独立源审放行；原图作者已实际view；本页首次真实生成。"
+      }
+    ],
+    "sha256": "2541d09159c84fd504e7788ce91f0200d58d3bdd61ee4e88b5c70d92dc449baa",
+    "bytes": 2656496,
+    "resolution": [
+      1024,
+      1536
+    ],
+    "decode": "ok",
+    "actual_references": [
+      "/workspace/绯色难测_第十三话/参考/第五话青雀02.png",
+      "/workspace/绯色难测_第十三话/参考/第六话银狼09.png"
+    ],
+    "author_actual_view": true,
+    "frozen": true,
+    "visual_review": "author_and_independent_full_page_actual_final_png_view_passed",
+    "qa_approved_sha256": "2541d09159c84fd504e7788ce91f0200d58d3bdd61ee4e88b5c70d92dc449baa",
+    "independent_reviewer": "/root/ep13_visual_qa"
+  },
+  {
+    "page": 16,
+    "file": "page-16.png",
+    "source": "/workspace/generated_images/exec-8508b559-4bef-4b04-b009-4152c9c6c3cd.png",
+    "sources": [
+      "/workspace/generated_images/exec-43f77e99-713d-4df3-9e70-48668f5020a7.png",
+      "/workspace/generated_images/exec-8508b559-4bef-4b04-b009-4152c9c6c3cd.png"
+    ],
+    "history": [
+      "/workspace/generated_images/exec-43f77e99-713d-4df3-9e70-48668f5020a7.png",
+      "/workspace/generated_images/exec-8508b559-4bef-4b04-b009-4152c9c6c3cd.png"
+    ],
+    "steps": [
+      {
+        "source": "/workspace/generated_images/exec-43f77e99-713d-4df3-9e70-48668f5020a7.png",
+        "sha256": "02c3b8bf40149c05fb8cdd46fbb4e62a8b0f0b0a0a1e496b2f6b28fa198bcf64",
+        "kind": "generated",
+        "actual_references": [
+          "/workspace/绯色难测_第十三话/参考/第五话青雀02.png",
+          "/workspace/绯色难测_第十三话/参考/第六话银狼09.png"
+        ],
+        "actual_reference_assets": [
+          {
+            "path": "/workspace/绯色难测_第十三话/参考/第五话青雀02.png",
+            "sha256": "1be5db2df56919fa3e04c24f79b0409f33549c07107e3b7114647ea99945d072",
+            "bytes": 2578645
+          },
+          {
+            "path": "/workspace/绯色难测_第十三话/参考/第六话银狼09.png",
+            "sha256": "45ecb187a89dc3570c4cb4a455f74f807cfb7ca88c4e864659c7681319166424",
+            "bytes": 2485330
+          }
+        ],
+        "note": "全章24源审通过；作者已实际view所用每张参考；本页首次真实生成。"
+      },
+      {
+        "source": "/workspace/generated_images/exec-8508b559-4bef-4b04-b009-4152c9c6c3cd.png",
+        "sha256": "326d653bb8e20717bd210eaf0d9ef7ca223ebbd80553740f8813e406c41d9309",
+        "kind": "local_edit",
+        "actual_references": [
+          "/workspace/generated_images/exec-43f77e99-713d-4df3-9e70-48668f5020a7.png"
+        ],
+        "actual_reference_assets": [
+          {
+            "path": "/workspace/generated_images/exec-43f77e99-713d-4df3-9e70-48668f5020a7.png",
+            "sha256": "02c3b8bf40149c05fb8cdd46fbb4e62a8b0f0b0a0a1e496b2f6b28fa198bcf64",
+            "bytes": 2191830
+          }
+        ],
+        "note": "作者/root/QA确认仅p1三匿名备注行+p3去消息指嘴小尖；其它页图源字保留。"
+      }
+    ],
+    "sha256": "326d653bb8e20717bd210eaf0d9ef7ca223ebbd80553740f8813e406c41d9309",
+    "bytes": 1865826,
+    "resolution": [
+      1024,
+      1536
+    ],
+    "decode": "ok",
+    "actual_references": [
+      "/workspace/generated_images/exec-43f77e99-713d-4df3-9e70-48668f5020a7.png"
+    ],
+    "author_actual_view": true,
+    "frozen": true,
+    "visual_review": "author_and_independent_full_page_actual_final_png_view_passed",
+    "qa_approved_sha256": "326d653bb8e20717bd210eaf0d9ef7ca223ebbd80553740f8813e406c41d9309",
+    "independent_reviewer": "/root/ep13_visual_qa"
+  },
+  {
+    "page": 17,
+    "file": "page-17.png",
+    "source": "/workspace/generated_images/exec-63b4fe1b-60cb-4672-85a3-b3a135f4ebf5.png",
+    "sources": [
+      "/workspace/generated_images/exec-51aaa1dd-76f9-4333-85f0-2dd63b8b3465.png",
+      "/workspace/generated_images/exec-63b4fe1b-60cb-4672-85a3-b3a135f4ebf5.png"
+    ],
+    "history": [
+      "/workspace/generated_images/exec-51aaa1dd-76f9-4333-85f0-2dd63b8b3465.png",
+      "/workspace/generated_images/exec-63b4fe1b-60cb-4672-85a3-b3a135f4ebf5.png"
+    ],
+    "steps": [
+      {
+        "source": "/workspace/generated_images/exec-51aaa1dd-76f9-4333-85f0-2dd63b8b3465.png",
+        "sha256": "757cbbc26d4ea1df8754aa12a4b1dc57c3f5772bce81b99f95ca2378fb07fd07",
+        "kind": "generated",
+        "actual_references": [
+          "/workspace/绯色难测_第十三话/参考/绯英原设.jpg",
+          "/workspace/绯色难测_第十三话/参考/爻光原设近景.jpg",
+          "/workspace/绯色难测_第十三话/参考/第十二话校正日装03.png",
+          "/workspace/绯色难测_第十三话/参考/第五话青雀02.png",
+          "/workspace/绯色难测_第十三话/参考/第三话三月七02.png"
+        ],
+        "actual_reference_assets": [
+          {
+            "path": "/workspace/绯色难测_第十三话/参考/绯英原设.jpg",
+            "sha256": "8ec0576d31814a4f0d54c067b4375b25f5510671823c4d41706cc33b55a346da",
+            "bytes": 134176
+          },
+          {
+            "path": "/workspace/绯色难测_第十三话/参考/爻光原设近景.jpg",
+            "sha256": "1c14724f3bd1ab2f0bbef92ca17250015f810b00d6ed8c72d86e564c2b51c82e",
+            "bytes": 147839
+          },
+          {
+            "path": "/workspace/绯色难测_第十三话/参考/第十二话校正日装03.png",
+            "sha256": "ccd10073c94da72080e0deb2bf1410adada96ca624f1179ae22c76caf6994edc",
+            "bytes": 2517700
+          },
+          {
+            "path": "/workspace/绯色难测_第十三话/参考/第五话青雀02.png",
+            "sha256": "1be5db2df56919fa3e04c24f79b0409f33549c07107e3b7114647ea99945d072",
+            "bytes": 2578645
+          },
+          {
+            "path": "/workspace/绯色难测_第十三话/参考/第三话三月七02.png",
+            "sha256": "31a7f723e11a8c6d69e58960cc4f551f9ec8d4841e0e5d5c911bf30e8f6db971",
+            "bytes": 2512194
+          }
+        ],
+        "note": "全章24源审通过；作者已实际view所用每张参考；本页首次真实生成。"
+      },
+      {
+        "source": "/workspace/generated_images/exec-63b4fe1b-60cb-4672-85a3-b3a135f4ebf5.png",
+        "sha256": "692c4580d1f8201f2b44ee20a3eb6f45f3e2b66c46e0579898ce52d0c91ae377",
+        "kind": "local_edit",
+        "actual_references": [
+          "/workspace/generated_images/exec-51aaa1dd-76f9-4333-85f0-2dd63b8b3465.png"
+        ],
+        "actual_reference_assets": [
+          {
+            "path": "/workspace/generated_images/exec-51aaa1dd-76f9-4333-85f0-2dd63b8b3465.png",
+            "sha256": "757cbbc26d4ea1df8754aa12a4b1dc57c3f5772bce81b99f95ca2378fb07fd07",
+            "bytes": 3000118
+          }
+        ],
+        "note": "root/QA/作者确认只修p4空并椅前桌+p5椅匹配、去p1/p5裸枝地上真积雪，保白花与脸手杯源字。"
+      }
+    ],
+    "sha256": "692c4580d1f8201f2b44ee20a3eb6f45f3e2b66c46e0579898ce52d0c91ae377",
+    "bytes": 2872316,
+    "resolution": [
+      1024,
+      1536
+    ],
+    "decode": "ok",
+    "actual_references": [
+      "/workspace/generated_images/exec-51aaa1dd-76f9-4333-85f0-2dd63b8b3465.png"
+    ],
+    "author_actual_view": true,
+    "frozen": true,
+    "visual_review": "author_and_independent_full_page_actual_final_png_view_passed",
+    "qa_approved_sha256": "692c4580d1f8201f2b44ee20a3eb6f45f3e2b66c46e0579898ce52d0c91ae377",
+    "independent_reviewer": "/root/ep13_visual_qa"
+  },
+  {
+    "page": 18,
+    "file": "page-18.png",
+    "source": "/workspace/generated_images/exec-516ff3df-2ba8-4ad2-915b-7dff1c392e1b.png",
+    "sources": [
+      "/workspace/generated_images/exec-516ff3df-2ba8-4ad2-915b-7dff1c392e1b.png"
+    ],
+    "history": [
+      "/workspace/generated_images/exec-516ff3df-2ba8-4ad2-915b-7dff1c392e1b.png"
+    ],
+    "steps": [
+      {
+        "source": "/workspace/generated_images/exec-516ff3df-2ba8-4ad2-915b-7dff1c392e1b.png",
+        "sha256": "f19f5476a91d2324374ed5ad5d507239b1cdc35873b1fbb7371da7b386a44f14",
+        "kind": "generated",
+        "actual_references": [
+          "/workspace/绯色难测_第十三话/参考/绯英原设.jpg",
+          "/workspace/绯色难测_第十三话/参考/爻光原设近景.jpg",
+          "/workspace/绯色难测_第十三话/参考/爻光原设全身.jpg",
+          "/workspace/绯色难测_第十三话/参考/第十二话校正日装03.png",
+          "/workspace/绯色难测_第十三话/参考/第十二话爻光日装22.png"
+        ],
+        "actual_reference_assets": [
+          {
+            "path": "/workspace/绯色难测_第十三话/参考/绯英原设.jpg",
+            "sha256": "8ec0576d31814a4f0d54c067b4375b25f5510671823c4d41706cc33b55a346da",
+            "bytes": 134176
+          },
+          {
+            "path": "/workspace/绯色难测_第十三话/参考/爻光原设近景.jpg",
+            "sha256": "1c14724f3bd1ab2f0bbef92ca17250015f810b00d6ed8c72d86e564c2b51c82e",
+            "bytes": 147839
+          },
+          {
+            "path": "/workspace/绯色难测_第十三话/参考/爻光原设全身.jpg",
+            "sha256": "8222e86042d6637460243ee623098453319f1e679fa64605095ecf0b6d795313",
+            "bytes": 123636
+          },
+          {
+            "path": "/workspace/绯色难测_第十三话/参考/第十二话校正日装03.png",
+            "sha256": "ccd10073c94da72080e0deb2bf1410adada96ca624f1179ae22c76caf6994edc",
+            "bytes": 2517700
+          },
+          {
+            "path": "/workspace/绯色难测_第十三话/参考/第十二话爻光日装22.png",
+            "sha256": "dee45ac074392b0665ebfa039f8651f747ca8c52334ed4fbf233b239eabc17d6",
+            "bytes": 2435228
+          }
+        ],
+        "note": "全24页独立源审通过；作者已实际view每张参考，干冬无雪、并排近椅共享前桌，各包所有权按已冻分镜。"
+      }
+    ],
+    "sha256": "f19f5476a91d2324374ed5ad5d507239b1cdc35873b1fbb7371da7b386a44f14",
+    "bytes": 2674695,
+    "resolution": [
+      1024,
+      1536
+    ],
+    "decode": "ok",
+    "actual_references": [
+      "/workspace/绯色难测_第十三话/参考/绯英原设.jpg",
+      "/workspace/绯色难测_第十三话/参考/爻光原设近景.jpg",
+      "/workspace/绯色难测_第十三话/参考/爻光原设全身.jpg",
+      "/workspace/绯色难测_第十三话/参考/第十二话校正日装03.png",
+      "/workspace/绯色难测_第十三话/参考/第十二话爻光日装22.png"
+    ],
+    "author_actual_view": true,
+    "frozen": true,
+    "visual_review": "author_and_independent_full_page_actual_final_png_view_passed",
+    "qa_approved_sha256": "f19f5476a91d2324374ed5ad5d507239b1cdc35873b1fbb7371da7b386a44f14",
+    "independent_reviewer": "/root/ep13_visual_qa"
+  },
+  {
+    "page": 19,
+    "file": "page-19.png",
+    "source": "/workspace/generated_images/exec-d9ee63de-3ee3-42cc-992f-290c6d5dc3d2.png",
+    "sources": [
+      "/workspace/generated_images/exec-001e658e-19de-4def-8d8d-ed39dc1cc125.png",
+      "/workspace/generated_images/exec-d9ee63de-3ee3-42cc-992f-290c6d5dc3d2.png"
+    ],
+    "history": [
+      "/workspace/generated_images/exec-001e658e-19de-4def-8d8d-ed39dc1cc125.png",
+      "/workspace/generated_images/exec-d9ee63de-3ee3-42cc-992f-290c6d5dc3d2.png"
+    ],
+    "steps": [
+      {
+        "source": "/workspace/generated_images/exec-001e658e-19de-4def-8d8d-ed39dc1cc125.png",
+        "sha256": "9ce9601958664be8ac773e74c67b1cd44afee6c58c4214be7b93691eea858f93",
+        "kind": "generated",
+        "actual_references": [
+          "/workspace/绯色难测_第十三话/参考/绯英原设.jpg",
+          "/workspace/绯色难测_第十三话/参考/爻光原设近景.jpg",
+          "/workspace/绯色难测_第十三话/参考/爻光原设全身.jpg",
+          "/workspace/绯色难测_第十三话/参考/第十二话校正日装03.png",
+          "/workspace/绯色难测_第十三话/参考/第十二话爻光日装22.png"
+        ],
+        "actual_reference_assets": [
+          {
+            "path": "/workspace/绯色难测_第十三话/参考/绯英原设.jpg",
+            "sha256": "8ec0576d31814a4f0d54c067b4375b25f5510671823c4d41706cc33b55a346da",
+            "bytes": 134176
+          },
+          {
+            "path": "/workspace/绯色难测_第十三话/参考/爻光原设近景.jpg",
+            "sha256": "1c14724f3bd1ab2f0bbef92ca17250015f810b00d6ed8c72d86e564c2b51c82e",
+            "bytes": 147839
+          },
+          {
+            "path": "/workspace/绯色难测_第十三话/参考/爻光原设全身.jpg",
+            "sha256": "8222e86042d6637460243ee623098453319f1e679fa64605095ecf0b6d795313",
+            "bytes": 123636
+          },
+          {
+            "path": "/workspace/绯色难测_第十三话/参考/第十二话校正日装03.png",
+            "sha256": "ccd10073c94da72080e0deb2bf1410adada96ca624f1179ae22c76caf6994edc",
+            "bytes": 2517700
+          },
+          {
+            "path": "/workspace/绯色难测_第十三话/参考/第十二话爻光日装22.png",
+            "sha256": "dee45ac074392b0665ebfa039f8651f747ca8c52334ed4fbf233b239eabc17d6",
+            "bytes": 2435228
+          }
+        ],
+        "note": "全24页独立源审通过；作者已实际view每张参考，干冬无雪、并排近椅共享前桌，各包所有权按已冻分镜。"
+      },
+      {
+        "source": "/workspace/generated_images/exec-d9ee63de-3ee3-42cc-992f-290c6d5dc3d2.png",
+        "sha256": "e6dcfc19926afe2f791e4ad3b36b9775f50a77195514d3db9ef74b82849bc160",
+        "kind": "local_edit",
+        "actual_references": [
+          "/workspace/generated_images/exec-001e658e-19de-4def-8d8d-ed39dc1cc125.png",
+          "/workspace/generated_images/exec-516ff3df-2ba8-4ad2-915b-7dff1c392e1b.png"
+        ],
+        "actual_reference_assets": [
+          {
+            "path": "/workspace/generated_images/exec-001e658e-19de-4def-8d8d-ed39dc1cc125.png",
+            "sha256": "9ce9601958664be8ac773e74c67b1cd44afee6c58c4214be7b93691eea858f93",
+            "bytes": 2625066
+          },
+          {
+            "path": "/workspace/generated_images/exec-516ff3df-2ba8-4ad2-915b-7dff1c392e1b.png",
+            "sha256": "f19f5476a91d2324374ed5ad5d507239b1cdc35873b1fbb7371da7b386a44f14",
+            "bytes": 2674695
+          }
+        ],
+        "note": "作者/QA确认仅p3个人杯回18透明珍珠杯/F包回地，原19其它画字不动；第二参考为作者已view且QA批准18不可变source。"
+      }
+    ],
+    "sha256": "e6dcfc19926afe2f791e4ad3b36b9775f50a77195514d3db9ef74b82849bc160",
+    "bytes": 2498722,
+    "resolution": [
+      1024,
+      1536
+    ],
+    "decode": "ok",
+    "actual_references": [
+      "/workspace/generated_images/exec-001e658e-19de-4def-8d8d-ed39dc1cc125.png",
+      "/workspace/generated_images/exec-516ff3df-2ba8-4ad2-915b-7dff1c392e1b.png"
+    ],
+    "author_actual_view": true,
+    "frozen": true,
+    "visual_review": "author_and_independent_full_page_actual_final_png_view_passed",
+    "qa_approved_sha256": "e6dcfc19926afe2f791e4ad3b36b9775f50a77195514d3db9ef74b82849bc160",
+    "independent_reviewer": "/root/ep13_visual_qa"
+  },
+  {
+    "page": 20,
+    "file": "page-20.png",
+    "source": "/workspace/generated_images/exec-6341e4e0-4cb1-4831-95b3-d53b75fc0e4a.png",
+    "sources": [
+      "/workspace/generated_images/exec-99928d91-e964-4d53-a3f2-d3dc2d1634b9.png",
+      "/workspace/generated_images/exec-6341e4e0-4cb1-4831-95b3-d53b75fc0e4a.png"
+    ],
+    "history": [
+      "/workspace/generated_images/exec-99928d91-e964-4d53-a3f2-d3dc2d1634b9.png",
+      "/workspace/generated_images/exec-6341e4e0-4cb1-4831-95b3-d53b75fc0e4a.png"
+    ],
+    "steps": [
+      {
+        "source": "/workspace/generated_images/exec-99928d91-e964-4d53-a3f2-d3dc2d1634b9.png",
+        "sha256": "9b78f4d259ca267239ee76e6c5c7b0a1c2721165afb302bbac6988737c1fc5ba",
+        "kind": "generated",
+        "actual_references": [
+          "/workspace/绯色难测_第十三话/参考/绯英原设.jpg",
+          "/workspace/绯色难测_第十三话/参考/爻光原设近景.jpg",
+          "/workspace/绯色难测_第十三话/参考/第十二话校正日装03.png",
+          "/workspace/绯色难测_第十三话/参考/第十二话爻光日装22.png",
+          "/workspace/绯色难测_第四话/page-10.png"
+        ],
+        "actual_reference_assets": [
+          {
+            "path": "/workspace/绯色难测_第十三话/参考/绯英原设.jpg",
+            "sha256": "8ec0576d31814a4f0d54c067b4375b25f5510671823c4d41706cc33b55a346da",
+            "bytes": 134176
+          },
+          {
+            "path": "/workspace/绯色难测_第十三话/参考/爻光原设近景.jpg",
+            "sha256": "1c14724f3bd1ab2f0bbef92ca17250015f810b00d6ed8c72d86e564c2b51c82e",
+            "bytes": 147839
+          },
+          {
+            "path": "/workspace/绯色难测_第十三话/参考/第十二话校正日装03.png",
+            "sha256": "ccd10073c94da72080e0deb2bf1410adada96ca624f1179ae22c76caf6994edc",
+            "bytes": 2517700
+          },
+          {
+            "path": "/workspace/绯色难测_第十三话/参考/第十二话爻光日装22.png",
+            "sha256": "dee45ac074392b0665ebfa039f8651f747ca8c52334ed4fbf233b239eabc17d6",
+            "bytes": 2435228
+          },
+          {
+            "path": "/workspace/绯色难测_第四话/page-10.png",
+            "sha256": "a0f7362d87d33fc7952189878cff1fae16cae7cc9d688a30c5038270e723bb9c",
+            "bytes": 2655661
+          }
+        ],
+        "note": "全24页独立源审通过；作者已实际view每张参考，干冬无雪、并排近椅共享前桌，各包所有权按已冻分镜。"
+      },
+      {
+        "source": "/workspace/generated_images/exec-6341e4e0-4cb1-4831-95b3-d53b75fc0e4a.png",
+        "sha256": "a17311835156279a75fd4a25d66b096891f1b0ab03e797d47d8f030599b30df9",
+        "kind": "local_edit",
+        "actual_references": [
+          "/workspace/generated_images/exec-99928d91-e964-4d53-a3f2-d3dc2d1634b9.png",
+          "/workspace/绯色难测_第十一话/page-02.png",
+          "/workspace/绯色难测_第四话/page-10.png",
+          "/workspace/generated_images/exec-516ff3df-2ba8-4ad2-915b-7dff1c392e1b.png"
+        ],
+        "actual_reference_assets": [
+          {
+            "path": "/workspace/generated_images/exec-99928d91-e964-4d53-a3f2-d3dc2d1634b9.png",
+            "sha256": "9b78f4d259ca267239ee76e6c5c7b0a1c2721165afb302bbac6988737c1fc5ba",
+            "bytes": 2557283
+          },
+          {
+            "path": "/workspace/绯色难测_第十一话/page-02.png",
+            "sha256": "17bce13d7c033cc81f4118d6dc63b46d7506c6a3523f598913194fe40f1ee8c4",
+            "bytes": 2093725
+          },
+          {
+            "path": "/workspace/绯色难测_第四话/page-10.png",
+            "sha256": "a0f7362d87d33fc7952189878cff1fae16cae7cc9d688a30c5038270e723bb9c",
+            "bytes": 2655661
+          },
+          {
+            "path": "/workspace/generated_images/exec-516ff3df-2ba8-4ad2-915b-7dff1c392e1b.png",
+            "sha256": "f19f5476a91d2324374ed5ad5d507239b1cdc35873b1fbb7371da7b386a44f14",
+            "bytes": 2674695
+          }
+        ],
+        "note": "root与QA确认20仅p2整泡原句自然手写爻(两叠乂无点横)、p4保脸字改站姿/双袋地；实际11p02与4p10字形ref均作者实看。"
+      }
+    ],
+    "sha256": "a17311835156279a75fd4a25d66b096891f1b0ab03e797d47d8f030599b30df9",
+    "bytes": 2526433,
+    "resolution": [
+      1024,
+      1536
+    ],
+    "decode": "ok",
+    "actual_references": [
+      "/workspace/generated_images/exec-99928d91-e964-4d53-a3f2-d3dc2d1634b9.png",
+      "/workspace/绯色难测_第十一话/page-02.png",
+      "/workspace/绯色难测_第四话/page-10.png",
+      "/workspace/generated_images/exec-516ff3df-2ba8-4ad2-915b-7dff1c392e1b.png"
+    ],
+    "author_actual_view": true,
+    "frozen": true,
+    "visual_review": "author_and_independent_full_page_actual_final_png_view_passed",
+    "qa_approved_sha256": "a17311835156279a75fd4a25d66b096891f1b0ab03e797d47d8f030599b30df9",
+    "independent_reviewer": "/root/ep13_visual_qa"
+  },
+  {
+    "page": 21,
+    "file": "page-21.png",
+    "source": "/workspace/generated_images/exec-8cd3d6ef-19e0-4ee7-bada-1776ee3a4a32.png",
+    "sources": [
+      "/workspace/generated_images/exec-a8a0adc3-b493-428a-b4a4-c0130d2b6598.png",
+      "/workspace/generated_images/exec-8cd3d6ef-19e0-4ee7-bada-1776ee3a4a32.png"
+    ],
+    "history": [
+      "/workspace/generated_images/exec-a8a0adc3-b493-428a-b4a4-c0130d2b6598.png",
+      "/workspace/generated_images/exec-8cd3d6ef-19e0-4ee7-bada-1776ee3a4a32.png"
+    ],
+    "steps": [
+      {
+        "source": "/workspace/generated_images/exec-a8a0adc3-b493-428a-b4a4-c0130d2b6598.png",
+        "sha256": "475fafd8aa2ff4c46a7f106bf0341d1cc36237283ca6dd33d4e5b7a040fd008c",
+        "kind": "generated",
+        "actual_references": [
+          "/workspace/绯色难测_第十三话/参考/绯英原设.jpg",
+          "/workspace/绯色难测_第十三话/参考/爻光原设近景.jpg",
+          "/workspace/绯色难测_第十三话/参考/爻光原设全身.jpg",
+          "/workspace/绯色难测_第十三话/参考/第十二话校正日装03.png",
+          "/workspace/绯色难测_第十三话/参考/第十二话爻光日装22.png"
+        ],
+        "actual_reference_assets": [
+          {
+            "path": "/workspace/绯色难测_第十三话/参考/绯英原设.jpg",
+            "sha256": "8ec0576d31814a4f0d54c067b4375b25f5510671823c4d41706cc33b55a346da",
+            "bytes": 134176
+          },
+          {
+            "path": "/workspace/绯色难测_第十三话/参考/爻光原设近景.jpg",
+            "sha256": "1c14724f3bd1ab2f0bbef92ca17250015f810b00d6ed8c72d86e564c2b51c82e",
+            "bytes": 147839
+          },
+          {
+            "path": "/workspace/绯色难测_第十三话/参考/爻光原设全身.jpg",
+            "sha256": "8222e86042d6637460243ee623098453319f1e679fa64605095ecf0b6d795313",
+            "bytes": 123636
+          },
+          {
+            "path": "/workspace/绯色难测_第十三话/参考/第十二话校正日装03.png",
+            "sha256": "ccd10073c94da72080e0deb2bf1410adada96ca624f1179ae22c76caf6994edc",
+            "bytes": 2517700
+          },
+          {
+            "path": "/workspace/绯色难测_第十三话/参考/第十二话爻光日装22.png",
+            "sha256": "dee45ac074392b0665ebfa039f8651f747ca8c52334ed4fbf233b239eabc17d6",
+            "bytes": 2435228
+          }
+        ],
+        "note": "全24页独立源审通过；作者已实际view每张参考，干冬无雪、并排近椅共享前桌，各包所有权按已冻分镜。"
+      },
+      {
+        "source": "/workspace/generated_images/exec-8cd3d6ef-19e0-4ee7-bada-1776ee3a4a32.png",
+        "sha256": "1340016697b52c36c6a25f30062098abf6c7a6ff2fd505203a687b824d3f4a27",
+        "kind": "local_edit",
+        "actual_references": [
+          "/workspace/generated_images/exec-a8a0adc3-b493-428a-b4a4-c0130d2b6598.png",
+          "/workspace/generated_images/exec-516ff3df-2ba8-4ad2-915b-7dff1c392e1b.png"
+        ],
+        "actual_reference_assets": [
+          {
+            "path": "/workspace/generated_images/exec-a8a0adc3-b493-428a-b4a4-c0130d2b6598.png",
+            "sha256": "475fafd8aa2ff4c46a7f106bf0341d1cc36237283ca6dd33d4e5b7a040fd008c",
+            "bytes": 2591939
+          },
+          {
+            "path": "/workspace/generated_images/exec-516ff3df-2ba8-4ad2-915b-7dff1c392e1b.png",
+            "sha256": "f19f5476a91d2324374ed5ad5d507239b1cdc35873b1fbb7371da7b386a44f14",
+            "bytes": 2674695
+          }
+        ],
+        "note": "root+QA+作者确认只去前3格椅背、p4立身持各自原袋，保脸手原字及p5步行。"
+      }
+    ],
+    "sha256": "1340016697b52c36c6a25f30062098abf6c7a6ff2fd505203a687b824d3f4a27",
+    "bytes": 2464953,
+    "resolution": [
+      1024,
+      1536
+    ],
+    "decode": "ok",
+    "actual_references": [
+      "/workspace/generated_images/exec-a8a0adc3-b493-428a-b4a4-c0130d2b6598.png",
+      "/workspace/generated_images/exec-516ff3df-2ba8-4ad2-915b-7dff1c392e1b.png"
+    ],
+    "author_actual_view": true,
+    "frozen": true,
+    "visual_review": "author_and_independent_full_page_actual_final_png_view_passed",
+    "qa_approved_sha256": "1340016697b52c36c6a25f30062098abf6c7a6ff2fd505203a687b824d3f4a27",
+    "independent_reviewer": "/root/ep13_visual_qa"
+  },
+  {
+    "page": 22,
+    "file": "page-22.png",
+    "source": "/workspace/generated_images/exec-cc98913a-1ff5-405c-8d9f-e0c37411d94c.png",
+    "sources": [
+      "/workspace/generated_images/exec-4bd1abdd-2968-4e72-bf4f-6665122fedcd.png",
+      "/workspace/generated_images/exec-cc98913a-1ff5-405c-8d9f-e0c37411d94c.png"
+    ],
+    "history": [
+      "/workspace/generated_images/exec-4bd1abdd-2968-4e72-bf4f-6665122fedcd.png",
+      "/workspace/generated_images/exec-cc98913a-1ff5-405c-8d9f-e0c37411d94c.png"
+    ],
+    "steps": [
+      {
+        "source": "/workspace/generated_images/exec-4bd1abdd-2968-4e72-bf4f-6665122fedcd.png",
+        "sha256": "88708e7a981a9df32641d1ec420f2f827cf9e48a397434ee6eb660e1d35b5437",
+        "kind": "generated",
+        "actual_references": [
+          "/workspace/绯色难测_第十三话/参考/绯英原设.jpg",
+          "/workspace/绯色难测_第十三话/参考/爻光原设近景.jpg",
+          "/workspace/绯色难测_第十三话/参考/第十二话校正日装03.png",
+          "/workspace/绯色难测_第十三话/参考/第十二话爻光日装22.png",
+          "/workspace/绯色难测_第十三话/参考/第十二话相邻办公室24.png"
+        ],
+        "actual_reference_assets": [
+          {
+            "path": "/workspace/绯色难测_第十三话/参考/绯英原设.jpg",
+            "sha256": "8ec0576d31814a4f0d54c067b4375b25f5510671823c4d41706cc33b55a346da",
+            "bytes": 134176
+          },
+          {
+            "path": "/workspace/绯色难测_第十三话/参考/爻光原设近景.jpg",
+            "sha256": "1c14724f3bd1ab2f0bbef92ca17250015f810b00d6ed8c72d86e564c2b51c82e",
+            "bytes": 147839
+          },
+          {
+            "path": "/workspace/绯色难测_第十三话/参考/第十二话校正日装03.png",
+            "sha256": "ccd10073c94da72080e0deb2bf1410adada96ca624f1179ae22c76caf6994edc",
+            "bytes": 2517700
+          },
+          {
+            "path": "/workspace/绯色难测_第十三话/参考/第十二话爻光日装22.png",
+            "sha256": "dee45ac074392b0665ebfa039f8651f747ca8c52334ed4fbf233b239eabc17d6",
+            "bytes": 2435228
+          },
+          {
+            "path": "/workspace/绯色难测_第十三话/参考/第十二话相邻办公室24.png",
+            "sha256": "f161ff2369b056eb50a0c3896b87d665323ee846d86c288a51453ba0a2562f22",
+            "bytes": 2356559
+          }
+        ],
+        "note": "全24源审通过；实际各参考已作者view，23追加QA通过18不可变source锁杯及日常服，冬景无提前积雪。"
+      },
+      {
+        "source": "/workspace/generated_images/exec-cc98913a-1ff5-405c-8d9f-e0c37411d94c.png",
+        "sha256": "9881936551f5dd4b38cf0ee947641c1687b73fe542dc1df1318675b4591a5be3",
+        "kind": "local_edit",
+        "actual_references": [
+          "/workspace/generated_images/exec-4bd1abdd-2968-4e72-bf4f-6665122fedcd.png",
+          "/workspace/generated_images/exec-516ff3df-2ba8-4ad2-915b-7dff1c392e1b.png"
+        ],
+        "actual_reference_assets": [
+          {
+            "path": "/workspace/generated_images/exec-4bd1abdd-2968-4e72-bf4f-6665122fedcd.png",
+            "sha256": "88708e7a981a9df32641d1ec420f2f827cf9e48a397434ee6eb660e1d35b5437",
+            "bytes": 2460119
+          },
+          {
+            "path": "/workspace/generated_images/exec-516ff3df-2ba8-4ad2-915b-7dff1c392e1b.png",
+            "sha256": "f19f5476a91d2324374ed5ad5d507239b1cdc35873b1fbb7371da7b386a44f14",
+            "bytes": 2674695
+          }
+        ],
+        "note": "作者/root/QA确认22仅p1两穿戴颜色微修：F深灰厚袜明晰、Y奶油鞋面暗底保；不判裸肤、不追饰、不动普通高窗/源字/其余3格。"
+      }
+    ],
+    "sha256": "9881936551f5dd4b38cf0ee947641c1687b73fe542dc1df1318675b4591a5be3",
+    "bytes": 2282271,
+    "resolution": [
+      1024,
+      1536
+    ],
+    "decode": "ok",
+    "actual_references": [
+      "/workspace/generated_images/exec-4bd1abdd-2968-4e72-bf4f-6665122fedcd.png",
+      "/workspace/generated_images/exec-516ff3df-2ba8-4ad2-915b-7dff1c392e1b.png"
+    ],
+    "author_actual_view": true,
+    "frozen": true,
+    "visual_review": "author_and_independent_full_page_actual_final_png_view_passed",
+    "qa_approved_sha256": "9881936551f5dd4b38cf0ee947641c1687b73fe542dc1df1318675b4591a5be3",
+    "independent_reviewer": "/root/ep13_visual_qa"
+  },
+  {
+    "page": 23,
+    "file": "page-23.png",
+    "source": "/workspace/generated_images/exec-b54456cc-bff5-4072-bed1-03386388379b.png",
+    "sources": [
+      "/workspace/generated_images/exec-b54456cc-bff5-4072-bed1-03386388379b.png"
+    ],
+    "history": [
+      "/workspace/generated_images/exec-b54456cc-bff5-4072-bed1-03386388379b.png"
+    ],
+    "steps": [
+      {
+        "source": "/workspace/generated_images/exec-b54456cc-bff5-4072-bed1-03386388379b.png",
+        "sha256": "2d42ea602b83fb9c123047e8be86a9678e2371c3cbe3a8483f1dc5a27e6d9c6e",
+        "kind": "generated",
+        "actual_references": [
+          "/workspace/绯色难测_第十三话/参考/绯英原设.jpg",
+          "/workspace/绯色难测_第十三话/参考/爻光原设近景.jpg",
+          "/workspace/绯色难测_第十三话/参考/第十二话校正日装03.png",
+          "/workspace/绯色难测_第十三话/参考/第十二话爻光日装22.png",
+          "/workspace/generated_images/exec-516ff3df-2ba8-4ad2-915b-7dff1c392e1b.png"
+        ],
+        "actual_reference_assets": [
+          {
+            "path": "/workspace/绯色难测_第十三话/参考/绯英原设.jpg",
+            "sha256": "8ec0576d31814a4f0d54c067b4375b25f5510671823c4d41706cc33b55a346da",
+            "bytes": 134176
+          },
+          {
+            "path": "/workspace/绯色难测_第十三话/参考/爻光原设近景.jpg",
+            "sha256": "1c14724f3bd1ab2f0bbef92ca17250015f810b00d6ed8c72d86e564c2b51c82e",
+            "bytes": 147839
+          },
+          {
+            "path": "/workspace/绯色难测_第十三话/参考/第十二话校正日装03.png",
+            "sha256": "ccd10073c94da72080e0deb2bf1410adada96ca624f1179ae22c76caf6994edc",
+            "bytes": 2517700
+          },
+          {
+            "path": "/workspace/绯色难测_第十三话/参考/第十二话爻光日装22.png",
+            "sha256": "dee45ac074392b0665ebfa039f8651f747ca8c52334ed4fbf233b239eabc17d6",
+            "bytes": 2435228
+          },
+          {
+            "path": "/workspace/generated_images/exec-516ff3df-2ba8-4ad2-915b-7dff1c392e1b.png",
+            "sha256": "f19f5476a91d2324374ed5ad5d507239b1cdc35873b1fbb7371da7b386a44f14",
+            "bytes": 2674695
+          }
+        ],
+        "note": "全24源审通过；实际各参考已作者view，23追加QA通过18不可变source锁杯及日常服，冬景无提前积雪。"
+      }
+    ],
+    "sha256": "2d42ea602b83fb9c123047e8be86a9678e2371c3cbe3a8483f1dc5a27e6d9c6e",
+    "bytes": 2699509,
+    "resolution": [
+      1024,
+      1536
+    ],
+    "decode": "ok",
+    "actual_references": [
+      "/workspace/绯色难测_第十三话/参考/绯英原设.jpg",
+      "/workspace/绯色难测_第十三话/参考/爻光原设近景.jpg",
+      "/workspace/绯色难测_第十三话/参考/第十二话校正日装03.png",
+      "/workspace/绯色难测_第十三话/参考/第十二话爻光日装22.png",
+      "/workspace/generated_images/exec-516ff3df-2ba8-4ad2-915b-7dff1c392e1b.png"
+    ],
+    "author_actual_view": true,
+    "frozen": true,
+    "visual_review": "author_and_independent_full_page_actual_final_png_view_passed",
+    "qa_approved_sha256": "2d42ea602b83fb9c123047e8be86a9678e2371c3cbe3a8483f1dc5a27e6d9c6e",
+    "independent_reviewer": "/root/ep13_visual_qa"
+  },
+  {
+    "page": 24,
+    "file": "page-24.png",
+    "source": "/workspace/generated_images/exec-c38b30a6-2518-4092-a9b0-6314b961b7f2.png",
+    "sources": [
+      "/workspace/generated_images/exec-c38b30a6-2518-4092-a9b0-6314b961b7f2.png"
+    ],
+    "history": [
+      "/workspace/generated_images/exec-c38b30a6-2518-4092-a9b0-6314b961b7f2.png"
+    ],
+    "steps": [
+      {
+        "source": "/workspace/generated_images/exec-c38b30a6-2518-4092-a9b0-6314b961b7f2.png",
+        "sha256": "7d4cc1d51be895ba5340e46dcd26558bf229458187053c5dcc4b9e62e4ba3b6c",
+        "kind": "generated",
+        "actual_references": [
+          "/workspace/generated_images/exec-b54456cc-bff5-4072-bed1-03386388379b.png",
+          "/workspace/generated_images/exec-6341e4e0-4cb1-4831-95b3-d53b75fc0e4a.png",
+          "/workspace/绯色难测_第十三话/参考/绯英原设.jpg",
+          "/workspace/绯色难测_第十三话/参考/爻光原设近景.jpg",
+          "/workspace/绯色难测_第十三话/参考/第十二话校正日装03.png"
+        ],
+        "actual_reference_assets": [
+          {
+            "path": "/workspace/generated_images/exec-b54456cc-bff5-4072-bed1-03386388379b.png",
+            "sha256": "2d42ea602b83fb9c123047e8be86a9678e2371c3cbe3a8483f1dc5a27e6d9c6e",
+            "bytes": 2699509
+          },
+          {
+            "path": "/workspace/generated_images/exec-6341e4e0-4cb1-4831-95b3-d53b75fc0e4a.png",
+            "sha256": "a17311835156279a75fd4a25d66b096891f1b0ab03e797d47d8f030599b30df9",
+            "bytes": 2526433
+          },
+          {
+            "path": "/workspace/绯色难测_第十三话/参考/绯英原设.jpg",
+            "sha256": "8ec0576d31814a4f0d54c067b4375b25f5510671823c4d41706cc33b55a346da",
+            "bytes": 134176
+          },
+          {
+            "path": "/workspace/绯色难测_第十三话/参考/爻光原设近景.jpg",
+            "sha256": "1c14724f3bd1ab2f0bbef92ca17250015f810b00d6ed8c72d86e564c2b51c82e",
+            "bytes": 147839
+          },
+          {
+            "path": "/workspace/绯色难测_第十三话/参考/第十二话校正日装03.png",
+            "sha256": "ccd10073c94da72080e0deb2bf1410adada96ca624f1179ae22c76caf6994edc",
+            "bytes": 2517700
+          }
+        ],
+        "note": "全章源审通过；实际refs包括作者view+QA批准23(杯勺碟)与20(正确爻老板手写)不可变raw，加原设及日装总5；两自勺一碟接珠自吃无喂嘴。"
+      }
+    ],
+    "sha256": "7d4cc1d51be895ba5340e46dcd26558bf229458187053c5dcc4b9e62e4ba3b6c",
+    "bytes": 2812405,
+    "resolution": [
+      1024,
+      1536
+    ],
+    "decode": "ok",
+    "actual_references": [
+      "/workspace/generated_images/exec-b54456cc-bff5-4072-bed1-03386388379b.png",
+      "/workspace/generated_images/exec-6341e4e0-4cb1-4831-95b3-d53b75fc0e4a.png",
+      "/workspace/绯色难测_第十三话/参考/绯英原设.jpg",
+      "/workspace/绯色难测_第十三话/参考/爻光原设近景.jpg",
+      "/workspace/绯色难测_第十三话/参考/第十二话校正日装03.png"
+    ],
+    "author_actual_view": true,
+    "frozen": true,
+    "visual_review": "author_and_independent_full_page_actual_final_png_view_passed",
+    "qa_approved_sha256": "7d4cc1d51be895ba5340e46dcd26558bf229458187053c5dcc4b9e62e4ba3b6c",
+    "independent_reviewer": "/root/ep13_visual_qa"
+  }
+]
