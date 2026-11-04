@@ -1,0 +1,1079 @@
+[
+  {
+    "page": 1,
+    "title": "四月末，督导周",
+    "layout": "5格：四月校园；周一公文；夜间符玄；数十页清单；逐条销项。",
+    "panels": [
+      [
+        "四月末建木抽叶的校园与教学楼，日光清透，没有冬雪、运动会跑道比赛或雷雨警报。",
+        "话名：第十八话·尺英<br>字幕：四月末，市教育局督导周。"
+      ],
+      [
+        "教务处办公桌接到普通市教育局来文，一份纸件平放不露文号/签名/具体日历号；纸上若有标题只写督导周。",
+        "旁白：市局的文件，周一就到了。"
+      ],
+      [
+        "当晚符玄在台灯下整理纸本清单，粉紫长发金框眼镜/紫灰套装，旁边打印纸整齐，神情认真不崩溃。",
+        "旁白：符玄连夜，做出一份迎检清单。"
+      ],
+      [
+        "同一份清单侧厚度和多页翻动近景，只示数十页的分量，不能挪用16话三十页联名家长报告或编具体总页码。",
+        "旁白：数十页。"
+      ],
+      [
+        "Fu的裸手在同清单方格逐项打普通勾，未编项目内容，工作灯光延续夜色。",
+        "旁白：逐条销项。"
+      ]
+    ],
+    "source": "卷三第十八章《尺英》",
+    "references": [
+      "参考/第十三话符玄日装05.png"
+    ],
+    "status": "实际画稿已生成；作者与独立全页审阅通过，角色与连续性终表已完成并冻结。",
+    "page_state": "从运动会三天后收场之后推进至四月末。周一文件与Fu夜做清单是检查前准备，不在本页提前华到校或金瞳。仅Fu成年日装；文件只普通标题和勾选，不编实际年份/文号/敏感学生资料。",
+    "prompt": "Create ONE finished full-colour Chinese sequential manga PAGE for 《绯色难测》第十八话《尺英》, portrait PNG1024×1536. Detailed confident 2D anime linework, rich restrained cel shading, natural ADULT acting, clear black borders and ivory gutters. Read TOP TO BOTTOM, LEFT TO RIGHT. Fixed header “绯色难测 · 第十八话”, two-digit footer. A complete real comic page, not a storyboard template/poster or blank panel. Print ONLY the listed VISIBLE TEXT plus fixed header/footer; never role labels, metadata or directions. Speech tails point actual speaker; narration and memory voices are TAILLESS boxes, object lettering stays on object. Silent panels have no words. Use current page state for clothes/eyes/hands/objects. References identify only the specified person or painting: do not inherit their old chapter titles, dialogue, report text, classroom activity, season, or injury. No new unlisted dialogue. Natural iris pigment with normal small light reflection. For 爻 U+723B use two stacked 乂, four diagonal strokes, no detached dot+horizontal of交. Inspect actual pixels before changing correct lettering.\n\nFu / 符玄 is ADULT, long pink-lilac hair, fine GOLD-FRAME GLASSES, lavender-gray school-office suit with ivory blouse, bare hands. She is not a child or the short dark-haired inspector. Keep same face and professional daily clothes as reference.\n\nPAGE STATE / NOT PRINTED: 从运动会三天后收场之后推进至四月末。周一文件与Fu夜做清单是检查前准备，不在本页提前华到校或金瞳。仅Fu成年日装；文件只普通标题和勾选，不编实际年份/文号/敏感学生资料。\n\nPAGE 01 — 四月末，督导周. EXACTLY 5 PANELS.\nLayout: 5格：四月校园；周一公文；夜间符玄；数十页清单；逐条销项。\n\nPanel 1 picture / NOT PRINTED: 四月末建木抽叶的校园与教学楼，日光清透，没有冬雪、运动会跑道比赛或雷雨警报。\n\nVISIBLE TEXT [话名, role label NOT PRINTED]: \"第十八话·尺英\"\n\nVISIBLE TEXT [字幕, role label NOT PRINTED]: \"四月末，市教育局督导周。\"\n\nPanel 2 picture / NOT PRINTED: 教务处办公桌接到普通市教育局来文，一份纸件平放不露文号/签名/具体日历号；纸上若有标题只写督导周。\n\nVISIBLE TEXT [旁白, role label NOT PRINTED]: \"市局的文件，周一就到了。\"\n\nPanel 3 picture / NOT PRINTED: 当晚符玄在台灯下整理纸本清单，粉紫长发金框眼镜/紫灰套装，旁边打印纸整齐，神情认真不崩溃。\n\nVISIBLE TEXT [旁白, role label NOT PRINTED]: \"符玄连夜，做出一份迎检清单。\"\n\nPanel 4 picture / NOT PRINTED: 同一份清单侧厚度和多页翻动近景，只示数十页的分量，不能挪用16话三十页联名家长报告或编具体总页码。\n\nVISIBLE TEXT [旁白, role label NOT PRINTED]: \"数十页。\"\n\nPanel 5 picture / NOT PRINTED: Fu的裸手在同清单方格逐项打普通勾，未编项目内容，工作灯光延续夜色。\n\nVISIBLE TEXT [旁白, role label NOT PRINTED]: \"逐条销项。\"\n\nFooter 01. Exactly 5 panels; no extra words."
+  },
+  {
+    "page": 2,
+    "title": "照常",
+    "layout": "4格：迎检忙碌；Y收通知；平静如常；照常原话。",
+    "panels": [
+      [
+        "教学楼与教务处工作人员抱档案/核对桌面，表现全校认真准备，学生正常上课，不画军警戒备。",
+        "旁白：全校，如临大敌。"
+      ],
+      [
+        "Y在自己的办公桌收到普通督导通知，单页纸或终端通知不新增发件人/日期/私信，LEFT玉可扶纸，RIGHT空腕。",
+        "旁白：只有一个人，表现如常。"
+      ],
+      [
+        "Y把通知放回桌面，银白弯碎刘海与RIGHT孔雀、紫青自然眼清楚；继续平静办公的短停顿，不写新公式或补充意见。",
+        "旁白：爻光收到通知后，只说——"
+      ],
+      [
+        "Y抬眼，姿态平稳，对教务工作说原话；不把原文自称三个字的旁白字数错误印出。",
+        "爻光：照常。"
+      ]
+    ],
+    "source": "卷三第十八章《尺英》",
+    "references": [
+      "参考/爻光原设近景.jpg",
+      "参考/爻光原设全身.jpg",
+      "参考/第十六话爻光日装14.png",
+      "参考/第十三话符玄日装05.png"
+    ],
+    "status": "实际画稿已生成；作者与独立全页审阅通过，角色与连续性终表已完成并冻结。",
+    "page_state": "检查前准备阶段，白天办公室。Y白blazer/立领裙/青腰/LEFTnavy肩布/LEFTjade，RIGHT已在17三天后拆带，此话始终裸空无新伤。Fu在通知旁可侧背，不加新的说服台词。",
+    "prompt": "Create ONE finished full-colour Chinese sequential manga PAGE for 《绯色难测》第十八话《尺英》, portrait PNG1024×1536. Detailed confident 2D anime linework, rich restrained cel shading, natural ADULT acting, clear black borders and ivory gutters. Read TOP TO BOTTOM, LEFT TO RIGHT. Fixed header “绯色难测 · 第十八话”, two-digit footer. A complete real comic page, not a storyboard template/poster or blank panel. Print ONLY the listed VISIBLE TEXT plus fixed header/footer; never role labels, metadata or directions. Speech tails point actual speaker; narration and memory voices are TAILLESS boxes, object lettering stays on object. Silent panels have no words. Use current page state for clothes/eyes/hands/objects. References identify only the specified person or painting: do not inherit their old chapter titles, dialogue, report text, classroom activity, season, or injury. No new unlisted dialogue. Natural iris pigment with normal small light reflection. For 爻 U+723B use two stacked 乂, four diagonal strokes, no detached dot+horizontal of交. Inspect actual pixels before changing correct lettering.\n\nY / 爻光 is an ADULT math teacher/grade director: silver-white hair with cool lilac shade, CURVED SEPARATED BROKEN forehead bangs, outward feather-like side layers and long separate rear strands, peacock clasp on anatomical RIGHT temple, natural violet/cyan irides. Same school DAY outfit: WHITE blazer over stand-collar midi dress, TEAL waist, NAVY cloth on anatomical LEFT shoulder. Both hands BARE; one JADE BANGLE ONLY anatomical LEFT wrist, RIGHT wrist EMPTY and healthy. No sports clothes or bandage. Trace actual shoulder/elbow/palm/back/thumb rather than canvas position. The past of her system work remains unillustrated and unspecified.\n\nFu / 符玄 is ADULT, long pink-lilac hair, fine GOLD-FRAME GLASSES, lavender-gray school-office suit with ivory blouse, bare hands. She is not a child or the short dark-haired inspector. Keep same face and professional daily clothes as reference.\n\nPAGE STATE / NOT PRINTED: 检查前准备阶段，白天办公室。Y白blazer/立领裙/青腰/LEFTnavy肩布/LEFTjade，RIGHT已在17三天后拆带，此话始终裸空无新伤。Fu在通知旁可侧背，不加新的说服台词。\n\nPAGE 02 — 照常. EXACTLY 4 PANELS.\nLayout: 4格：迎检忙碌；Y收通知；平静如常；照常原话。\n\nPanel 1 picture / NOT PRINTED: 教学楼与教务处工作人员抱档案/核对桌面，表现全校认真准备，学生正常上课，不画军警戒备。\n\nVISIBLE TEXT [旁白, role label NOT PRINTED]: \"全校，如临大敌。\"\n\nPanel 2 picture / NOT PRINTED: Y在自己的办公桌收到普通督导通知，单页纸或终端通知不新增发件人/日期/私信，LEFT玉可扶纸，RIGHT空腕。\n\nVISIBLE TEXT [旁白, role label NOT PRINTED]: \"只有一个人，表现如常。\"\n\nPanel 3 picture / NOT PRINTED: Y把通知放回桌面，银白弯碎刘海与RIGHT孔雀、紫青自然眼清楚；继续平静办公的短停顿，不写新公式或补充意见。\n\nVISIBLE TEXT [旁白, role label NOT PRINTED]: \"爻光收到通知后，只说——\"\n\nPanel 4 picture / NOT PRINTED: Y抬眼，姿态平稳，对教务工作说原话；不把原文自称三个字的旁白字数错误印出。\n\nVISIBLE TEXT [爻光, role label NOT PRINTED]: \"照常。\"\n\nFooter 02. Exactly 4 panels; no extra words."
+  },
+  {
+    "page": 3,
+    "title": "八点整",
+    "layout": "5格：干冷无风；车入位；八点；华下车全身；恒定步频。",
+    "panels": [
+      [
+        "检查到校日清晨校园，树叶与旗帜基本静止，空气干冷但无雪无雨，不把无风画成强风吹发吹衣。",
+        "字幕：督学华到校那天。<br>旁白：干冷，无风。"
+      ],
+      [
+        "一辆普通深色公务轿车平稳停进校内车位，留足停车线，车牌和车标不写可读号码/品牌。",
+        "旁白：她的车，停进车位。"
+      ],
+      [
+        "校门普通时钟显示08:00，或简洁字幕八点整；不要出现两个矛盾时间或夸张倒计时。",
+        "旁白：八点整。不提前，不推迟。"
+      ],
+      [
+        "成年女性督学华从车侧站直的全身主格：深灰黑利落短发，深灰自然眼、石墨直身大衣、象牙立领衬、炭灰直裤、黑平底鞋；双裸手，无F手套/Y玉镯/孔雀/真兽耳。",
+        "旁白：像用尺子量过。"
+      ],
+      [
+        "华向校门迈步，衣摆仅自然走动，短发整齐，步频恒定；不造武器、军衔、证章或神通。",
+        "旁白：深色大衣，短发利落。"
+      ]
+    ],
+    "source": "卷三第十八章《尺英》",
+    "references": [
+      "参考/第十三话符玄日装05.png"
+    ],
+    "status": "实际画稿已生成；作者与独立全页审阅通过，角色与连续性终表已完成并冻结。",
+    "page_state": "HUA FIRST FULL-BODY IDENTITY ANCHOR。本章首次按原文明示短发/深色大衣设计成年督学华：深灰黑利落短发，沉稳深灰自然眼，石墨色直身长大衣/象牙立领衬/炭灰直裤/黑低跟平底鞋；不借Fu粉发金镜或Y银白羽饰，不称用户原设。到校八点整，不编日期/车牌。",
+    "prompt": "Create ONE finished full-colour Chinese sequential manga PAGE for 《绯色难测》第十八话《尺英》, portrait PNG1024×1536. Detailed confident 2D anime linework, rich restrained cel shading, natural ADULT acting, clear black borders and ivory gutters. Read TOP TO BOTTOM, LEFT TO RIGHT. Fixed header “绯色难测 · 第十八话”, two-digit footer. A complete real comic page, not a storyboard template/poster or blank panel. Print ONLY the listed VISIBLE TEXT plus fixed header/footer; never role labels, metadata or directions. Speech tails point actual speaker; narration and memory voices are TAILLESS boxes, object lettering stays on object. Silent panels have no words. Use current page state for clothes/eyes/hands/objects. References identify only the specified person or painting: do not inherit their old chapter titles, dialogue, report text, classroom activity, season, or injury. No new unlisted dialogue. Natural iris pigment with normal small light reflection. For 爻 U+723B use two stacked 乂, four diagonal strokes, no detached dot+horizontal of交. Inspect actual pixels before changing correct lettering.\n\nHua / 华 is a NEW distinct ADULT female education inspector designed from this chapter, not an existing pink/silver-haired reference person: neat short DEEP GRAY-BLACK hair, calm NATURAL DEEP GRAY eyes, GRAPHITE straight-cut long coat, IVORY stand-collar shirt, CHARCOAL straight long trousers, BLACK FLAT low shoes, BARE hands. Restrained upright adult posture, exact steady pace. No gold glasses, pink/silver long hair, peacock clasp, jade bangle, gloves, animal ears, military insignia or weapons. Her restrained authority is not rage; tiny change in gaze stays tiny.\n\nPAGE STATE / NOT PRINTED: HUA FIRST FULL-BODY IDENTITY ANCHOR。本章首次按原文明示短发/深色大衣设计成年督学华：深灰黑利落短发，沉稳深灰自然眼，石墨色直身长大衣/象牙立领衬/炭灰直裤/黑低跟平底鞋；不借Fu粉发金镜或Y银白羽饰，不称用户原设。到校八点整，不编日期/车牌。\n\nPAGE 03 — 八点整. EXACTLY 5 PANELS.\nLayout: 5格：干冷无风；车入位；八点；华下车全身；恒定步频。\n\nPanel 1 picture / NOT PRINTED: 检查到校日清晨校园，树叶与旗帜基本静止，空气干冷但无雪无雨，不把无风画成强风吹发吹衣。\n\nVISIBLE TEXT [字幕, role label NOT PRINTED]: \"督学华到校那天。\"\n\nVISIBLE TEXT [旁白, role label NOT PRINTED]: \"干冷，无风。\"\n\nPanel 2 picture / NOT PRINTED: 一辆普通深色公务轿车平稳停进校内车位，留足停车线，车牌和车标不写可读号码/品牌。\n\nVISIBLE TEXT [旁白, role label NOT PRINTED]: \"她的车，停进车位。\"\n\nPanel 3 picture / NOT PRINTED: 校门普通时钟显示08:00，或简洁字幕八点整；不要出现两个矛盾时间或夸张倒计时。\n\nVISIBLE TEXT [旁白, role label NOT PRINTED]: \"八点整。不提前，不推迟。\"\n\nPanel 4 picture / NOT PRINTED: 成年女性督学华从车侧站直的全身主格：深灰黑利落短发，深灰自然眼、石墨直身大衣、象牙立领衬、炭灰直裤、黑平底鞋；双裸手，无F手套/Y玉镯/孔雀/真兽耳。\n\nVISIBLE TEXT [旁白, role label NOT PRINTED]: \"像用尺子量过。\"\n\nPanel 5 picture / NOT PRINTED: 华向校门迈步，衣摆仅自然走动，短发整齐，步频恒定；不造武器、军衔、证章或神通。\n\nVISIBLE TEXT [旁白, role label NOT PRINTED]: \"深色大衣，短发利落。\"\n\nFooter 03. Exactly 5 panels; no extra words."
+  },
+  {
+    "page": 4,
+    "title": "匀速穿过走廊",
+    "layout": "4格：步频；学生分开；陪同Fu与停云；不全是礼貌。",
+    "panels": [
+      [
+        "走廊地面与华平底鞋的连续落步，身形自然，不用尺子刻度/倒计时量她实际步幅。",
+        "旁白：步频恒定，走进校门。"
+      ],
+      [
+        "前方几位高中生自然向走廊两侧让路，留出通行线，安静看着来人，无摔倒或罚站。",
+        "旁白：走廊上的学生，自动向两边分开。"
+      ],
+      [
+        "华中景继续前行，Fu粉紫长发金镜紫灰套装陪同，另一侧Ting仅绿色袖口拿巡查表与肩背裁切，不给正脸。",
+        "旁白：陪同的是符玄，和停云。"
+      ],
+      [
+        "学生目光与华冷静侧脸平行切镜，表现一种不自觉的敬畏，华不瞪视责罚孩子。",
+        "旁白：不全是出于礼貌。<br>旁白：还有一部分，出自某种动物性的直觉。"
+      ]
+    ],
+    "source": "卷三第十八章《尺英》",
+    "references": [
+      "参考/第十三话符玄日装05.png",
+      "参考/第八话停云局部12.png"
+    ],
+    "status": "实际画稿已生成；作者与独立全页审阅通过，角色与连续性终表已完成并冻结。",
+    "page_state": "同到校晨，Hua沿03整套深大衣短发。Fu成人紫灰套装在侧陪同，Ting只绿袖/持表手和裁切侧背，保持8/9无完整正脸设定；不新增狐耳或Ting全身发型。学生高中比例，非被恐吓奔逃。",
+    "prompt": "Create ONE finished full-colour Chinese sequential manga PAGE for 《绯色难测》第十八话《尺英》, portrait PNG1024×1536. Detailed confident 2D anime linework, rich restrained cel shading, natural ADULT acting, clear black borders and ivory gutters. Read TOP TO BOTTOM, LEFT TO RIGHT. Fixed header “绯色难测 · 第十八话”, two-digit footer. A complete real comic page, not a storyboard template/poster or blank panel. Print ONLY the listed VISIBLE TEXT plus fixed header/footer; never role labels, metadata or directions. Speech tails point actual speaker; narration and memory voices are TAILLESS boxes, object lettering stays on object. Silent panels have no words. Use current page state for clothes/eyes/hands/objects. References identify only the specified person or painting: do not inherit their old chapter titles, dialogue, report text, classroom activity, season, or injury. No new unlisted dialogue. Natural iris pigment with normal small light reflection. For 爻 U+723B use two stacked 乂, four diagonal strokes, no detached dot+horizontal of交. Inspect actual pixels before changing correct lettering.\n\nHua / 华 is a NEW distinct ADULT female education inspector designed from this chapter, not an existing pink/silver-haired reference person: neat short DEEP GRAY-BLACK hair, calm NATURAL DEEP GRAY eyes, GRAPHITE straight-cut long coat, IVORY stand-collar shirt, CHARCOAL straight long trousers, BLACK FLAT low shoes, BARE hands. Restrained upright adult posture, exact steady pace. No gold glasses, pink/silver long hair, peacock clasp, jade bangle, gloves, animal ears, military insignia or weapons. Her restrained authority is not rage; tiny change in gaze stays tiny.\n\nFu / 符玄 is ADULT, long pink-lilac hair, fine GOLD-FRAME GLASSES, lavender-gray school-office suit with ivory blouse, bare hands. She is not a child or the short dark-haired inspector. Keep same face and professional daily clothes as reference.\n\nTing / 停云 remains ONLY a cropped GREEN office sleeve, ordinary hand holding checklist/folder, or cropped SIDE/BACK shoulder silhouette as established in episode8/9. No user original full-face reference exists: do not invent a frontal face, visible hairstyle, animal ears or tail. The green sleeve is a school-adaptation clothing choice.\n\nPAGE STATE / NOT PRINTED: 同到校晨，Hua沿03整套深大衣短发。Fu成人紫灰套装在侧陪同，Ting只绿袖/持表手和裁切侧背，保持8/9无完整正脸设定；不新增狐耳或Ting全身发型。学生高中比例，非被恐吓奔逃。\n\nPAGE 04 — 匀速穿过走廊. EXACTLY 4 PANELS.\nLayout: 4格：步频；学生分开；陪同Fu与停云；不全是礼貌。\n\nPanel 1 picture / NOT PRINTED: 走廊地面与华平底鞋的连续落步，身形自然，不用尺子刻度/倒计时量她实际步幅。\n\nVISIBLE TEXT [旁白, role label NOT PRINTED]: \"步频恒定，走进校门。\"\n\nPanel 2 picture / NOT PRINTED: 前方几位高中生自然向走廊两侧让路，留出通行线，安静看着来人，无摔倒或罚站。\n\nVISIBLE TEXT [旁白, role label NOT PRINTED]: \"走廊上的学生，自动向两边分开。\"\n\nPanel 3 picture / NOT PRINTED: 华中景继续前行，Fu粉紫长发金镜紫灰套装陪同，另一侧Ting仅绿色袖口拿巡查表与肩背裁切，不给正脸。\n\nVISIBLE TEXT [旁白, role label NOT PRINTED]: \"陪同的是符玄，和停云。\"\n\nPanel 4 picture / NOT PRINTED: 学生目光与华冷静侧脸平行切镜，表现一种不自觉的敬畏，华不瞪视责罚孩子。\n\nVISIBLE TEXT [旁白, role label NOT PRINTED]: \"不全是出于礼貌。\"\n\nVISIBLE TEXT [旁白, role label NOT PRINTED]: \"还有一部分，出自某种动物性的直觉。\"\n\nFooter 04. Exactly 4 panels; no extra words."
+  },
+  {
+    "page": 5,
+    "title": "一路绿灯",
+    "layout": "5格：教务处；对答；整齐档案；清单勾选；信息中心。",
+    "panels": [
+      [
+        "教务处室内，华在桌前检查一般工作资料，Fu在侧回应，Ting绿袖扶自己的调度夹；普通行政环境。",
+        "场所牌：教务处"
+      ],
+      [
+        "Fu和一般成年教务工作人员神情从容准确，回答声只用旁白表示，华认真倾听，不加可读新对白。",
+        "旁白：教务处，对答如流。"
+      ],
+      [
+        "几摞尺寸齐整的纸档案码得边线清楚，视觉像切齐的豆腐，不变真食物，不露私密名单或虚构文号。",
+        "旁白：档案，码得像刀切的豆腐。"
+      ],
+      [
+        "迎检清单一列列普通勾选符号逐项通过，不画考试成绩或接力赛战绩。",
+        "旁白：检查表上的项目，一路绿灯。"
+      ],
+      [
+        "华一行走到信息中心门口，屏幕冷光从里透出；门牌可清楚，屏幕尚无未来对话。",
+        "场所牌：信息中心"
+      ]
+    ],
+    "source": "卷三第十八章《尺英》",
+    "references": [
+      "参考/第十三话符玄日装05.png",
+      "参考/第八话停云局部12.png"
+    ],
+    "status": "实际画稿已生成；作者与独立全页审阅通过，角色与连续性终表已完成并冻结。",
+    "page_state": "同晨校园常服。Hua巡视/Fu与Ting陪同；教务对答是原文概述，不新编评估结论、分数、职务名或逐项问题。档案无学生姓名成绩可读。末到信息中心，尚未问系统。",
+    "prompt": "Create ONE finished full-colour Chinese sequential manga PAGE for 《绯色难测》第十八话《尺英》, portrait PNG1024×1536. Detailed confident 2D anime linework, rich restrained cel shading, natural ADULT acting, clear black borders and ivory gutters. Read TOP TO BOTTOM, LEFT TO RIGHT. Fixed header “绯色难测 · 第十八话”, two-digit footer. A complete real comic page, not a storyboard template/poster or blank panel. Print ONLY the listed VISIBLE TEXT plus fixed header/footer; never role labels, metadata or directions. Speech tails point actual speaker; narration and memory voices are TAILLESS boxes, object lettering stays on object. Silent panels have no words. Use current page state for clothes/eyes/hands/objects. References identify only the specified person or painting: do not inherit their old chapter titles, dialogue, report text, classroom activity, season, or injury. No new unlisted dialogue. Natural iris pigment with normal small light reflection. For 爻 U+723B use two stacked 乂, four diagonal strokes, no detached dot+horizontal of交. Inspect actual pixels before changing correct lettering.\n\nHua / 华 is a NEW distinct ADULT female education inspector designed from this chapter, not an existing pink/silver-haired reference person: neat short DEEP GRAY-BLACK hair, calm NATURAL DEEP GRAY eyes, GRAPHITE straight-cut long coat, IVORY stand-collar shirt, CHARCOAL straight long trousers, BLACK FLAT low shoes, BARE hands. Restrained upright adult posture, exact steady pace. No gold glasses, pink/silver long hair, peacock clasp, jade bangle, gloves, animal ears, military insignia or weapons. Her restrained authority is not rage; tiny change in gaze stays tiny.\n\nFu / 符玄 is ADULT, long pink-lilac hair, fine GOLD-FRAME GLASSES, lavender-gray school-office suit with ivory blouse, bare hands. She is not a child or the short dark-haired inspector. Keep same face and professional daily clothes as reference.\n\nTing / 停云 remains ONLY a cropped GREEN office sleeve, ordinary hand holding checklist/folder, or cropped SIDE/BACK shoulder silhouette as established in episode8/9. No user original full-face reference exists: do not invent a frontal face, visible hairstyle, animal ears or tail. The green sleeve is a school-adaptation clothing choice.\n\nPAGE STATE / NOT PRINTED: 同晨校园常服。Hua巡视/Fu与Ting陪同；教务对答是原文概述，不新编评估结论、分数、职务名或逐项问题。档案无学生姓名成绩可读。末到信息中心，尚未问系统。\n\nPAGE 05 — 一路绿灯. EXACTLY 5 PANELS.\nLayout: 5格：教务处；对答；整齐档案；清单勾选；信息中心。\n\nPanel 1 picture / NOT PRINTED: 教务处室内，华在桌前检查一般工作资料，Fu在侧回应，Ting绿袖扶自己的调度夹；普通行政环境。\n\nVISIBLE TEXT [场所牌, role label NOT PRINTED]: \"教务处\"\n\nPanel 2 picture / NOT PRINTED: Fu和一般成年教务工作人员神情从容准确，回答声只用旁白表示，华认真倾听，不加可读新对白。\n\nVISIBLE TEXT [旁白, role label NOT PRINTED]: \"教务处，对答如流。\"\n\nPanel 3 picture / NOT PRINTED: 几摞尺寸齐整的纸档案码得边线清楚，视觉像切齐的豆腐，不变真食物，不露私密名单或虚构文号。\n\nVISIBLE TEXT [旁白, role label NOT PRINTED]: \"档案，码得像刀切的豆腐。\"\n\nPanel 4 picture / NOT PRINTED: 迎检清单一列列普通勾选符号逐项通过，不画考试成绩或接力赛战绩。\n\nVISIBLE TEXT [旁白, role label NOT PRINTED]: \"检查表上的项目，一路绿灯。\"\n\nPanel 5 picture / NOT PRINTED: 华一行走到信息中心门口，屏幕冷光从里透出；门牌可清楚，屏幕尚无未来对话。\n\nVISIBLE TEXT [场所牌, role label NOT PRINTED]: \"信息中心\"\n\nFooter 05. Exactly 5 panels; no extra words."
+  },
+  {
+    "page": 6,
+    "title": "系统有股杀气",
+    "layout": "4格：主控屏；华停步；杀气原话；谁写的。",
+    "panels": [
+      [
+        "信息中心正常工作主控屏，清晰系统名十方光映，其他小UI为不可读抽象方块/连线，不编敏感账号、学生数据、杀人代码。",
+        "屏幕名称：十方光映"
+      ],
+      [
+        "华走到主控屏前停住，短深发与石墨大衣和冷静自然眼不变，侧后方可见Y白衣轮廓但不提前回答。",
+        "旁白：华，在主控屏前停了停。"
+      ],
+      [
+        "华看屏幕说源评价，语气淡而审视，不画真实刀枪或人物被刺伤。",
+        "华：这套系统有股杀气。"
+      ],
+      [
+        "华稍偏头向身后问，屏幕仍同一正常学校系统。",
+        "华：谁写的。"
+      ]
+    ],
+    "source": "卷三第十八章《尺英》",
+    "references": [
+      "参考/第十三话符玄日装05.png",
+      "参考/第八话停云局部12.png",
+      "参考/爻光原设近景.jpg",
+      "参考/第十六话爻光日装14.png"
+    ],
+    "status": "实际画稿已生成；作者与独立全页审阅通过，角色与连续性终表已完成并冻结。",
+    "page_state": "信息中心十方光映主控屏是学校正常系统UI，只系统名与抽象无隐私图块，非武器/黑客攻击/魔法。Hua同03衣装；Fu/Ting可远侧背，Y在下一页才明确回答。",
+    "prompt": "Create ONE finished full-colour Chinese sequential manga PAGE for 《绯色难测》第十八话《尺英》, portrait PNG1024×1536. Detailed confident 2D anime linework, rich restrained cel shading, natural ADULT acting, clear black borders and ivory gutters. Read TOP TO BOTTOM, LEFT TO RIGHT. Fixed header “绯色难测 · 第十八话”, two-digit footer. A complete real comic page, not a storyboard template/poster or blank panel. Print ONLY the listed VISIBLE TEXT plus fixed header/footer; never role labels, metadata or directions. Speech tails point actual speaker; narration and memory voices are TAILLESS boxes, object lettering stays on object. Silent panels have no words. Use current page state for clothes/eyes/hands/objects. References identify only the specified person or painting: do not inherit their old chapter titles, dialogue, report text, classroom activity, season, or injury. No new unlisted dialogue. Natural iris pigment with normal small light reflection. For 爻 U+723B use two stacked 乂, four diagonal strokes, no detached dot+horizontal of交. Inspect actual pixels before changing correct lettering.\n\nHua / 华 is a NEW distinct ADULT female education inspector designed from this chapter, not an existing pink/silver-haired reference person: neat short DEEP GRAY-BLACK hair, calm NATURAL DEEP GRAY eyes, GRAPHITE straight-cut long coat, IVORY stand-collar shirt, CHARCOAL straight long trousers, BLACK FLAT low shoes, BARE hands. Restrained upright adult posture, exact steady pace. No gold glasses, pink/silver long hair, peacock clasp, jade bangle, gloves, animal ears, military insignia or weapons. Her restrained authority is not rage; tiny change in gaze stays tiny.\n\nY / 爻光 is an ADULT math teacher/grade director: silver-white hair with cool lilac shade, CURVED SEPARATED BROKEN forehead bangs, outward feather-like side layers and long separate rear strands, peacock clasp on anatomical RIGHT temple, natural violet/cyan irides. Same school DAY outfit: WHITE blazer over stand-collar midi dress, TEAL waist, NAVY cloth on anatomical LEFT shoulder. Both hands BARE; one JADE BANGLE ONLY anatomical LEFT wrist, RIGHT wrist EMPTY and healthy. No sports clothes or bandage. Trace actual shoulder/elbow/palm/back/thumb rather than canvas position. The past of her system work remains unillustrated and unspecified.\n\nFu / 符玄 is ADULT, long pink-lilac hair, fine GOLD-FRAME GLASSES, lavender-gray school-office suit with ivory blouse, bare hands. She is not a child or the short dark-haired inspector. Keep same face and professional daily clothes as reference.\n\nTing / 停云 remains ONLY a cropped GREEN office sleeve, ordinary hand holding checklist/folder, or cropped SIDE/BACK shoulder silhouette as established in episode8/9. No user original full-face reference exists: do not invent a frontal face, visible hairstyle, animal ears or tail. The green sleeve is a school-adaptation clothing choice.\n\nPAGE STATE / NOT PRINTED: 信息中心十方光映主控屏是学校正常系统UI，只系统名与抽象无隐私图块，非武器/黑客攻击/魔法。Hua同03衣装；Fu/Ting可远侧背，Y在下一页才明确回答。\n\nPAGE 06 — 系统有股杀气. EXACTLY 4 PANELS.\nLayout: 4格：主控屏；华停步；杀气原话；谁写的。\n\nPanel 1 picture / NOT PRINTED: 信息中心正常工作主控屏，清晰系统名十方光映，其他小UI为不可读抽象方块/连线，不编敏感账号、学生数据、杀人代码。\n\nVISIBLE TEXT [屏幕名称, role label NOT PRINTED]: \"十方光映\"\n\nPanel 2 picture / NOT PRINTED: 华走到主控屏前停住，短深发与石墨大衣和冷静自然眼不变，侧后方可见Y白衣轮廓但不提前回答。\n\nVISIBLE TEXT [旁白, role label NOT PRINTED]: \"华，在主控屏前停了停。\"\n\nPanel 3 picture / NOT PRINTED: 华看屏幕说源评价，语气淡而审视，不画真实刀枪或人物被刺伤。\n\nVISIBLE TEXT [华, role label NOT PRINTED]: \"这套系统有股杀气。\"\n\nPanel 4 picture / NOT PRINTED: 华稍偏头向身后问，屏幕仍同一正常学校系统。\n\nVISIBLE TEXT [华, role label NOT PRINTED]: \"谁写的。\"\n\nFooter 06. Exactly 4 panels; no extra words."
+  },
+  {
+    "page": 7,
+    "title": "本座",
+    "layout": "5格：Y侧后方；回答；华看Y；不像老师；Y沉静。",
+    "panels": [
+      [
+        "拉开位置关系，Y在华侧后方、手边持普通可合终端，Fu在另一侧；不是Y坐审讯席。",
+        "无对白。"
+      ],
+      [
+        "Y平静抬眼，银白弯碎刘海和RIGHT孔雀、自然紫青眼清楚，无金瞳发光。",
+        "爻光：本座。"
+      ],
+      [
+        "华将目光从屏幕转向Y，只有轻微重新评估，不增挑眉冷笑/亲密熟识。",
+        "无对白。"
+      ],
+      [
+        "华说原句，背后的十方光映屏正常，不把身份问题改成指控。",
+        "华：不像老师写的东西。"
+      ],
+      [
+        "Y听完极短停顿，RIGHT空腕手掌在可合终端边缘，LEFT玉另一侧稳定，不提前画合好又打开。",
+        "无对白。"
+      ]
+    ],
+    "source": "卷三第十八章《尺英》",
+    "references": [
+      "参考/爻光原设近景.jpg",
+      "参考/第十六话爻光日装14.png",
+      "参考/爻光原设全身.jpg",
+      "参考/第十三话符玄日装05.png"
+    ],
+    "status": "实际画稿已生成；作者与独立全页审阅通过，角色与连续性终表已完成并冻结。",
+    "page_state": "信息中心同一对话，Y站华侧后方，双裸手LEFTjade/RIGHT空，白套装青腰LEFTnavy肩布。旧16ref只是外观，不继承旧报告/医带。华不强迫交代过去，尚未把系统话当职业揭露。",
+    "prompt": "Create ONE finished full-colour Chinese sequential manga PAGE for 《绯色难测》第十八话《尺英》, portrait PNG1024×1536. Detailed confident 2D anime linework, rich restrained cel shading, natural ADULT acting, clear black borders and ivory gutters. Read TOP TO BOTTOM, LEFT TO RIGHT. Fixed header “绯色难测 · 第十八话”, two-digit footer. A complete real comic page, not a storyboard template/poster or blank panel. Print ONLY the listed VISIBLE TEXT plus fixed header/footer; never role labels, metadata or directions. Speech tails point actual speaker; narration and memory voices are TAILLESS boxes, object lettering stays on object. Silent panels have no words. Use current page state for clothes/eyes/hands/objects. References identify only the specified person or painting: do not inherit their old chapter titles, dialogue, report text, classroom activity, season, or injury. No new unlisted dialogue. Natural iris pigment with normal small light reflection. For 爻 U+723B use two stacked 乂, four diagonal strokes, no detached dot+horizontal of交. Inspect actual pixels before changing correct lettering.\n\nHua / 华 is a NEW distinct ADULT female education inspector designed from this chapter, not an existing pink/silver-haired reference person: neat short DEEP GRAY-BLACK hair, calm NATURAL DEEP GRAY eyes, GRAPHITE straight-cut long coat, IVORY stand-collar shirt, CHARCOAL straight long trousers, BLACK FLAT low shoes, BARE hands. Restrained upright adult posture, exact steady pace. No gold glasses, pink/silver long hair, peacock clasp, jade bangle, gloves, animal ears, military insignia or weapons. Her restrained authority is not rage; tiny change in gaze stays tiny.\n\nY / 爻光 is an ADULT math teacher/grade director: silver-white hair with cool lilac shade, CURVED SEPARATED BROKEN forehead bangs, outward feather-like side layers and long separate rear strands, peacock clasp on anatomical RIGHT temple, natural violet/cyan irides. Same school DAY outfit: WHITE blazer over stand-collar midi dress, TEAL waist, NAVY cloth on anatomical LEFT shoulder. Both hands BARE; one JADE BANGLE ONLY anatomical LEFT wrist, RIGHT wrist EMPTY and healthy. No sports clothes or bandage. Trace actual shoulder/elbow/palm/back/thumb rather than canvas position. The past of her system work remains unillustrated and unspecified.\n\nFu / 符玄 is ADULT, long pink-lilac hair, fine GOLD-FRAME GLASSES, lavender-gray school-office suit with ivory blouse, bare hands. She is not a child or the short dark-haired inspector. Keep same face and professional daily clothes as reference.\n\nPAGE STATE / NOT PRINTED: 信息中心同一对话，Y站华侧后方，双裸手LEFTjade/RIGHT空，白套装青腰LEFTnavy肩布。旧16ref只是外观，不继承旧报告/医带。华不强迫交代过去，尚未把系统话当职业揭露。\n\nPAGE 07 — 本座. EXACTLY 5 PANELS.\nLayout: 5格：Y侧后方；回答；华看Y；不像老师；Y沉静。\n\nPanel 1 picture / NOT PRINTED: 拉开位置关系，Y在华侧后方、手边持普通可合终端，Fu在另一侧；不是Y坐审讯席。\n\nNO VISIBLE TEXT in this panel; silent visual beat.\n\nPanel 2 picture / NOT PRINTED: Y平静抬眼，银白弯碎刘海和RIGHT孔雀、自然紫青眼清楚，无金瞳发光。\n\nVISIBLE TEXT [爻光, role label NOT PRINTED]: \"本座。\"\n\nPanel 3 picture / NOT PRINTED: 华将目光从屏幕转向Y，只有轻微重新评估，不增挑眉冷笑/亲密熟识。\n\nNO VISIBLE TEXT in this panel; silent visual beat.\n\nPanel 4 picture / NOT PRINTED: 华说原句，背后的十方光映屏正常，不把身份问题改成指控。\n\nVISIBLE TEXT [华, role label NOT PRINTED]: \"不像老师写的东西。\"\n\nPanel 5 picture / NOT PRINTED: Y听完极短停顿，RIGHT空腕手掌在可合终端边缘，LEFT玉另一侧稳定，不提前画合好又打开。\n\nNO VISIBLE TEXT in this panel; silent visual beat.\n\nFooter 07. Exactly 5 panels; no extra words."
+  },
+  {
+    "page": 8,
+    "title": "写它的时候",
+    "layout": "4格：确实；合上终端；还不是；较长目光后继续。",
+    "panels": [
+      [
+        "Y以平常语气回应，保持一贯成熟表情，而非戏剧阴影反派。",
+        "爻光：确实。"
+      ],
+      [
+        "Y裸RIGHT空腕手合上同普通可合终端，LEFT玉扶底，不把手持终端变成主控大屏关机。",
+        "无对白。"
+      ],
+      [
+        "Y看华说原话，终端已合上，袖口和腕饰同前。",
+        "爻光：写它的时候，还不是。"
+      ],
+      [
+        "华目光在Y脸停得稍久，随后移开并转向走廊继续前行；可用一格转身留白表达，不补过去身份画面。",
+        "旁白：那一眼，比礼貌更长。<br>旁白：然后，她移开目光，继续往前走。"
+      ]
+    ],
+    "source": "卷三第十八章《尺英》",
+    "references": [
+      "参考/爻光原设近景.jpg",
+      "参考/第十六话爻光日装14.png",
+      "参考/第十三话符玄日装05.png"
+    ],
+    "status": "实际画稿已生成；作者与独立全页审阅通过，角色与连续性终表已完成并冻结。",
+    "page_state": "同一信息中心对话，Y合上可合终端后答写它时还不是；只保源留白，不新写职业/机构/危险任务。华停留比礼貌长的一眼之后移开，不新增结论或召回。",
+    "prompt": "Create ONE finished full-colour Chinese sequential manga PAGE for 《绯色难测》第十八话《尺英》, portrait PNG1024×1536. Detailed confident 2D anime linework, rich restrained cel shading, natural ADULT acting, clear black borders and ivory gutters. Read TOP TO BOTTOM, LEFT TO RIGHT. Fixed header “绯色难测 · 第十八话”, two-digit footer. A complete real comic page, not a storyboard template/poster or blank panel. Print ONLY the listed VISIBLE TEXT plus fixed header/footer; never role labels, metadata or directions. Speech tails point actual speaker; narration and memory voices are TAILLESS boxes, object lettering stays on object. Silent panels have no words. Use current page state for clothes/eyes/hands/objects. References identify only the specified person or painting: do not inherit their old chapter titles, dialogue, report text, classroom activity, season, or injury. No new unlisted dialogue. Natural iris pigment with normal small light reflection. For 爻 U+723B use two stacked 乂, four diagonal strokes, no detached dot+horizontal of交. Inspect actual pixels before changing correct lettering.\n\nHua / 华 is a NEW distinct ADULT female education inspector designed from this chapter, not an existing pink/silver-haired reference person: neat short DEEP GRAY-BLACK hair, calm NATURAL DEEP GRAY eyes, GRAPHITE straight-cut long coat, IVORY stand-collar shirt, CHARCOAL straight long trousers, BLACK FLAT low shoes, BARE hands. Restrained upright adult posture, exact steady pace. No gold glasses, pink/silver long hair, peacock clasp, jade bangle, gloves, animal ears, military insignia or weapons. Her restrained authority is not rage; tiny change in gaze stays tiny.\n\nY / 爻光 is an ADULT math teacher/grade director: silver-white hair with cool lilac shade, CURVED SEPARATED BROKEN forehead bangs, outward feather-like side layers and long separate rear strands, peacock clasp on anatomical RIGHT temple, natural violet/cyan irides. Same school DAY outfit: WHITE blazer over stand-collar midi dress, TEAL waist, NAVY cloth on anatomical LEFT shoulder. Both hands BARE; one JADE BANGLE ONLY anatomical LEFT wrist, RIGHT wrist EMPTY and healthy. No sports clothes or bandage. Trace actual shoulder/elbow/palm/back/thumb rather than canvas position. The past of her system work remains unillustrated and unspecified.\n\nFu / 符玄 is ADULT, long pink-lilac hair, fine GOLD-FRAME GLASSES, lavender-gray school-office suit with ivory blouse, bare hands. She is not a child or the short dark-haired inspector. Keep same face and professional daily clothes as reference.\n\nPAGE STATE / NOT PRINTED: 同一信息中心对话，Y合上可合终端后答写它时还不是；只保源留白，不新写职业/机构/危险任务。华停留比礼貌长的一眼之后移开，不新增结论或召回。\n\nPAGE 08 — 写它的时候. EXACTLY 4 PANELS.\nLayout: 4格：确实；合上终端；还不是；较长目光后继续。\n\nPanel 1 picture / NOT PRINTED: Y以平常语气回应，保持一贯成熟表情，而非戏剧阴影反派。\n\nVISIBLE TEXT [爻光, role label NOT PRINTED]: \"确实。\"\n\nPanel 2 picture / NOT PRINTED: Y裸RIGHT空腕手合上同普通可合终端，LEFT玉扶底，不把手持终端变成主控大屏关机。\n\nNO VISIBLE TEXT in this panel; silent visual beat.\n\nPanel 3 picture / NOT PRINTED: Y看华说原话，终端已合上，袖口和腕饰同前。\n\nVISIBLE TEXT [爻光, role label NOT PRINTED]: \"写它的时候，还不是。\"\n\nPanel 4 picture / NOT PRINTED: 华目光在Y脸停得稍久，随后移开并转向走廊继续前行；可用一格转身留白表达，不补过去身份画面。\n\nVISIBLE TEXT [旁白, role label NOT PRINTED]: \"那一眼，比礼貌更长。\"\n\nVISIBLE TEXT [旁白, role label NOT PRINTED]: \"然后，她移开目光，继续往前走。\"\n\nFooter 08. Exactly 4 panels; no extra words."
+  },
+  {
+    "page": 9,
+    "title": "最后一站，绘世楼",
+    "layout": "5格：楼名；敞开的门；午间笔会；工笔与分镜；54格墙报。",
+    "panels": [
+      [
+        "春日绘世楼外景，楼牌文字清楚，视觉从行政信息中心转入美术教室，不跨到夜晚。",
+        "旁白：最后一站，绘世楼。"
+      ],
+      [
+        "美术教室门敞开，门内透午间春光，有正常围桌学生与画稿，不写虚构社团活动日期。",
+        "旁白：美术教室的门，开着。"
+      ],
+      [
+        "几名高中社员围讲台与画桌，水笔颜料和普通画纸，午间笔会还没散，不画正式考试。",
+        "旁白：漫画社的午间笔会，还没散。"
+      ],
+      [
+        "墙上社员工笔与分镜作品，各自画纸和风格，避免挪用旧家长报告或照片封面，作品上不添加可读人名。",
+        "旁白：从工笔到分镜，什么都有。"
+      ],
+      [
+        "后墙完整54格集体墙报，9列6行矩形小格线可数，题句独立在格外上沿，格内以不同小画示集体手笔而不编单格故事/编号；春光照亮。",
+        "墙报主标题：我们喜欢周三下午"
+      ]
+    ],
+    "source": "卷三第十八章《尺英》",
+    "references": [
+      "参考/绯英原设.jpg",
+      "参考/第十六话绯英日装01.png",
+      "参考/第十三话行星临摹09.png",
+      "参考/第十三话符玄日装05.png",
+      "参考/第八话停云局部12.png"
+    ],
+    "status": "实际画稿已生成；作者与独立全页审阅通过，角色与连续性终表已完成并冻结。",
+    "page_state": "至午间最后一站，绘世楼美术教室。F仍紫瞳和日常右白左黑手套；54格墙报本章依据原文首次正式呈现，9列×6行恰54格，标题置格外上沿：我们喜欢周三下午。不是13话54级进步墙或17手绘牌，标题不占第55格。",
+    "prompt": "Create ONE finished full-colour Chinese sequential manga PAGE for 《绯色难测》第十八话《尺英》, portrait PNG1024×1536. Detailed confident 2D anime linework, rich restrained cel shading, natural ADULT acting, clear black borders and ivory gutters. Read TOP TO BOTTOM, LEFT TO RIGHT. Fixed header “绯色难测 · 第十八话”, two-digit footer. A complete real comic page, not a storyboard template/poster or blank panel. Print ONLY the listed VISIBLE TEXT plus fixed header/footer; never role labels, metadata or directions. Speech tails point actual speaker; narration and memory voices are TAILLESS boxes, object lettering stays on object. Silent panels have no words. Use current page state for clothes/eyes/hands/objects. References identify only the specified person or painting: do not inherit their old chapter titles, dialogue, report text, classroom activity, season, or injury. No new unlisted dialogue. Natural iris pigment with normal small light reflection. For 爻 U+723B use two stacked 乂, four diagonal strokes, no detached dot+horizontal of交. Inspect actual pixels before changing correct lettering.\n\nF / 绯英 is an ADULT art teacher: SHORT FLUFFY cherry-pink MAIN CROWN, short outward-flipped cheek/jaw layers, separate THIN LONG rear strands, red bow/sakura clip, VIOLET-AMETHYST eyes. Short adult pointed-oval face and expressive natural acting, no real animal ears/tail, infant face or smooth full-head long pink curtain. Same approved modern school-day outfit: cropped BERRY cardigan, IVORY blouse, NAVY high-waisted straight full-length trousers, NEW BLACK FLATS. Anatomical RIGHT WHITE FULL-FINGER glove, anatomical LEFT BLACK FINGERLESS thin mesh glove with only faint OLD HEALED palm line if visible. Do not swap gloves. Trace actual shoulder/elbow/palm/back/thumb, not canvas side or writing habit. Ordinary wooden ruler is held in RIGHTwhite when shown; LEFTblack may steady paper. Hands and eye state exactly as THIS page state.\n\nHua / 华 is a NEW distinct ADULT female education inspector designed from this chapter, not an existing pink/silver-haired reference person: neat short DEEP GRAY-BLACK hair, calm NATURAL DEEP GRAY eyes, GRAPHITE straight-cut long coat, IVORY stand-collar shirt, CHARCOAL straight long trousers, BLACK FLAT low shoes, BARE hands. Restrained upright adult posture, exact steady pace. No gold glasses, pink/silver long hair, peacock clasp, jade bangle, gloves, animal ears, military insignia or weapons. Her restrained authority is not rage; tiny change in gaze stays tiny.\n\nFu / 符玄 is ADULT, long pink-lilac hair, fine GOLD-FRAME GLASSES, lavender-gray school-office suit with ivory blouse, bare hands. She is not a child or the short dark-haired inspector. Keep same face and professional daily clothes as reference.\n\nTing / 停云 remains ONLY a cropped GREEN office sleeve, ordinary hand holding checklist/folder, or cropped SIDE/BACK shoulder silhouette as established in episode8/9. No user original full-face reference exists: do not invent a frontal face, visible hairstyle, animal ears or tail. The green sleeve is a school-adaptation clothing choice.\n\nPAGE STATE / NOT PRINTED: 至午间最后一站，绘世楼美术教室。F仍紫瞳和日常右白左黑手套；54格墙报本章依据原文首次正式呈现，9列×6行恰54格，标题置格外上沿：我们喜欢周三下午。不是13话54级进步墙或17手绘牌，标题不占第55格。\n\nPAGE 09 — 最后一站，绘世楼. EXACTLY 5 PANELS.\nLayout: 5格：楼名；敞开的门；午间笔会；工笔与分镜；54格墙报。\n\nPanel 1 picture / NOT PRINTED: 春日绘世楼外景，楼牌文字清楚，视觉从行政信息中心转入美术教室，不跨到夜晚。\n\nVISIBLE TEXT [旁白, role label NOT PRINTED]: \"最后一站，绘世楼。\"\n\nPanel 2 picture / NOT PRINTED: 美术教室门敞开，门内透午间春光，有正常围桌学生与画稿，不写虚构社团活动日期。\n\nVISIBLE TEXT [旁白, role label NOT PRINTED]: \"美术教室的门，开着。\"\n\nPanel 3 picture / NOT PRINTED: 几名高中社员围讲台与画桌，水笔颜料和普通画纸，午间笔会还没散，不画正式考试。\n\nVISIBLE TEXT [旁白, role label NOT PRINTED]: \"漫画社的午间笔会，还没散。\"\n\nPanel 4 picture / NOT PRINTED: 墙上社员工笔与分镜作品，各自画纸和风格，避免挪用旧家长报告或照片封面，作品上不添加可读人名。\n\nVISIBLE TEXT [旁白, role label NOT PRINTED]: \"从工笔到分镜，什么都有。\"\n\nPanel 5 picture / NOT PRINTED: 后墙完整54格集体墙报，9列6行矩形小格线可数，题句独立在格外上沿，格内以不同小画示集体手笔而不编单格故事/编号；春光照亮。\n\nVISIBLE TEXT [墙报主标题, role label NOT PRINTED]: \"我们喜欢周三下午\"\n\nFooter 09. Exactly 5 panels; no extra words."
+  },
+  {
+    "page": 10,
+    "title": "构图课还没散",
+    "layout": "4格：F常服全身；同木尺与海报；学生围听；笑声。",
+    "panels": [
+      [
+        "教室讲台前F常服全身主格，莓开衫、米白衬/navy长裤黑flats清楚；RIGHT白木尺、LEFT黑露指稳纸，身边高中学生围听，头脸保持原设而非长粉发模板。",
+        "旁白：三三两两的学生，围着讲台。"
+      ],
+      [
+        "F RIGHT白全指的普通原木尺沿同一张校园海报稿指向构图区域，LEFT黑露指扶边，无可读新口号/教程指令。",
+        "旁白：听狐狸老师，讲一张海报的构图。"
+      ],
+      [
+        "F紫瞳微笑与学生专注又轻松的脸，画面是成人老师和高中孩子，F无真实狐耳/尾。",
+        "无对白。"
+      ],
+      [
+        "教室里一阵自然笑意，小幅笑脸与松弛肩膀，后墙9×6墙报结构保留；不将笑拟音造新的长对白。",
+        "旁白：笑声，一阵一阵。"
+      ]
+    ],
+    "source": "卷三第十八章《尺英》",
+    "references": [
+      "参考/绯英原设.jpg",
+      "参考/第十六话绯英日装01.png",
+      "参考/第十三话行星临摹09.png"
+    ],
+    "status": "实际画稿已生成；作者与独立全页审阅通过，角色与连续性终表已完成并冻结。",
+    "page_state": "FEIYING DAY FULL-BODY IDENTITY ANCHOR：F成年短蓬粉主冠+外翻短脸层+独立细长后束、红结樱夹、紫瞳；莓croppedcardigan/米白blouse/navy高腰直裤/new黑flats，RIGHT白全指握普通木尺LEFT黑露指稳普通海报画纸。无背带裙/工作围裙/运动zipjacket。只源‘讲构图’不新加教学台词。",
+    "prompt": "Create ONE finished full-colour Chinese sequential manga PAGE for 《绯色难测》第十八话《尺英》, portrait PNG1024×1536. Detailed confident 2D anime linework, rich restrained cel shading, natural ADULT acting, clear black borders and ivory gutters. Read TOP TO BOTTOM, LEFT TO RIGHT. Fixed header “绯色难测 · 第十八话”, two-digit footer. A complete real comic page, not a storyboard template/poster or blank panel. Print ONLY the listed VISIBLE TEXT plus fixed header/footer; never role labels, metadata or directions. Speech tails point actual speaker; narration and memory voices are TAILLESS boxes, object lettering stays on object. Silent panels have no words. Use current page state for clothes/eyes/hands/objects. References identify only the specified person or painting: do not inherit their old chapter titles, dialogue, report text, classroom activity, season, or injury. No new unlisted dialogue. Natural iris pigment with normal small light reflection. For 爻 U+723B use two stacked 乂, four diagonal strokes, no detached dot+horizontal of交. Inspect actual pixels before changing correct lettering.\n\nF / 绯英 is an ADULT art teacher: SHORT FLUFFY cherry-pink MAIN CROWN, short outward-flipped cheek/jaw layers, separate THIN LONG rear strands, red bow/sakura clip, VIOLET-AMETHYST eyes. Short adult pointed-oval face and expressive natural acting, no real animal ears/tail, infant face or smooth full-head long pink curtain. Same approved modern school-day outfit: cropped BERRY cardigan, IVORY blouse, NAVY high-waisted straight full-length trousers, NEW BLACK FLATS. Anatomical RIGHT WHITE FULL-FINGER glove, anatomical LEFT BLACK FINGERLESS thin mesh glove with only faint OLD HEALED palm line if visible. Do not swap gloves. Trace actual shoulder/elbow/palm/back/thumb, not canvas side or writing habit. Ordinary wooden ruler is held in RIGHTwhite when shown; LEFTblack may steady paper. Hands and eye state exactly as THIS page state.\n\nPAGE STATE / NOT PRINTED: FEIYING DAY FULL-BODY IDENTITY ANCHOR：F成年短蓬粉主冠+外翻短脸层+独立细长后束、红结樱夹、紫瞳；莓croppedcardigan/米白blouse/navy高腰直裤/new黑flats，RIGHT白全指握普通木尺LEFT黑露指稳普通海报画纸。无背带裙/工作围裙/运动zipjacket。只源‘讲构图’不新加教学台词。\n\nPAGE 10 — 构图课还没散. EXACTLY 4 PANELS.\nLayout: 4格：F常服全身；同木尺与海报；学生围听；笑声。\n\nPanel 1 picture / NOT PRINTED: 教室讲台前F常服全身主格，莓开衫、米白衬/navy长裤黑flats清楚；RIGHT白木尺、LEFT黑露指稳纸，身边高中学生围听，头脸保持原设而非长粉发模板。\n\nVISIBLE TEXT [旁白, role label NOT PRINTED]: \"三三两两的学生，围着讲台。\"\n\nPanel 2 picture / NOT PRINTED: F RIGHT白全指的普通原木尺沿同一张校园海报稿指向构图区域，LEFT黑露指扶边，无可读新口号/教程指令。\n\nVISIBLE TEXT [旁白, role label NOT PRINTED]: \"听狐狸老师，讲一张海报的构图。\"\n\nPanel 3 picture / NOT PRINTED: F紫瞳微笑与学生专注又轻松的脸，画面是成人老师和高中孩子，F无真实狐耳/尾。\n\nNO VISIBLE TEXT in this panel; silent visual beat.\n\nPanel 4 picture / NOT PRINTED: 教室里一阵自然笑意，小幅笑脸与松弛肩膀，后墙9×6墙报结构保留；不将笑拟音造新的长对白。\n\nVISIBLE TEXT [旁白, role label NOT PRINTED]: \"笑声，一阵一阵。\"\n\nFooter 10. Exactly 4 panels; no extra words."
+  },
+  {
+    "page": 11,
+    "title": "笑声慢慢熄下",
+    "layout": "5格：门口站定；看作品；看讲台；停住；学生安静。",
+    "panels": [
+      [
+        "华在敞门边站定，深色大衣直线和明亮教室形成对照；她不敲门威胁或打断式喊话。",
+        "旁白：华，在门口站定。"
+      ],
+      [
+        "华视线先扫过门边学生作品，手自然垂或轻靠门边，无新报告/镜片/邀请函道具。",
+        "旁白：目光扫过那些画——"
+      ],
+      [
+        "视线转到讲台上的F，F原RIGHT白手仍握木尺、LEFT黑扶同海报，眼睛仍紫色。",
+        "旁白：扫到讲台上那个人时。"
+      ],
+      [
+        "华脸微停，没有惊叫和夸张重逢拥抱，成年短深发身份清楚。",
+        "旁白：她停住了。"
+      ],
+      [
+        "学生笑容慢慢收住，教室从热闹转静，F转眼看门口，动作未变成逃跑。",
+        "旁白：教室里的笑声，一寸一寸地熄下去。"
+      ]
+    ],
+    "source": "卷三第十八章《尺英》",
+    "references": [
+      "参考/绯英原设.jpg",
+      "参考/第十六话绯英日装01.png",
+      "参考/第十三话符玄日装05.png",
+      "参考/第十三话行星临摹09.png"
+    ],
+    "status": "实际画稿已生成；作者与独立全页审阅通过，角色与连续性终表已完成并冻结。",
+    "page_state": "午间同堂，Hua沿03深灰短发石墨大衣/自然深灰眼，F沿10常服紫瞳双手套与同木尺。Fu/Ting可门外裁切但不新定脸；Y不在教室内另加旁观和保护动作。",
+    "prompt": "Create ONE finished full-colour Chinese sequential manga PAGE for 《绯色难测》第十八话《尺英》, portrait PNG1024×1536. Detailed confident 2D anime linework, rich restrained cel shading, natural ADULT acting, clear black borders and ivory gutters. Read TOP TO BOTTOM, LEFT TO RIGHT. Fixed header “绯色难测 · 第十八话”, two-digit footer. A complete real comic page, not a storyboard template/poster or blank panel. Print ONLY the listed VISIBLE TEXT plus fixed header/footer; never role labels, metadata or directions. Speech tails point actual speaker; narration and memory voices are TAILLESS boxes, object lettering stays on object. Silent panels have no words. Use current page state for clothes/eyes/hands/objects. References identify only the specified person or painting: do not inherit their old chapter titles, dialogue, report text, classroom activity, season, or injury. No new unlisted dialogue. Natural iris pigment with normal small light reflection. For 爻 U+723B use two stacked 乂, four diagonal strokes, no detached dot+horizontal of交. Inspect actual pixels before changing correct lettering.\n\nHua / 华 is a NEW distinct ADULT female education inspector designed from this chapter, not an existing pink/silver-haired reference person: neat short DEEP GRAY-BLACK hair, calm NATURAL DEEP GRAY eyes, GRAPHITE straight-cut long coat, IVORY stand-collar shirt, CHARCOAL straight long trousers, BLACK FLAT low shoes, BARE hands. Restrained upright adult posture, exact steady pace. No gold glasses, pink/silver long hair, peacock clasp, jade bangle, gloves, animal ears, military insignia or weapons. Her restrained authority is not rage; tiny change in gaze stays tiny.\n\nF / 绯英 is an ADULT art teacher: SHORT FLUFFY cherry-pink MAIN CROWN, short outward-flipped cheek/jaw layers, separate THIN LONG rear strands, red bow/sakura clip, VIOLET-AMETHYST eyes. Short adult pointed-oval face and expressive natural acting, no real animal ears/tail, infant face or smooth full-head long pink curtain. Same approved modern school-day outfit: cropped BERRY cardigan, IVORY blouse, NAVY high-waisted straight full-length trousers, NEW BLACK FLATS. Anatomical RIGHT WHITE FULL-FINGER glove, anatomical LEFT BLACK FINGERLESS thin mesh glove with only faint OLD HEALED palm line if visible. Do not swap gloves. Trace actual shoulder/elbow/palm/back/thumb, not canvas side or writing habit. Ordinary wooden ruler is held in RIGHTwhite when shown; LEFTblack may steady paper. Hands and eye state exactly as THIS page state.\n\nFu / 符玄 is ADULT, long pink-lilac hair, fine GOLD-FRAME GLASSES, lavender-gray school-office suit with ivory blouse, bare hands. She is not a child or the short dark-haired inspector. Keep same face and professional daily clothes as reference.\n\nPAGE STATE / NOT PRINTED: 午间同堂，Hua沿03深灰短发石墨大衣/自然深灰眼，F沿10常服紫瞳双手套与同木尺。Fu/Ting可门外裁切但不新定脸；Y不在教室内另加旁观和保护动作。\n\nPAGE 11 — 笑声慢慢熄下. EXACTLY 5 PANELS.\nLayout: 5格：门口站定；看作品；看讲台；停住；学生安静。\n\nPanel 1 picture / NOT PRINTED: 华在敞门边站定，深色大衣直线和明亮教室形成对照；她不敲门威胁或打断式喊话。\n\nVISIBLE TEXT [旁白, role label NOT PRINTED]: \"华，在门口站定。\"\n\nPanel 2 picture / NOT PRINTED: 华视线先扫过门边学生作品，手自然垂或轻靠门边，无新报告/镜片/邀请函道具。\n\nVISIBLE TEXT [旁白, role label NOT PRINTED]: \"目光扫过那些画——\"\n\nPanel 3 picture / NOT PRINTED: 视线转到讲台上的F，F原RIGHT白手仍握木尺、LEFT黑扶同海报，眼睛仍紫色。\n\nVISIBLE TEXT [旁白, role label NOT PRINTED]: \"扫到讲台上那个人时。\"\n\nPanel 4 picture / NOT PRINTED: 华脸微停，没有惊叫和夸张重逢拥抱，成年短深发身份清楚。\n\nVISIBLE TEXT [旁白, role label NOT PRINTED]: \"她停住了。\"\n\nPanel 5 picture / NOT PRINTED: 学生笑容慢慢收住，教室从热闹转静，F转眼看门口，动作未变成逃跑。\n\nVISIBLE TEXT [旁白, role label NOT PRINTED]: \"教室里的笑声，一寸一寸地熄下去。\"\n\nFooter 11. Exactly 5 panels; no extra words."
+  },
+  {
+    "page": 12,
+    "title": "尺英，十年了",
+    "layout": "4格：旧名；十年；木尺收紧；静到窗外风。",
+    "panels": [
+      [
+        "门口华对讲台F说出旧名，泡尾明确华，石墨大衣和短深发不换成银发爻光。",
+        "华：尺英。"
+      ],
+      [
+        "华声音仍低，切F听到时表情微定，镜头不造十年前奖台或童年面貌。",
+        "华：十年了。"
+      ],
+      [
+        "F握同原木尺的RIGHT白全指近景，指节沿尺身逐节收紧，尺无断裂不刻名字，不把手套换黑。",
+        "旁白：握着木尺的手指，一节一节收紧。"
+      ],
+      [
+        "明亮教室安静长格，学生停笔，窗帘仅最轻微动势，F仍站讲台，华仍门边。",
+        "旁白：安静得，能听见窗外的风。"
+      ]
+    ],
+    "source": "卷三第十八章《尺英》",
+    "references": [
+      "参考/绯英原设.jpg",
+      "参考/第十六话绯英日装01.png",
+      "参考/第十三话符玄日装05.png"
+    ],
+    "status": "实际画稿已生成；作者与独立全页审阅通过，角色与连续性终表已完成并冻结。",
+    "page_state": "首次当面说旧名。Hua声音不高、不怒吼；F紫瞳仍戴好，握尺解剖RIGHT白全指逐节收紧而LEFT黑不变。题名尺英是同个人旧名非新来第三位；门口无风校日的宏观干冷无风与此窗外轻微风声不画大风。",
+    "prompt": "Create ONE finished full-colour Chinese sequential manga PAGE for 《绯色难测》第十八话《尺英》, portrait PNG1024×1536. Detailed confident 2D anime linework, rich restrained cel shading, natural ADULT acting, clear black borders and ivory gutters. Read TOP TO BOTTOM, LEFT TO RIGHT. Fixed header “绯色难测 · 第十八话”, two-digit footer. A complete real comic page, not a storyboard template/poster or blank panel. Print ONLY the listed VISIBLE TEXT plus fixed header/footer; never role labels, metadata or directions. Speech tails point actual speaker; narration and memory voices are TAILLESS boxes, object lettering stays on object. Silent panels have no words. Use current page state for clothes/eyes/hands/objects. References identify only the specified person or painting: do not inherit their old chapter titles, dialogue, report text, classroom activity, season, or injury. No new unlisted dialogue. Natural iris pigment with normal small light reflection. For 爻 U+723B use two stacked 乂, four diagonal strokes, no detached dot+horizontal of交. Inspect actual pixels before changing correct lettering.\n\nHua / 华 is a NEW distinct ADULT female education inspector designed from this chapter, not an existing pink/silver-haired reference person: neat short DEEP GRAY-BLACK hair, calm NATURAL DEEP GRAY eyes, GRAPHITE straight-cut long coat, IVORY stand-collar shirt, CHARCOAL straight long trousers, BLACK FLAT low shoes, BARE hands. Restrained upright adult posture, exact steady pace. No gold glasses, pink/silver long hair, peacock clasp, jade bangle, gloves, animal ears, military insignia or weapons. Her restrained authority is not rage; tiny change in gaze stays tiny.\n\nF / 绯英 is an ADULT art teacher: SHORT FLUFFY cherry-pink MAIN CROWN, short outward-flipped cheek/jaw layers, separate THIN LONG rear strands, red bow/sakura clip, VIOLET-AMETHYST eyes. Short adult pointed-oval face and expressive natural acting, no real animal ears/tail, infant face or smooth full-head long pink curtain. Same approved modern school-day outfit: cropped BERRY cardigan, IVORY blouse, NAVY high-waisted straight full-length trousers, NEW BLACK FLATS. Anatomical RIGHT WHITE FULL-FINGER glove, anatomical LEFT BLACK FINGERLESS thin mesh glove with only faint OLD HEALED palm line if visible. Do not swap gloves. Trace actual shoulder/elbow/palm/back/thumb, not canvas side or writing habit. Ordinary wooden ruler is held in RIGHTwhite when shown; LEFTblack may steady paper. Hands and eye state exactly as THIS page state.\n\nPAGE STATE / NOT PRINTED: 首次当面说旧名。Hua声音不高、不怒吼；F紫瞳仍戴好，握尺解剖RIGHT白全指逐节收紧而LEFT黑不变。题名尺英是同个人旧名非新来第三位；门口无风校日的宏观干冷无风与此窗外轻微风声不画大风。\n\nPAGE 12 — 尺英，十年了. EXACTLY 4 PANELS.\nLayout: 4格：旧名；十年；木尺收紧；静到窗外风。\n\nPanel 1 picture / NOT PRINTED: 门口华对讲台F说出旧名，泡尾明确华，石墨大衣和短深发不换成银发爻光。\n\nVISIBLE TEXT [华, role label NOT PRINTED]: \"尺英。\"\n\nPanel 2 picture / NOT PRINTED: 华声音仍低，切F听到时表情微定，镜头不造十年前奖台或童年面貌。\n\nVISIBLE TEXT [华, role label NOT PRINTED]: \"十年了。\"\n\nPanel 3 picture / NOT PRINTED: F握同原木尺的RIGHT白全指近景，指节沿尺身逐节收紧，尺无断裂不刻名字，不把手套换黑。\n\nVISIBLE TEXT [旁白, role label NOT PRINTED]: \"握着木尺的手指，一节一节收紧。\"\n\nPanel 4 picture / NOT PRINTED: 明亮教室安静长格，学生停笔，窗帘仅最轻微动势，F仍站讲台，华仍门边。\n\nVISIBLE TEXT [旁白, role label NOT PRINTED]: \"安静得，能听见窗外的风。\"\n\nFooter 12. Exactly 4 panels; no extra words."
+  },
+  {
+    "page": 13,
+    "title": "我叫绯英",
+    "layout": "5格：F低头；否认；吃力笑；现名；华听。",
+    "panels": [
+      [
+        "F视线从门口低下去，原设短蓬主冠与独立后长束清楚，不低头到变成整顶长直发。",
+        "无对白。"
+      ],
+      [
+        "F低声回应原句，略停顿，RIGHT白木尺近身，华在门侧听。",
+        "绯英：……督学认错人了。"
+      ],
+      [
+        "F嘴角努力抬起一点，笑得吃力而非已泣或咧嘴大笑；眼睛仍完整紫色。",
+        "旁白：她低下头，笑了笑。"
+      ],
+      [
+        "F用现名重申，气泡只原句，无新解释/谎话背景。",
+        "绯英：我叫绯英。"
+      ],
+      [
+        "华静静听完看着F，学生与同一后墙作品虚在背景，不增同情劝说。",
+        "旁白：笑得，有点吃力。"
+      ]
+    ],
+    "source": "卷三第十八章《尺英》",
+    "references": [
+      "参考/绯英原设.jpg",
+      "参考/第十六话绯英日装01.png"
+    ],
+    "status": "实际画稿已生成；作者与独立全页审阅通过，角色与连续性终表已完成并冻结。",
+    "page_state": "同堂持续，F紫瞳/红结樱夹/莓开衫，RIGHT白木尺持续但手势可放低，LEFT黑空手。不新增学生议论揭密、尖叫逃跑或Y逼问。",
+    "prompt": "Create ONE finished full-colour Chinese sequential manga PAGE for 《绯色难测》第十八话《尺英》, portrait PNG1024×1536. Detailed confident 2D anime linework, rich restrained cel shading, natural ADULT acting, clear black borders and ivory gutters. Read TOP TO BOTTOM, LEFT TO RIGHT. Fixed header “绯色难测 · 第十八话”, two-digit footer. A complete real comic page, not a storyboard template/poster or blank panel. Print ONLY the listed VISIBLE TEXT plus fixed header/footer; never role labels, metadata or directions. Speech tails point actual speaker; narration and memory voices are TAILLESS boxes, object lettering stays on object. Silent panels have no words. Use current page state for clothes/eyes/hands/objects. References identify only the specified person or painting: do not inherit their old chapter titles, dialogue, report text, classroom activity, season, or injury. No new unlisted dialogue. Natural iris pigment with normal small light reflection. For 爻 U+723B use two stacked 乂, four diagonal strokes, no detached dot+horizontal of交. Inspect actual pixels before changing correct lettering.\n\nF / 绯英 is an ADULT art teacher: SHORT FLUFFY cherry-pink MAIN CROWN, short outward-flipped cheek/jaw layers, separate THIN LONG rear strands, red bow/sakura clip, VIOLET-AMETHYST eyes. Short adult pointed-oval face and expressive natural acting, no real animal ears/tail, infant face or smooth full-head long pink curtain. Same approved modern school-day outfit: cropped BERRY cardigan, IVORY blouse, NAVY high-waisted straight full-length trousers, NEW BLACK FLATS. Anatomical RIGHT WHITE FULL-FINGER glove, anatomical LEFT BLACK FINGERLESS thin mesh glove with only faint OLD HEALED palm line if visible. Do not swap gloves. Trace actual shoulder/elbow/palm/back/thumb, not canvas side or writing habit. Ordinary wooden ruler is held in RIGHTwhite when shown; LEFTblack may steady paper. Hands and eye state exactly as THIS page state.\n\nHua / 华 is a NEW distinct ADULT female education inspector designed from this chapter, not an existing pink/silver-haired reference person: neat short DEEP GRAY-BLACK hair, calm NATURAL DEEP GRAY eyes, GRAPHITE straight-cut long coat, IVORY stand-collar shirt, CHARCOAL straight long trousers, BLACK FLAT low shoes, BARE hands. Restrained upright adult posture, exact steady pace. No gold glasses, pink/silver long hair, peacock clasp, jade bangle, gloves, animal ears, military insignia or weapons. Her restrained authority is not rage; tiny change in gaze stays tiny.\n\nPAGE STATE / NOT PRINTED: 同堂持续，F紫瞳/红结樱夹/莓开衫，RIGHT白木尺持续但手势可放低，LEFT黑空手。不新增学生议论揭密、尖叫逃跑或Y逼问。\n\nPAGE 13 — 我叫绯英. EXACTLY 5 PANELS.\nLayout: 5格：F低头；否认；吃力笑；现名；华听。\n\nPanel 1 picture / NOT PRINTED: F视线从门口低下去，原设短蓬主冠与独立后长束清楚，不低头到变成整顶长直发。\n\nNO VISIBLE TEXT in this panel; silent visual beat.\n\nPanel 2 picture / NOT PRINTED: F低声回应原句，略停顿，RIGHT白木尺近身，华在门侧听。\n\nVISIBLE TEXT [绯英, role label NOT PRINTED]: \"……督学认错人了。\"\n\nPanel 3 picture / NOT PRINTED: F嘴角努力抬起一点，笑得吃力而非已泣或咧嘴大笑；眼睛仍完整紫色。\n\nVISIBLE TEXT [旁白, role label NOT PRINTED]: \"她低下头，笑了笑。\"\n\nPanel 4 picture / NOT PRINTED: F用现名重申，气泡只原句，无新解释/谎话背景。\n\nVISIBLE TEXT [绯英, role label NOT PRINTED]: \"我叫绯英。\"\n\nPanel 5 picture / NOT PRINTED: 华静静听完看着F，学生与同一后墙作品虚在背景，不增同情劝说。\n\nVISIBLE TEXT [旁白, role label NOT PRINTED]: \"笑得，有点吃力。\"\n\nFooter 13. Exactly 5 panels; no extra words."
+  },
+  {
+    "page": 14,
+    "title": "你的画呢",
+    "layout": "4格：重复现名；视线粉发；紫瞳与装束；问画。",
+    "panels": [
+      [
+        "华重复刚听到的两个字，语气不可判褒贬，不带讥笑泡。",
+        "华：绯英。"
+      ],
+      [
+        "华目光下的一段F粉发近景：短蓬主冠、外翻脸层、红结樱夹和独立细后束，不把回忆画成剪掉粉假发。",
+        "旁白：目光落在粉发上。"
+      ],
+      [
+        "F自然紫瞳与米白衬莓开衫的成人校园装束半身，手套左右准确，眼部无黄金闪光。",
+        "旁白：紫瞳上，那身学生气的打扮上。"
+      ],
+      [
+        "华看回F脸问原话，门边的距离和班级安静延续，不靠近揪领或触脸。",
+        "华：你的画呢。"
+      ]
+    ],
+    "source": "卷三第十八章《尺英》",
+    "references": [
+      "参考/绯英原设.jpg",
+      "参考/第十六话绯英日装01.png"
+    ],
+    "status": "实际画稿已生成；作者与独立全页审阅通过，角色与连续性终表已完成并冻结。",
+    "page_state": "华审视F时粉发/紫瞳/学生气装束只是观察，眼睛此刻绝不透出金色。F常服是已批成人时髦开衫长裤，不回到旧工作围裙或幼儿制服；华相同短深发深灰眼深大衣。",
+    "prompt": "Create ONE finished full-colour Chinese sequential manga PAGE for 《绯色难测》第十八话《尺英》, portrait PNG1024×1536. Detailed confident 2D anime linework, rich restrained cel shading, natural ADULT acting, clear black borders and ivory gutters. Read TOP TO BOTTOM, LEFT TO RIGHT. Fixed header “绯色难测 · 第十八话”, two-digit footer. A complete real comic page, not a storyboard template/poster or blank panel. Print ONLY the listed VISIBLE TEXT plus fixed header/footer; never role labels, metadata or directions. Speech tails point actual speaker; narration and memory voices are TAILLESS boxes, object lettering stays on object. Silent panels have no words. Use current page state for clothes/eyes/hands/objects. References identify only the specified person or painting: do not inherit their old chapter titles, dialogue, report text, classroom activity, season, or injury. No new unlisted dialogue. Natural iris pigment with normal small light reflection. For 爻 U+723B use two stacked 乂, four diagonal strokes, no detached dot+horizontal of交. Inspect actual pixels before changing correct lettering.\n\nHua / 华 is a NEW distinct ADULT female education inspector designed from this chapter, not an existing pink/silver-haired reference person: neat short DEEP GRAY-BLACK hair, calm NATURAL DEEP GRAY eyes, GRAPHITE straight-cut long coat, IVORY stand-collar shirt, CHARCOAL straight long trousers, BLACK FLAT low shoes, BARE hands. Restrained upright adult posture, exact steady pace. No gold glasses, pink/silver long hair, peacock clasp, jade bangle, gloves, animal ears, military insignia or weapons. Her restrained authority is not rage; tiny change in gaze stays tiny.\n\nF / 绯英 is an ADULT art teacher: SHORT FLUFFY cherry-pink MAIN CROWN, short outward-flipped cheek/jaw layers, separate THIN LONG rear strands, red bow/sakura clip, VIOLET-AMETHYST eyes. Short adult pointed-oval face and expressive natural acting, no real animal ears/tail, infant face or smooth full-head long pink curtain. Same approved modern school-day outfit: cropped BERRY cardigan, IVORY blouse, NAVY high-waisted straight full-length trousers, NEW BLACK FLATS. Anatomical RIGHT WHITE FULL-FINGER glove, anatomical LEFT BLACK FINGERLESS thin mesh glove with only faint OLD HEALED palm line if visible. Do not swap gloves. Trace actual shoulder/elbow/palm/back/thumb, not canvas side or writing habit. Ordinary wooden ruler is held in RIGHTwhite when shown; LEFTblack may steady paper. Hands and eye state exactly as THIS page state.\n\nPAGE STATE / NOT PRINTED: 华审视F时粉发/紫瞳/学生气装束只是观察，眼睛此刻绝不透出金色。F常服是已批成人时髦开衫长裤，不回到旧工作围裙或幼儿制服；华相同短深发深灰眼深大衣。\n\nPAGE 14 — 你的画呢. EXACTLY 4 PANELS.\nLayout: 4格：重复现名；视线粉发；紫瞳与装束；问画。\n\nPanel 1 picture / NOT PRINTED: 华重复刚听到的两个字，语气不可判褒贬，不带讥笑泡。\n\nVISIBLE TEXT [华, role label NOT PRINTED]: \"绯英。\"\n\nPanel 2 picture / NOT PRINTED: 华目光下的一段F粉发近景：短蓬主冠、外翻脸层、红结樱夹和独立细后束，不把回忆画成剪掉粉假发。\n\nVISIBLE TEXT [旁白, role label NOT PRINTED]: \"目光落在粉发上。\"\n\nPanel 3 picture / NOT PRINTED: F自然紫瞳与米白衬莓开衫的成人校园装束半身，手套左右准确，眼部无黄金闪光。\n\nVISIBLE TEXT [旁白, role label NOT PRINTED]: \"紫瞳上，那身学生气的打扮上。\"\n\nPanel 4 picture / NOT PRINTED: 华看回F脸问原话，门边的距离和班级安静延续，不靠近揪领或触脸。\n\nVISIBLE TEXT [华, role label NOT PRINTED]: \"你的画呢。\"\n\nFooter 14. Exactly 4 panels; no extra words."
+  },
+  {
+    "page": 15,
+    "title": "学生们画得比我好",
+    "layout": "5格：回答；华不接；沿墙；行星临摹；停步。",
+    "panels": [
+      [
+        "F看向自己身旁的学生作品，低声原句，不补否认画画、艺名来历或退休宣言。",
+        "绯英：……学生们画得比我好。"
+      ],
+      [
+        "华听完没有立刻说话，短发侧脸安静，无讥讽笑。",
+        "旁白：华，没有立刻接话。"
+      ],
+      [
+        "华转身沿教室墙一幅幅看过去，深色大衣平直、步频正常，学生只转目跟随。",
+        "旁白：她沿着墙，一幅一幅地看过去。"
+      ],
+      [
+        "窗边普通画纸临摹稿大特写：宇宙星轨、碎裂星体被暖光细连而愈合，呼应13p09艺术画，纸无数学题/红分/透明胶。",
+        "作品名：碎裂又愈合的行星"
+      ],
+      [
+        "华在同临摹稿前脚步微停，目光认真，不给作品新奖状/点评或指称作者名字。",
+        "旁白：脚步，停了一下。"
+      ]
+    ],
+    "source": "卷三第十八章《尺英》",
+    "references": [
+      "参考/绯英原设.jpg",
+      "参考/第十六话绯英日装01.png",
+      "参考/第十三话行星临摹09.png"
+    ],
+    "status": "实际画稿已生成；作者与独立全页审阅通过，角色与连续性终表已完成并冻结。",
+    "page_state": "同午间，F答完仍讲台握木尺；华开始沿墙走看学生作品。窗边的碎裂又愈合行星是13话画作母题的普通临摹稿，蓝宇宙/裂口暖光连接，可原画星轨，不是16贴胶数学残卷/17圆形手绘牌，也不是魔法实体。",
+    "prompt": "Create ONE finished full-colour Chinese sequential manga PAGE for 《绯色难测》第十八话《尺英》, portrait PNG1024×1536. Detailed confident 2D anime linework, rich restrained cel shading, natural ADULT acting, clear black borders and ivory gutters. Read TOP TO BOTTOM, LEFT TO RIGHT. Fixed header “绯色难测 · 第十八话”, two-digit footer. A complete real comic page, not a storyboard template/poster or blank panel. Print ONLY the listed VISIBLE TEXT plus fixed header/footer; never role labels, metadata or directions. Speech tails point actual speaker; narration and memory voices are TAILLESS boxes, object lettering stays on object. Silent panels have no words. Use current page state for clothes/eyes/hands/objects. References identify only the specified person or painting: do not inherit their old chapter titles, dialogue, report text, classroom activity, season, or injury. No new unlisted dialogue. Natural iris pigment with normal small light reflection. For 爻 U+723B use two stacked 乂, four diagonal strokes, no detached dot+horizontal of交. Inspect actual pixels before changing correct lettering.\n\nF / 绯英 is an ADULT art teacher: SHORT FLUFFY cherry-pink MAIN CROWN, short outward-flipped cheek/jaw layers, separate THIN LONG rear strands, red bow/sakura clip, VIOLET-AMETHYST eyes. Short adult pointed-oval face and expressive natural acting, no real animal ears/tail, infant face or smooth full-head long pink curtain. Same approved modern school-day outfit: cropped BERRY cardigan, IVORY blouse, NAVY high-waisted straight full-length trousers, NEW BLACK FLATS. Anatomical RIGHT WHITE FULL-FINGER glove, anatomical LEFT BLACK FINGERLESS thin mesh glove with only faint OLD HEALED palm line if visible. Do not swap gloves. Trace actual shoulder/elbow/palm/back/thumb, not canvas side or writing habit. Ordinary wooden ruler is held in RIGHTwhite when shown; LEFTblack may steady paper. Hands and eye state exactly as THIS page state.\n\nHua / 华 is a NEW distinct ADULT female education inspector designed from this chapter, not an existing pink/silver-haired reference person: neat short DEEP GRAY-BLACK hair, calm NATURAL DEEP GRAY eyes, GRAPHITE straight-cut long coat, IVORY stand-collar shirt, CHARCOAL straight long trousers, BLACK FLAT low shoes, BARE hands. Restrained upright adult posture, exact steady pace. No gold glasses, pink/silver long hair, peacock clasp, jade bangle, gloves, animal ears, military insignia or weapons. Her restrained authority is not rage; tiny change in gaze stays tiny.\n\nPAGE STATE / NOT PRINTED: 同午间，F答完仍讲台握木尺；华开始沿墙走看学生作品。窗边的碎裂又愈合行星是13话画作母题的普通临摹稿，蓝宇宙/裂口暖光连接，可原画星轨，不是16贴胶数学残卷/17圆形手绘牌，也不是魔法实体。\n\nPAGE 15 — 学生们画得比我好. EXACTLY 5 PANELS.\nLayout: 5格：回答；华不接；沿墙；行星临摹；停步。\n\nPanel 1 picture / NOT PRINTED: F看向自己身旁的学生作品，低声原句，不补否认画画、艺名来历或退休宣言。\n\nVISIBLE TEXT [绯英, role label NOT PRINTED]: \"……学生们画得比我好。\"\n\nPanel 2 picture / NOT PRINTED: 华听完没有立刻说话，短发侧脸安静，无讥讽笑。\n\nVISIBLE TEXT [旁白, role label NOT PRINTED]: \"华，没有立刻接话。\"\n\nPanel 3 picture / NOT PRINTED: 华转身沿教室墙一幅幅看过去，深色大衣平直、步频正常，学生只转目跟随。\n\nVISIBLE TEXT [旁白, role label NOT PRINTED]: \"她沿着墙，一幅一幅地看过去。\"\n\nPanel 4 picture / NOT PRINTED: 窗边普通画纸临摹稿大特写：宇宙星轨、碎裂星体被暖光细连而愈合，呼应13p09艺术画，纸无数学题/红分/透明胶。\n\nVISIBLE TEXT [作品名, role label NOT PRINTED]: \"碎裂又愈合的行星\"\n\nPanel 5 picture / NOT PRINTED: 华在同临摹稿前脚步微停，目光认真，不给作品新奖状/点评或指称作者名字。\n\nVISIBLE TEXT [旁白, role label NOT PRINTED]: \"脚步，停了一下。\"\n\nFooter 15. Exactly 5 panels; no extra words."
+  },
+  {
+    "page": 16,
+    "title": "五十四格",
+    "layout": "4格：后墙整体；又停；集体画的手笔；问主意。",
+    "panels": [
+      [
+        "后墙同一9×6的54格墙报在春光里，F可远在讲台；标题在格外上沿不算第55格。",
+        "墙报主标题：我们喜欢周三下午"
+      ],
+      [
+        "华从窗边行星走到后墙，面对集体墙报再次停步，两次停顿是不同对象不合并。",
+        "旁白：看到五十四格的墙报，又停了一下。"
+      ],
+      [
+        "近看若干不同绘画笔迹的小格及整齐分隔线，保持9列6行总体边界，不添具体新小故事/第55格。",
+        "无对白。"
+      ],
+      [
+        "华侧身朝讲台F问，手只自然指向集体墙报，不把木尺拿到华手。",
+        "华：这幅集体创作，谁的主意？"
+      ]
+    ],
+    "source": "卷三第十八章《尺英》",
+    "references": [
+      "参考/绯英原设.jpg",
+      "参考/第十六话绯英日装01.png",
+      "参考/第十三话行星临摹09.png"
+    ],
+    "status": "实际画稿已生成；作者与独立全页审阅通过，角色与连续性终表已完成并冻结。",
+    "page_state": "同教室后墙固定9列×6行共54小画格，格外上方同一标题我们喜欢周三下午。不是54级台阶/54牌/奖状。不编格内剧情或每格姓名；只大小色块与普通学生画。此时华问集体主意，F尚未回答。",
+    "prompt": "Create ONE finished full-colour Chinese sequential manga PAGE for 《绯色难测》第十八话《尺英》, portrait PNG1024×1536. Detailed confident 2D anime linework, rich restrained cel shading, natural ADULT acting, clear black borders and ivory gutters. Read TOP TO BOTTOM, LEFT TO RIGHT. Fixed header “绯色难测 · 第十八话”, two-digit footer. A complete real comic page, not a storyboard template/poster or blank panel. Print ONLY the listed VISIBLE TEXT plus fixed header/footer; never role labels, metadata or directions. Speech tails point actual speaker; narration and memory voices are TAILLESS boxes, object lettering stays on object. Silent panels have no words. Use current page state for clothes/eyes/hands/objects. References identify only the specified person or painting: do not inherit their old chapter titles, dialogue, report text, classroom activity, season, or injury. No new unlisted dialogue. Natural iris pigment with normal small light reflection. For 爻 U+723B use two stacked 乂, four diagonal strokes, no detached dot+horizontal of交. Inspect actual pixels before changing correct lettering.\n\nHua / 华 is a NEW distinct ADULT female education inspector designed from this chapter, not an existing pink/silver-haired reference person: neat short DEEP GRAY-BLACK hair, calm NATURAL DEEP GRAY eyes, GRAPHITE straight-cut long coat, IVORY stand-collar shirt, CHARCOAL straight long trousers, BLACK FLAT low shoes, BARE hands. Restrained upright adult posture, exact steady pace. No gold glasses, pink/silver long hair, peacock clasp, jade bangle, gloves, animal ears, military insignia or weapons. Her restrained authority is not rage; tiny change in gaze stays tiny.\n\nF / 绯英 is an ADULT art teacher: SHORT FLUFFY cherry-pink MAIN CROWN, short outward-flipped cheek/jaw layers, separate THIN LONG rear strands, red bow/sakura clip, VIOLET-AMETHYST eyes. Short adult pointed-oval face and expressive natural acting, no real animal ears/tail, infant face or smooth full-head long pink curtain. Same approved modern school-day outfit: cropped BERRY cardigan, IVORY blouse, NAVY high-waisted straight full-length trousers, NEW BLACK FLATS. Anatomical RIGHT WHITE FULL-FINGER glove, anatomical LEFT BLACK FINGERLESS thin mesh glove with only faint OLD HEALED palm line if visible. Do not swap gloves. Trace actual shoulder/elbow/palm/back/thumb, not canvas side or writing habit. Ordinary wooden ruler is held in RIGHTwhite when shown; LEFTblack may steady paper. Hands and eye state exactly as THIS page state.\n\nPAGE STATE / NOT PRINTED: 同教室后墙固定9列×6行共54小画格，格外上方同一标题我们喜欢周三下午。不是54级台阶/54牌/奖状。不编格内剧情或每格姓名；只大小色块与普通学生画。此时华问集体主意，F尚未回答。\n\nPAGE 16 — 五十四格. EXACTLY 4 PANELS.\nLayout: 4格：后墙整体；又停；集体画的手笔；问主意。\n\nPanel 1 picture / NOT PRINTED: 后墙同一9×6的54格墙报在春光里，F可远在讲台；标题在格外上沿不算第55格。\n\nVISIBLE TEXT [墙报主标题, role label NOT PRINTED]: \"我们喜欢周三下午\"\n\nPanel 2 picture / NOT PRINTED: 华从窗边行星走到后墙，面对集体墙报再次停步，两次停顿是不同对象不合并。\n\nVISIBLE TEXT [旁白, role label NOT PRINTED]: \"看到五十四格的墙报，又停了一下。\"\n\nPanel 3 picture / NOT PRINTED: 近看若干不同绘画笔迹的小格及整齐分隔线，保持9列6行总体边界，不添具体新小故事/第55格。\n\nNO VISIBLE TEXT in this panel; silent visual beat.\n\nPanel 4 picture / NOT PRINTED: 华侧身朝讲台F问，手只自然指向集体墙报，不把木尺拿到华手。\n\nVISIBLE TEXT [华, role label NOT PRINTED]: \"这幅集体创作，谁的主意？\"\n\nFooter 16. Exactly 4 panels; no extra words."
+  },
+  {
+    "page": 17,
+    "title": "学生的",
+    "layout": "5格：F停顿；原答；华嗯；语气难辨；走向门。",
+    "panels": [
+      [
+        "F握木尺站讲台边短暂停顿，LEFT黑另一手自然垂；学生在前景安静。",
+        "无对白。"
+      ],
+      [
+        "F看着墙报答原话，视线不转成骄傲邀功或撒谎得意。",
+        "绯英：……学生的。"
+      ],
+      [
+        "华仍看墙报，声调平，不加褒贬表情符号或夸张阴影。",
+        "华：嗯。"
+      ],
+      [
+        "华说原句，表情审慎克制，没有辱骂性指脸或全班嘲笑。",
+        "华：学生比你有出息。"
+      ],
+      [
+        "华继续往前，走向教室门口；F和学生在后景，不自动让Y进来替她解释。",
+        "旁白：听不出褒贬。"
+      ]
+    ],
+    "source": "卷三第十八章《尺英》",
+    "references": [
+      "参考/绯英原设.jpg",
+      "参考/第十六话绯英日装01.png",
+      "参考/第十三话行星临摹09.png"
+    ],
+    "status": "实际画稿已生成；作者与独立全页审阅通过，角色与连续性终表已完成并冻结。",
+    "page_state": "后半开始，同午间对话无换衣/无金瞳。Hua/F/墙报身份由已通过03/10与源参考承接，不能新编同事到场/学生反驳。学生比你有出息原句保持含混克制，不视觉羞辱。",
+    "prompt": "Create ONE finished full-colour Chinese sequential manga PAGE for 《绯色难测》第十八话《尺英》, portrait PNG1024×1536. Detailed confident 2D anime linework, rich restrained cel shading, natural ADULT acting, clear black borders and ivory gutters. Read TOP TO BOTTOM, LEFT TO RIGHT. Fixed header “绯色难测 · 第十八话”, two-digit footer. A complete real comic page, not a storyboard template/poster or blank panel. Print ONLY the listed VISIBLE TEXT plus fixed header/footer; never role labels, metadata or directions. Speech tails point actual speaker; narration and memory voices are TAILLESS boxes, object lettering stays on object. Silent panels have no words. Use current page state for clothes/eyes/hands/objects. References identify only the specified person or painting: do not inherit their old chapter titles, dialogue, report text, classroom activity, season, or injury. No new unlisted dialogue. Natural iris pigment with normal small light reflection. For 爻 U+723B use two stacked 乂, four diagonal strokes, no detached dot+horizontal of交. Inspect actual pixels before changing correct lettering.\n\nHua / 华 is a NEW distinct ADULT female education inspector designed from this chapter, not an existing pink/silver-haired reference person: neat short DEEP GRAY-BLACK hair, calm NATURAL DEEP GRAY eyes, GRAPHITE straight-cut long coat, IVORY stand-collar shirt, CHARCOAL straight long trousers, BLACK FLAT low shoes, BARE hands. Restrained upright adult posture, exact steady pace. No gold glasses, pink/silver long hair, peacock clasp, jade bangle, gloves, animal ears, military insignia or weapons. Her restrained authority is not rage; tiny change in gaze stays tiny.\n\nF / 绯英 is an ADULT art teacher: SHORT FLUFFY cherry-pink MAIN CROWN, short outward-flipped cheek/jaw layers, separate THIN LONG rear strands, red bow/sakura clip, VIOLET-AMETHYST eyes. Short adult pointed-oval face and expressive natural acting, no real animal ears/tail, infant face or smooth full-head long pink curtain. Same approved modern school-day outfit: cropped BERRY cardigan, IVORY blouse, NAVY high-waisted straight full-length trousers, NEW BLACK FLATS. Anatomical RIGHT WHITE FULL-FINGER glove, anatomical LEFT BLACK FINGERLESS thin mesh glove with only faint OLD HEALED palm line if visible. Do not swap gloves. Trace actual shoulder/elbow/palm/back/thumb, not canvas side or writing habit. Ordinary wooden ruler is held in RIGHTwhite when shown; LEFTblack may steady paper. Hands and eye state exactly as THIS page state.\n\nPAGE STATE / NOT PRINTED: 后半开始，同午间对话无换衣/无金瞳。Hua/F/墙报身份由已通过03/10与源参考承接，不能新编同事到场/学生反驳。学生比你有出息原句保持含混克制，不视觉羞辱。\n\nPAGE 17 — 学生的. EXACTLY 5 PANELS.\nLayout: 5格：F停顿；原答；华嗯；语气难辨；走向门。\n\nPanel 1 picture / NOT PRINTED: F握木尺站讲台边短暂停顿，LEFT黑另一手自然垂；学生在前景安静。\n\nNO VISIBLE TEXT in this panel; silent visual beat.\n\nPanel 2 picture / NOT PRINTED: F看着墙报答原话，视线不转成骄傲邀功或撒谎得意。\n\nVISIBLE TEXT [绯英, role label NOT PRINTED]: \"……学生的。\"\n\nPanel 3 picture / NOT PRINTED: 华仍看墙报，声调平，不加褒贬表情符号或夸张阴影。\n\nVISIBLE TEXT [华, role label NOT PRINTED]: \"嗯。\"\n\nPanel 4 picture / NOT PRINTED: 华说原句，表情审慎克制，没有辱骂性指脸或全班嘲笑。\n\nVISIBLE TEXT [华, role label NOT PRINTED]: \"学生比你有出息。\"\n\nPanel 5 picture / NOT PRINTED: 华继续往前，走向教室门口；F和学生在后景，不自动让Y进来替她解释。\n\nVISIBLE TEXT [旁白, role label NOT PRINTED]: \"听不出褒贬。\"\n\nFooter 17. Exactly 5 panels; no extra words."
+  },
+  {
+    "page": 18,
+    "title": "八个字",
+    "layout": "4格：门框；当年；判词；八字原句。",
+    "panels": [
+      [
+        "华走到门口，裸手轻搭普通木门框，背对着班级，深大衣与短深发清楚。",
+        "旁白：她的手，搭上门框。"
+      ],
+      [
+        "华背影在门边停住，F在教室内听；不要换成真正展厅画面或奖牌。",
+        "华：当年全国双年展，"
+      ],
+      [
+        "门框上华的手与教室内F听见时轻收的脸平衡构图，原句继续。",
+        "华：本官给你的判词，是八个字——"
+      ],
+      [
+        "华半侧背影说出完整判词，八字足够大清晰，F不添新台词。",
+        "华：技法满分，心不在场。"
+      ]
+    ],
+    "source": "卷三第十八章《尺英》",
+    "references": [
+      "参考/绯英原设.jpg",
+      "参考/第十六话绯英日装01.png"
+    ],
+    "status": "实际画稿已生成；作者与独立全页审阅通过，角色与连续性终表已完成并冻结。",
+    "page_state": "华走到教室门口，裸手搭门框背对班级，提全国双年展仅言述不视觉闪回历史奖台/满愿/儿童。原判词8汉字技法满分心不在场逗号分句，不能误成心不在焉/满分技巧。",
+    "prompt": "Create ONE finished full-colour Chinese sequential manga PAGE for 《绯色难测》第十八话《尺英》, portrait PNG1024×1536. Detailed confident 2D anime linework, rich restrained cel shading, natural ADULT acting, clear black borders and ivory gutters. Read TOP TO BOTTOM, LEFT TO RIGHT. Fixed header “绯色难测 · 第十八话”, two-digit footer. A complete real comic page, not a storyboard template/poster or blank panel. Print ONLY the listed VISIBLE TEXT plus fixed header/footer; never role labels, metadata or directions. Speech tails point actual speaker; narration and memory voices are TAILLESS boxes, object lettering stays on object. Silent panels have no words. Use current page state for clothes/eyes/hands/objects. References identify only the specified person or painting: do not inherit their old chapter titles, dialogue, report text, classroom activity, season, or injury. No new unlisted dialogue. Natural iris pigment with normal small light reflection. For 爻 U+723B use two stacked 乂, four diagonal strokes, no detached dot+horizontal of交. Inspect actual pixels before changing correct lettering.\n\nHua / 华 is a NEW distinct ADULT female education inspector designed from this chapter, not an existing pink/silver-haired reference person: neat short DEEP GRAY-BLACK hair, calm NATURAL DEEP GRAY eyes, GRAPHITE straight-cut long coat, IVORY stand-collar shirt, CHARCOAL straight long trousers, BLACK FLAT low shoes, BARE hands. Restrained upright adult posture, exact steady pace. No gold glasses, pink/silver long hair, peacock clasp, jade bangle, gloves, animal ears, military insignia or weapons. Her restrained authority is not rage; tiny change in gaze stays tiny.\n\nF / 绯英 is an ADULT art teacher: SHORT FLUFFY cherry-pink MAIN CROWN, short outward-flipped cheek/jaw layers, separate THIN LONG rear strands, red bow/sakura clip, VIOLET-AMETHYST eyes. Short adult pointed-oval face and expressive natural acting, no real animal ears/tail, infant face or smooth full-head long pink curtain. Same approved modern school-day outfit: cropped BERRY cardigan, IVORY blouse, NAVY high-waisted straight full-length trousers, NEW BLACK FLATS. Anatomical RIGHT WHITE FULL-FINGER glove, anatomical LEFT BLACK FINGERLESS thin mesh glove with only faint OLD HEALED palm line if visible. Do not swap gloves. Trace actual shoulder/elbow/palm/back/thumb, not canvas side or writing habit. Ordinary wooden ruler is held in RIGHTwhite when shown; LEFTblack may steady paper. Hands and eye state exactly as THIS page state.\n\nPAGE STATE / NOT PRINTED: 华走到教室门口，裸手搭门框背对班级，提全国双年展仅言述不视觉闪回历史奖台/满愿/儿童。原判词8汉字技法满分心不在场逗号分句，不能误成心不在焉/满分技巧。\n\nPAGE 18 — 八个字. EXACTLY 4 PANELS.\nLayout: 4格：门框；当年；判词；八字原句。\n\nPanel 1 picture / NOT PRINTED: 华走到门口，裸手轻搭普通木门框，背对着班级，深大衣与短深发清楚。\n\nVISIBLE TEXT [旁白, role label NOT PRINTED]: \"她的手，搭上门框。\"\n\nPanel 2 picture / NOT PRINTED: 华背影在门边停住，F在教室内听；不要换成真正展厅画面或奖牌。\n\nVISIBLE TEXT [华, role label NOT PRINTED]: \"当年全国双年展，\"\n\nPanel 3 picture / NOT PRINTED: 门框上华的手与教室内F听见时轻收的脸平衡构图，原句继续。\n\nVISIBLE TEXT [华, role label NOT PRINTED]: \"本官给你的判词，是八个字——\"\n\nPanel 4 picture / NOT PRINTED: 华半侧背影说出完整判词，八字足够大清晰，F不添新台词。\n\nVISIBLE TEXT [华, role label NOT PRINTED]: \"技法满分，心不在场。\"\n\nFooter 18. Exactly 4 panels; no extra words."
+  },
+  {
+    "page": 19,
+    "title": "您还记得",
+    "layout": "5格：F听住；原问；华记性；转回；两秒。",
+    "panels": [
+      [
+        "F在讲台边听到原判词，木尺贴近身，嘴角努力的笑略收，脸不变金瞳。",
+        "无对白。"
+      ],
+      [
+        "F低声问原句，泡尾明确她，不让学生接话。",
+        "绯英：……您还记得。"
+      ],
+      [
+        "华在门口应答，语调淡而清楚，不重复判词改字。",
+        "华：本官记性很好。"
+      ],
+      [
+        "华从门边转身看向F，深灰自然眼与利落短深发同03，手从门框自然放低。",
+        "旁白：华，转过身来。"
+      ],
+      [
+        "华与F隔教室的目光停留，单格留白充足，学生在远景静坐，不画近身逼迫。",
+        "旁白：目光，在她脸上钉了两秒。"
+      ]
+    ],
+    "source": "卷三第十八章《尺英》",
+    "references": [
+      "参考/绯英原设.jpg",
+      "参考/第十六话绯英日装01.png"
+    ],
+    "status": "实际画稿已生成；作者与独立全页审阅通过，角色与连续性终表已完成并冻结。",
+    "page_state": "午间同空间，F紫瞳/双手套/同木尺，华门边转身。两秒只源叙述不造屏幕倒计时或身体接触，保持会话停顿而非问罪。",
+    "prompt": "Create ONE finished full-colour Chinese sequential manga PAGE for 《绯色难测》第十八话《尺英》, portrait PNG1024×1536. Detailed confident 2D anime linework, rich restrained cel shading, natural ADULT acting, clear black borders and ivory gutters. Read TOP TO BOTTOM, LEFT TO RIGHT. Fixed header “绯色难测 · 第十八话”, two-digit footer. A complete real comic page, not a storyboard template/poster or blank panel. Print ONLY the listed VISIBLE TEXT plus fixed header/footer; never role labels, metadata or directions. Speech tails point actual speaker; narration and memory voices are TAILLESS boxes, object lettering stays on object. Silent panels have no words. Use current page state for clothes/eyes/hands/objects. References identify only the specified person or painting: do not inherit their old chapter titles, dialogue, report text, classroom activity, season, or injury. No new unlisted dialogue. Natural iris pigment with normal small light reflection. For 爻 U+723B use two stacked 乂, four diagonal strokes, no detached dot+horizontal of交. Inspect actual pixels before changing correct lettering.\n\nF / 绯英 is an ADULT art teacher: SHORT FLUFFY cherry-pink MAIN CROWN, short outward-flipped cheek/jaw layers, separate THIN LONG rear strands, red bow/sakura clip, VIOLET-AMETHYST eyes. Short adult pointed-oval face and expressive natural acting, no real animal ears/tail, infant face or smooth full-head long pink curtain. Same approved modern school-day outfit: cropped BERRY cardigan, IVORY blouse, NAVY high-waisted straight full-length trousers, NEW BLACK FLATS. Anatomical RIGHT WHITE FULL-FINGER glove, anatomical LEFT BLACK FINGERLESS thin mesh glove with only faint OLD HEALED palm line if visible. Do not swap gloves. Trace actual shoulder/elbow/palm/back/thumb, not canvas side or writing habit. Ordinary wooden ruler is held in RIGHTwhite when shown; LEFTblack may steady paper. Hands and eye state exactly as THIS page state.\n\nHua / 华 is a NEW distinct ADULT female education inspector designed from this chapter, not an existing pink/silver-haired reference person: neat short DEEP GRAY-BLACK hair, calm NATURAL DEEP GRAY eyes, GRAPHITE straight-cut long coat, IVORY stand-collar shirt, CHARCOAL straight long trousers, BLACK FLAT low shoes, BARE hands. Restrained upright adult posture, exact steady pace. No gold glasses, pink/silver long hair, peacock clasp, jade bangle, gloves, animal ears, military insignia or weapons. Her restrained authority is not rage; tiny change in gaze stays tiny.\n\nPAGE STATE / NOT PRINTED: 午间同空间，F紫瞳/双手套/同木尺，华门边转身。两秒只源叙述不造屏幕倒计时或身体接触，保持会话停顿而非问罪。\n\nPAGE 19 — 您还记得. EXACTLY 5 PANELS.\nLayout: 5格：F听住；原问；华记性；转回；两秒。\n\nPanel 1 picture / NOT PRINTED: F在讲台边听到原判词，木尺贴近身，嘴角努力的笑略收，脸不变金瞳。\n\nNO VISIBLE TEXT in this panel; silent visual beat.\n\nPanel 2 picture / NOT PRINTED: F低声问原句，泡尾明确她，不让学生接话。\n\nVISIBLE TEXT [绯英, role label NOT PRINTED]: \"……您还记得。\"\n\nPanel 3 picture / NOT PRINTED: 华在门口应答，语调淡而清楚，不重复判词改字。\n\nVISIBLE TEXT [华, role label NOT PRINTED]: \"本官记性很好。\"\n\nPanel 4 picture / NOT PRINTED: 华从门边转身看向F，深灰自然眼与利落短深发同03，手从门框自然放低。\n\nVISIBLE TEXT [旁白, role label NOT PRINTED]: \"华，转过身来。\"\n\nPanel 5 picture / NOT PRINTED: 华与F隔教室的目光停留，单格留白充足，学生在远景静坐，不画近身逼迫。\n\nVISIBLE TEXT [旁白, role label NOT PRINTED]: \"目光，在她脸上钉了两秒。\"\n\nFooter 19. Exactly 5 panels; no extra words."
+  },
+  {
+    "page": 20,
+    "title": "现在，你的心",
+    "layout": "4格：极轻一松；原句上半；原句下半；F承受。",
+    "panels": [
+      [
+        "华近景，严肃眼神极细微松一点，嘴角变化克制，不大幅宠溺笑。",
+        "旁白：忽然，极轻地，松了一格。"
+      ],
+      [
+        "华向F说原句前半，身后仍门框与普通走廊，无浪漫特效。",
+        "华：现在，你的心在哪里，"
+      ],
+      [
+        "视线落F与周围学生作品，华后半句气泡尾可在画外明确门侧，不能泡尾指学生/爻光。",
+        "华：倒是看得清清楚楚。"
+      ],
+      [
+        "F安静听完，木尺仍在RIGHT白手，LEFT黑空手近身，无新增回应或掉泪。",
+        "无对白。"
+      ]
+    ],
+    "source": "卷三第十八章《尺英》",
+    "references": [
+      "参考/绯英原设.jpg",
+      "参考/第十六话绯英日装01.png",
+      "参考/第十三话行星临摹09.png"
+    ],
+    "status": "实际画稿已生成；作者与独立全页审阅通过，角色与连续性终表已完成并冻结。",
+    "page_state": "华眼神只极轻松一格，不大笑/流泪/拥抱。心在哪里是指F和学生作品/当下生活，保持原作含义留白，不新点爻光/恋爱/回归决定；F仍紫瞳。",
+    "prompt": "Create ONE finished full-colour Chinese sequential manga PAGE for 《绯色难测》第十八话《尺英》, portrait PNG1024×1536. Detailed confident 2D anime linework, rich restrained cel shading, natural ADULT acting, clear black borders and ivory gutters. Read TOP TO BOTTOM, LEFT TO RIGHT. Fixed header “绯色难测 · 第十八话”, two-digit footer. A complete real comic page, not a storyboard template/poster or blank panel. Print ONLY the listed VISIBLE TEXT plus fixed header/footer; never role labels, metadata or directions. Speech tails point actual speaker; narration and memory voices are TAILLESS boxes, object lettering stays on object. Silent panels have no words. Use current page state for clothes/eyes/hands/objects. References identify only the specified person or painting: do not inherit their old chapter titles, dialogue, report text, classroom activity, season, or injury. No new unlisted dialogue. Natural iris pigment with normal small light reflection. For 爻 U+723B use two stacked 乂, four diagonal strokes, no detached dot+horizontal of交. Inspect actual pixels before changing correct lettering.\n\nHua / 华 is a NEW distinct ADULT female education inspector designed from this chapter, not an existing pink/silver-haired reference person: neat short DEEP GRAY-BLACK hair, calm NATURAL DEEP GRAY eyes, GRAPHITE straight-cut long coat, IVORY stand-collar shirt, CHARCOAL straight long trousers, BLACK FLAT low shoes, BARE hands. Restrained upright adult posture, exact steady pace. No gold glasses, pink/silver long hair, peacock clasp, jade bangle, gloves, animal ears, military insignia or weapons. Her restrained authority is not rage; tiny change in gaze stays tiny.\n\nF / 绯英 is an ADULT art teacher: SHORT FLUFFY cherry-pink MAIN CROWN, short outward-flipped cheek/jaw layers, separate THIN LONG rear strands, red bow/sakura clip, VIOLET-AMETHYST eyes. Short adult pointed-oval face and expressive natural acting, no real animal ears/tail, infant face or smooth full-head long pink curtain. Same approved modern school-day outfit: cropped BERRY cardigan, IVORY blouse, NAVY high-waisted straight full-length trousers, NEW BLACK FLATS. Anatomical RIGHT WHITE FULL-FINGER glove, anatomical LEFT BLACK FINGERLESS thin mesh glove with only faint OLD HEALED palm line if visible. Do not swap gloves. Trace actual shoulder/elbow/palm/back/thumb, not canvas side or writing habit. Ordinary wooden ruler is held in RIGHTwhite when shown; LEFTblack may steady paper. Hands and eye state exactly as THIS page state.\n\nPAGE STATE / NOT PRINTED: 华眼神只极轻松一格，不大笑/流泪/拥抱。心在哪里是指F和学生作品/当下生活，保持原作含义留白，不新点爻光/恋爱/回归决定；F仍紫瞳。\n\nPAGE 20 — 现在，你的心. EXACTLY 4 PANELS.\nLayout: 4格：极轻一松；原句上半；原句下半；F承受。\n\nPanel 1 picture / NOT PRINTED: 华近景，严肃眼神极细微松一点，嘴角变化克制，不大幅宠溺笑。\n\nVISIBLE TEXT [旁白, role label NOT PRINTED]: \"忽然，极轻地，松了一格。\"\n\nPanel 2 picture / NOT PRINTED: 华向F说原句前半，身后仍门框与普通走廊，无浪漫特效。\n\nVISIBLE TEXT [华, role label NOT PRINTED]: \"现在，你的心在哪里，\"\n\nPanel 3 picture / NOT PRINTED: 视线落F与周围学生作品，华后半句气泡尾可在画外明确门侧，不能泡尾指学生/爻光。\n\nVISIBLE TEXT [华, role label NOT PRINTED]: \"倒是看得清清楚楚。\"\n\nPanel 4 picture / NOT PRINTED: F安静听完，木尺仍在RIGHT白手，LEFT黑空手近身，无新增回应或掉泪。\n\nNO VISIBLE TEXT in this panel; silent visual beat.\n\nFooter 20. Exactly 4 panels; no extra words."
+  },
+  {
+    "page": 21,
+    "title": "画室里的十二岁",
+    "layout": "5格：华往外；门外再停；满愿年老；画室叙述；F听。",
+    "panels": [
+      [
+        "华转身离开教室，石墨大衣背影越过门框，F在室内原位置。",
+        "旁白：说完，她往外走。"
+      ],
+      [
+        "同门外华脚步又停，镜头从教室内看门框与半截深大衣，未出校园。",
+        "旁白：走到门外，又停住。"
+      ],
+      [
+        "门外华侧背或画外泡，原话从门框传来，F正听，不出现另位老人实体。",
+        "华：满愿先生年纪大了。"
+      ],
+      [
+        "F听见画室与十二岁时稍抬眼，背景仍现时学生画，绝不把旧画实物安在教室或画具体童年。",
+        "华：他的画室里，如今挂着你的十二岁。"
+      ],
+      [
+        "门内F与同木尺安静停顿，门外华尚未远去；这一顿给后面的邀请留空间。",
+        "旁白：顿了顿。"
+      ]
+    ],
+    "source": "卷三第十八章《尺英》",
+    "references": [
+      "参考/绯英原设.jpg",
+      "参考/第十六话绯英日装01.png"
+    ],
+    "status": "实际画稿已生成；作者与独立全页审阅通过，角色与连续性终表已完成并冻结。",
+    "page_state": "华说完往外走，在门外再停，声音隔门框进教室。满愿与十二岁只被言述，不画/定导师脸、十二岁F、童年画作内容或全国展览场景；不把十二岁误成12幅。",
+    "prompt": "Create ONE finished full-colour Chinese sequential manga PAGE for 《绯色难测》第十八话《尺英》, portrait PNG1024×1536. Detailed confident 2D anime linework, rich restrained cel shading, natural ADULT acting, clear black borders and ivory gutters. Read TOP TO BOTTOM, LEFT TO RIGHT. Fixed header “绯色难测 · 第十八话”, two-digit footer. A complete real comic page, not a storyboard template/poster or blank panel. Print ONLY the listed VISIBLE TEXT plus fixed header/footer; never role labels, metadata or directions. Speech tails point actual speaker; narration and memory voices are TAILLESS boxes, object lettering stays on object. Silent panels have no words. Use current page state for clothes/eyes/hands/objects. References identify only the specified person or painting: do not inherit their old chapter titles, dialogue, report text, classroom activity, season, or injury. No new unlisted dialogue. Natural iris pigment with normal small light reflection. For 爻 U+723B use two stacked 乂, four diagonal strokes, no detached dot+horizontal of交. Inspect actual pixels before changing correct lettering.\n\nHua / 华 is a NEW distinct ADULT female education inspector designed from this chapter, not an existing pink/silver-haired reference person: neat short DEEP GRAY-BLACK hair, calm NATURAL DEEP GRAY eyes, GRAPHITE straight-cut long coat, IVORY stand-collar shirt, CHARCOAL straight long trousers, BLACK FLAT low shoes, BARE hands. Restrained upright adult posture, exact steady pace. No gold glasses, pink/silver long hair, peacock clasp, jade bangle, gloves, animal ears, military insignia or weapons. Her restrained authority is not rage; tiny change in gaze stays tiny.\n\nF / 绯英 is an ADULT art teacher: SHORT FLUFFY cherry-pink MAIN CROWN, short outward-flipped cheek/jaw layers, separate THIN LONG rear strands, red bow/sakura clip, VIOLET-AMETHYST eyes. Short adult pointed-oval face and expressive natural acting, no real animal ears/tail, infant face or smooth full-head long pink curtain. Same approved modern school-day outfit: cropped BERRY cardigan, IVORY blouse, NAVY high-waisted straight full-length trousers, NEW BLACK FLATS. Anatomical RIGHT WHITE FULL-FINGER glove, anatomical LEFT BLACK FINGERLESS thin mesh glove with only faint OLD HEALED palm line if visible. Do not swap gloves. Trace actual shoulder/elbow/palm/back/thumb, not canvas side or writing habit. Ordinary wooden ruler is held in RIGHTwhite when shown; LEFTblack may steady paper. Hands and eye state exactly as THIS page state.\n\nPAGE STATE / NOT PRINTED: 华说完往外走，在门外再停，声音隔门框进教室。满愿与十二岁只被言述，不画/定导师脸、十二岁F、童年画作内容或全国展览场景；不把十二岁误成12幅。\n\nPAGE 21 — 画室里的十二岁. EXACTLY 5 PANELS.\nLayout: 5格：华往外；门外再停；满愿年老；画室叙述；F听。\n\nPanel 1 picture / NOT PRINTED: 华转身离开教室，石墨大衣背影越过门框，F在室内原位置。\n\nVISIBLE TEXT [旁白, role label NOT PRINTED]: \"说完，她往外走。\"\n\nPanel 2 picture / NOT PRINTED: 同门外华脚步又停，镜头从教室内看门框与半截深大衣，未出校园。\n\nVISIBLE TEXT [旁白, role label NOT PRINTED]: \"走到门外，又停住。\"\n\nPanel 3 picture / NOT PRINTED: 门外华侧背或画外泡，原话从门框传来，F正听，不出现另位老人实体。\n\nVISIBLE TEXT [华, role label NOT PRINTED]: \"满愿先生年纪大了。\"\n\nPanel 4 picture / NOT PRINTED: F听见画室与十二岁时稍抬眼，背景仍现时学生画，绝不把旧画实物安在教室或画具体童年。\n\nVISIBLE TEXT [华, role label NOT PRINTED]: \"他的画室里，如今挂着你的十二岁。\"\n\nPanel 5 picture / NOT PRINTED: 门内F与同木尺安静停顿，门外华尚未远去；这一顿给后面的邀请留空间。\n\nVISIBLE TEXT [旁白, role label NOT PRINTED]: \"顿了顿。\"\n\nFooter 21. Exactly 5 panels; no extra words."
+  },
+  {
+    "page": 22,
+    "title": "回，或不回",
+    "layout": "4格：苗圃旧位；为尺英留着；容你想；门框内外。",
+    "panels": [
+      [
+        "门外华声音在普通门框边传入，深灰短发侧背保持，F在室内听。",
+        "华：苗圃的老位子，"
+      ],
+      [
+        "F握木尺的RIGHT白手与脸一角，旧名再次被提但不出现第三人或两套身体分裂视觉。",
+        "华：一直给“尺英”留着。"
+      ],
+      [
+        "门外华平静说出邀请的最后一句，泡尾指门外，不新增期限/职位/合同。",
+        "华：回，或不回，容你想。"
+      ],
+      [
+        "教室与门外空隙的静镜，F没有点头答应/拒绝，学生也不追问；华将继续离开。",
+        "无对白。"
+      ]
+    ],
+    "source": "卷三第十八章《尺英》",
+    "references": [
+      "参考/绯英原设.jpg",
+      "参考/第十六话绯英日装01.png"
+    ],
+    "status": "实际画稿已生成；作者与独立全页审阅通过，角色与连续性终表已完成并冻结。",
+    "page_state": "隔门框继续同邀请，不把苗圃画成真的园艺花田或新机构招牌；只保持原文名词。华说为尺英留位不意味着F当场接受，原文回或不回容想完整，末仍现时教室门边。",
+    "prompt": "Create ONE finished full-colour Chinese sequential manga PAGE for 《绯色难测》第十八话《尺英》, portrait PNG1024×1536. Detailed confident 2D anime linework, rich restrained cel shading, natural ADULT acting, clear black borders and ivory gutters. Read TOP TO BOTTOM, LEFT TO RIGHT. Fixed header “绯色难测 · 第十八话”, two-digit footer. A complete real comic page, not a storyboard template/poster or blank panel. Print ONLY the listed VISIBLE TEXT plus fixed header/footer; never role labels, metadata or directions. Speech tails point actual speaker; narration and memory voices are TAILLESS boxes, object lettering stays on object. Silent panels have no words. Use current page state for clothes/eyes/hands/objects. References identify only the specified person or painting: do not inherit their old chapter titles, dialogue, report text, classroom activity, season, or injury. No new unlisted dialogue. Natural iris pigment with normal small light reflection. For 爻 U+723B use two stacked 乂, four diagonal strokes, no detached dot+horizontal of交. Inspect actual pixels before changing correct lettering.\n\nHua / 华 is a NEW distinct ADULT female education inspector designed from this chapter, not an existing pink/silver-haired reference person: neat short DEEP GRAY-BLACK hair, calm NATURAL DEEP GRAY eyes, GRAPHITE straight-cut long coat, IVORY stand-collar shirt, CHARCOAL straight long trousers, BLACK FLAT low shoes, BARE hands. Restrained upright adult posture, exact steady pace. No gold glasses, pink/silver long hair, peacock clasp, jade bangle, gloves, animal ears, military insignia or weapons. Her restrained authority is not rage; tiny change in gaze stays tiny.\n\nF / 绯英 is an ADULT art teacher: SHORT FLUFFY cherry-pink MAIN CROWN, short outward-flipped cheek/jaw layers, separate THIN LONG rear strands, red bow/sakura clip, VIOLET-AMETHYST eyes. Short adult pointed-oval face and expressive natural acting, no real animal ears/tail, infant face or smooth full-head long pink curtain. Same approved modern school-day outfit: cropped BERRY cardigan, IVORY blouse, NAVY high-waisted straight full-length trousers, NEW BLACK FLATS. Anatomical RIGHT WHITE FULL-FINGER glove, anatomical LEFT BLACK FINGERLESS thin mesh glove with only faint OLD HEALED palm line if visible. Do not swap gloves. Trace actual shoulder/elbow/palm/back/thumb, not canvas side or writing habit. Ordinary wooden ruler is held in RIGHTwhite when shown; LEFTblack may steady paper. Hands and eye state exactly as THIS page state.\n\nPAGE STATE / NOT PRINTED: 隔门框继续同邀请，不把苗圃画成真的园艺花田或新机构招牌；只保持原文名词。华说为尺英留位不意味着F当场接受，原文回或不回容想完整，末仍现时教室门边。\n\nPAGE 22 — 回，或不回. EXACTLY 4 PANELS.\nLayout: 4格：苗圃旧位；为尺英留着；容你想；门框内外。\n\nPanel 1 picture / NOT PRINTED: 门外华声音在普通门框边传入，深灰短发侧背保持，F在室内听。\n\nVISIBLE TEXT [华, role label NOT PRINTED]: \"苗圃的老位子，\"\n\nPanel 2 picture / NOT PRINTED: F握木尺的RIGHT白手与脸一角，旧名再次被提但不出现第三人或两套身体分裂视觉。\n\nVISIBLE TEXT [华, role label NOT PRINTED]: \"一直给“尺英”留着。\"\n\nPanel 3 picture / NOT PRINTED: 门外华平静说出邀请的最后一句，泡尾指门外，不新增期限/职位/合同。\n\nVISIBLE TEXT [华, role label NOT PRINTED]: \"回，或不回，容你想。\"\n\nPanel 4 picture / NOT PRINTED: 教室与门外空隙的静镜，F没有点头答应/拒绝，学生也不追问；华将继续离开。\n\nNO VISIBLE TEXT in this panel; silent visual beat.\n\nFooter 22. Exactly 4 panels; no extra words."
+  },
+  {
+    "page": 23,
+    "title": "像一件公务",
+    "layout": "5格：门开合；脚步；匀速远去；F讲台；同木尺。",
+    "panels": [
+      [
+        "普通美术教室门被出入动作带开又合，木门边线同前；不画反锁/被封教室。",
+        "旁白：门，开了又合。"
+      ],
+      [
+        "走廊远处华黑平底鞋和深大衣下摆，Fu/Ting如入画只陪同远侧背，脚步不急不慢。",
+        "旁白：脚步声，匀速远去。"
+      ],
+      [
+        "走廊透视里一行背影走远，教室门留前景，声音渐淡，无新增召唤或戏剧奔跑。",
+        "旁白：像这份邀请，也只是一件公务。"
+      ],
+      [
+        "教室内F在讲台边握木尺站着，学生仍坐在前排看她，紫瞳与手套左右准确。",
+        "旁白：绯英，站了很久。"
+      ],
+      [
+        "同木尺与RIGHT白指节近景，力度不再继续变形，LEFT黑在旁自然放松，不画掌心新出血。",
+        "无对白。"
+      ]
+    ],
+    "source": "卷三第十八章《尺英》",
+    "references": [
+      "参考/绯英原设.jpg",
+      "参考/第十六话绯英日装01.png",
+      "参考/第十三话符玄日装05.png",
+      "参考/第八话停云局部12.png"
+    ],
+    "status": "实际画稿已生成；作者与独立全页审阅通过，角色与连续性终表已完成并冻结。",
+    "page_state": "午间华离开后一段长静默，Fu/Ting陪同如需只远侧背，不增对白或Y加入。门只普通开合；木尺始终同一支在F RIGHT白手，不断裂/掉落。",
+    "prompt": "Create ONE finished full-colour Chinese sequential manga PAGE for 《绯色难测》第十八话《尺英》, portrait PNG1024×1536. Detailed confident 2D anime linework, rich restrained cel shading, natural ADULT acting, clear black borders and ivory gutters. Read TOP TO BOTTOM, LEFT TO RIGHT. Fixed header “绯色难测 · 第十八话”, two-digit footer. A complete real comic page, not a storyboard template/poster or blank panel. Print ONLY the listed VISIBLE TEXT plus fixed header/footer; never role labels, metadata or directions. Speech tails point actual speaker; narration and memory voices are TAILLESS boxes, object lettering stays on object. Silent panels have no words. Use current page state for clothes/eyes/hands/objects. References identify only the specified person or painting: do not inherit their old chapter titles, dialogue, report text, classroom activity, season, or injury. No new unlisted dialogue. Natural iris pigment with normal small light reflection. For 爻 U+723B use two stacked 乂, four diagonal strokes, no detached dot+horizontal of交. Inspect actual pixels before changing correct lettering.\n\nF / 绯英 is an ADULT art teacher: SHORT FLUFFY cherry-pink MAIN CROWN, short outward-flipped cheek/jaw layers, separate THIN LONG rear strands, red bow/sakura clip, VIOLET-AMETHYST eyes. Short adult pointed-oval face and expressive natural acting, no real animal ears/tail, infant face or smooth full-head long pink curtain. Same approved modern school-day outfit: cropped BERRY cardigan, IVORY blouse, NAVY high-waisted straight full-length trousers, NEW BLACK FLATS. Anatomical RIGHT WHITE FULL-FINGER glove, anatomical LEFT BLACK FINGERLESS thin mesh glove with only faint OLD HEALED palm line if visible. Do not swap gloves. Trace actual shoulder/elbow/palm/back/thumb, not canvas side or writing habit. Ordinary wooden ruler is held in RIGHTwhite when shown; LEFTblack may steady paper. Hands and eye state exactly as THIS page state.\n\nHua / 华 is a NEW distinct ADULT female education inspector designed from this chapter, not an existing pink/silver-haired reference person: neat short DEEP GRAY-BLACK hair, calm NATURAL DEEP GRAY eyes, GRAPHITE straight-cut long coat, IVORY stand-collar shirt, CHARCOAL straight long trousers, BLACK FLAT low shoes, BARE hands. Restrained upright adult posture, exact steady pace. No gold glasses, pink/silver long hair, peacock clasp, jade bangle, gloves, animal ears, military insignia or weapons. Her restrained authority is not rage; tiny change in gaze stays tiny.\n\nFu / 符玄 is ADULT, long pink-lilac hair, fine GOLD-FRAME GLASSES, lavender-gray school-office suit with ivory blouse, bare hands. She is not a child or the short dark-haired inspector. Keep same face and professional daily clothes as reference.\n\nTing / 停云 remains ONLY a cropped GREEN office sleeve, ordinary hand holding checklist/folder, or cropped SIDE/BACK shoulder silhouette as established in episode8/9. No user original full-face reference exists: do not invent a frontal face, visible hairstyle, animal ears or tail. The green sleeve is a school-adaptation clothing choice.\n\nPAGE STATE / NOT PRINTED: 午间华离开后一段长静默，Fu/Ting陪同如需只远侧背，不增对白或Y加入。门只普通开合；木尺始终同一支在F RIGHT白手，不断裂/掉落。\n\nPAGE 23 — 像一件公务. EXACTLY 5 PANELS.\nLayout: 5格：门开合；脚步；匀速远去；F讲台；同木尺。\n\nPanel 1 picture / NOT PRINTED: 普通美术教室门被出入动作带开又合，木门边线同前；不画反锁/被封教室。\n\nVISIBLE TEXT [旁白, role label NOT PRINTED]: \"门，开了又合。\"\n\nPanel 2 picture / NOT PRINTED: 走廊远处华黑平底鞋和深大衣下摆，Fu/Ting如入画只陪同远侧背，脚步不急不慢。\n\nVISIBLE TEXT [旁白, role label NOT PRINTED]: \"脚步声，匀速远去。\"\n\nPanel 3 picture / NOT PRINTED: 走廊透视里一行背影走远，教室门留前景，声音渐淡，无新增召唤或戏剧奔跑。\n\nVISIBLE TEXT [旁白, role label NOT PRINTED]: \"像这份邀请，也只是一件公务。\"\n\nPanel 4 picture / NOT PRINTED: 教室内F在讲台边握木尺站着，学生仍坐在前排看她，紫瞳与手套左右准确。\n\nVISIBLE TEXT [旁白, role label NOT PRINTED]: \"绯英，站了很久。\"\n\nPanel 5 picture / NOT PRINTED: 同木尺与RIGHT白指节近景，力度不再继续变形，LEFT黑在旁自然放松，不画掌心新出血。\n\nNO VISIBLE TEXT in this panel; silent visual beat.\n\nFooter 23. Exactly 5 panels; no extra words."
+  },
+  {
+    "page": 24,
+    "title": "先坐回去",
+    "layout": "4格：前排欲起；F抬手；学生坐回；恢复课堂。",
+    "panels": [
+      [
+        "一位普通前排高中女生刚从座位起身，身边同学看向老师，未冲去扶抱或说新话。",
+        "旁白：前排，有人站起来。"
+      ],
+      [
+        "F略抬空的解剖LEFT黑露指手示意先坐回，RIGHT白全指同木尺在另一侧，不换套。",
+        "无对白。"
+      ],
+      [
+        "前排同学安静坐回，F表情平和些，教室仍午间春光。",
+        "旁白：她让她们，先坐回去。"
+      ],
+      [
+        "F将木尺与海报放回正常讲台位置，学生回到作品前的静镜，为下午照常上课过渡，不新加心理独白。",
+        "无对白。"
+      ]
+    ],
+    "source": "卷三第十八章《尺英》",
+    "references": [
+      "参考/绯英原设.jpg",
+      "参考/第十六话绯英日装01.png"
+    ],
+    "status": "实际画稿已生成；作者与独立全页审阅通过，角色与连续性终表已完成并冻结。",
+    "page_state": "午间静默之后，前排同学仅起身关切，F用空LEFT黑露指手温和抬起示意坐回，RIGHT白仍握尺。全程无新增安慰台词/拥抱/学生揭密询问。",
+    "prompt": "Create ONE finished full-colour Chinese sequential manga PAGE for 《绯色难测》第十八话《尺英》, portrait PNG1024×1536. Detailed confident 2D anime linework, rich restrained cel shading, natural ADULT acting, clear black borders and ivory gutters. Read TOP TO BOTTOM, LEFT TO RIGHT. Fixed header “绯色难测 · 第十八话”, two-digit footer. A complete real comic page, not a storyboard template/poster or blank panel. Print ONLY the listed VISIBLE TEXT plus fixed header/footer; never role labels, metadata or directions. Speech tails point actual speaker; narration and memory voices are TAILLESS boxes, object lettering stays on object. Silent panels have no words. Use current page state for clothes/eyes/hands/objects. References identify only the specified person or painting: do not inherit their old chapter titles, dialogue, report text, classroom activity, season, or injury. No new unlisted dialogue. Natural iris pigment with normal small light reflection. For 爻 U+723B use two stacked 乂, four diagonal strokes, no detached dot+horizontal of交. Inspect actual pixels before changing correct lettering.\n\nF / 绯英 is an ADULT art teacher: SHORT FLUFFY cherry-pink MAIN CROWN, short outward-flipped cheek/jaw layers, separate THIN LONG rear strands, red bow/sakura clip, VIOLET-AMETHYST eyes. Short adult pointed-oval face and expressive natural acting, no real animal ears/tail, infant face or smooth full-head long pink curtain. Same approved modern school-day outfit: cropped BERRY cardigan, IVORY blouse, NAVY high-waisted straight full-length trousers, NEW BLACK FLATS. Anatomical RIGHT WHITE FULL-FINGER glove, anatomical LEFT BLACK FINGERLESS thin mesh glove with only faint OLD HEALED palm line if visible. Do not swap gloves. Trace actual shoulder/elbow/palm/back/thumb, not canvas side or writing habit. Ordinary wooden ruler is held in RIGHTwhite when shown; LEFTblack may steady paper. Hands and eye state exactly as THIS page state.\n\nPAGE STATE / NOT PRINTED: 午间静默之后，前排同学仅起身关切，F用空LEFT黑露指手温和抬起示意坐回，RIGHT白仍握尺。全程无新增安慰台词/拥抱/学生揭密询问。\n\nPAGE 24 — 先坐回去. EXACTLY 4 PANELS.\nLayout: 4格：前排欲起；F抬手；学生坐回；恢复课堂。\n\nPanel 1 picture / NOT PRINTED: 一位普通前排高中女生刚从座位起身，身边同学看向老师，未冲去扶抱或说新话。\n\nVISIBLE TEXT [旁白, role label NOT PRINTED]: \"前排，有人站起来。\"\n\nPanel 2 picture / NOT PRINTED: F略抬空的解剖LEFT黑露指手示意先坐回，RIGHT白全指同木尺在另一侧，不换套。\n\nNO VISIBLE TEXT in this panel; silent visual beat.\n\nPanel 3 picture / NOT PRINTED: 前排同学安静坐回，F表情平和些，教室仍午间春光。\n\nVISIBLE TEXT [旁白, role label NOT PRINTED]: \"她让她们，先坐回去。\"\n\nPanel 4 picture / NOT PRINTED: F将木尺与海报放回正常讲台位置，学生回到作品前的静镜，为下午照常上课过渡，不新加心理独白。\n\nNO VISIBLE TEXT in this panel; silent visual beat.\n\nFooter 24. Exactly 4 panels; no extra words."
+  },
+  {
+    "page": 25,
+    "title": "笑容分毫不差",
+    "layout": "5格：当天下午；正常开课；示范；微笑；学生学画。",
+    "panels": [
+      [
+        "同美术教室午后窗光略偏，F和高中学生正常课堂布局，门口已无督学。",
+        "字幕：那天下午。"
+      ],
+      [
+        "F在讲台正常开课，RIGHT白木尺可指同海报/普通画稿，LEFT黑稳纸，姿态专业。",
+        "旁白：她，照常上课。"
+      ],
+      [
+        "F俯身在教师正常距离示意学生纸面构图，学生认真听，不触学生脸或贴身拥抱。",
+        "无对白。"
+      ],
+      [
+        "F紫瞳与成年短蓬粉冠近景，笑容恢复日常明快，而非凝固恐怖面具或强烈病色。",
+        "旁白：笑容，分毫不差。"
+      ],
+      [
+        "学生们继续画，F沿桌侧看稿的课堂长镜，作品与阳光真实，不加原文没有的课堂对白。",
+        "无对白。"
+      ]
+    ],
+    "source": "卷三第十八章《尺英》",
+    "references": [
+      "参考/绯英原设.jpg",
+      "参考/第十六话绯英日装01.png",
+      "参考/第十三话行星临摹09.png"
+    ],
+    "status": "实际画稿已生成；作者与独立全页审阅通过，角色与连续性终表已完成并冻结。",
+    "page_state": "同日午后明确时间桥，F成年日装/紫瞳/双手套，普通美术课照常，Hua不在现场也无金瞳。只按原作照常上课表现不写新课件/教学金句或跟学生讲过去。",
+    "prompt": "Create ONE finished full-colour Chinese sequential manga PAGE for 《绯色难测》第十八话《尺英》, portrait PNG1024×1536. Detailed confident 2D anime linework, rich restrained cel shading, natural ADULT acting, clear black borders and ivory gutters. Read TOP TO BOTTOM, LEFT TO RIGHT. Fixed header “绯色难测 · 第十八话”, two-digit footer. A complete real comic page, not a storyboard template/poster or blank panel. Print ONLY the listed VISIBLE TEXT plus fixed header/footer; never role labels, metadata or directions. Speech tails point actual speaker; narration and memory voices are TAILLESS boxes, object lettering stays on object. Silent panels have no words. Use current page state for clothes/eyes/hands/objects. References identify only the specified person or painting: do not inherit their old chapter titles, dialogue, report text, classroom activity, season, or injury. No new unlisted dialogue. Natural iris pigment with normal small light reflection. For 爻 U+723B use two stacked 乂, four diagonal strokes, no detached dot+horizontal of交. Inspect actual pixels before changing correct lettering.\n\nF / 绯英 is an ADULT art teacher: SHORT FLUFFY cherry-pink MAIN CROWN, short outward-flipped cheek/jaw layers, separate THIN LONG rear strands, red bow/sakura clip, VIOLET-AMETHYST eyes. Short adult pointed-oval face and expressive natural acting, no real animal ears/tail, infant face or smooth full-head long pink curtain. Same approved modern school-day outfit: cropped BERRY cardigan, IVORY blouse, NAVY high-waisted straight full-length trousers, NEW BLACK FLATS. Anatomical RIGHT WHITE FULL-FINGER glove, anatomical LEFT BLACK FINGERLESS thin mesh glove with only faint OLD HEALED palm line if visible. Do not swap gloves. Trace actual shoulder/elbow/palm/back/thumb, not canvas side or writing habit. Ordinary wooden ruler is held in RIGHTwhite when shown; LEFTblack may steady paper. Hands and eye state exactly as THIS page state.\n\nPAGE STATE / NOT PRINTED: 同日午后明确时间桥，F成年日装/紫瞳/双手套，普通美术课照常，Hua不在现场也无金瞳。只按原作照常上课表现不写新课件/教学金句或跟学生讲过去。\n\nPAGE 25 — 笑容分毫不差. EXACTLY 5 PANELS.\nLayout: 5格：当天下午；正常开课；示范；微笑；学生学画。\n\nPanel 1 picture / NOT PRINTED: 同美术教室午后窗光略偏，F和高中学生正常课堂布局，门口已无督学。\n\nVISIBLE TEXT [字幕, role label NOT PRINTED]: \"那天下午。\"\n\nPanel 2 picture / NOT PRINTED: F在讲台正常开课，RIGHT白木尺可指同海报/普通画稿，LEFT黑稳纸，姿态专业。\n\nVISIBLE TEXT [旁白, role label NOT PRINTED]: \"她，照常上课。\"\n\nPanel 3 picture / NOT PRINTED: F俯身在教师正常距离示意学生纸面构图，学生认真听，不触学生脸或贴身拥抱。\n\nNO VISIBLE TEXT in this panel; silent visual beat.\n\nPanel 4 picture / NOT PRINTED: F紫瞳与成年短蓬粉冠近景，笑容恢复日常明快，而非凝固恐怖面具或强烈病色。\n\nVISIBLE TEXT [旁白, role label NOT PRINTED]: \"笑容，分毫不差。\"\n\nPanel 5 picture / NOT PRINTED: 学生们继续画，F沿桌侧看稿的课堂长镜，作品与阳光真实，不加原文没有的课堂对白。\n\nNO VISIBLE TEXT in this panel; silent visual beat.\n\nFooter 25. Exactly 5 panels; no extra words."
+  },
+  {
+    "page": 26,
+    "title": "第五十三格",
+    "layout": "4格：放学空教室；看窗边行星；逐幅走看；墙报53格。",
+    "panels": [
+      [
+        "放学后美术教室空下来，F一个人在作品墙前，空座和收好的画具显示学生已走。",
+        "字幕：放学后，学生们走光了。"
+      ],
+      [
+        "F站窗边看同碎裂又愈合行星临摹稿，纸有蓝宇宙/裂缝暖光，没有数学试卷/旧报告/加油牌。",
+        "旁白：她一个人，把墙上的作品，挨个看了一遍。"
+      ],
+      [
+        "F沿墙作品缓缓走到后墙，不拆画/收行李或决定离职，RIGHT白/LEFT黑手自然在身侧。",
+        "旁白：从窗边的行星。"
+      ],
+      [
+        "9列6行墙报末排末端局部，构图能辨最后第6行的第7/8/9列边界，F视线落第8格即53；可用旁白指明数，不必印格号或编格内故事，标题在上方格外。",
+        "旁白：到墙报的第五十三格。"
+      ]
+    ],
+    "source": "卷三第十八章《尺英》",
+    "references": [
+      "参考/绯英原设.jpg",
+      "参考/第十六话绯英日装01.png",
+      "参考/第十三话行星临摹09.png"
+    ],
+    "status": "实际画稿已生成；作者与独立全页审阅通过，角色与连续性终表已完成并冻结。",
+    "page_state": "放学学生全走，F独自在美术教室，同日装与双手套尚在，眼仍紫。先看普通行星临摹，再到9列6行墙报第53格＝最后第6行第8列。只画视线停留，未触标题；不编53格内容/名字、不给53和54乱换位置。",
+    "prompt": "Create ONE finished full-colour Chinese sequential manga PAGE for 《绯色难测》第十八话《尺英》, portrait PNG1024×1536. Detailed confident 2D anime linework, rich restrained cel shading, natural ADULT acting, clear black borders and ivory gutters. Read TOP TO BOTTOM, LEFT TO RIGHT. Fixed header “绯色难测 · 第十八话”, two-digit footer. A complete real comic page, not a storyboard template/poster or blank panel. Print ONLY the listed VISIBLE TEXT plus fixed header/footer; never role labels, metadata or directions. Speech tails point actual speaker; narration and memory voices are TAILLESS boxes, object lettering stays on object. Silent panels have no words. Use current page state for clothes/eyes/hands/objects. References identify only the specified person or painting: do not inherit their old chapter titles, dialogue, report text, classroom activity, season, or injury. No new unlisted dialogue. Natural iris pigment with normal small light reflection. For 爻 U+723B use two stacked 乂, four diagonal strokes, no detached dot+horizontal of交. Inspect actual pixels before changing correct lettering.\n\nF / 绯英 is an ADULT art teacher: SHORT FLUFFY cherry-pink MAIN CROWN, short outward-flipped cheek/jaw layers, separate THIN LONG rear strands, red bow/sakura clip, VIOLET-AMETHYST eyes. Short adult pointed-oval face and expressive natural acting, no real animal ears/tail, infant face or smooth full-head long pink curtain. Same approved modern school-day outfit: cropped BERRY cardigan, IVORY blouse, NAVY high-waisted straight full-length trousers, NEW BLACK FLATS. Anatomical RIGHT WHITE FULL-FINGER glove, anatomical LEFT BLACK FINGERLESS thin mesh glove with only faint OLD HEALED palm line if visible. Do not swap gloves. Trace actual shoulder/elbow/palm/back/thumb, not canvas side or writing habit. Ordinary wooden ruler is held in RIGHTwhite when shown; LEFTblack may steady paper. Hands and eye state exactly as THIS page state.\n\nPAGE STATE / NOT PRINTED: 放学学生全走，F独自在美术教室，同日装与双手套尚在，眼仍紫。先看普通行星临摹，再到9列6行墙报第53格＝最后第6行第8列。只画视线停留，未触标题；不编53格内容/名字、不给53和54乱换位置。\n\nPAGE 26 — 第五十三格. EXACTLY 4 PANELS.\nLayout: 4格：放学空教室；看窗边行星；逐幅走看；墙报53格。\n\nPanel 1 picture / NOT PRINTED: 放学后美术教室空下来，F一个人在作品墙前，空座和收好的画具显示学生已走。\n\nVISIBLE TEXT [字幕, role label NOT PRINTED]: \"放学后，学生们走光了。\"\n\nPanel 2 picture / NOT PRINTED: F站窗边看同碎裂又愈合行星临摹稿，纸有蓝宇宙/裂缝暖光，没有数学试卷/旧报告/加油牌。\n\nVISIBLE TEXT [旁白, role label NOT PRINTED]: \"她一个人，把墙上的作品，挨个看了一遍。\"\n\nPanel 3 picture / NOT PRINTED: F沿墙作品缓缓走到后墙，不拆画/收行李或决定离职，RIGHT白/LEFT黑手自然在身侧。\n\nVISIBLE TEXT [旁白, role label NOT PRINTED]: \"从窗边的行星。\"\n\nPanel 4 picture / NOT PRINTED: 9列6行墙报末排末端局部，构图能辨最后第6行的第7/8/9列边界，F视线落第8格即53；可用旁白指明数，不必印格号或编格内故事，标题在上方格外。\n\nVISIBLE TEXT [旁白, role label NOT PRINTED]: \"到墙报的第五十三格。\"\n\nFooter 26. Exactly 4 panels; no extra words."
+  },
+  {
+    "page": 27,
+    "title": "周三下午",
+    "layout": "5格：看至最后；墙报标题；指尖轻触；凉意；半年前声音。",
+    "panels": [
+      [
+        "F将最后几幅看完，抬眼看向后墙标题，墙报9×6边界保持；同一教室更安静。",
+        "旁白：看到最后。"
+      ],
+      [
+        "同墙报格外上沿标题特写，字迹清楚完整，下面九列小画格不是阶梯，标题不算额外一格。",
+        "墙报主标题：我们喜欢周三下午"
+      ],
+      [
+        "F anatomicalLEFT黑露指薄手套的裸指尖轻轻碰在同标题文字边缘，手掌旧淡痕若露已愈，RIGHT白手在身侧，不新增伤痕。",
+        "旁白：她的指尖，停在那一行字上。"
+      ],
+      [
+        "F紫瞳近景与轻触纸面的小动作，神情静下，只有手指的凉意由旁白表达，不突然发烧/眩晕。",
+        "旁白：轻轻，碰了碰。"
+      ],
+      [
+        "仍是当下F和纸面标题，画面不出现团长实体，回忆以单独旁白框开始而不是手机消息。",
+        "旁白：半年前，那个戴半张面具的剧团团长，说过一句话。"
+      ]
+    ],
+    "source": "卷三第十八章《尺英》",
+    "references": [
+      "参考/绯英原设.jpg",
+      "参考/第十六话绯英日装01.png",
+      "参考/第十三话行星临摹09.png"
+    ],
+    "status": "实际画稿已生成；作者与独立全页审阅通过，角色与连续性终表已完成并冻结。",
+    "page_state": "同放学后独处美术教室。F用解剖LEFT黑露指手的裸指轻触格外标题，RIGHT白空手放低，不能用包白手套指尖还称裸指；手套仍戴到28夜前。本页回忆声只引出时间，不画现时花火或十年前另一人。",
+    "prompt": "Create ONE finished full-colour Chinese sequential manga PAGE for 《绯色难测》第十八话《尺英》, portrait PNG1024×1536. Detailed confident 2D anime linework, rich restrained cel shading, natural ADULT acting, clear black borders and ivory gutters. Read TOP TO BOTTOM, LEFT TO RIGHT. Fixed header “绯色难测 · 第十八话”, two-digit footer. A complete real comic page, not a storyboard template/poster or blank panel. Print ONLY the listed VISIBLE TEXT plus fixed header/footer; never role labels, metadata or directions. Speech tails point actual speaker; narration and memory voices are TAILLESS boxes, object lettering stays on object. Silent panels have no words. Use current page state for clothes/eyes/hands/objects. References identify only the specified person or painting: do not inherit their old chapter titles, dialogue, report text, classroom activity, season, or injury. No new unlisted dialogue. Natural iris pigment with normal small light reflection. For 爻 U+723B use two stacked 乂, four diagonal strokes, no detached dot+horizontal of交. Inspect actual pixels before changing correct lettering.\n\nF / 绯英 is an ADULT art teacher: SHORT FLUFFY cherry-pink MAIN CROWN, short outward-flipped cheek/jaw layers, separate THIN LONG rear strands, red bow/sakura clip, VIOLET-AMETHYST eyes. Short adult pointed-oval face and expressive natural acting, no real animal ears/tail, infant face or smooth full-head long pink curtain. Same approved modern school-day outfit: cropped BERRY cardigan, IVORY blouse, NAVY high-waisted straight full-length trousers, NEW BLACK FLATS. Anatomical RIGHT WHITE FULL-FINGER glove, anatomical LEFT BLACK FINGERLESS thin mesh glove with only faint OLD HEALED palm line if visible. Do not swap gloves. Trace actual shoulder/elbow/palm/back/thumb, not canvas side or writing habit. Ordinary wooden ruler is held in RIGHTwhite when shown; LEFTblack may steady paper. Hands and eye state exactly as THIS page state.\n\nPAGE STATE / NOT PRINTED: 同放学后独处美术教室。F用解剖LEFT黑露指手的裸指轻触格外标题，RIGHT白空手放低，不能用包白手套指尖还称裸指；手套仍戴到28夜前。本页回忆声只引出时间，不画现时花火或十年前另一人。\n\nPAGE 27 — 周三下午. EXACTLY 5 PANELS.\nLayout: 5格：看至最后；墙报标题；指尖轻触；凉意；半年前声音。\n\nPanel 1 picture / NOT PRINTED: F将最后几幅看完，抬眼看向后墙标题，墙报9×6边界保持；同一教室更安静。\n\nVISIBLE TEXT [旁白, role label NOT PRINTED]: \"看到最后。\"\n\nPanel 2 picture / NOT PRINTED: 同墙报格外上沿标题特写，字迹清楚完整，下面九列小画格不是阶梯，标题不算额外一格。\n\nVISIBLE TEXT [墙报主标题, role label NOT PRINTED]: \"我们喜欢周三下午\"\n\nPanel 3 picture / NOT PRINTED: F anatomicalLEFT黑露指薄手套的裸指尖轻轻碰在同标题文字边缘，手掌旧淡痕若露已愈，RIGHT白手在身侧，不新增伤痕。\n\nVISIBLE TEXT [旁白, role label NOT PRINTED]: \"她的指尖，停在那一行字上。\"\n\nPanel 4 picture / NOT PRINTED: F紫瞳近景与轻触纸面的小动作，神情静下，只有手指的凉意由旁白表达，不突然发烧/眩晕。\n\nVISIBLE TEXT [旁白, role label NOT PRINTED]: \"轻轻，碰了碰。\"\n\nPanel 5 picture / NOT PRINTED: 仍是当下F和纸面标题，画面不出现团长实体，回忆以单独旁白框开始而不是手机消息。\n\nVISIBLE TEXT [旁白, role label NOT PRINTED]: \"半年前，那个戴半张面具的剧团团长，说过一句话。\"\n\nFooter 27. Exactly 5 panels; no extra words."
+  },
+  {
+    "page": 28,
+    "title": "比面具，更像面具",
+    "layout": "4格：回忆前半；回忆后半；如今懂；夜301过渡。",
+    "panels": [
+      [
+        "F指尖仍轻触标题，当下脸与作品虚在背景，半年前记忆文字在无尾框内，不来自现场人物。",
+        "半年前的声音：你戴的这张脸，"
+      ],
+      [
+        "同F紫瞳与纸面触点近景，继续同句记忆无尾框，不画戏曲脸谱或换掉F整张脸。",
+        "半年前的声音：比你的面具，像面具多了。"
+      ],
+      [
+        "F收回手指，安静低眼站在作品墙前；理解以叙述表达，不写向谁求助或人生决定。",
+        "旁白：她当时没听懂。<br>旁白：此刻指尖发凉，全懂了。"
+      ],
+      [
+        "夜深后转到301办公室外走廊与亮着灯的门窗，门牌301清楚，F可窗内小侧影同莓开衫紫瞳但不作眼部特写；302及其他人不入画。",
+        "字幕：夜深了。"
+      ]
+    ],
+    "source": "卷三第十八章《尺英》",
+    "references": [
+      "参考/绯英原设.jpg",
+      "参考/第十六话绯英日装01.png"
+    ],
+    "status": "实际画稿已生成；作者与独立全页审阅通过，角色与连续性终表已完成并冻结。",
+    "page_state": "前3格仍放学后F独对墙报，记忆声为半年前未展示同次往事，单独浅底记忆框标来源但不要印‘标签’或画现时花火/面具实物；原句完整分两段。p4转夜301灯亮，F仍紫瞳同常服双手套尚戴，未摘。",
+    "prompt": "Create ONE finished full-colour Chinese sequential manga PAGE for 《绯色难测》第十八话《尺英》, portrait PNG1024×1536. Detailed confident 2D anime linework, rich restrained cel shading, natural ADULT acting, clear black borders and ivory gutters. Read TOP TO BOTTOM, LEFT TO RIGHT. Fixed header “绯色难测 · 第十八话”, two-digit footer. A complete real comic page, not a storyboard template/poster or blank panel. Print ONLY the listed VISIBLE TEXT plus fixed header/footer; never role labels, metadata or directions. Speech tails point actual speaker; narration and memory voices are TAILLESS boxes, object lettering stays on object. Silent panels have no words. Use current page state for clothes/eyes/hands/objects. References identify only the specified person or painting: do not inherit their old chapter titles, dialogue, report text, classroom activity, season, or injury. No new unlisted dialogue. Natural iris pigment with normal small light reflection. For 爻 U+723B use two stacked 乂, four diagonal strokes, no detached dot+horizontal of交. Inspect actual pixels before changing correct lettering.\n\nF / 绯英 is an ADULT art teacher: SHORT FLUFFY cherry-pink MAIN CROWN, short outward-flipped cheek/jaw layers, separate THIN LONG rear strands, red bow/sakura clip, VIOLET-AMETHYST eyes. Short adult pointed-oval face and expressive natural acting, no real animal ears/tail, infant face or smooth full-head long pink curtain. Same approved modern school-day outfit: cropped BERRY cardigan, IVORY blouse, NAVY high-waisted straight full-length trousers, NEW BLACK FLATS. Anatomical RIGHT WHITE FULL-FINGER glove, anatomical LEFT BLACK FINGERLESS thin mesh glove with only faint OLD HEALED palm line if visible. Do not swap gloves. Trace actual shoulder/elbow/palm/back/thumb, not canvas side or writing habit. Ordinary wooden ruler is held in RIGHTwhite when shown; LEFTblack may steady paper. Hands and eye state exactly as THIS page state.\n\nPAGE STATE / NOT PRINTED: 前3格仍放学后F独对墙报，记忆声为半年前未展示同次往事，单独浅底记忆框标来源但不要印‘标签’或画现时花火/面具实物；原句完整分两段。p4转夜301灯亮，F仍紫瞳同常服双手套尚戴，未摘。\n\nPAGE 28 — 比面具，更像面具. EXACTLY 4 PANELS.\nLayout: 4格：回忆前半；回忆后半；如今懂；夜301过渡。\n\nPanel 1 picture / NOT PRINTED: F指尖仍轻触标题，当下脸与作品虚在背景，半年前记忆文字在无尾框内，不来自现场人物。\n\nVISIBLE TEXT [半年前的声音, role label NOT PRINTED]: \"你戴的这张脸，\"\n\nPanel 2 picture / NOT PRINTED: 同F紫瞳与纸面触点近景，继续同句记忆无尾框，不画戏曲脸谱或换掉F整张脸。\n\nVISIBLE TEXT [半年前的声音, role label NOT PRINTED]: \"比你的面具，像面具多了。\"\n\nPanel 3 picture / NOT PRINTED: F收回手指，安静低眼站在作品墙前；理解以叙述表达，不写向谁求助或人生决定。\n\nVISIBLE TEXT [旁白, role label NOT PRINTED]: \"她当时没听懂。\"\n\nVISIBLE TEXT [旁白, role label NOT PRINTED]: \"此刻指尖发凉，全懂了。\"\n\nPanel 4 picture / NOT PRINTED: 夜深后转到301办公室外走廊与亮着灯的门窗，门牌301清楚，F可窗内小侧影同莓开衫紫瞳但不作眼部特写；302及其他人不入画。\n\nVISIBLE TEXT [字幕, role label NOT PRINTED]: \"夜深了。\"\n\nFooter 28. Exactly 4 panels; no extra words."
+  },
+  {
+    "page": 29,
+    "title": "窗前，摘下",
+    "layout": "5格：301灯下；双手套置桌；窗前倒影；抬手摘瞳；裸掌过渡。",
+    "panels": [
+      [
+        "301办公室单盏灯下F站起向窗，仍同莓开衫米白衬navy裤黑flats，不换睡衣/旧运动服；桌上普通工作物不加邀请函。",
+        "旁白：三零之一的灯下。"
+      ],
+      [
+        "桌面并排放着她已脱下的原RIGHT白全指手套与LEFT黑露指手套；旁边可见F两只已裸净的手，LEFT旧痕仅淡且愈、不带绷带，身体无新伤。",
+        "无对白。"
+      ],
+      [
+        "F站窗前看玻璃倒影，眼睛此时仍紫；短蓬粉主冠、红结樱夹和独立细后束保持，裸手在身侧。",
+        "旁白：绯英，对着玻璃里的倒影。"
+      ],
+      [
+        "侧后方中远取景F抬裸净手向眼部，脸被手和角度遮挡/眼轻闭，只叙事表现摘美瞳，不画捏眼过程/接触教学或眼伤；此格没有清楚金色眼睛。",
+        "旁白：抬手，摘下了美瞳。"
+      ],
+      [
+        "取景落到从脸旁缓缓降下的裸手轮廓，眼部完全在画外，台灯与窗框连续，为下一页掌心镜片留视觉停顿。",
+        "无对白。"
+      ]
+    ],
+    "source": "卷三第十八章《尺英》",
+    "references": [
+      "参考/绯英原设.jpg",
+      "参考/第十六话绯英日装01.png"
+    ],
+    "status": "实际画稿已生成；作者与独立全页审阅通过，角色与连续性终表已完成并冻结。",
+    "page_state": "夜301独处。p1同莓开衫米白衬navy长裤黑flats；p2明确原RIGHT白全指与LEFT黑露指两只手套已脱并排置桌，两手裸净/旧LEFT伤已愈，p3眼仍紫，p4摘镜片时手挡眼/闭眼以远取景不教操作，p5眼部在画外。此页不清楚显示金眼，30才首次清楚揭示；无第三人窥见/魔法/病情。",
+    "prompt": "Create ONE finished full-colour Chinese sequential manga PAGE for 《绯色难测》第十八话《尺英》, portrait PNG1024×1536. Detailed confident 2D anime linework, rich restrained cel shading, natural ADULT acting, clear black borders and ivory gutters. Read TOP TO BOTTOM, LEFT TO RIGHT. Fixed header “绯色难测 · 第十八话”, two-digit footer. A complete real comic page, not a storyboard template/poster or blank panel. Print ONLY the listed VISIBLE TEXT plus fixed header/footer; never role labels, metadata or directions. Speech tails point actual speaker; narration and memory voices are TAILLESS boxes, object lettering stays on object. Silent panels have no words. Use current page state for clothes/eyes/hands/objects. References identify only the specified person or painting: do not inherit their old chapter titles, dialogue, report text, classroom activity, season, or injury. No new unlisted dialogue. Natural iris pigment with normal small light reflection. For 爻 U+723B use two stacked 乂, four diagonal strokes, no detached dot+horizontal of交. Inspect actual pixels before changing correct lettering.\n\nF / 绯英 is an ADULT art teacher: SHORT FLUFFY cherry-pink MAIN CROWN, short outward-flipped cheek/jaw layers, separate THIN LONG rear strands, red bow/sakura clip, VIOLET-AMETHYST eyes. Short adult pointed-oval face and expressive natural acting, no real animal ears/tail, infant face or smooth full-head long pink curtain. Same approved modern school-day outfit: cropped BERRY cardigan, IVORY blouse, NAVY high-waisted straight full-length trousers, NEW BLACK FLATS. Anatomical RIGHT WHITE FULL-FINGER glove, anatomical LEFT BLACK FINGERLESS thin mesh glove with only faint OLD HEALED palm line if visible. Do not swap gloves. Trace actual shoulder/elbow/palm/back/thumb, not canvas side or writing habit. Ordinary wooden ruler is held in RIGHTwhite when shown; LEFTblack may steady paper. Hands and eye state exactly as THIS page state.\n\nPAGE STATE / NOT PRINTED: 夜301独处。p1同莓开衫米白衬navy长裤黑flats；p2明确原RIGHT白全指与LEFT黑露指两只手套已脱并排置桌，两手裸净/旧LEFT伤已愈，p3眼仍紫，p4摘镜片时手挡眼/闭眼以远取景不教操作，p5眼部在画外。此页不清楚显示金眼，30才首次清楚揭示；无第三人窥见/魔法/病情。\n\nPAGE 29 — 窗前，摘下. EXACTLY 5 PANELS.\nLayout: 5格：301灯下；双手套置桌；窗前倒影；抬手摘瞳；裸掌过渡。\n\nPanel 1 picture / NOT PRINTED: 301办公室单盏灯下F站起向窗，仍同莓开衫米白衬navy裤黑flats，不换睡衣/旧运动服；桌上普通工作物不加邀请函。\n\nVISIBLE TEXT [旁白, role label NOT PRINTED]: \"三零之一的灯下。\"\n\nPanel 2 picture / NOT PRINTED: 桌面并排放着她已脱下的原RIGHT白全指手套与LEFT黑露指手套；旁边可见F两只已裸净的手，LEFT旧痕仅淡且愈、不带绷带，身体无新伤。\n\nNO VISIBLE TEXT in this panel; silent visual beat.\n\nPanel 3 picture / NOT PRINTED: F站窗前看玻璃倒影，眼睛此时仍紫；短蓬粉主冠、红结樱夹和独立细后束保持，裸手在身侧。\n\nVISIBLE TEXT [旁白, role label NOT PRINTED]: \"绯英，对着玻璃里的倒影。\"\n\nPanel 4 picture / NOT PRINTED: 侧后方中远取景F抬裸净手向眼部，脸被手和角度遮挡/眼轻闭，只叙事表现摘美瞳，不画捏眼过程/接触教学或眼伤；此格没有清楚金色眼睛。\n\nVISIBLE TEXT [旁白, role label NOT PRINTED]: \"抬手，摘下了美瞳。\"\n\nPanel 5 picture / NOT PRINTED: 取景落到从脸旁缓缓降下的裸手轮廓，眼部完全在画外，台灯与窗框连续，为下一页掌心镜片留视觉停顿。\n\nNO VISIBLE TEXT in this panel; silent visual beat.\n\nFooter 29. Exactly 5 panels; no extra words."
+  },
+  {
+    "page": 30,
+    "title": "琥珀金",
+    "layout": "4格：掌心紫镜片；双金眼倒影；不笑不躲；如旧画室的人。",
+    "panels": [
+      [
+        "F一只裸掌心有两片小而半透明的紫色美瞳，薄边和微弧度普通隐形镜片，不是金属戒指/硬宝石/破碎眼球；眼部暂在画外，手套仍桌上。",
+        "旁白：镜片，落进掌心。"
+      ],
+      [
+        "窗玻璃倒影与F同脸清楚主格：原粉短主冠/外翻脸层/独立细后束，红结樱夹，双眼自然琥珀金、正常黑瞳孔白眼球，非自发光/眼色左右不一，脸冷静仍同成年人。",
+        "旁白：倒影里，一双琥珀金的眼睛，看着她。"
+      ],
+      [
+        "同金眼F的安静正侧面，不笑不躲，眼中只是室内灯正常高光；莓开衫和裸手身份连续。",
+        "旁白：不笑，不躲，冷而且静。"
+      ],
+      [
+        "稍拉远F站现时301窗前与自己反射相望，室内物品和月夜普通，不画儿童、展厅或另一实体。",
+        "旁白：像很多年前，画室灯下的那一个人。"
+      ]
+    ],
+    "source": "卷三第十八章《尺英》",
+    "references": [
+      "参考/绯英原设.jpg",
+      "参考/第十六话绯英日装01.png"
+    ],
+    "status": "实际画稿已生成；作者与独立全页审阅通过，角色与连续性终表已完成并冻结。",
+    "page_state": "FEIYING GOLD-EYE FIRST CLEAR IDENTITY ANCHOR。夜301同一F的短蓬粉主冠/红结樱夹/莓开衫/米白衬navy裤blackflats，双手套已在桌上，两裸手；摘下的紫色薄透明镜片在裸掌。此时F与玻璃反射双眼都为自然琥珀金，不混一紫一金/魔法光束/新身份身体。只当下玻璃倒影，不新增实际十年前画室闪回或旁观Y。",
+    "prompt": "Create ONE finished full-colour Chinese sequential manga PAGE for 《绯色难测》第十八话《尺英》, portrait PNG1024×1536. Detailed confident 2D anime linework, rich restrained cel shading, natural ADULT acting, clear black borders and ivory gutters. Read TOP TO BOTTOM, LEFT TO RIGHT. Fixed header “绯色难测 · 第十八话”, two-digit footer. A complete real comic page, not a storyboard template/poster or blank panel. Print ONLY the listed VISIBLE TEXT plus fixed header/footer; never role labels, metadata or directions. Speech tails point actual speaker; narration and memory voices are TAILLESS boxes, object lettering stays on object. Silent panels have no words. Use current page state for clothes/eyes/hands/objects. References identify only the specified person or painting: do not inherit their old chapter titles, dialogue, report text, classroom activity, season, or injury. No new unlisted dialogue. Natural iris pigment with normal small light reflection. For 爻 U+723B use two stacked 乂, four diagonal strokes, no detached dot+horizontal of交. Inspect actual pixels before changing correct lettering.\n\nF / 绯英 is the SAME ADULT art teacher as original pink/violet reference, with SAME SHORT FLUFFY pink MAIN CROWN, outward-flipped short cheek layers, separate THIN LONG rear strands, red bow/sakura clip and short adult pointed-oval face. THIS night page eyes are BOTH NATURAL AMBER-GOLD after purple contact lenses were removed: normal black pupils and white sclera, NO self-emitting light, heterochromia, transformation or second body. SAME berry cropped cardigan/ivory blouse/navy high-waisted straight long trousers/new BLACK FLATS. BOTH HANDS now clean BARE; the original RIGHTwhite full-finger and LEFTblack fingerless gloves are off and lying paired on desk, NOT worn. OLD LEFT palm mark only faint/healed if visible. Small translucent purple contacts in bare LEFT palm; bare RIGHT index may touch WINDOW GLASS, not eyeball. The reflection is ordinary glass reflection of this ONE person, no ghost/independent talking mirror.\n\nPAGE STATE / NOT PRINTED: FEIYING GOLD-EYE FIRST CLEAR IDENTITY ANCHOR。夜301同一F的短蓬粉主冠/红结樱夹/莓开衫/米白衬navy裤blackflats，双手套已在桌上，两裸手；摘下的紫色薄透明镜片在裸掌。此时F与玻璃反射双眼都为自然琥珀金，不混一紫一金/魔法光束/新身份身体。只当下玻璃倒影，不新增实际十年前画室闪回或旁观Y。\n\nPAGE 30 — 琥珀金. EXACTLY 4 PANELS.\nLayout: 4格：掌心紫镜片；双金眼倒影；不笑不躲；如旧画室的人。\n\nPanel 1 picture / NOT PRINTED: F一只裸掌心有两片小而半透明的紫色美瞳，薄边和微弧度普通隐形镜片，不是金属戒指/硬宝石/破碎眼球；眼部暂在画外，手套仍桌上。\n\nVISIBLE TEXT [旁白, role label NOT PRINTED]: \"镜片，落进掌心。\"\n\nPanel 2 picture / NOT PRINTED: 窗玻璃倒影与F同脸清楚主格：原粉短主冠/外翻脸层/独立细后束，红结樱夹，双眼自然琥珀金、正常黑瞳孔白眼球，非自发光/眼色左右不一，脸冷静仍同成年人。\n\nVISIBLE TEXT [旁白, role label NOT PRINTED]: \"倒影里，一双琥珀金的眼睛，看着她。\"\n\nPanel 3 picture / NOT PRINTED: 同金眼F的安静正侧面，不笑不躲，眼中只是室内灯正常高光；莓开衫和裸手身份连续。\n\nVISIBLE TEXT [旁白, role label NOT PRINTED]: \"不笑，不躲，冷而且静。\"\n\nPanel 4 picture / NOT PRINTED: 稍拉远F站现时301窗前与自己反射相望，室内物品和月夜普通，不画儿童、展厅或另一实体。\n\nVISIBLE TEXT [旁白, role label NOT PRINTED]: \"像很多年前，画室灯下的那一个人。\"\n\nFooter 30. Exactly 4 panels; no extra words."
+  },
+  {
+    "page": 31,
+    "title": "玻璃很凉",
+    "layout": "5格：十年每夜；打卡下班；两个称呼同一人；触玻璃；原话。",
+    "panels": [
+      [
+        "现时F对玻璃静站的半身长停顿，双金眼与同短粉发清楚，镜中是同人的自然反射。",
+        "旁白：这套动作，她做了十年。"
+      ],
+      [
+        "F空下来的裸手垂近桌边，紫镜片在同裸掌或桌旁普通容器的画外，不必新增道具；桌上双手套保持，不画新工作打卡机。",
+        "旁白：每个深夜，像给另一个自己，打卡下班。"
+      ],
+      [
+        "真实F侧背与窗玻璃中同脸反射构图，二者是一次正常反射而非两个实体，金眼一致，莓开衫与细长后束都不换。",
+        "旁白：摘下来的是“绯英”，戴回去的也是“绯英”。<br>旁白：而玻璃里那位，从来没被允许出来过。"
+      ],
+      [
+        "F裸RIGHT食指轻触窗玻璃上反射双眼的位置，手与玻璃有自然接触影，不是伸指戳眼；LEFT裸手在身侧，桌上原手套未动。",
+        "旁白：玻璃，很凉。"
+      ],
+      [
+        "F金眼微垂，嘴唇轻动，轻声向自己反射说原话，泡尾指真实F，不指镜中另一个人。",
+        "绯英：……好久不见。"
+      ]
+    ],
+    "source": "卷三第十八章《尺英》",
+    "references": [
+      "参考/绯英原设.jpg",
+      "参考/第十六话绯英日装01.png"
+    ],
+    "status": "实际画稿已生成；作者与独立全页审阅通过，角色与连续性终表已完成并冻结。",
+    "page_state": "夜301仍一位F琥珀金双眼、同日常服与两裸手，双手套置桌未戴回，不让镜片飞回眼内。十年仪式/另一个自己是文学比喻，不能画分裂双身/鬼魂/诊断。抬裸RIGHT手指只触玻璃上反射眼睛的位置、不触真实眼球；LEFT旧伤痊愈。",
+    "prompt": "Create ONE finished full-colour Chinese sequential manga PAGE for 《绯色难测》第十八话《尺英》, portrait PNG1024×1536. Detailed confident 2D anime linework, rich restrained cel shading, natural ADULT acting, clear black borders and ivory gutters. Read TOP TO BOTTOM, LEFT TO RIGHT. Fixed header “绯色难测 · 第十八话”, two-digit footer. A complete real comic page, not a storyboard template/poster or blank panel. Print ONLY the listed VISIBLE TEXT plus fixed header/footer; never role labels, metadata or directions. Speech tails point actual speaker; narration and memory voices are TAILLESS boxes, object lettering stays on object. Silent panels have no words. Use current page state for clothes/eyes/hands/objects. References identify only the specified person or painting: do not inherit their old chapter titles, dialogue, report text, classroom activity, season, or injury. No new unlisted dialogue. Natural iris pigment with normal small light reflection. For 爻 U+723B use two stacked 乂, four diagonal strokes, no detached dot+horizontal of交. Inspect actual pixels before changing correct lettering.\n\nF / 绯英 is the SAME ADULT art teacher as original pink/violet reference, with SAME SHORT FLUFFY pink MAIN CROWN, outward-flipped short cheek layers, separate THIN LONG rear strands, red bow/sakura clip and short adult pointed-oval face. THIS night page eyes are BOTH NATURAL AMBER-GOLD after purple contact lenses were removed: normal black pupils and white sclera, NO self-emitting light, heterochromia, transformation or second body. SAME berry cropped cardigan/ivory blouse/navy high-waisted straight long trousers/new BLACK FLATS. BOTH HANDS now clean BARE; the original RIGHTwhite full-finger and LEFTblack fingerless gloves are off and lying paired on desk, NOT worn. OLD LEFT palm mark only faint/healed if visible. Small translucent purple contacts in bare LEFT palm; bare RIGHT index may touch WINDOW GLASS, not eyeball. The reflection is ordinary glass reflection of this ONE person, no ghost/independent talking mirror.\n\nPAGE STATE / NOT PRINTED: 夜301仍一位F琥珀金双眼、同日常服与两裸手，双手套置桌未戴回，不让镜片飞回眼内。十年仪式/另一个自己是文学比喻，不能画分裂双身/鬼魂/诊断。抬裸RIGHT手指只触玻璃上反射眼睛的位置、不触真实眼球；LEFT旧伤痊愈。\n\nPAGE 31 — 玻璃很凉. EXACTLY 5 PANELS.\nLayout: 5格：十年每夜；打卡下班；两个称呼同一人；触玻璃；原话。\n\nPanel 1 picture / NOT PRINTED: 现时F对玻璃静站的半身长停顿，双金眼与同短粉发清楚，镜中是同人的自然反射。\n\nVISIBLE TEXT [旁白, role label NOT PRINTED]: \"这套动作，她做了十年。\"\n\nPanel 2 picture / NOT PRINTED: F空下来的裸手垂近桌边，紫镜片在同裸掌或桌旁普通容器的画外，不必新增道具；桌上双手套保持，不画新工作打卡机。\n\nVISIBLE TEXT [旁白, role label NOT PRINTED]: \"每个深夜，像给另一个自己，打卡下班。\"\n\nPanel 3 picture / NOT PRINTED: 真实F侧背与窗玻璃中同脸反射构图，二者是一次正常反射而非两个实体，金眼一致，莓开衫与细长后束都不换。\n\nVISIBLE TEXT [旁白, role label NOT PRINTED]: \"摘下来的是“绯英”，戴回去的也是“绯英”。\"\n\nVISIBLE TEXT [旁白, role label NOT PRINTED]: \"而玻璃里那位，从来没被允许出来过。\"\n\nPanel 4 picture / NOT PRINTED: F裸RIGHT食指轻触窗玻璃上反射双眼的位置，手与玻璃有自然接触影，不是伸指戳眼；LEFT裸手在身侧，桌上原手套未动。\n\nVISIBLE TEXT [旁白, role label NOT PRINTED]: \"玻璃，很凉。\"\n\nPanel 5 picture / NOT PRINTED: F金眼微垂，嘴唇轻动，轻声向自己反射说原话，泡尾指真实F，不指镜中另一个人。\n\nVISIBLE TEXT [绯英, role label NOT PRINTED]: \"……好久不见。\"\n\nFooter 31. Exactly 5 panels; no extra words."
+  },
+  {
+    "page": 32,
+    "title": "没有回答",
+    "layout": "4格：倒影沉默；仿佛在问；关灯；最后路灯。",
+    "panels": [
+      [
+        "窗玻璃里F同金色眼睛安静看着自己，玻璃不裂不浮字，真实F一角可在前景。",
+        "旁白：镜子里的人，没有回答。"
+      ],
+      [
+        "同双金眼倒影的克制特写，话是文学旁白无尾框，不能让反射嘴巴张开当第二人物说话。",
+        "旁白：仿佛在问：你逃了十年，够了没有。"
+      ],
+      [
+        "F裸手按301普通室内灯开关，室内光暗下，同莓开衫轮廓仍在；没有人来到门口。",
+        "旁白：她关了灯。"
+      ],
+      [
+        "校园楼外夜景，301窗光已暗，楼下最后一盏路灯由亮转暗，静谧收尾无雷电、电话或新对白。",
+        "旁白：楼下的路灯，熄了最后一盏。<br>收尾：第十八话·完"
+      ]
+    ],
+    "source": "卷三第十八章《尺英》",
+    "references": [
+      "参考/绯英原设.jpg",
+      "参考/第十六话绯英日装01.png"
+    ],
+    "status": "实际画稿已生成；作者与独立全页审阅通过，角色与连续性终表已完成并冻结。",
+    "page_state": "只收第十八章，夜301F琥珀金双眼同裸手常服未变，镜子不真说话/不现鬼魂。p2问题只旁白仿佛在问，不画反射气泡。p3F关自己屋灯，p4楼下最后路灯随后自然熄灭，无人为控制全校/超能力因果；不带19雷雨/旧柜/救人/瞳色被见。",
+    "prompt": "Create ONE finished full-colour Chinese sequential manga PAGE for 《绯色难测》第十八话《尺英》, portrait PNG1024×1536. Detailed confident 2D anime linework, rich restrained cel shading, natural ADULT acting, clear black borders and ivory gutters. Read TOP TO BOTTOM, LEFT TO RIGHT. Fixed header “绯色难测 · 第十八话”, two-digit footer. A complete real comic page, not a storyboard template/poster or blank panel. Print ONLY the listed VISIBLE TEXT plus fixed header/footer; never role labels, metadata or directions. Speech tails point actual speaker; narration and memory voices are TAILLESS boxes, object lettering stays on object. Silent panels have no words. Use current page state for clothes/eyes/hands/objects. References identify only the specified person or painting: do not inherit their old chapter titles, dialogue, report text, classroom activity, season, or injury. No new unlisted dialogue. Natural iris pigment with normal small light reflection. For 爻 U+723B use two stacked 乂, four diagonal strokes, no detached dot+horizontal of交. Inspect actual pixels before changing correct lettering.\n\nF / 绯英 is the SAME ADULT art teacher as original pink/violet reference, with SAME SHORT FLUFFY pink MAIN CROWN, outward-flipped short cheek layers, separate THIN LONG rear strands, red bow/sakura clip and short adult pointed-oval face. THIS night page eyes are BOTH NATURAL AMBER-GOLD after purple contact lenses were removed: normal black pupils and white sclera, NO self-emitting light, heterochromia, transformation or second body. SAME berry cropped cardigan/ivory blouse/navy high-waisted straight long trousers/new BLACK FLATS. BOTH HANDS now clean BARE; the original RIGHTwhite full-finger and LEFTblack fingerless gloves are off and lying paired on desk, NOT worn. OLD LEFT palm mark only faint/healed if visible. Small translucent purple contacts in bare LEFT palm; bare RIGHT index may touch WINDOW GLASS, not eyeball. The reflection is ordinary glass reflection of this ONE person, no ghost/independent talking mirror.\n\nPAGE STATE / NOT PRINTED: 只收第十八章，夜301F琥珀金双眼同裸手常服未变，镜子不真说话/不现鬼魂。p2问题只旁白仿佛在问，不画反射气泡。p3F关自己屋灯，p4楼下最后路灯随后自然熄灭，无人为控制全校/超能力因果；不带19雷雨/旧柜/救人/瞳色被见。\n\nPAGE 32 — 没有回答. EXACTLY 4 PANELS.\nLayout: 4格：倒影沉默；仿佛在问；关灯；最后路灯。\n\nPanel 1 picture / NOT PRINTED: 窗玻璃里F同金色眼睛安静看着自己，玻璃不裂不浮字，真实F一角可在前景。\n\nVISIBLE TEXT [旁白, role label NOT PRINTED]: \"镜子里的人，没有回答。\"\n\nPanel 2 picture / NOT PRINTED: 同双金眼倒影的克制特写，话是文学旁白无尾框，不能让反射嘴巴张开当第二人物说话。\n\nVISIBLE TEXT [旁白, role label NOT PRINTED]: \"仿佛在问：你逃了十年，够了没有。\"\n\nPanel 3 picture / NOT PRINTED: F裸手按301普通室内灯开关，室内光暗下，同莓开衫轮廓仍在；没有人来到门口。\n\nVISIBLE TEXT [旁白, role label NOT PRINTED]: \"她关了灯。\"\n\nPanel 4 picture / NOT PRINTED: 校园楼外夜景，301窗光已暗，楼下最后一盏路灯由亮转暗，静谧收尾无雷电、电话或新对白。\n\nVISIBLE TEXT [旁白, role label NOT PRINTED]: \"楼下的路灯，熄了最后一盏。\"\n\nVISIBLE TEXT [收尾, role label NOT PRINTED]: \"第十八话·完\"\n\nFooter 32. Exactly 4 panels; no extra words."
+  }
+]
